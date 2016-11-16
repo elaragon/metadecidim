@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 6211, 
+            "name": "A. Serra", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 6211, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2736", 
+        "conflictive": false, 
+        "created_at": "17/02/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "https://www.google.com/maps/@41.4362569,2.1536445,3a,75y,185.8h,71.76t/data=!3m6!1e1!3m4!1sxhJuw6E73nTP_SRYXwf--g!2e0!7i13312!8i6656!6m1!1e1", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2736, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Cal completar les obres d'urbanitzaci\u00f3 de l'Avinguda de l'Estatut. La vorera central a l'al\u00e7ada del Passeig Valldaura no est\u00e0 pavimentada entre els dos passos de vianants. ", 
+        "title": "Completar urbanitzaci\u00f3 Av. Estatut de Catalunya", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 16, 
+        "url": "https://decidim.barcelona/pam/proposals/completar-urbanitzacio-av-estatut-de-catalunya", 
+        "votable": null, 
+        "voted": null
+    }
+}

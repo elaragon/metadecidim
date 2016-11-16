@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9408, 
+                "name": "Leninux", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Prohibir no serveix per res, regular s\u00ed. Mira que interessant que \u00e9s aquesta proposta:\n<br /><a href=\"http://murslliures.com/ca/walls/\">http://murslliures.com/ca/walls/</a></p>", 
+            "commentable_id": 3610, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/02/2016 18:22:31", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3071, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8427, 
+                "name": "Gustavo Mart\u00edn", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic d'acord en l'objectiu i que s'ha de fer cumplir la llei, per\u00f2 s'han d'aplicar m\u00e9s mesures  si volem realment acabar amb el problema. El que comenta el Leninux \u00e9s una bona acci\u00f3 fet per la mateixa gent que va comen\u00e7ar amb el projecte Persianes Lliures (<a href=\"https://www.facebook.com/persianeslliures/\">https://www.facebook.com/persianeslliures/</a>), que per desgr\u00e0cia no continua endevant. Aquesta em semblava una bona manera de tenir les persianles m\u00e9s netes i amb art a sobre en lloc de les persianes brutes i amb pintades que les degraden m\u00e9s encara. </p>", 
+            "commentable_id": 3610, 
+            "commentable_type": "Proposal", 
+            "created_at": "20/03/2016 01:20:27", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5952, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 21847, 
+                "name": "Manel L\u00f3pez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Molt m\u00e9s nociu em semblen els mega-anuncis a les mitjaneres, la publicitat constant que ens bombardeja a les aceres en forma de marquesines o cartells gegants que el fet que hi hagi gent que escrigui o dibuixi parets. No esteu farts de parets abandonades, d'obres inacabades amb murs de totxos infinits, d'edificis lletjos que est\u00e0n bruts i que fan dels carrers lloc freds? Sense entrar en si \u00e9s art o no, o qu\u00e8 \u00e9s m\u00e9s bonic o m\u00e9s lleig -apreciacions subjectives sobre les quals \u00e9s impossible legislar-, s'hauria d'inicira un debat m\u00e9s ampli sobre l'espai p\u00fablic i com el seu \u00fas publicitari agredeix el vianant. Un grafit em sembla quelcom m\u00e9s estimulant, la veritat. I les lleis, si en comptes de penalitzar i castigar, es canvien per oferir m\u00e9s espais d'expressi\u00f3 legals, serien lleis millors.</p>", 
+            "commentable_id": 3610, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 18:36:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11346, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3071", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8427, 
+                "name": "Gustavo Mart\u00edn", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aquest projecte em sembla for\u00e7a interessant, encara que per matenir la ciutat lliure de pintades  vand\u00e0liques per\u00f2 mantenint les art\u00edstiques potser seria m\u00e9s adient recuperar aquest altre projecte: <a href=\"https://www.facebook.com/persianeslliures/\">https://www.facebook.com/persianeslliures/</a></p>", 
+            "commentable_id": 3610, 
+            "commentable_type": "Proposal", 
+            "created_at": "20/03/2016 01:23:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5953, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

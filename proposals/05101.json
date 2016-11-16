@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5101", 
+        "conflictive": false, 
+        "created_at": "15/03/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 5101, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Activitats com: aules, sales de reunions, cant coral, teatre, escacs, etc. Es tracta d'una zona molt apartada de tot i aix\u00f2 crearia m\u00e9s tr\u00e0nsit de persones, donada la polival\u00e8ncia de la sala.", 
+        "title": "Que es destini l\u2019espai de l\u2019antic camp de futbol del carrer Santander a una sala multiusos divisible per a diferents activitats culturals", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/que-es-destini-l-espai-de-l-antic-camp-de-futbol-del-carrer-santander-a-una-sala-multiusos-divisible-per-a-diferents-activitats-culturals", 
+        "votable": null, 
+        "voted": null
+    }
+}

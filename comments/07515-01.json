@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16391, 
+                "name": "santimdx5", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hem de con\u00e8ixer els nostres drets per poder defensar-los i exigir-los. </p>", 
+            "commentable_id": 7515, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 13:41:22", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7178, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16937, 
+                "name": "ElisaMR", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es la llei mes garantista de tot l'estat per evitar desnonaments, fer difusio ajudaria a que totes coneguem els nostres drets i els poguem defensar.</p>", 
+            "commentable_id": 7515, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 20:04:13", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7463, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17332, 
+                "name": "Luc\u00eda La Flaca", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La ciudadan\u00eda tiene derecho a conocer la \u00fanica Ley que defiende el derecho a una vivienda digna (techo, agua, luz y gas). Catalu\u00f1a, con esta Ley, es ejemplo del Estado de bienestar y el Govern y l'Ajuntament de Barcelona deben obligar a su cumplimiento.</p>", 
+            "commentable_id": 7515, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/04/2016 19:15:00", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7821, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

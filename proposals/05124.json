@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5124", 
+        "conflictive": false, 
+        "created_at": "15/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 5124, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 6, 
+            "name": "Habitatge", 
+            "position": 6
+        }, 
+        "summary": "Proposta de crear co-habitatge i que l'ajuntament faci la cessi\u00f3 d'\u00fas de la vivenda. Es podria fer a Can Batll\u00f3-Sants o a Sant Andreu", 
+        "title": "Cessi\u00f3 d'\u00fas per fer  vivenda en format co-habitatge pels 50-70 anys", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 9, 
+        "url": "https://decidim.barcelona/pam/proposals/cessio-d-us-per-fer-vivenda-en-format-co-habitatge-pels-50-70-anys", 
+        "votable": null, 
+        "voted": null
+    }
+}

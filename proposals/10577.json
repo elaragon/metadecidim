@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10577", 
+        "conflictive": false, 
+        "created_at": "09/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/meetings/escola-can-maiol-una-barcelona-mes-humana-i-en-transicio-ecologica-3r-primaria", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 10577, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 13, 
+            "name": "Turisme sostenible", 
+            "position": 5
+        }, 
+        "summary": "Els nens i nenes de 3r de prim\u00e0ria de l\u2019Escola Can Maiol van estar debatent diverses propostes de millora pel medi ambient de la ciutat. Entre aquestes van proposar crear m\u00e9s c\u00e0mpings a prop de la ciutat per poder gaudir de la natura. ", 
+        "title": "Crear m\u00e9s c\u00e0mpings a la natura a prop de Barcelona", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/crear-mes-camping-a-la-natura-a-prop-de-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

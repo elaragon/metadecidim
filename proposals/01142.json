@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 181, 
+            "name": "crismon", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 181, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1142", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1142, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "A trav\u00e8s del padr\u00f3 detectar pisos pastera o sobre ocupats,  per tal de regular possibles problemes de conviv\u00e8ncia ve\u00efnal. Oferir alternatives a trav\u00e8s de pisos publics o resid\u00e8ncies temporals. Fer cas de les den\u00fancies fetes x serveis socials, bombers, guardia urbana i ve\u00efns(quan hagin menors, discapacitats,  gent gran, dones sota viol\u00e8ncia g\u00e8nere).", 
+        "title": "Detectar pisos sobreocupats -patera- i conviv\u00e8ncia", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 25, 
+        "url": "https://decidim.barcelona/pam/proposals/detectar-pisos-sobreocupats-patera-i-convivencia", 
+        "votable": null, 
+        "voted": null
+    }
+}

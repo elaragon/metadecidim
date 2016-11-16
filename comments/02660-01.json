@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6921, 
+                "name": "Albert Viladot", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La meva opini\u00f3 \u00e9s que si que caldria pacificar la Ronda Sant Antoni (sencera), per\u00f2 hauria de permetre el pas d'autobusos, serveis, cotxes de ve\u00efns i bicicletes, donant sentit i completant la xarxa de superilles plantejada per a tota la ciutat. Aix\u00f2 \u00e9s extensibles a la Ronda Universitat, la Ronda Sant Pere, i la Ronda Sant Pau, generant una gran ronda del casc antic continua, amb criteris unificats, prioritzant l'espai p\u00fablic i els peatons per davant dels autobusos i els cotxes.</p>", 
+            "commentable_id": 2660, 
+            "commentable_type": "Proposal", 
+            "created_at": "20/02/2016 12:31:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2216, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12188, 
+                "name": "dolo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>D'acord en la proposta. Portem molts anys sense cotxes en aquesta zona. Queda demostrat que podem viure sense aquest tr\u00e0nsit. Per una altra banda aquest espai  com a \u00e0rea peatonal afavoriria la relaci\u00f3 entre les persones del barri de Sant Antoni i el Raval.</p>", 
+            "commentable_id": 2660, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 14:03:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4813, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 4, 
+            "total_votes": 4
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

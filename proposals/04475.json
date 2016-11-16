@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2962, 
+            "name": "Xavier Riu", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2962, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4475", 
+        "conflictive": false, 
+        "created_at": "09/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4475, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "L\u2019educaci\u00f3 actual no \u00e9s nom\u00e9s ensenyament reglat. BCN t\u00e9 un potencial que cal aprofitar, posant al servei de l\u2019excel\u2022l\u00e8ncia en educaci\u00f3 la m\u00e0xima implicaci\u00f3 dels diversos agents socials i educatius. Necessitem omplir de contingut un veritable Projecte Educatiu de Ciutat.", 
+        "title": "Major suport municipal per a teixir complicitats dels diversos agents socials de la ciutat amb l'educaci\u00f3", 
+        "total_comments": 4, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 4, 
+        "total_positive_comments": 0, 
+        "total_votes": 5, 
+        "url": "https://decidim.barcelona/pam/proposals/major-suport-municipal-per-a-teixir-complicitats-dels-diverses-agents-socials-de-la-ciutat-amb-l-educacio", 
+        "votable": null, 
+        "voted": null
+    }
+}

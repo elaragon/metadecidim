@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 3717, 
+            "name": "Salvador Pastor Blasco", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 3717, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6547", 
+        "conflictive": false, 
+        "created_at": "23/03/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6547, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "estudiar la reforma de calles desagradadas,mejorar el mantenimiento de calles y espacios entre bloques en la pau,manteniento espacios verdes urbanos en el barrio de la pau,mejorar el mantenimiento de las aceras calles de la pau con asfalto sonoreductor,contsruccion parkin en la pau,arreglo espacios de plazas la palmera y rambla guipuzcoa", 
+        "title": "urbanismo regenerador  en los barrios de la pau y la verneda", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/urbanismo-regenerador-en-los-barrios-de-la-pau-y-la-verneda", 
+        "votable": null, 
+        "voted": null
+    }
+}

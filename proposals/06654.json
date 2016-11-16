@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6654", 
+        "conflictive": false, 
+        "created_at": "24/03/2016", 
+        "district": {
+            "id": 4, 
+            "name": "Les Corts"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 6654, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 18, 
+            "name": "Participaci\u00f3 ciutadana", 
+            "position": 2
+        }, 
+        "summary": "Un sistema de participaci\u00f3n claro, con normas clares y bien definides. Dar a conocer los\r\nespacios de participaci\u00f3n y las funciones de cada espacio. Saber que ocurre con las \r\npropuestas fruto de la participaci\u00f3n (m\u00e1s all\u00e0 del PAM) y si es vinculante o no.", 
+        "title": "Crear espacios f\u00edsicos y virtuales para difundir actividaes y eventos", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/crear-espacios-fisicos-y-virtuales-para-difundir-actividaes-y-eventos", 
+        "votable": null, 
+        "voted": null
+    }
+}

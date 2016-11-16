@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 16060, 
+            "name": "Alcaux", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 16060, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7325", 
+        "conflictive": false, 
+        "created_at": "30/03/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7325, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Las pilonas del carrer  Torre d\u2019en Damians de pla\u00e7a Erenni a Consell de cent no est\u00e1n posadas a la distancia correcta i per las tardes sempre esta ple de cotxes aparcats fins a la nit, molestant al veins i al vehicles que passen justets ja que han deixat un espai entre pilones que ho permet. Proposo posin les pilones a la distancia correcta.", 
+        "title": "Pilonas al carrer Torre d'en Damians", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/pilonas-al-carrer-torre-d-en-damians", 
+        "votable": null, 
+        "voted": null
+    }
+}

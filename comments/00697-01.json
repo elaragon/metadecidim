@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12957, 
+                "name": "Claparols-Carrera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els rumors corren perque la gent no vol llegir, \u00e9s mes comode anar dient el que sentim, sense contrastar. Em sembla in\u00f9til gastar diners per elimnar rumors, s'obriran altres.</p>", 
+            "commentable_id": 697, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 12:04:58", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8344, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/sensibilitzacio-i-pedagogia-contra-la-xenofobia\">https://decidim.barcelona/proposals/sensibilitzacio-i-pedagogia-contra-la-xenofobia</a></p>", 
+            "commentable_id": 697, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 20:06:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8886, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

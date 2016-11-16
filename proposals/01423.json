@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2003, 
+            "name": "Guy Fawkes", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2003, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1423", 
+        "conflictive": false, 
+        "created_at": "04/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1423, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 24, 
+            "name": "Un nou lideratge p\u00fablic", 
+            "position": 3
+        }, 
+        "summary": "Que l'Ajuntament de Barcelona aprovi una reducci\u00f3 de l'IBI fins el m\u00ednim legal, alleugerint la pressi\u00f3 fiscal a la que es veu sotmesa la ciutadania, permetent repercutir la rebaixa a les rendes dels lloguers i promovent l'activitat econ\u00f2mica facilitant la vida als soferts aut\u00f2noms, que representen la majoria del teixit empresarial barcelon\u00ed.", 
+        "title": "Reducci\u00f3 de l'IBI al m\u00ednim legal", 
+        "total_comments": 6, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 34, 
+        "url": "https://decidim.barcelona/pam/proposals/reduccio-de-l-ibi-al-minim-legal", 
+        "votable": null, 
+        "voted": null
+    }
+}

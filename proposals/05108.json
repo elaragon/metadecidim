@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5108", 
+        "conflictive": false, 
+        "created_at": "15/03/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 5108, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Altres usos camp futbol 11: Rubgy o altres esports que requereixin un camp gran, i  camp futbol 7: esports de platja com tenis, voley, futbol. Actualment, la r\u00e0tio de camps de futbol per habitant al districte de Sant Andreu \u00e9s m\u00e9s baixa que a altres districtes", 
+        "title": "Que es destini part de l\u2019espai del carrer Santander a crear un Camp futbol 11 i camp futbol 7 i donar-li, alhora, altres usos alternatius per a que sigui un camp poliesportiu multifuncional", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 6, 
+        "url": "https://decidim.barcelona/pam/proposals/que-es-destini-part-de-l-espai-del-carrer-santander-a-crear-un-camp-futbol-11-i-camp-futbol-7-i-donar-li-alhora-altres-usos-alternatius-per-a-que-sigui-un-camp-poliesportiu-multifuncional", 
+        "votable": null, 
+        "voted": null
+    }
+}

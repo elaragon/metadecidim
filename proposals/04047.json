@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10449, 
+            "name": "CarmenCascajosa", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 10449, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4047", 
+        "conflictive": false, 
+        "created_at": "05/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4047, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Promover una campa\u00f1a de concienciaci\u00f3n ciudadana y dar soporte para luchar por este derecho: un reci\u00e9n nacido ingresado necesita un acompa\u00f1ante, tanto o m\u00e1s que un adulto en esas circunstancias. Cuando la madre es dada de alta tras el parto, se empuja a los padres a creer que deben irse a casa y pasar \"a visitar\" al beb\u00e9, en lugar de cuidarlo 24 h.", 
+        "title": "Medidas de concienciaci\u00f3n y apoyo: padres acompa\u00f1antes de reci\u00e9n nacidos hospitalizados", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/medidas-de-concienciacion-y-apoyo-padres-acompanantes-de-recien-nacidos-hospitalizados", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5201", 
+        "conflictive": false, 
+        "created_at": "16/03/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 5201, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 11, 
+            "name": "Economia cooperativa, social i solid\u00e0ria", 
+            "position": 2
+        }, 
+        "summary": "Incorporar el concepte d\u2019altres economies i models econ\u00f2mics m\u00e9s justos, mitjan\u00e7ant sensibilitzaci\u00f3, a tots els agents socials del barri i tamb\u00e9 als sectors considerats productius.\t\r\nTreballar internament l\u2019imaginari sobre que \u201cAltres economies s\u00f3n possibles\u201d i arribar a totes les persones especialment als barris de Poble-Sec i La Marina.  ", 
+        "title": "Concepte i treball d'altres economies i models econ\u00f2mics m\u00e9s justos.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 8, 
+        "url": "https://decidim.barcelona/pam/proposals/concepte-i-treball-d-altres-economies-i-models-economics-mes-justos", 
+        "votable": null, 
+        "voted": null
+    }
+}

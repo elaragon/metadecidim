@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4896, 
+            "name": "Guillen Auge", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4896, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1753", 
+        "conflictive": false, 
+        "created_at": "11/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://books.google.es/books/about/La_ciudad_de_los_ni\u00f1os.html?id=wYkgCAAAQBAJ&hl=ca", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1753, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Ampliar i complementar els camins escolars, amb mesures en pro de la seguretat, de la salut i de l'esbarjo dels nens. Vegetacio, jocs, cap cotxe ni moto, i implicacio municipal per tal d'assegurar que els infants els puguin i vulguin recorrer sols.", 
+        "title": "Camins escolars verds, segurs i devertits!", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 11, 
+        "url": "https://decidim.barcelona/pam/proposals/camins-escolars-verds-segurs-i-devertits", 
+        "votable": null, 
+        "voted": null
+    }
+}

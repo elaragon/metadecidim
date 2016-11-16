@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4057, 
+                "name": "georgina", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aix\u00f2 milloraria molt la qualitat de vida de tothom. Entenc que les motos el\u00e8ctriques s\u00f3n m\u00e9s silencioses. Actualment el nivell de soroll al carrer \u00e9s tan gran que \u00e9s gaireb\u00e9 impossible escoltar als teus fills petits quan et diuen alguna cosa al carrer. S'hauria d'aconseguir, a m\u00e9s de reduir la contaminaci\u00f3 ambiental, reduir la contaminaci\u00f3 ac\u00fastica.</p>", 
+            "commentable_id": 1213, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/02/2016 17:33:34", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1325, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4659, 
+            "name": "Ferran Lorenzo Mart\u00edn", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4659, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4382", 
+        "conflictive": false, 
+        "created_at": "08/03/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4382, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "A la cru\u00eflla d'Espronceda amb Josep Estivill no hi ha sem\u00e0fors. El tr\u00e0nsit pel carrer Espronceda \u00e9s especialment intens en autocars i autobusos. Els vehicles passen per la cru\u00eflla i pas de peatons a una velocitat considerable. Creuar el carrer Espronceda \u00e9s tot un esport de risc. Cal doncs pacificar el tr\u00e0nsit amb control semaf\u00f2ric. ", 
+        "title": "Sem\u00e0fors a la cru\u00eflla c/Espronceda amb c/Josep Estivill", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 10, 
+        "url": "https://decidim.barcelona/pam/proposals/semafors-a-la-cruilla-c-espronceda-amb-c-josep-estivill", 
+        "votable": null, 
+        "voted": null
+    }
+}

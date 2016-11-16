@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 15033, 
+            "name": "Joaquim M. Cervera i Duran", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 15033, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6748", 
+        "conflictive": false, 
+        "created_at": "24/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6748, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Fer un inventari de tots els petits racons, cantonades, d'obres \"inacabades\" etc. que a la ciutat estan  \"abandonats\", \" no urbanitzats\", que s\u00f3n \"niu d'escombraries\" o on hi neixen plantes sense previsi\u00f3, o/i amb parets no enguixades, ni pintades... Aprofitar tals racons per fer-hi petits jardinets, hortets o altres espais m\u00e9s agradables , humanit", 
+        "title": "Adecentar racons de la ciutat", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/adecentar-racons-de-la-ciutat", 
+        "votable": null, 
+        "voted": null
+    }
+}

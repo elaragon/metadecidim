@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-693", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 693, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 5, 
+            "name": "Cicles de vida ", 
+            "position": 5
+        }, 
+        "summary": "Incrementar la freq\u00fc\u00e8ncia, difusi\u00f3 i recursos del projecte de l\u2019Audi\u00e8ncia P\u00fablica Infantil i dotar-la de m\u00e9s contingut pedag\u00f2gic i participatiu. Coordinar els centres escolars per realitzar visites escolars a la Seu del Districte i rebre formacions i tallers de participaci\u00f3 ciutadana.", 
+        "title": "Casal de Joves del districte", 
+        "total_comments": 5, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 4, 
+        "total_positive_comments": 1, 
+        "total_votes": 19, 
+        "url": "https://decidim.barcelona/pam/proposals/casal-de-joves-del-districte", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 827, 
+            "name": "Marga", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 827, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6937", 
+        "conflictive": false, 
+        "created_at": "28/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6937, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Els treballadors que desenvolupen la seva feina al carrer ( funcionaris  i empreses externes) com: Guardia Urbana, Servei de Neteja, etc... En cas de que observin problemes de mobiliari urb\u00e0, vehicles abandonats, deixalles, etc...es facin responsables de tramitar l'av\u00eds al departament que calgui per solventar aquella situaci\u00f3. ", 
+        "title": "Tramitaci\u00f3 d'incid\u00e8ncies al carrer.", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/tramitacio-d-incidencies-al-carrer", 
+        "votable": null, 
+        "voted": null
+    }
+}

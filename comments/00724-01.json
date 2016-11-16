@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4057, 
+                "name": "georgina", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>S'hauria de controlar la contaminaci\u00f3 al voltant de les escoles. Els nostres fills es passen moltes hores a l'escola i s\u00f3n punts que han d'estar controlats. Est\u00e0 en joc la salut dels nostres fills.</p>", 
+            "commentable_id": 724, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/02/2016 17:38:27", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1326, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4763, 
+                "name": "Associaci\u00f3 de Ve\u00efns de Sarri\u00e0", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": true
+            }, 
+            "body": "<p>Punt 2 de les peticions de l'AV de Sarri\u00e0:\n<br />Posar un mesurador de contaminaci\u00f3 atmosf\u00e8rica a la pla\u00e7a Borr\u00e0s.  Necessitem saber la contaminaci\u00f3 que tenim per poder actuar.</p>", 
+            "commentable_id": 724, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/02/2016 12:23:30", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1926, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7669, 
+                "name": "Zeta Zigs", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>cal pendre mesures decidides per reduir la contaminaci\u00f3... comen\u00e7ar a reduir el pas de cotxes. Una bona idea podria ser reduir a un sol carri d'\u00fas ve\u00efnal i de serveis alguns carrers de l'eixample inla resta dedicar-ho a bicis i plantar m\u00e9s arbres</p>", 
+            "commentable_id": 724, 
+            "commentable_type": "Proposal", 
+            "created_at": "23/02/2016 19:57:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2499, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13177, 
+                "name": "Mvd", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Les motos que van amb el motor enc\u00e9s per l'acera fan respirar als vianants un aire amb molt mala olor</p>", 
+            "commentable_id": 724, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 22:34:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5364, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1157, 
+                "name": "Rosa Esc", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A l'Avinguda Vallvidrera l'envolten tres escoles amb centenars d'alumnes que pateixen el soroll i la contaminaci\u00f3 dels milers de vehicles que pasen per l'indret. A m\u00e9s de l'entrada als Tunels de Vallvidrera. Molt a favor de la mesura de la contaminaci\u00f3 de l'aire i del soroll. </p>", 
+            "commentable_id": 724, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/03/2016 16:43:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6503, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 5, 
+        "total_pages": 1
+    }
+}

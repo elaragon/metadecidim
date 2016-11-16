@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 630, 
+            "name": "laurabalci", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 630, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1205", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1205, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Di\u00e0riament milers de ciutadans patim l'impacte ac\u00fastic dels camions de neteja i escombraries que passen, entre uns i altres, de manera intercalada i freq\u00fcent.\r\nLa proposta per reduir aquest impacte es fonamenta en dos punts: d'una banda, avan\u00e7ar l'horari de neteja i recollida de les escombraries i, de l'altra banda, fer \u00fas de vehicles el\u00e8ctrics.\r\n", 
+        "title": "Minimitzar l'impacte ac\u00fastic nocturn dels camions de neteja i escombraries", 
+        "total_comments": 7, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 6, 
+        "total_votes": 85, 
+        "url": "https://decidim.barcelona/pam/proposals/minimitzar-l-impacte-acustic-nocturn-dels-camions-de-neteja-i-escombraries", 
+        "votable": null, 
+        "voted": null
+    }
+}

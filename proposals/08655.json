@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 3998, 
+            "name": "robobo", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 3998, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8655", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://vive00.sanmiguel00.es/2014/04/21/movimiento-maker-que-es/, http://www.segovia.es/index.php/mod.pags/mem.detalle/id.11798/relcategoria.3896, http://www.puertorealloro.es/web/index.php?option=com_content&view=article&id=2540:el-ayuntamiento-pone-en-marcha-4-talleres-de-bricolaje-en-colaboracion-con-la-firma-leroy-merlin&catid=52:ocio&Itemid=117", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8655, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "Crear espais modulars amb eines per a treballs de bricolatge, semblants als espais dels horts urbans, que puguin ser utilitzats per cada persona durant un temps limitat unes poques hores al dia, per exemple 1 hora di\u00e0ria durant una setmana.", 
+        "title": "Crear espais de tallers amb eines de treball pel bricolatge", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/crear-espais-de-tallers-amb-eines-de-treball-pel-bricolatge", 
+        "votable": null, 
+        "voted": null
+    }
+}

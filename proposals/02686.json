@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 5543, 
+            "name": "GREMI PROVINCIAL DE TALLERS DE REPARACI\u00d3 D'AUTOM\u00d2BILS DE BAR", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 5543, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2686", 
+        "conflictive": false, 
+        "created_at": "15/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.gremibcn.com/Boletin/AreaVerdeBCN.pdf", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2686, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 24, 
+            "name": "Un nou lideratge p\u00fablic", 
+            "position": 3
+        }, 
+        "summary": "Tarifa de resident pel titular d'establiment a BCN, durant la jornada de feina, encara que NO visqui a BCN. El resident de BCN, que pugui canviar la seva zona de resid\u00e8ncia per la del negoci, sense la restricci\u00f3 actual dels ep\u00edgrafs 611 a 665. Mateixes condicions als del 691 REPARACIONS D'ARTICLES EL\u00c8CTRICS PER A LA LLAR. VEHICLES I B\u00c9NS DE CONSUM", 
+        "title": "\u00c0rea Verda - TARIFA DE RESIDENT PELS PETITS COMERCIANTS", 
+        "total_comments": 1, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/area-verda-tarifa-de-resident-pels-petits-comerciants", 
+        "votable": null, 
+        "voted": null
+    }
+}

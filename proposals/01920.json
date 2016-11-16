@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4978, 
+            "name": "AE FS Arrels", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 4978, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1920", 
+        "conflictive": false, 
+        "created_at": "12/02/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1920, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Informar a les escoles del barri de Congr\u00e9s i tot Districte de l\u2019exist\u00e8ncia d\u2019equips femenins de futbol sala i grups de patinatge art\u00edstic. Fer xerrades i cl\u00ednics amb esportistes femenines i conscienciar a les noies de que l\u2019esport no \u00e9s nom\u00e9s d\u2019homes. Fer al Bon Pastor una matinal de futbol sala femen\u00ed amb equips del Districte o de la ciutat.", 
+        "title": "Donar continu\u00eftat i consolidar l'esport femen\u00ed al Districte", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 12, 
+        "url": "https://decidim.barcelona/pam/proposals/donar-continuitat-i-consolidar-l-esport-femeni-al-districte", 
+        "votable": null, 
+        "voted": null
+    }
+}

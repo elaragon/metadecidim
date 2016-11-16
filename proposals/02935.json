@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2935", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2935, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 12, 
+            "name": "Ocupaci\u00f3 de qualitat", 
+            "position": 4
+        }, 
+        "summary": "Promoure una economia sostenible i responsable en clau de desenvolupament local de proximitat, posant una atenci\u00f3 especial a la promoci\u00f3 de l\u2019economia verda, l'ECSS i l'emprenedoria social col\u00b7lectiva.", 
+        "title": "Orientaci\u00f3 dels recursos p\u00fablics a la promoci\u00f3 de l\u2019empresa col\u00b7lectiva, l'ECSS, l'economia verda i l'economia circular", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 17, 
+        "url": "https://decidim.barcelona/pam/proposals/orientacio-dels-recursos-publics-a-la-promocio-de-l-empresa-col-lectiva-l-ecss-l-economia-verda-i-l-economia-circular", 
+        "votable": null, 
+        "voted": null
+    }
+}

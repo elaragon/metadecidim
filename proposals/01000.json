@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-1000", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1000, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 26, 
+            "name": "Govern transparent  i rendici\u00f3 de comptes", 
+            "position": 1
+        }, 
+        "summary": "Crear eines d'avaluaci\u00f3 de les pol\u00edtiques p\u00fabliques, com a mecanisme de control democr\u00e0tic, i que prevegin espais de participaci\u00f3 ciutadana.", 
+        "title": "Avaluar les pol\u00edtiques municipals", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 17, 
+        "url": "https://decidim.barcelona/pam/proposals/avaluar-les-politiques-municipals", 
+        "votable": null, 
+        "voted": null
+    }
+}

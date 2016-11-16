@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 11080, 
+            "name": "Francesc Robust\u00e9", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 11080, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9003", 
+        "conflictive": false, 
+        "created_at": "07/04/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 9003, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Algunes botigues de roba, ulleres de sol i el Hard Rock Cafe, han comen\u00e7at a instal\u00b7lar grans pantalles de TV externes (al carrer, sobre la fa\u00e7ana) i van posant anuncis, etc. (de moment, sense veu). Aviat ciutat vella de Barcelona es convertir\u00e0 amb un \u201cTimes Square\u201d de Nova York.", 
+        "title": "Prohibir les pantalles de tv exteriors tipus \u201cTimes Square\u201d a Nova York", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/prohibir-les-pantalles-de-tv-exteriors-tipus-times-square-a-nova-york", 
+        "votable": null, 
+        "voted": null
+    }
+}

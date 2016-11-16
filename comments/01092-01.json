@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2480, 
+                "name": "Albert99", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Adequar els deures i les obligacions de gesti\u00f3 c\u00edvica a les necessitats de les entitats gestores???? Em sorpren la proposta.   Entenc que les entitats gestores han d'estar sotmeses a les mateixes exig\u00e8ncies de prestaci\u00f3 de serveis p\u00fablics i de qualitat i atenci\u00f3 a la ciutadana que qualsevol altre gestor. En tot cas,  i anant una mica m\u00e9s enll\u00e0 s'hauria de fer una reflexi\u00f3 conjunta per tal de mirar pros i contres de la gesti\u00f3 c\u00edvica pensant en model de prestaci\u00f3 de serveis p\u00fablics (independentment de qui els gestioni)\n</p>", 
+            "commentable_id": 1092, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/02/2016 10:59:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1987, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/gestio-civica-de-l-equipament-a-l-espai-jove-les-basses\">https://decidim.barcelona/proposals/gestio-civica-de-l-equipament-a-l-espai-jove-les-basses</a></p>", 
+            "commentable_id": 1092, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 10:58:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17757, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

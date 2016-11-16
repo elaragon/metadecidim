@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 21209, 
+            "name": "Dincat - Discapacitat Intel\u00b7lectual Catalunya", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 21209, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9758", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 9758, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Servei de transport per als alumnes de les escoles d\u2019educaci\u00f3 especial fent priorit\u00e0ria la persona amb did per davant de la  ruta que t\u00e9 assignada el transport col\u00b7lectiu (persones amb mobilitat redu\u00efda i amb necessitats especials). Servei de transport porta a porta de persones adultes amb discapacitat assimilat al d'escoles.\r\n", 
+        "title": "Transport per a persones amb discapacitat intel\u00b7lectual", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/transport-per-a-persones-amb-discapacitat-intel-lectual", 
+        "votable": null, 
+        "voted": null
+    }
+}

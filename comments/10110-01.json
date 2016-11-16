@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4058, 
+                "name": "Mar C", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Signar con los beb\u00e9s oyentes conlleva a menos frustraci\u00f3n, menos rabietas y m\u00e1s tiempo para descubrir el mundo juntos... <a href=\"http://www.signarenfamilia.com\">www.signarenfamilia.com</a>\n<br />Aprender LSC desde la m\u00e1s temprana edad hasta la 3\u00aa edad conlleva a ampliar el abanico de la comunicaci\u00f3n, rompe las barreras de comunicaci\u00f3n en todos los contextos: bajo el agua, en caso de enfermedad, dentro del autobus comunicando con los de fuera, amistades nuevas, comunicacion con los extranjeros, en las discotecas, etc.</p>", 
+            "commentable_id": 10110, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 19:24:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12610, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/creacio-de-centres-educatius-inclusius-a-persones-amb-diferents-capacitats\">https://decidim.barcelona/proposals/creacio-de-centres-educatius-inclusius-a-persones-amb-diferents-capacitats</a></p>", 
+            "commentable_id": 10110, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/04/2016 19:17:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14163, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

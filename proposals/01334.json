@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 181, 
+            "name": "crismon", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 181, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1334", 
+        "conflictive": false, 
+        "created_at": "03/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.eleconomista.es/ecomotor/motor/noticias/7002523/09/15/Los-autobuses-publicos-urbanos-piden-prioridad-en-semaforos-para-ahorrar-tiempo.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1334, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Si els sem\u00e0fors donen pas -detectors-, els trajectes guanyarien en temps transcorregut, la gent possiblement veuria el servei molt m\u00e9s \u00e0gil. Tanmateix aumentar el nombre total per tal que en hores punta pugui transportar el m\u00e0xim de persones.", 
+        "title": "Afavorir transport public, coordinant sem\u00e0fors i aumentar freq\u00fcencia.", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 114, 
+        "url": "https://decidim.barcelona/pam/proposals/afavorir-transport-public-coordinant-semafors-i-aumentar-frequencia", 
+        "votable": null, 
+        "voted": null
+    }
+}

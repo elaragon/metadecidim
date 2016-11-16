@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 6742, 
+            "name": "omchamat", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 6742, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3462", 
+        "conflictive": false, 
+        "created_at": "25/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.streetfilms.org/the-rise-of-open-streets/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3462, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "En muchas ciudades del mundo, desde NYC hasta Bogot\u00e1 se dedica un d\u00eda/una ma\u00f1ana para que las personas hagan utilicen el espacio p\u00fablico que durante la semana utilizan los coches. \r\nNO es \"un d\u00eda sin coches\", es \"un d\u00eda para las personas\". \r\nEs una oportunidad para poder caminar por espacios que muchas veces resultan ajenos a los habitantes. \r\n", 
+        "title": "La calle no solo para los coches, tambi\u00e9n para las personas. ", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 43, 
+        "url": "https://decidim.barcelona/pam/proposals/la-calle-no-solo-para-los-coches-tambien-para-las-personas", 
+        "votable": null, 
+        "voted": null
+    }
+}

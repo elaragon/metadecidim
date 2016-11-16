@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2868", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2868, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 6, 
+            "name": "Habitatge", 
+            "position": 6
+        }, 
+        "summary": "Aplicar la normativa d'habitatge com la Llei pel dret a l\u2019habitatge del 2007, el Decret llei 1/2015, de mesures urgents, i la Llei 24/2015, contra l\u2019emerg\u00e8ncia habitacional, per posar fi a usos antisocials de l\u2019habitatge per part dels grans propietaris.", 
+        "title": "Incrementar la disciplina en mat\u00e8ria d\u2019habitatge: sancions a pisos buits, execuci\u00f3 subsidi\u00e0ria d\u2019obres, cessi\u00f3 obligat\u00f2ria, i drets de tanteig i retracte", 
+        "total_comments": 18, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 12, 
+        "total_positive_comments": 6, 
+        "total_votes": 18, 
+        "url": "https://decidim.barcelona/pam/proposals/incrementar-la-disciplina-en-materia-d-habitatge-sancions-a-pisos-buits-execucio-subsidiaria-d-obres-cessio-obligatoria-i-drets-de-tanteig-i-retracte", 
+        "votable": null, 
+        "voted": null
+    }
+}

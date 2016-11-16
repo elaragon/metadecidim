@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1272, 
+            "name": "Jordi Garc\u00eda L\u00f3pez", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1272, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1296", 
+        "conflictive": false, 
+        "created_at": "02/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1296, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Necesitamos una actuaci\u00f3n en zonas para perros. Se necesitan m\u00e1s zonas, zonas m\u00e1s grandes, zonas adecuadas (vallas altas, zonas limpias, sistemas de entrada con doble puerta, mejores pavimentos, y mayor mantenimiento) . Porque  los perros necesitan zonas de diversi\u00f3n y sociabilizaci\u00f3n , sin molestar a los dem\u00e1s ciudadanos.", 
+        "title": "AMPLIACION, CREACION Y ADECUACION DE ZONAS PARA PERROS", 
+        "total_comments": 6, 
+        "total_negative_comments": 2, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 22, 
+        "url": "https://decidim.barcelona/pam/proposals/ampliacion-creacion-y-adecuacion-de-zonas-para-perros", 
+        "votable": null, 
+        "voted": null
+    }
+}

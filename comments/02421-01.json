@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10958, 
+                "name": "Lydia Donadeu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es un carrer estret ple de problemes per els vianants, que hem de vaixar de la acera per caminar, i per tant molt perillos, ja que els cotxes van bastant rapid i de vegades en contra direcci\u00f3. Si les aceres fosin mes amples i no aguesin pals de la llum, i altres obtacles, no seria tan parill\u00f3s. </p>", 
+            "commentable_id": 2421, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/03/2016 17:41:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3991, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 20791, 
+                "name": "davidms", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>vergonyos l'estat del carrer, i amb caixa de Endesa al numero 31 sense cumplir legalitat ja que no deixa prou pas al vianants, i encara en mes afectaci\u00f3 a persones amb mobilitat redu\u00efda o amb necessitat de cadires de rodes.</p>", 
+            "commentable_id": 2421, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 22:12:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10123, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

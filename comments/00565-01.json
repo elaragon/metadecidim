@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/impulsar-politiques-actives-d-ocupacio-i-fomentar-la-ocupacio-de-qualitat\">https://decidim.barcelona/proposals/impulsar-politiques-actives-d-ocupacio-i-fomentar-la-ocupacio-de-qualitat</a></p>", 
+            "commentable_id": 565, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/04/2016 17:15:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 13948, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/espacios-gestionados-por-el-ayuntamiento-para-hacer-mercados-de-intercambio\">https://decidim.barcelona/proposals/espacios-gestionados-por-el-ayuntamiento-para-hacer-mercados-de-intercambio</a></p>", 
+            "commentable_id": 565, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/04/2016 17:16:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 13957, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/promoure-espais-de-socialitzacio-a-l-eix-pere-iv-per-promoure-el-comerc\">https://decidim.barcelona/proposals/promoure-espais-de-socialitzacio-a-l-eix-pere-iv-per-promoure-el-comerc</a></p>", 
+            "commentable_id": 565, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/04/2016 17:17:55", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 13960, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/viabilitat-economica\">https://decidim.barcelona/proposals/viabilitat-economica</a></p>", 
+            "commentable_id": 565, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/04/2016 17:18:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 13964, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 327, 
+            "name": "V\u00edctor", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 327, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1549", 
+        "conflictive": false, 
+        "created_at": "06/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.gencat.cat/construim/fitxes/2310_ca.htm", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1549, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Des de fa 10 anys que esperem que aquesta estaci\u00f3 s\u2019acabi finalment despr\u00e9s de les mol\u00e8sties causades als ve\u00efns durant tants anys. Amb gaireb\u00e9 l\u2019estaci\u00f3 ja finalitzada (i amb una inversi\u00f3 ja feta de 50M d\u2019\u20ac) nom\u00e9s queda per acabar-la un 20% dels treballs per poder-la obrir.", 
+        "title": "Finalitzar l\u2019estaci\u00f3 de metro Ernest Lluch (L5)", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 42, 
+        "url": "https://decidim.barcelona/pam/proposals/finalitzar-l-estacio-de-metro-ernest-lluch-l5", 
+        "votable": null, 
+        "voted": null
+    }
+}

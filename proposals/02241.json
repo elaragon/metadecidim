@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4994, 
+            "name": "Petits Maians", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4994, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2241", 
+        "conflictive": false, 
+        "created_at": "12/02/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2241, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Fomentar el treball en xarxa amb els diferents recursos i entitats del barri", 
+        "title": "Fer de l\u2019educaci\u00f3 un factor clau de benestar i \u00e8xit", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/fer-de-l-educacio-un-factor-clau-de-benestar-i-exit-2676789d-0d1c-4cf7-869b-ba9ddbe679f8", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1767, 
+                "name": "nluine", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment a Favor...</p>", 
+            "commentable_id": 1358, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/02/2016 19:26:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 478, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": true, 
+                "hidden": false, 
+                "id": 1911, 
+                "name": null, 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Opino el mateix que tu, per\u00f2 a l'inrev\u00e9s. A veure si teniu vosaltres tamb\u00e9 consci\u00e8ncia i us pareu en els sem\u00e0fors, per qu\u00e8 ja m'he portat uns quants ensurts, de cam\u00ed al col\u00b7legi amb la meva filla de 3 anyets i he estat atropellat per un ciclista en plena borera . Tamb\u00e9 aniria b\u00e9, que multesin  a tot ciclista que es salta els sem\u00e0fors i obligar a les bicicletes a portar matr\u00edcula i segur com les motos !! No deixen de ser vehicles a rodes i a velocitats extremes, segons qui les porta!!!</p>", 
+            "commentable_id": 1358, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 00:01:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 528, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 503, 
+                "name": "Albert Rossell", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A mi em sembla important que els carrils bici no siguin do doble sentit, perqu\u00e8 genera molts accidents. Les persones no som perfectes i no hi estem acostumats. Ara s'ha fet fam\u00f3s el cas de la Muriel Casals, per\u00f2 n'hi ha molts m\u00e9s.</p>", 
+            "commentable_id": 1358, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 13:47:55", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 619, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "528", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15874, 
+                "name": "bMM", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>D'acord totalment.</p>", 
+            "commentable_id": 1358, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 17:11:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7027, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "619", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8827, 
+                "name": "genisbcn", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El carril bici s'ha de respectar sigui quin sigui el seu sentit.  El que no s'ha de fer \u00e9s modificar el disseny dels carrils bici per tal que el vianant infractor pugui creaur amb el sem\u00e0for en fase de vermell 'amb m\u00e9s seguretat'. Despr\u00e9s passen aquestes coses:\n<br /><a href=\"https://www.youtube.com/watch?v=2T6A6oJ-ztA&amp;feature=youtu.be\">https://www.youtube.com/watch?v=2T6A6oJ-ztA&amp;feature=youtu.be</a>\n</p>", 
+            "commentable_id": 1358, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/03/2016 23:16:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4037, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

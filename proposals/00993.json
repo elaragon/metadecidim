@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-993", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 993, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 17, 
+            "name": "Energia i canvi clim\u00e0tic", 
+            "position": 5
+        }, 
+        "summary": "Desenvolupar 100 l\u00ednies d\u2019acci\u00f3 adoptades per 800 organitzacions ciutadanes al costat de l\u2019Ajuntament.", 
+        "title": "Comprom\u00eds ciutad\u00e0 per la sostenibilitat 2012-2022", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 27, 
+        "url": "https://decidim.barcelona/pam/proposals/compromis-ciutada-per-la-sostenibilitat-2012-2022", 
+        "votable": null, 
+        "voted": null
+    }
+}

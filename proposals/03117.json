@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 6254, 
+            "name": "jose m lopez pijuan", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 6254, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3117", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3117, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 12, 
+            "name": "Ocupaci\u00f3 de qualitat", 
+            "position": 4
+        }, 
+        "summary": "Crear \u00e1reas de treball sobre tot per Joves i aturats de mes 55 anys que se encarreguin de fer treballs renumerats al barri de Trinitat Vella\r\nJardineria,Manteniment de Carrers,Neteja etc", 
+        "title": "Plans de ocupa\u00e7io Trinitat Vella", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 12, 
+        "url": "https://decidim.barcelona/pam/proposals/plans-de-ocupacio-trinitat-vella", 
+        "votable": null, 
+        "voted": null
+    }
+}

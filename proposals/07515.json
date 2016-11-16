@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 6831, 
+            "name": "Plataforma Afectats per l'hipoteca (PAH)", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 6831, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7515", 
+        "conflictive": false, 
+        "created_at": "31/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-9725", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7515, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 6, 
+            "name": "Habitatge", 
+            "position": 6
+        }, 
+        "summary": "El passat 24 de juliol es va aprovar la llei m\u00e9s garantista en materia de emergencia habitacional i talls de suministraments. \u00c9s una llei recent que part de les ciutadanes de Barcelona encara desconeixen i cal fer un pas valent per fer-la arribar tota la poblaci\u00f3 per paliar l'emergencia habitacional", 
+        "title": "Visibilitzar i donar coneixement de la llei 24/2015 a tota la ciutadania mitjan\u00e7ant un desplegament de publicitat", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 3, 
+        "total_votes": 34, 
+        "url": "https://decidim.barcelona/pam/proposals/visibilitzar-i-donar-coneixement-de-la-llei-24-2015-a-tota-la-ciutadania-mitjancant-un-desplegament-de-publicitat", 
+        "votable": null, 
+        "voted": null
+    }
+}

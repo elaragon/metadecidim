@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12146, 
+                "name": "Mireia C", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Molt d'acord. Farta d'haver de fer gimcames per evitar trepitjar cagarades, ahir mateix en vaig poder comptar fins a 11 en uns 50metres del mateix carrer. Sembla que la \u00faltima moda a sobre \u00e9s deixar que els gossos caguin a les portes dels edificis, aix\u00ed en sortir els ve\u00efns les trepitgem segur. Haurien de comen\u00e7ar a sancionar als amos irresponsables o directament treure'ls l'animal ja que no s\u00f3n capa\u00e7os de tenir-ne la cura que cal.</p>", 
+            "commentable_id": 3218, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 12:07:20", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4781, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

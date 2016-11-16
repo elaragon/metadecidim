@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 12008, 
+            "name": "Francisco", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 12008, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6469", 
+        "conflictive": false, 
+        "created_at": "22/03/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6469, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Evitar el colapse de tr\u00e0nsit que es forma a l'encreuament de Diagonal amb Independencia (costat muntanya) i evitar desviar tot el tr\u00e0nsit que abans anava per Diagonal pel C/Arag\u00f3-Castillejos (que es el que pasa ara)  facilitant i senyalitzant  l'\u00fas del C/Tanger com a via alternativa per a anar cap al centre  i cap a Vila Ol\u00edmpica.", 
+        "title": "Desviar part del tr\u00e0nsit de Diagonal mar en direcci\u00f3 al centre de la ciutat pel C/Tanger enll\u00f2c de pel C/Arag\u00f3 com es fa ara", 
+        "total_comments": 2, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/desviar-part-del-transit-de-diagonal-mar-en-direccio-al-centre-de-la-ciutat-pel-c-tanger-enlloc-de-pel-c-arago-com-es-fa-ara", 
+        "votable": null, 
+        "voted": null
+    }
+}

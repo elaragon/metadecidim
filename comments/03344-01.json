@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8254, 
+                "name": "Nat\u00e0lia Peral", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>I cotxes! Alg\u00fan que altre cotxe modificat sona de tres carrers abaix.</p>", 
+            "commentable_id": 3344, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 09:18:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2657, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15325, 
+                "name": "Alfons66", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Consisteix simplement en fer aplicar la llei. Les ordenances municipals i la llei del soroll. Em pregunto per qu\u00e8 costa tant de fer complir.</p>", 
+            "commentable_id": 3344, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/03/2016 20:52:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6521, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

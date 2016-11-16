@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 12172, 
+            "name": "albertgs12", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 12172, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5152", 
+        "conflictive": false, 
+        "created_at": "15/03/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5152, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Aquest tram de la Gran Via es troba molt degradat, sobretot les dues rambles peatonals on hi ha diverses combinacions d'asfalts que fan que el paviment no sigui regular. A part la il\u00b7luminaci\u00f3 s'hauria de renovar ja que molts fanals estan fets malb\u00e9 i hi ha un d\u00e8ficit de llum.\r\nPer altra banda, aprofitant la millora es podria posar un carril bici.", 
+        "title": "Millora de la Gran Via entre Balmes i rambla Catalunya", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 6, 
+        "url": "https://decidim.barcelona/pam/proposals/millora-de-la-gran-via-entre-balmes-i-rambla-catalunya", 
+        "votable": null, 
+        "voted": null
+    }
+}

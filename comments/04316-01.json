@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 827, 
+                "name": "Marga", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Jo primer convocaria als joves a que expliquin el que necessiten, i despr\u00e9s miraria de cobrir les seves necessitats. Si no els animem a participar no hi haur\u00e0 relleu generacional en la pol\u00edtica i aix\u00f2 nom\u00e9s afavoreix les dretes.</p>", 
+            "commentable_id": 4316, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 16:20:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6596, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A la cita presencial que va tenir lloc a l\u2019Spai-T, els infants i joves que van participar van proposar crear diversos espais per a joves on poder desenvolupar activitats: trobar-se, ballar (no hi ha discoteques en el barri), fer esport... Tots els recursos es troben lluny i el transport es valora com insuficient. Per solucionar aquests problemes van proposar incrementar el suport econ\u00f2mic de l\u2019Ajuntament i la implicaci\u00f3 d\u2019altres entitats. </p>", 
+            "commentable_id": 4316, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 12:12:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8353, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

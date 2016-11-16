@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 6514, 
+            "name": "Oriol B", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 6514, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2821", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2821, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "A dia d\u2019avui el patrullatge a peu es limita al centre de la ciutat i poc m\u00e9s, mentre que la pres\u00e8ncia de patrulles ciclistes \u00e9s anecd\u00f2tica. El patrullatge a peu i bici permet als agents observar l\u2019entorn m\u00e9s detenidament, interactuar amb els ciutadans per con\u00e8ixer les seves preocupacions i combatre les activitats inc\u00edviques de forma m\u00e9s efectiva.", 
+        "title": "Ampliar les patrulles de la Gu\u00e0rdia Urbana a peu i bicicleta", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 23, 
+        "url": "https://decidim.barcelona/pam/proposals/ampliar-les-patrulles-de-la-guardia-urbana-a-peu-i-bicicleta", 
+        "votable": null, 
+        "voted": null
+    }
+}

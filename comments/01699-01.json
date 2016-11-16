@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1173, 
+                "name": "Emilio_Lopez1985", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic totalment d' acord crec que hi ha zones que ja es fa aix\u00f2. Pero tindria que ser a tota la ciutat. Al igual que els semafors ho d' altres llocs on es pot aprofitar d' aquesta enegia neta.</p>", 
+            "commentable_id": 1699, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/02/2016 16:03:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1530, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4860, 
+                "name": "Marc S.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Complicat sense tenir bateries (ja que a la nit no hi ha sol). Les ombres dels edificis no permeten optimitzar les instal\u00b7lacions fotovoltaiques a nivell de rasant (del carrer). Estic m\u00e9s a favor de la microgeneraci\u00f3 fotovoltaica als terrats dels edificis  o en p\u00e8rgoles en parcs i places p\u00fabliques per fer balan\u00e7 0 de tot el consum en enllumenat, \u00c9s m\u00e9s eficient i econ\u00f2mic que disposar de plaques a cada fanal. \u00c9s una pena que edificis p\u00fablics que ja disposen de plaques fotovoltaiques no puguin produir electricitat per tenir instal\u00b7lacions obsoletes sense mantenir o per les pegues que hi posa Endesa per vendre a xarxa.  </p>", 
+            "commentable_id": 1699, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/02/2016 17:55:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1541, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els infants de l\u2019esplai Abat Cassi\u00e0 van estar debatent diferents millores pel medi ambient de la ciutat. Van proposar canviar els fanals per altres que funcionin amb energia solar. </p>", 
+            "commentable_id": 1699, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 11:05:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9121, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

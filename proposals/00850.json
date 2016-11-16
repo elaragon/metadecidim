@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-850", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 850, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 1, 
+            "name": "Just\u00edcia social", 
+            "position": 1
+        }, 
+        "summary": "Dur a terme auditories de les principals xarxes de distribuci\u00f3, en mans d\u2019un monopoli privat, amb l\u2019objectiu de determinar-ne els costos reals, i l\u2019origen i el dest\u00ed dels beneficis. Els resultats han de servir perqu\u00e8 les empreses gestores facin les inversions necess\u00e0ries per evitar situacions de risc en el subministrament.", 
+        "title": "Auditoria dels serveis b\u00e0sics: costos reals, origen i dest\u00ed dels beneficis", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 23, 
+        "url": "https://decidim.barcelona/pam/proposals/auditoria-dels-serveis-basics-costos-reals-origen-i-desti-dels-beneficis", 
+        "votable": null, 
+        "voted": null
+    }
+}

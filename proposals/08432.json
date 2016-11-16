@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8432", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8432, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Panells amb el nom dels pacients a les sales d\u2019espera per tal de que els usuaris puguin saber quan \u00e9s el seu torn, senyals visuals per a comunicar-se amb els pacients durant les proves que requereixen d\u2019a\u00efllament (per exemple per indicar quan respirar o no en TACs, etc).", 
+        "title": "Accessibilitat comunicativa als hospitals o Centres d\u2019Atenci\u00f3 Prim\u00e0ria", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/accessibilitat-comunicativa-als-hospitals-o-centres-d-atencio-primaria", 
+        "votable": null, 
+        "voted": null
+    }
+}

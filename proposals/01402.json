@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1748, 
+            "name": "Mireia P\u00e9rez D\u012baz", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1748, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1402", 
+        "conflictive": false, 
+        "created_at": "03/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1402, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 13, 
+            "name": "Turisme sostenible", 
+            "position": 5
+        }, 
+        "summary": "S' haur\u00eden de prohibir i retirar totes les llic\u00e8ncies als pisos tur\u00edstics que es troben a edificis de vivendes habituals,   \u00e9s a dir, a finques de ve\u00efns i ve\u00efnes que hi fan la seva vida. Aquests pisos tur\u00edstics estan fent fora a la gent de ca seva. No hi ha prou amb aturar l'atorgament de noves; cal anar m\u00e9s enll\u00e0. ", 
+        "title": "eliminar totes les llicencies de pisos tur\u00edstics en edificis residencials", 
+        "total_comments": 8, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 5, 
+        "total_votes": 36, 
+        "url": "https://decidim.barcelona/pam/proposals/eliminar-totes-les-llicencies-de-pisos-turistics-en-edificis-residencials", 
+        "votable": null, 
+        "voted": null
+    }
+}

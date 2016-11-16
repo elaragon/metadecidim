@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-644", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 644, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 13, 
+            "name": "Turisme sostenible", 
+            "position": 5
+        }, 
+        "summary": "Crear materials t\u00e0ctils i recorreguts sonors descriptius per fer accessibles a tothom els espais patrimonials de la seu del Districte.", 
+        "title": "Projecte de turisme inclusiu: la seu del Districte", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 12, 
+        "url": "https://decidim.barcelona/pam/proposals/projecte-de-turisme-inclusiu-la-seu-del-districte", 
+        "votable": null, 
+        "voted": null
+    }
+}

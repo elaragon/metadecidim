@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9425", 
+        "conflictive": false, 
+        "created_at": "07/04/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9425, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Es posa de manifest la situaci\u00f3 existent en aquest equipament, ubicat en un local municipal, que no obre al p\u00fablic durant els matins. Es demana que sigui d\u2019utilitat als ve\u00efns del barri i es prevegi una tarificaci\u00f3 adaptada als recursos de cada llar, tenint en compte situacions d\u2019atur, etc.", 
+        "title": "Donar als ve\u00efns de Bar\u00f3 de Viver l\u2019oportunitat d\u2019aprofitar l\u2019espai del Club de Lluita Bar\u00f3 de Viver", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/donar-als-veins-de-baro-de-viver-l-oportunitat-d-aprofitar-l-espai-del-club-de-lluita-baro-de-viver", 
+        "votable": null, 
+        "voted": null
+    }
+}

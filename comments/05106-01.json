@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ja s'est\u00e0 treballant en aix\u00f2. De fet a finals d'any entrar\u00e0 en funcionament pel transport. Poder amb el temps es pot ampliar amb m\u00e9s serveis. Per + info: <a href=\"http://doc.atm.cat/ca/_dir_t-mobilitat/projecte-T-MOBILITAT/\">http://doc.atm.cat/ca/_dir_t-mobilitat/projecte-T-MOBILITAT/</a></p>", 
+            "commentable_id": 5106, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 11:57:37", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4989, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

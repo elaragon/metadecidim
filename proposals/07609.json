@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 16322, 
+            "name": "gyppi", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 16322, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7609", 
+        "conflictive": false, 
+        "created_at": "31/03/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7609, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Amb la quantitat de turisme que hi ha a la zona de la Rambla de seguida queden plenes les papereres i donen una mala imatge de la ciutat i fa que la gent deixi els papers per terra.", 
+        "title": "Augmentar la freq\u00fc\u00e8ncia de buidatge de les papereres de la Rambla", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/augmentar-la-frequencia-de-buidatge-de-papereres-de-la-rambla", 
+        "votable": null, 
+        "voted": null
+    }
+}

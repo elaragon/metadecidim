@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3011", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3011, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "Analitzar i impulsar diferents actuacions per tal de dinamitzar el comer\u00e7 als barris del Coll, Salut, Vallcarca i els Penitents", 
+        "title": "Revitalitzar els comer\u00e7os dels barris del Coll, Salut i Vallcarca i els Penitents", 
+        "total_comments": 12, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 11, 
+        "total_positive_comments": 1, 
+        "total_votes": 37, 
+        "url": "https://decidim.barcelona/pam/proposals/revitalitzar-els-comercos-dels-barris-del-coll-salut-i-vallcarca-i-els-penitents", 
+        "votable": null, 
+        "voted": null
+    }
+}

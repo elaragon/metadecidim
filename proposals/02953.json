@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2953", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2953, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Crear noves zones de pacificaci\u00f3 del tr\u00e0nsit que complementin el projecte de superilles. Definir les condicions d\u2019accessibilitat dels carrers fora de la xarxa b\u00e0sica de Barcelona en tres tipus d\u2019espais: zones 30, entorns m\u00e9s segurs i amb cal\u00e7ades de coexist\u00e8ncia entre tr\u00e0nsit motoritzat i bicicletes;  zones de velocitat restringida a 20 km/h, on vianants, bicicleta i vehicles coexisteixen en plataformes \u00faniques, i trams de velocitat restringida a 10 km/h i prioritat invertida, que s\u00f3n espais segurs de prioritat per als vianants.", 
+        "title": "Ampliaci\u00f3 de les zones de pacificaci\u00f3 del tr\u00e0nsit: zones 30, zones 20 i zones 10", 
+        "total_comments": 16, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 16, 
+        "total_positive_comments": 0, 
+        "total_votes": 35, 
+        "url": "https://decidim.barcelona/pam/proposals/ampliacio-de-les-zones-de-pacificacio-del-transit-zones-30-zones-20-i-zones-10", 
+        "votable": null, 
+        "voted": null
+    }
+}

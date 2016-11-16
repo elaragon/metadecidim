@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1389, 
+            "name": "Amics de la Bici", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 1389, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1303", 
+        "conflictive": false, 
+        "created_at": "03/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.amicsdelabici.info/previsio_carrils_2015_2018_AMICSDELABICI.pdf", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1303, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "La planificaci\u00f3 de l'estrategia de la bicicleta te la previsi\u00f3 de \"tencar\" la xarxa el 2018,  proposem prioritzar unes \u201ccorones\u201d que permetin crear xarxa de carril bici als diferents nivells de la ciutat el 2016 i per fi disposar d'una xarxa per moure'ns per tota la ciutat i que es complementar\u00e0 amb les zones 30 i els carrers pacificats.  ", 
+        "title": "Prioritzar 3 grans corones de carrils bici que tanquin la xarxa", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 40, 
+        "url": "https://decidim.barcelona/pam/proposals/prioritzar-3-grans-corones-de-carrils-bici-que-tanquin-la-xarxa", 
+        "votable": null, 
+        "voted": null
+    }
+}

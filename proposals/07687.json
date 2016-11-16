@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2663, 
+            "name": "jcim", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2663, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7687", 
+        "conflictive": false, 
+        "created_at": "31/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7687, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Cal suprimir l'h\u00e0bit de fumar a l'espai p\u00fablic de la ciutat per dos raons de pes: primer perqu\u00e8 els no fumadors no siguin obligats a inhalar ni una sola mol\u00e8cula de la combusti\u00f3 incompleta insalubre del tabac que no generen, i, segon, per raons de salut p\u00fablica per ser la principal causa de c\u00e0ncer de pulm\u00f3 en homes i creixent en dones.", 
+        "title": "Tabac", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 7, 
+        "url": "https://decidim.barcelona/pam/proposals/tabac", 
+        "votable": null, 
+        "voted": null
+    }
+}

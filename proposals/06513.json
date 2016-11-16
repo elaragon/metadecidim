@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6513", 
+        "conflictive": false, 
+        "created_at": "23/03/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 6513, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Cal habilitar un espai perqu\u00e8 els propietaris dels gossos puguin pasejar-los deslligats.  Es proposa aprofitar alguns dels espais entre la parr\u00f2quia Sant Joan Bosco i l'Av. Meridiana.", 
+        "title": "Habilitar zona d'esbarjo per a gossos a la Pl. Ferran Reyes.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 5, 
+        "url": "https://decidim.barcelona/pam/proposals/habilitar-zona-d-esbarjo-per-a-gossos-a-la-pl-ferran-reyes", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10362, 
+            "name": "Colla del Drac del Poble Nou", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 10362, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3936", 
+        "conflictive": false, 
+        "created_at": "04/03/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3936, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Crear espais fixes i amb condicions per a les Fogueres de la Revetlla de Sant Joan. Al barri del Poblenou, caldria crear un espai fix al solar de la Rambla del Poblenou amb el carrer Perell\u00f3, reservant una zona amb sorra en la seva urbanitzaci\u00f3 com a zona verda.", 
+        "title": "Espai fix per a la Foguera de Sant Joan del Poblenou", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 58, 
+        "url": "https://decidim.barcelona/pam/proposals/espai-fix-per-a-la-foguera-de-sant-joan-del-poblenou", 
+        "votable": null, 
+        "voted": null
+    }
+}

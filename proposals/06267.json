@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 14496, 
+            "name": "lily", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 14496, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6267", 
+        "conflictive": false, 
+        "created_at": "21/03/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6267, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Durant les Festes el Parc del Clot \u00e9s el ppal empla\u00e7ament per celebrar les discoteques nocturnes, fins molt tard de la matinada (3am) durant moltes nits. Seria bo que s'utilitzessin tb altres espais m\u00e9s allunyats del nucli Clot (lloc tancat,Bac de Roda, Can Robacols, Farinera) i fins les 2 per poder dormir tots 8h i gaudir de les Festes descansats", 
+        "title": "Repartiment de les Festes Majors Nocturnes en m\u00e9s espais del Barri (i que acabin abans de les 3) perqu\u00e8 tots els ve\u00efns puguin descansar 8h  i gaudir de les Festes no nocturnes", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/repartiment-de-les-festes-majors-nocturnes-en-mes-espais-del-barri-i-que-acabin-abans-de-les-3-perque-tots-els-veins-puguin-descansar-8h-i-gaudir-de-les-festes-no-nocturnes", 
+        "votable": null, 
+        "voted": null
+    }
+}

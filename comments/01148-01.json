@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 181, 
+                "name": "crismon", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Dins les resid\u00e8ncies socials per temes persones diversitat funcional (ictuss, di\u00e0lisi, ela, etc)  </p>", 
+            "commentable_id": 1148, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/02/2016 16:35:34", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 103, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1925, 
+                "name": "X Simon", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Caldria auditar les resid\u00e8ncies concertades, avaluant el que cobren (3.500\u20ac per resident cada mes) en funci\u00f3 dels costos dels serveis que ofereixen i del manteniment del centre. Aquest import \u00e9s totalment desproporcionat i genera unes plusvalues brutals, a un negoci que, a m\u00e9s, t\u00e9 beneficis fiscals perqu\u00e8 aparentment \u00e9s SENSE LUCRE</p>", 
+            "commentable_id": 1148, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 00:42:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 534, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 609, 
+                "name": "Can 70 anna", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Pensem en un nou model cooperatiu, on la direcci\u00f3 depengui del Consell Rector, on hi hagi futures persones usuaries. Un model d'habitatge confortable amb espais \u00edntims i compartits, amb personal qualificat, amb suport municipal. No donem  diners que quasi no tenim a qui ja en t\u00e9 massa.</p>", 
+            "commentable_id": 1148, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/02/2016 18:42:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1458, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9161, 
+                "name": "TERESA MU\u00d1OZ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Introduir  mesures per millorar l'atenci\u00f3 a les persones que viuen en resid\u00e8ncies.  i molt especialment a les persones molt grans i amb malalties amb fase avan\u00e7ada. \n<br />Seguiment del malalts pels equips de PADES, est\u00e1n m\u00e9s preparats per atendre aquests malalts.</p>", 
+            "commentable_id": 1148, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 14:02:26", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6582, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 3035, 
+            "name": "jsh", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 3035, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1571", 
+        "conflictive": false, 
+        "created_at": "07/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1571, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "La ciutat del futur requereix m\u00e9s capacitats de programaci\u00f3 dels ciutadans per evitar la depend\u00e8ncia en relaci\u00f3 a empreses i formats que no siguin de lliure acc\u00e9s", 
+        "title": "Afavorir la formaci\u00f3 en programaci\u00f3 digital", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 9, 
+        "url": "https://decidim.barcelona/pam/proposals/afavorir-la-formacio-en-programacio-digital", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-666", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 666, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 1, 
+            "name": "Just\u00edcia social", 
+            "position": 1
+        }, 
+        "summary": "Impulsar accions amb complicitat amb les entitats del barri en mat\u00e8ria d'enfortiment de la just\u00edcia social al territori, mitjan\u00e7ant la sensibilitzaci\u00f3 del ve\u00efnat per crear iniciatives i accions en la mat\u00e8ria.", 
+        "title": "Accions per a l\u2019enfortiment de la just\u00edcia social", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 24, 
+        "url": "https://decidim.barcelona/pam/proposals/accions-per-a-l-enfortiment-de-la-justicia-social", 
+        "votable": null, 
+        "voted": null
+    }
+}

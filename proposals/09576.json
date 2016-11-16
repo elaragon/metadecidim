@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 20588, 
+            "name": "Marta100", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 20588, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9576", 
+        "conflictive": false, 
+        "created_at": "07/04/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 9576, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "F\u00e0 pena. arreglar-la amb botiguetes i netejar-la en tots els sentits, est\u00e0 sempre molt bruta i quan la reguen s'embruta m\u00e9s, i est\u00e0 plena de venedors de drogues i sexe.\r\nLa zona de Drassanes \u00e9s de les primeres imatges de Barcelona al m\u00f3n, i f\u00e0 pena.", 
+        "title": "Carrer Escudellers", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/carrer-escudellers", 
+        "votable": null, 
+        "voted": null
+    }
+}

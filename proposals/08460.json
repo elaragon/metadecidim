@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 18052, 
+            "name": "Consell de la Joventut de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 18052, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8460", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8460, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Elaborar campanyes i estrat\u00e8gies de foment de la participaci\u00f3 als Consells Escolars de manera continuada i no nom\u00e9s durant el per\u00edode d'eleccions\r\nImpulsar una campanya adre\u00e7ada principalment als equips docents i a les associacions de mares i pares d'alumnes que promogui la import\u00e0ncia de la participaci\u00f3 de tots els agents educatius en aquest \u00f2rgan.", 
+        "title": "Impulsar el rol actiu dels i les representants d'alumnes als Consells Escolars de Centre", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 12, 
+        "url": "https://decidim.barcelona/pam/proposals/impulsar-el-rol-actiu-dels-i-les-representants-d-alumnes-als-consells-escolars-de-centre", 
+        "votable": null, 
+        "voted": null
+    }
+}

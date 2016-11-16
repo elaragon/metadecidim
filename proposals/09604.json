@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 20827, 
+            "name": "Associaci\u00f3 Mares de dia Llars de Crian\u00e7a", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 20827, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9604", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 9604, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Les Llars de Crian\u00e7a s\u00f3n les llars de les mares de dia, persones adequadament formades, que ofereixen un servei d'atenci\u00f3 professional i de qualitat aportant una segona llar i un entorn casol\u00e0. Regular, visibilitzar i integrar aquest servei com una opci\u00f3 educativa m\u00e9s, afavoriria el seu acc\u00e9s a les fam\u00edlies i potenciaria l'ocupaci\u00f3 en aquest sector", 
+        "title": "Regular i integrar el servei d'atenci\u00f3 a la petita inf\u00e0ncia (0-3 anys) desenvolupat a les Llars de Crian\u00e7a com una alternativa als serveis actualment existents per la  cura d'infants en aquesta franja d'edat (escoles bressol, llars d'infants...)", 
+        "total_comments": 16, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 14, 
+        "total_votes": 140, 
+        "url": "https://decidim.barcelona/pam/proposals/regular-i-integrar-el-servei-d-atencio-a-la-petita-infancia-0-3-anys-desenvolupat-a-les-llars-de-crianca-com-una-alternativa-als-serveis-actualment-existents-per-la-cura-d-infants-en-aquesta-franja-d-edat-escoles-bressol-llars-d-infants", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 15153, 
+            "name": "Xavier Sisternas", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 15153, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6930", 
+        "conflictive": false, 
+        "created_at": "28/03/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6930, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "Reforma integral i ampliaci\u00f3 del mercat potser amb productes bio, vins, etc. Reformar la primera planta per que hi hagi un millor supermercat i un o m\u00e9s forns (de qualitat...), un bar. Les plantes superiors podrien ser comercials o destinar-les a usos c\u00edvics i culturals. Caldria enderrocar i fer un edifici atractiu, com la Biblioteca de Lesseps", 
+        "title": "Un equipament civico-comercial a l'edifici del Mercat de Lesseps", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 6, 
+        "url": "https://decidim.barcelona/pam/proposals/un-equipament-civico-comercial-a-l-edifici-del-mercat-de-lesseps", 
+        "votable": null, 
+        "voted": null
+    }
+}

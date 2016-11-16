@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 9517, 
+            "name": "bcnmarinero", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 9517, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3672", 
+        "conflictive": false, 
+        "created_at": "01/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3672, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 20, 
+            "name": "Administraci\u00f3  intel\u00b7ligent i inclusiva", 
+            "position": 4
+        }, 
+        "summary": "Una targeta de ciutad\u00e0 pels empadronats a la ciutat que donaria dret a preus baixos als serveis de la ciutat com museus i espais culturals (pedrera, sagrada fam\u00edlia, casa Batll\u00f3, parc G\u00fcell...), transports (incloent la targeta T-10) i altres. Seria com una compensaci\u00f3 al ciutad\u00e0 per les mol\u00e8sties del turisme massiu ", 
+        "title": "Creaci\u00f3 targeta Barcelona", 
+        "total_comments": 4, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 3, 
+        "total_votes": 138, 
+        "url": "https://decidim.barcelona/pam/proposals/creacio-targeta-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

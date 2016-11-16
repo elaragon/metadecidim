@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-679", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 679, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 4, 
+            "name": "Equitat de g\u00e8nere i diversitat sexual", 
+            "position": 4
+        }, 
+        "summary": "Promoure un espai de trobada per a elles, perqu\u00e8 el col\u00b7lectiu de treballadores dom\u00e8stiques, que compta amb una gran pres\u00e8ncia al districte, tingui m\u00e9s visibilitat.", 
+        "title": "Diagnosi de necessitats i demandes del col\u00b7lectiu de treballadores dom\u00e8stiques", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 12, 
+        "url": "https://decidim.barcelona/pam/proposals/diagnosi-de-necessitats-i-demandes-del-col-lectiu-de-treballadores-domestiques", 
+        "votable": null, 
+        "voted": null
+    }
+}

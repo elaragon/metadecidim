@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 5950, 
+            "name": "Jordi Salabert", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 5950, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10730", 
+        "conflictive": false, 
+        "created_at": "09/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 10730, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 17, 
+            "name": "Energia i canvi clim\u00e0tic", 
+            "position": 5
+        }, 
+        "summary": "Molt sovint quan baixo als contenidors de reciclatge em trobo a gent que tira les residuos als contenidors que no corresponen.\r\nProposo que es substitueixin les \"petites\" icones informatives dels contenidors per VINILS grans que ocupin tot el contenidor i que donguin instruccions clares de que hi va a dins. Aquesta mesura la podria pagar ECOEMBES.", 
+        "title": "Millorar la capacitat comunicativa dels contenidors de reciclatge, per a que la gent entengui que va a cadascun d'ells.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/millorar-la-capacitat-comunicativa-dels-contenidors-de-reciclatge-per-a-que-la-gent-entengui-que-va-a-cadascun-d-ells", 
+        "votable": null, 
+        "voted": null
+    }
+}

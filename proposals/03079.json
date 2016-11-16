@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3079", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3079, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Ampliar la xarxa d'escoles bressol, per tal d\u2019assegurar una millor cobertura p\u00fablica. Instar a ampliar les places d'educaci\u00f3 secund\u00e0ria i l'oferta de l\u00ednies d'FP al districte, tenint en compte l\u2019alta demanda present al territori, que no pot ser redistribu\u00efda entre les places existents i que, per tant, for\u00e7a la mobilitat i trenca amb la premissa de la proximitat en l\u2019adjudicaci\u00f3 del centre educatiu.", 
+        "title": "Ampliaci\u00f3 de l\u2019oferta d\u2019escoles bressol, educaci\u00f3 secund\u00e0ria i l\u00ednies d'FP", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 50, 
+        "url": "https://decidim.barcelona/pam/proposals/ampliacio-de-l-oferta-d-escoles-bressol-educacio-secundaria-i-linies-d-fp", 
+        "votable": null, 
+        "voted": null
+    }
+}

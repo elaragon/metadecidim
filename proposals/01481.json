@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 94, 
+            "name": "Genis Barrera", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 94, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1481", 
+        "conflictive": false, 
+        "created_at": "04/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.dgt.es/Galerias/prensa/2015/07/VELOCIDAD-N-230.pdf", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1481, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Necessitem una ciutat a escala humana i no al servei del cotxe i la moto. Els vianants (inclosos els nens i els avis) en cas de ser atropellats per un cotxe a 50km/h tenim una probabilitat de MORIR del 80%, a 40km/h passa al 45% i a 30km/h \"nom\u00e9s\" hi ha un 10% de probabilitat de morir. Addicionalment s'hauria de passar la Zona 30 a Zona 20", 
+        "title": "Pacificar TOTS els carrers baixant el l\u00edmit de velocitat a 40km/h", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 46, 
+        "url": "https://decidim.barcelona/pam/proposals/pacificar-tots-els-carrers-de-barcelona-rebaixant-el-limit-de-velocitat-a-40km-h", 
+        "votable": null, 
+        "voted": null
+    }
+}

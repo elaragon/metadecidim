@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8218, 
+                "name": "maga", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Millor arribar a acords que sancionar... els Grans Propietaris potser prefereixen i poden pagar sancions... tot  per a continuar tenint els pisos buits</p>", 
+            "commentable_id": 2866, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/03/2016 17:09:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3984, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4744, 
+                "name": "Francesca Blanch", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/recuperar-edificios-del-ayuntamiento-y-los-edificios-vacios-para-vivienda\">https://decidim.barcelona/proposals/recuperar-edificios-del-ayuntamiento-y-los-edificios-vacios-para-vivienda</a></p>", 
+            "commentable_id": 2866, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/04/2016 13:20:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 13747, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

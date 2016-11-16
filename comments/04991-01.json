@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12602, 
+                "name": "KW", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Habr\u00e1 que buscar lugares donde las personas sin papeles tambi\u00e9n pueden alojarse. En mi barrio (El Coll) hay varios solares vacios que se aprovechan para construir chabolas y para almacenar lo que recogen de los contenidores o de la calle. Independientemente de si uno est\u00e1 de acuerdo con este tipo de comercio (personalmente opino que de algo tienen que vivir), trae problemas en cuanto a la convicencia: hay ruido a cualquier hora del d\u00eda o de la noche porque se ponen a romper los muebles o metal a martillazos. Tambi\u00e9n hay ratas, palomas etc. por todas partes as\u00ed que supone un problema de salud p\u00fablica. Se deber\u00eda hacer algo para alojar a estas personas y proporcionarles un lugar donde trabajar sin que molesten a los vecinos en horario de descanso. </p>", 
+            "commentable_id": 4991, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 16:09:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5059, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "5059", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2750, 
+                "name": "JOSEP M", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p> Los lugares tendrian que estar reglamentados y por supuesto que no causaran molestias. La finalidad seria ofrecer un minimo apoyo a esta gente, pero tambien evitar las molestias a los vecinos y  mitigar el deterioro del espacio urbano.</p>", 
+            "commentable_id": 4991, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 16:46:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5066, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

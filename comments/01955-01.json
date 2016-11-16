@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17700, 
+                "name": "mare", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Com a mare demano que es faci una zona respectuosa amb les persones i el medi ambient. Un parc i un passeig pels infants, gent gran i tota la ciutadania. Un espai privilegiat davant del mar ha de ser per les persones, no pels cotxes. Ara \u00e9s un macroaparcament. No he vist res igual a la ciutat. No podem passar amb els nens amb tranquil\u00b7litat. Poden ser atropellats per les bicis, que no tenen tampoc gaire espai per passar o pels corredors. Com \u00e9s possible que despr\u00e8s de 15 i 20 anys i m\u00e9s, encara no s'ha urbanitzat un espai per les persones? Com \u00e9s possible que tinguin prefer\u00e8ncia els cotxes? Potser 10 o 15 vegades m\u00e9s espai al costat d'un estret cam\u00ed per passar nosaltres, els ciutadans/nes.</p>", 
+            "commentable_id": 1955, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/04/2016 11:20:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7691, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/finalitzar-el-passeig-maritim\">https://decidim.barcelona/proposals/finalitzar-el-passeig-maritim</a></p>", 
+            "commentable_id": 1955, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 13:16:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17006, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

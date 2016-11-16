@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16060, 
+                "name": "Alcaux", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>He fet un mun de queixas a la Guardia Urbana desde gener de 2015 i tot el que han fet a estat passar el cotxe patrulla un parell de vegades, el problema continua i cada cop i han mes vehicles i ha tardas que he comptat fins a 8 cotxes. No fan res per acabar amb el problema.\n</p>", 
+            "commentable_id": 7325, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 15:31:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6991, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

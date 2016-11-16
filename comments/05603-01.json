@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9055, 
+                "name": "Esther F.G", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>L'\u00fanic CUAP molt accessible es el de Cotxeres pels ve\u00efns dels barris propers Vilapicina i Torre Llobeta, Turo de la Peira i Porta. Pel resta de barris Guineueta, Canyelles, Verdun, i Roquetes es mes accessible Vall de Hebron que el CUAP DE Horta. Estudiar els punts de major accessibilitat traslladant el CUAP d'Horta.</p>", 
+            "commentable_id": 5603, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 15:59:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6803, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "6803", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16011, 
+                "name": "SilviaRC", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>M\u00e1s que mover el CUAP de Horta (que no s\u00e9 si es viable) lo que har\u00eda ser\u00eda ampliar y mejorar el servicio de urgencias del CAP Guineueta, porque as\u00ed todos los vecinos que vivan por encima de la v\u00eda favencia podr\u00e1n ir al CAP.\n<br />El CUAP de Horta est\u00e1 bien para los que vivimos por debajo de la ronda, es decir,  las calles de debajo de la estaci\u00f3n del metro Valldaura, la zona del Parc Central de nou Barris y la parte del Tur\u00f3 de la Peira. </p>", 
+            "commentable_id": 5603, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 08:42:55", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6898, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

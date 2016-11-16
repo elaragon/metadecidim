@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1751, 
+            "name": "SusannaL", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1751, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1356", 
+        "conflictive": false, 
+        "created_at": "03/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.ocu.org/organizacion/prensa/notas-de-prensa/2013/ambientadores  http://www.peccem.org/DocumentacionDescarga/Cientificos/Declaraciones/Declaracion-Bruselas-2015-ES.pdf", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1356, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Es parla molt de contaminaci\u00f3 i s'oblida aquest tema quan s'ha demostrat en multitut d'estudis que els ambientadors,  incens, etc... alliberen tantes o m\u00e9s subst\u00e0ncies t\u00f2xiques que el tabac. Proposo que la llei anti-tabac vagi sempre acompanyada d'abs\u00e8ncia d'ambientadors i frag\u00e0ncies: espais p\u00fablics, consultes sanit\u00e0ries, botigues, hotels, bars... ", 
+        "title": "Prohibir ambientadors a tots els espais on sigui vigent la llei anti-tabac", 
+        "total_comments": 9, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 5, 
+        "total_votes": 31, 
+        "url": "https://decidim.barcelona/pam/proposals/prohibir-ambientadors-a-tots-els-espais-on-sigui-vigent-la-llei-anti-tabac", 
+        "votable": null, 
+        "voted": null
+    }
+}

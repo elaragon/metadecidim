@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5527", 
+        "conflictive": false, 
+        "created_at": "17/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 5527, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 5, 
+            "name": "Cicles de vida ", 
+            "position": 5
+        }, 
+        "summary": "Facilitar el seu acc\u00e9s, amb preus redu\u00efts als actes i esdeveniments culturals. Per garantir la igualtat d\u2019oportunitats en el proc\u00e9s d\u2019aprenentatge cal facilitar l\u2019acc\u00e9s a la cultura amb entrada gratu\u00efta o molt econ\u00f2mica per a la gent gran a museus o activitats culturals i d\u2019oci", 
+        "title": "La cultura \u00e9s la base de tota conviv\u00e8ncia, per aix\u00f2 cal fomentar-la i promoure-la entre la gent gran. ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 5, 
+        "url": "https://decidim.barcelona/pam/proposals/la-cultura-es-la-base-de-tota-convivencia-per-aixo-cal-fomentar-la-i-promoure-la-entre-la-gent-gran", 
+        "votable": null, 
+        "voted": null
+    }
+}

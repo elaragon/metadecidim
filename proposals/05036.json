@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 12442, 
+            "name": "GerardML", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 12442, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5036", 
+        "conflictive": false, 
+        "created_at": "15/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5036, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "El preu del transport p\u00fablic es excessivament alt, arribant un bitllet senzill a costar 2,15\u20ac (el 2011 era de 1,45\u20ac). Aix\u00ed, la reducci\u00f3 del preu, sobretot el de la T-10, el t\u00edtol m\u00e9s usat pels usuaris, seria positiu tant per usuaris com per al mateix nombre de validacions. No pot ser que al 2011 aquestal costes 8,25\u20ac i actualment sigui de 9,95\u20ac", 
+        "title": "Reducci\u00f3 de les Tarifes de TMB", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 15, 
+        "url": "https://decidim.barcelona/pam/proposals/reduccio-de-les-tarifes-de-tmb", 
+        "votable": null, 
+        "voted": null
+    }
+}

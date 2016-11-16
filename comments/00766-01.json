@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12155, 
+                "name": "Adam123", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A m\u00e9s, L'Escola Municipal de M\u00fasica de Sant Andreu, hauria de disposar d'un espai propi al districte en condicions per  fer les audicions i concerts de les agrupacions grans, les quals no es poden fer al petit auditori de l'escola.  Per exemple, es podria cedir el Sant Andreu Teatre o similar, ja que sempre s'acaben fent a espais (sovint la sala Josep Bota de la Fabra i Coats, Sant Paci\u00e0), que no reuneixen les condicions ni d'espai per als m\u00fasics, ni de sonoritat, ni de disposici\u00f3 del p\u00fablic.</p>", 
+            "commentable_id": 766, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 13:30:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4807, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12442, 
+                "name": "GerardML", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>L'escola Municipal de M\u00fasica de Sant Andreu, amb el potencial que t\u00e9, hauria de comptar amb unes bones instalacions que permetessin a m\u00fasics i alumnes realitzar b\u00e9 i amb comoditat la seva tasca, habilitatn per exemple, un edifici del recinte de la Fabra i Coats per a la nova escola.</p>", 
+            "commentable_id": 766, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 00:55:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4939, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 9760, 
+            "name": "Oscar Luigi", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 9760, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3698", 
+        "conflictive": false, 
+        "created_at": "01/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3698, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "La proliferaci\u00f3 de negocis de 24 hores tipus 'badulaque' perjudiquen el descans del ve\u00efns. Els clients: turistes o gent quasi sempre beguts, sense cap tipus de respecte per la gent que dorm. Cantant, barallant-se o simplement montant xerinola com si all\u00f2 fos la terrassa d'un bar. \r\nProposta:\" obliga als badulaque's a tancar a partir de les 22:00 ho", 
+        "title": "Vetllar per el descans del ve\u00efns ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 10, 
+        "url": "https://decidim.barcelona/pam/proposals/vetllar-per-el-descans-del-veins", 
+        "votable": null, 
+        "voted": null
+    }
+}

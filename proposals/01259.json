@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1010, 
+            "name": "catorvel", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1010, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1259", 
+        "conflictive": false, 
+        "created_at": "02/02/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "*projecte realitzat per Fam\u00edlies del barri. ", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1259, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Espai de participaci\u00f3 familiar (0-12 anys)que promogui el joc i l'educaci\u00f3 ambiental com a eina per participar activament en la conservaci\u00f3 i millora del Medi Ambient on poder  relacionar-nos  de manera relaxada, mentre compartim estones de joc, experi\u00e8ncies, opinions, dubtes a la vegada que es crea una xarxa de col.laboraci\u00f3 entre  fam\u00edlies. ", 
+        "title": "ESPAI FAMILIAR \"La Quitxalla de Sagrada Fam\u00edlia\"", 
+        "total_comments": 10, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 3, 
+        "total_positive_comments": 4, 
+        "total_votes": 31, 
+        "url": "https://decidim.barcelona/pam/proposals/espai-familiar-la-quitxalla-de-sagrada-familia", 
+        "votable": null, 
+        "voted": null
+    }
+}

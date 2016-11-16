@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic d'acord i acabar tamb\u00e9 l'estaci\u00f3 de metro Ernest Lluch (L5). Des de fa 10 anys que esperem que aquesta estaci\u00f3 s\u2019acabi finalment despr\u00e9s de les mol\u00e8sties causades als ve\u00efns durant tants anys. Amb gaireb\u00e9 l\u2019estaci\u00f3 ja finalitzada (i amb una inversi\u00f3 ja feta de 50M d\u2019\u20ac) nom\u00e9s queda per acabar-la un 20% dels treballs per poder-la obrir.</p>", 
+            "commentable_id": 1724, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/02/2016 22:47:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1484, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 1, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1970, 
+                "name": "red albert", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord, tot i que ens haur\u00edem d'adre\u00e7ar a les administracions p\u00fabliques corresponents. En aquest cas, b\u00e0sicament, a l'administraci\u00f3 \"central\" (Ministerio de Fomento). L'Ajuntament pot pressionar, complementar, ajudar, prioritzar, per\u00f2 mai no podria suportar la c\u00e0rrega econ\u00f2mica que suposaria assumir la finalitzaci\u00f3 de les obres ni la construcci\u00f3 del parc linial projectat fa un munt d'anys. \u00c9s una pena que per deixadesa, manca de planificaci\u00f3, megalomania, demag\u00f2gia electoralista o pel que sigui, territoris tan propers com Sant Andreu, Bon Pastor, La Verneda, Bes\u00f2s, ... es trobin actualment tan mal comunicats entre si</p>", 
+            "commentable_id": 1724, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/04/2016 23:52:13", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7908, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/grans-projectes-urbanistics-al-districte\">https://decidim.barcelona/proposals/grans-projectes-urbanistics-al-districte</a></p>", 
+            "commentable_id": 1724, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 11:15:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 16622, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1484", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/finalitzar-l-estacio-de-metro-ernest-lluch-l5\">https://decidim.barcelona/proposals/finalitzar-l-estacio-de-metro-ernest-lluch-l5</a></p>", 
+            "commentable_id": 1724, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/02/2016 22:47:20", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1485, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1484/1485", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1970, 
+                "name": "red albert", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ho sento, per\u00f2 aix\u00f2 aqu\u00ed no toca. Vindria a ser com una mena de \"spam\".  Parles d'un problema a l'altra punta de la ciutat sense cap tipus de relaci\u00f3 amb la proposta aqu\u00ed apuntada</p>", 
+            "commentable_id": 1724, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/04/2016 23:47:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7906, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

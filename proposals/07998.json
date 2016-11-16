@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-7998", 
+        "conflictive": false, 
+        "created_at": "04/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 7998, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Impulsar i fomentar als equipaments municipals les activitats compartides i familiars, no nom\u00e9s en edat infantil, sin\u00f3 tamb\u00e9 a partir dels 6 anys. Augmentar tanmateix l\u2019oferta d\u2019activitats a tots els equipaments, universalitzar la oferta. ", 
+        "title": "Impulsar i fomentar als equipaments esportius municipals m\u00e9s activitats familiars i augmentar la oferta d\u2019activitats infantils. ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/impulsar-i-fomentar-als-equipaments-esportius-municipals-mes-activitats-familiars-i-augmentar-la-oferta-d-activitats-infantils", 
+        "votable": null, 
+        "voted": null
+    }
+}

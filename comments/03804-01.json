@@ -1,0 +1,242 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9462, 
+                "name": "Antoni", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Molt d'acord!!! </p>", 
+            "commentable_id": 3804, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/03/2016 16:05:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3475, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 873, 
+                "name": "Ernesto", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Fa uns dies vaig fer una sol\u00b7licitud similar, tancament de les terrasses a les 21:00 hores. Estic d'acord aplicar restriccions d'horari tamb\u00e9 als bars.</p>", 
+            "commentable_id": 3804, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/03/2016 07:42:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3524, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic d'acord per\u00f2 \u00e9s complicat trobar un equilibri entre ve\u00efns i restauradors. No oblidem tamb\u00e9 que les terrasses ofereixen un servei per a la ciutadania.</p>", 
+            "commentable_id": 3804, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/03/2016 11:26:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3712, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 2, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14094, 
+                "name": "Aliena", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d\u00b4acord! Jo tamb\u00e9 he fet una proposta similar! Tancament a les 21 entre setmana i a les 23 els caps de setmana. </p>", 
+            "commentable_id": 3804, 
+            "commentable_type": "Proposal", 
+            "created_at": "23/03/2016 22:29:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6431, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3524", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11178, 
+                "name": "annagsainz", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La proposta em sembla b\u00e9 per\u00f2 tancament de terrasses a les 21.00 em sembla excessiu, crec que s'hauria de trobar un punt mig.</p>", 
+            "commentable_id": 3804, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/03/2016 18:19:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6290, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3524/6290", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14094, 
+                "name": "Aliena", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A mi em sembla perfecte. I la festa que la facin dins</p>", 
+            "commentable_id": 3804, 
+            "commentable_type": "Proposal", 
+            "created_at": "23/03/2016 22:28:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6430, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3712", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14094, 
+                "name": "Aliena", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>I la ciutadania no pot prendre la birra dins del local? Perque jo, que estic a casa meva, tinc que aguantar a aquesta ciutadania cridant a sota casa meva?</p>", 
+            "commentable_id": 3804, 
+            "commentable_type": "Proposal", 
+            "created_at": "23/03/2016 22:27:49", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6429, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

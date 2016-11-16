@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8218, 
+                "name": "maga", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A Amsterdam l'av\u00eds sonor t\u00e9 el s\u00f2 com de fusta, a mi m'agrada m\u00e9s que el que tenim aqu\u00ed. Per\u00f2 b\u00e9 aix\u00f2 nom\u00e9s \u00e9s un detall..</p>", 
+            "commentable_id": 3395, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 01:35:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2649, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

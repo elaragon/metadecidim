@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 9749, 
+            "name": "Casal dels Infants Acci\u00f3 Social als Barris", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 9749, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4712", 
+        "conflictive": false, 
+        "created_at": "11/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4712, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 1, 
+            "name": "Just\u00edcia social", 
+            "position": 1
+        }, 
+        "summary": "En les zones de la ciutat on s'acumulen els factors de risc i els indicadors de desigualtat, cal fer un an\u00e0lisi d\u2019aquests entorns i desplegar plans integrals d\u2019actuaci\u00f3 intensiva que treballin per superar les condicions de dificultat de la infants, joves i fam\u00edlies en desavantatge.", 
+        "title": "M\u00e9s suport als barris que m\u00e9s ho necessiten. ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/mes-suport-als-barris-que-mes-ho-necessiten", 
+        "votable": null, 
+        "voted": null
+    }
+}

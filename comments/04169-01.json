@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13789, 
+                "name": "Bx49", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es curi\u00f3s que a la zona del carrer gran de sant Andreu no hi hagi cap carril bici.\n<br />Tamb\u00e9 es curi\u00f3s que els carrers paral\u00b7lels a gran de sant Andreu com ne\u00f3 p\u00e0tria SIGUI del mateix sentit.\n<br />Quan vas des del Parc de la Pegaso al carrer de Sant Adria has de fer malabarismes.\n<br />Hi hauria d'haver una connexi\u00f3 entre el carril bici que ve de la maquinista.\n<br />Els que fem servir el vehicle mes ecol\u00f2gic de la ciutat estem totalment oblidats al barri de Sant Andreu.\n</p>", 
+            "commentable_id": 4169, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 21:47:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5685, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

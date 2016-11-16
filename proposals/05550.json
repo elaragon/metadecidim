@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 512, 
+            "name": "Solidaritat Catalana per la Independ\u00e8ncia", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 512, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5550", 
+        "conflictive": false, 
+        "created_at": "17/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5550, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 17, 
+            "name": "Energia i canvi clim\u00e0tic", 
+            "position": 5
+        }, 
+        "summary": "Reclamem que l'Ajuntament de Barcelona utilitzi a les seves depend\u00e8ncies municipals (llevat de centres sanitaris i/o emerg\u00e8ncies) nom\u00e9s energia renovable natural o bateries d'autoabastament el\u00e8ctric,desobe\u00efnt si cal les lleis espanyoles en mat\u00e8ria energ\u00e8tica.", 
+        "title": "Barcelona,exemple en \u00fas d'energies renovables.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 11, 
+        "url": "https://decidim.barcelona/pam/proposals/barcelona-exemple-en-us-d-energies-renovables", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 3717, 
+            "name": "Salvador Pastor Blasco", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 3717, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6869", 
+        "conflictive": false, 
+        "created_at": "26/03/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6869, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "estudiar desde el desarrollo del pla22@ c\u00f3mo se crea ocupaci\u00f3n para esta zona  de sant marti,estudiar con la complicidad de vecinos y vecinas las posibilidades comerciales actuales y futura de la zona,estas cuestiones debido a que por su situaci\u00f3n y el muro del zoo, da la impresi\u00f3n que es como un  espacio en tierra de nadie", 
+        "title": "estudiar c\u00f3mo crear ocupaci\u00f3n  y potenciar el tejido comercial del barrio el parc y la llacuna de poblenou", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/estudiar-como-crear-ocupacion-y-potenciar-el-tejido-comercial-del-barrio-el-parc-y-la-llacuna-de-poblenou", 
+        "votable": null, 
+        "voted": null
+    }
+}

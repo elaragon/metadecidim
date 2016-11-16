@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 85, 
+            "name": "kerouack", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 85, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1107", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1107, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Existen multitud de festivales de m\u00fasica, teatro, etc.. privados ( roban el nombre de la ciudad por razones de marketing) a precios prohibitivos para la mayor\u00eda de la poblaci\u00f3n. El ayuntamiento debe asumir su responsabilidad con la cultura, crear festivales de m\u00fasica (cl\u00e1sica, rock, heavy, barroca, jazz, etc..), teatro, a precios razonables.", 
+        "title": "Crear festivales culturales (m\u00fasica, teatro, etc..) p\u00fablicos a precio razonable", 
+        "total_comments": 11, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 3, 
+        "total_votes": 85, 
+        "url": "https://decidim.barcelona/pam/proposals/crear-festivales-culturales-musica-teatro-etc-publicos-a-precio-razonable", 
+        "votable": null, 
+        "voted": null
+    }
+}

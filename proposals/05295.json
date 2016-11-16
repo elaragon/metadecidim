@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 12885, 
+            "name": "pau_", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 12885, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5295", 
+        "conflictive": false, 
+        "created_at": "16/03/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "http://www.barcelona.cat/resources/hu/parcs-i-jardins/ParcsIFRAME/w110.bcn.cat/portal/site/MediAmbient/menuitem.0d4d06202ea41e13e9c5e9c5a2ef8a0c/index90fe.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5295, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Convertiria el llac del Parc de l'Espanya Industrial en una piscina p\u00fablica durant els mesos d'estiu, seguint l'exemple del Parc de la Creueta del Coll (zona de Vallcarca, districte de Gr\u00e0cia).\r\nAprofitant les obres actualitzaria la Pla\u00e7a de Joan Peir\u00f3 i en general, l'entorn del Parc de l'Espanya Industrial i Sants Estaci\u00f3.", 
+        "title": "Convertir el llac de l'Espanya Industrial en una piscina a l'estiu", 
+        "total_comments": 5, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 4, 
+        "total_positive_comments": 1, 
+        "total_votes": 17, 
+        "url": "https://decidim.barcelona/pam/proposals/convertir-el-llac-de-l-espanya-industrial-en-una-piscina-a-l-estiu", 
+        "votable": null, 
+        "voted": null
+    }
+}

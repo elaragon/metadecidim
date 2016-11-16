@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6964", 
+        "conflictive": false, 
+        "created_at": "29/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 6964, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Per exemple:\r\n- Crear una campanya de conscienciaci\u00f3 ciutadana amb el lema de \"El carrer \u00e9s \r\ncasa teva\", amb especial \u00e8mfasi en els amos de gossos.\r\n- Destinar m\u00e9s pressupost a la neteja de caques de gossos (amb vapor d'aigua \r\ncalenta per desinfectar)\r\n- Posar a les papereres del carrer un apartat espec\u00edfic amb cendrers per evitar que \r\nles buril", 
+        "title": "Conscienciar a la ciutadania amb el tema de la neteja i higiene al  carrer i millorar la neteja de la via p\u00fablica (especial \u00e8mfasi en la   brut\u00edcia dels gossos)", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 8, 
+        "url": "https://decidim.barcelona/pam/proposals/conscienciar-a-la-ciutadania-amb-el-tema-de-la-neteja-i-higiene-al-carrer-i-millorar-la-neteja-de-la-via-publica-especial-emfasi-en-la-bruticia-dels-gossos", 
+        "votable": null, 
+        "voted": null
+    }
+}

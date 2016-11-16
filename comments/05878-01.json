@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9681, 
+                "name": "Asociaci\u00f3n En torno a la silla ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": false
+            }, 
+            "body": "<p>Cl\u00e1sico y moderno! tamb\u00e9 necesitem espais oberts de fabricaci\u00f3 anal\u00f3gica, en xarxa i combinats amb ateneus de fabricaci\u00f3 / fab-labs / makers. On compartir coneixement, oficis, eines i experiencies entre generaciones.\n</p>", 
+            "commentable_id": 5878, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 19:02:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6840, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

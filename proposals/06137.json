@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 14418, 
+            "name": "Marc Fonts", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 14418, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6137", 
+        "conflictive": false, 
+        "created_at": "21/03/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "https://www.dropbox.com/s/q65ads5jqxomop5/DSC_0032.JPG?dl=0", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6137, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Prova pilot en una illa \"pac\u00edfica\" de l'Eixample, com per exemple Bail\u00e9n amb Casp.\r\nEls xamfrans de l'Eixample estan condicionats per fer-ho. La rotonda \u00e9s l'exemple de civisme i fluidesa davant la prohibici\u00f3 dels sem\u00e0fors.\r\nPrimer problema: els vianants.\r\nTinc la soluci\u00f3! La cal\u00e7ada s'estreny i crea una \"illa de visibilitat\". Deixeu-m'ho explicar!", 
+        "title": "Rotondes a l'Eixample", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 7, 
+        "url": "https://decidim.barcelona/pam/proposals/rotondes-a-l-eixample", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10579, 
+                "name": "Albertbarna", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Por supuesto, se tienen que sentir perseguidos, que se lo piensen antes de reincidir.</p>", 
+            "commentable_id": 7512, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 12:22:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7156, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16391, 
+                "name": "santimdx5", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aix\u00f2 ja \u00e9s fa a ciutats com Nova York. Hem de saber quins propietaris deliberadament i de forma reiterada no compleixen amb les seves obligacions o fan mobbing.</p>", 
+            "commentable_id": 7512, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 13:43:31", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7180, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16937, 
+                "name": "ElisaMR", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>incentivar rehabilitacio, condicions d'habitabilitat i control pujada preus com es fa per exemple a Berlin,  ajudaria a tenir llouer mes estable i assequible. Hem de sensibilitzar als propietaris que l'habitatge es un dret no un be especulatiu.</p>", 
+            "commentable_id": 7512, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 20:03:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7462, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2006, 
+                "name": "sebas", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>solamente de pisos turisticos ilegales pueden haber tranquilamente unos 14000 en toda Barcelona , que han provocado la expulsion del vecino.\n</p>", 
+            "commentable_id": 7512, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/04/2016 15:23:10", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7599, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

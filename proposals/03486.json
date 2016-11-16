@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8133, 
+            "name": "Associaci\u00f3 de Ve\u00efns i Ve\u00efnes Joan Maragall Guinard\u00f3", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 8133, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3486", 
+        "conflictive": false, 
+        "created_at": "25/02/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3486, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Arranjament dels jardins que envolten Can Pla i Armengol (Ravetllat Pla) i formaci\u00f3 d\u2019horts urbans.\r\nAdequaci\u00f3 de la prolongaci\u00f3 del carrer de G\u00e8nova.\r\nObertura de la prolongaci\u00f3 del carrer de Vars\u00f2via fins al carrer de Cartagena amb un vial de serveis i passeig.\r\nAdequaci\u00f3 de jardins, miradors, i passeigs a la resta de l\u2019illa. \r\n", 
+        "title": "GUINARD\u00d3 -Torrent de Melis. Desenvolupar els espais lliures ", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 21, 
+        "url": "https://decidim.barcelona/pam/proposals/guinardo-torrent-de-melis-desenvolupar-els-espais-lliures", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2196, 
+            "name": "JKim", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2196, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7698", 
+        "conflictive": false, 
+        "created_at": "31/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.lavanguardia.com/local/barcelona/20141212/54421331838/barcelona-planea-prolongar-diagonal-hasta-llobregat.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7698, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Tirar endavant el projecte d'allargar l'entrada de la Diagonal, cap als municipis d'esplugues, St. Just, St. Joan. A fi que fins i tot es pugui anar caminant o corrent per la vorera lateral. Projecte que aquests municipis ja van comen\u00e7ar estudiar l'anterior legislatura", 
+        "title": "Continuar la Diagonal", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/continuar-la-diagonal", 
+        "votable": null, 
+        "voted": null
+    }
+}

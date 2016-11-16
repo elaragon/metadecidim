@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 29, 
+            "name": "Habana2000", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 29, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1138", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1138, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 19, 
+            "name": "Acci\u00f3 comunit\u00e0ria", 
+            "position": 3
+        }, 
+        "summary": "Per certes associacions deslocalitzades, sense seu a Barcelona, seria interessant poder disposar puntualment d'espais municipals on organitzar trobades, fer presentacions o sessions de debat. La impossibilitat de llogar espais per motius pressupostaris impedeix el desenvolupament de comunitats i associacions a Barcelona.", 
+        "title": "Cessi\u00f3 d'espais municipals per poder organitzar actes d'associacions diverses.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 7, 
+        "url": "https://decidim.barcelona/pam/proposals/cessio-d-espais-municipals-per-poder-organitzar-actes-d-associacions-diverses", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5623, 
+                "name": "JaumeBen", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Imprescindible fer carrers peatonals per dinamitzar el barri, afavorir el comer\u00e7os locals i que els ve\u00efns es facin seu l'espai.</p>", 
+            "commentable_id": 1179, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 22:44:37", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1903, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14271, 
+                "name": "Jos\u00e9 Luis Lalueza", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El passatge Ll\u00edvia hauria de ser peatonalitzat. \u00c9s un carrer pla, amb alguns vestigis de comer\u00e7, que comunica el mercat amb la pl Guinard\u00f3 i Verge de Montserrat. Caldria, per\u00f2, canviar la direcci\u00f3 del transit de Vinyals per alliberar el passatge Ll\u00edvia, ja que \u00e9s l'\u00fanic eix dels set que creuen Art i Rambla Muntanya en direcci\u00f3 Llobregat. </p>", 
+            "commentable_id": 1179, 
+            "commentable_type": "Proposal", 
+            "created_at": "20/03/2016 12:41:37", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5967, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6187, 
+                "name": "Carme Martin", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>altres barris han millorat en aquest aspecte, Guinard\u00f3 continua igual no hi ha manera de fer vies petaonals</p>", 
+            "commentable_id": 1179, 
+            "commentable_type": "Proposal", 
+            "created_at": "20/03/2016 12:59:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5973, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

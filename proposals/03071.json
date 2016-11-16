@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3071", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3071, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Construir un espai de mem\u00f2ria de les cases barates, d'acord amb el conveni entre l\u2019Associaci\u00f3 de Ve\u00efns, el Districte de Sant Andreu i la Universitat de Barcelona. Adequar les instal\u00b7lacions actuals i convertir-les en un espai d\u2019interpretaci\u00f3 de la Maquinista-Macosa.", 
+        "title": "Centre d'interpretaci\u00f3 de les cases barates al Bon Pastor i de la Maquinista-Macosa", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 11, 
+        "url": "https://decidim.barcelona/pam/proposals/centre-d-interpretacio-de-les-cases-barates-al-bon-pastor-i-de-la-maquinista-macosa", 
+        "votable": null, 
+        "voted": null
+    }
+}

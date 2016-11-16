@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 6264, 
+            "name": "Associaci\u00f3 de Ve\u00efns i Ve\u00efnes d'Horta", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 6264, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3600", 
+        "conflictive": false, 
+        "created_at": "28/02/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3600, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 19, 
+            "name": "Acci\u00f3 comunit\u00e0ria", 
+            "position": 3
+        }, 
+        "summary": "Proposem la creaci\u00f3 d'un Casal de Barri  perqu\u00e8 a Horta no n'hi ha. El centre c\u00edvic  Matas i Ramis \u00e9s insuficient i per aix\u00f2 necessitem un altre equipament.", 
+        "title": "Casal de Barri a Horta", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 36, 
+        "url": "https://decidim.barcelona/pam/proposals/casal-de-barri-a-horta", 
+        "votable": null, 
+        "voted": null
+    }
+}

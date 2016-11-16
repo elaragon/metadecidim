@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 18951, 
+            "name": "Bi", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 18951, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9468", 
+        "conflictive": false, 
+        "created_at": "07/04/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 9468, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Reformar e l carrer Cera un dels accessos al Raval mes importante i amb una aflu\u00e8ncia de Camions, furgonetes, cotxes i persones. \u00c9s un carrer que historicamente i comercialment ha estat molt important per\u00f2 actualment aquesta saturada de caminis de desc\u00e0rrega, furgonestas que contaminen i dany les fa\u00e7anes de les finques les embruta i el soroll.", 
+        "title": "Disminuir l'exc\u00e9s de transport pesat del Carrer de  la Cera ", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/disminuir-l-exces-de-transport-pesat-del-carrer-de-la-cera", 
+        "votable": null, 
+        "voted": null
+    }
+}

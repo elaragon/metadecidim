@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-597", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 597, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 5, 
+            "name": "Cicles de vida ", 
+            "position": 5
+        }, 
+        "summary": "Donar suport a l\u2019experi\u00e8ncia duta a terme als barris de la Marina i estendre-la a la resta de barris.  Treballar en 4 \u00e0mbits:  salut, educaci\u00f3, serveis socials i seguretat, amb atenci\u00f3 especial a la comunicaci\u00f3, com a \u00e0mbit transversal.", 
+        "title": "Consolidaci\u00f3 i creaci\u00f3 de taules d'inf\u00e0ncia, adolesc\u00e8ncia i fam\u00edlia (TIAF)", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 8, 
+        "url": "https://decidim.barcelona/pam/proposals/consolidacio-i-creacio-de-taules-d-infancia-adolescencia-i-familia-tiaf", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 7631, 
+            "name": "Ruben Moreno", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 7631, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3319", 
+        "conflictive": false, 
+        "created_at": "23/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "Veure legislaci\u00f3 actual", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3319, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Conseguir regular la normativa sobre la hora de apertura / tancament de les propostes culturals de 22-03:00h com \u00e9s l'actual ,passar-ho de 21-04:00h excepte festius (fins les 06:00h) controlar els limitadors de pot\u00e8ncia ya que la normativa fins ara es molt dura.", 
+        "title": "Oci nocturn", 
+        "total_comments": 3, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/oci-nocturn", 
+        "votable": null, 
+        "voted": null
+    }
+}

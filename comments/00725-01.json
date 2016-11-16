@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5092, 
+                "name": "Ram\u00f3n ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Deber\u00eda prohibirse la utilizaci\u00f3n de la megafon\u00eda para la llamada a misa o \"radiar\" la propia misa los domingos y fiestas cat\u00f3licas significativas, por dos motivos; la contaminaci\u00f3n ac\u00fastica y la libertad de culto. El entorno del Santuario de la Mare de Deu de la Salut de Les Planes, personas, animales y plantas, agradecer\u00eda dejar de sufrir esa fuente de contaminaci\u00f3n.</p>", 
+            "commentable_id": 725, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/02/2016 14:20:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1632, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6219, 
+                "name": "I.G.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La iniciativa s'hauria d'estendre als barris de la muntanya. Vallvidrera i els altres barris haurien de tenir un tractament ac\u00fastic, lum\u00ednic. i de qualitat de l'aire especial, amb una regulaci\u00f3 que fos pionera a la ciutat. Haur\u00edem de ser el referent ambiental de Barcelona pel fet d'estar immersos dins d'un parc Natural.</p>", 
+            "commentable_id": 725, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 11:01:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4978, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

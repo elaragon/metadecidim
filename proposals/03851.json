@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10210, 
+            "name": "Gloria Dova", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 10210, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3851", 
+        "conflictive": false, 
+        "created_at": "03/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3851, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Los carteles situados en los sem\u00e1foros que informa del nombre  la pr\u00f3xima calle son poco visibles y la letras son demasiado peque\u00f1as. Por ello, si se adecuasen a las necesidades de la circulaci\u00f3n se evitar\u00edan giros temerosos y accidentes por conductores que intentan rectificar su marcha.", 
+        "title": "Carteles de los sem\u00e1foros con el nombre de las calles m\u00e1s grandes", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 3, 
+        "total_positive_comments": 0, 
+        "total_votes": 6, 
+        "url": "https://decidim.barcelona/pam/proposals/carteles-de-los-semaforos-con-el-nombre-de-las-calles-mas-grandes", 
+        "votable": null, 
+        "voted": null
+    }
+}

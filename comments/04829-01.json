@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7572, 
+                "name": "X.V", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Nom\u00e9s faltaria aix\u00f2. Que a m\u00e9s a m\u00e9s de multar-nos ens puguin disparar.\n<br />El que cal \u00e9s eliminar les zones verdes i blaves, el carrer \u00e9s de tots\n</p>", 
+            "commentable_id": 4829, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 11:35:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4774, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/fora-motos-de-les-voreres\">https://decidim.barcelona/proposals/fora-motos-de-les-voreres</a></p>", 
+            "commentable_id": 4829, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 23:13:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 18453, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4774", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 512, 
+                "name": "Solidaritat Catalana per la Independ\u00e8ncia", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En aquest sentit podem estar d'acord,per\u00f2 cal tenir present que aquests treballadors/es han patit diverses agressions i per tant,entenem que cal que tinguin una certa protecci\u00f3.Gr\u00e1cies pel teu comentari! :)</p>", 
+            "commentable_id": 4829, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 13:15:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4804, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

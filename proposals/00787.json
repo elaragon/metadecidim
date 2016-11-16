@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-787", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 787, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Crear un espai de participaci\u00f3 per al desenvolupament d\u2019una mem\u00f2ria plural i democr\u00e0tica en l\u2019espai p\u00fablic que tingui en compte el passat industrial, la mem\u00f2ria obrera i cooperativa, aix\u00ed com la docent i la comercial. Recuperar i visibilitzar la mem\u00f2ria de les dones.", 
+        "title": "Comissi\u00f3 de Treball per a la Recuperaci\u00f3 de la Mem\u00f2ria Hist\u00f2rica de Sant Andreu", 
+        "total_comments": 9, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 9, 
+        "total_positive_comments": 0, 
+        "total_votes": 18, 
+        "url": "https://decidim.barcelona/pam/proposals/comissio-de-treball-per-a-la-recuperacio-de-la-memoria-historica-de-sant-andreu", 
+        "votable": null, 
+        "voted": null
+    }
+}

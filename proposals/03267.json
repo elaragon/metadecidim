@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 7205, 
+            "name": "Associaci\u00f3 de Ve\u00efns i Amics del Passatge Ali\u00f3, 12 baixos", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 7205, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3267", 
+        "conflictive": false, 
+        "created_at": "22/02/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3267, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "En dita cru\u00eflla i ha la font monumental m\u00e9s antiga de Barcelona i t\u00e9 forma de rotonda i els conductors pensen que \u00e9s una rotonda quan no ho \u00e9s per la circulaci\u00f3. Est\u00e0 amb una senyalitzaci\u00f3 insuficient.  Demanem un pictograma gran abans del sem\u00e0for amb l\u2019esquema de la circulaci\u00f3.  Demanem modificar el disseny circular per un altre en forma de pera c", 
+        "title": "Cru\u00eflla Passeig de Sant Joan amb C\u00f2rsega.  Rotonda font d\u2019H\u00e8rcules", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 8, 
+        "url": "https://decidim.barcelona/pam/proposals/cruilla-passeig-de-sant-joan-amb-corsega-rotonda-font-d-hercules", 
+        "votable": null, 
+        "voted": null
+    }
+}

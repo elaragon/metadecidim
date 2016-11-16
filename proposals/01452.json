@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2210, 
+            "name": "martinmel", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2210, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1452", 
+        "conflictive": false, 
+        "created_at": "04/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1452, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Dar libertad al colectivo de artistas callejeros residentes en Barcelona de reconocido prestigio internacional para que puedan realizar su trabajo en puntos estrat\u00e9gicos de la ciudad, aprovechando  la diversidad tur\u00edstica y riqueza cultural que \u00e9sta aporta, como se permite en las grandes ciudades europeas.", 
+        "title": "fomentar la intervencion de espectaculos art\u00edsticos en la via p\u00fablica", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 31, 
+        "url": "https://decidim.barcelona/pam/proposals/fomentar-la-intervencion-de-espectaculos-artisticos-en-la-via-publica", 
+        "votable": null, 
+        "voted": null
+    }
+}

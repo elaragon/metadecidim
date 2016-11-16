@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8672", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8672, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 17, 
+            "name": "Energia i canvi clim\u00e0tic", 
+            "position": 5
+        }, 
+        "summary": "\r\nLes pol\u00edtiques ambientals han de ser priorit\u00e0ries del PAM. S\u2019argumenta que al mateix nivell s\u2019ha promoure la just\u00edcia social i la just\u00edcia ambiental.\r\n", 
+        "title": "Prioritzar els criteris ambientals i de reducci\u00f3 de la contaminaci\u00f3 com a \u00e0mbit principal d\u2019actuaci\u00f3 del PAM 2016-2019. ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/prioritzar-els-criteris-ambientals-i-de-reduccio-de-la-contaminacio-com-a-ambit-principal-d-actuacio-del-pam-2016-2019", 
+        "votable": null, 
+        "voted": null
+    }
+}

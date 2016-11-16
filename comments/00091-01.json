@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/equipaments-9822b3bf-1f09-4634-a8c4-d3879b9d6719\">https://decidim.barcelona/proposals/equipaments-9822b3bf-1f09-4634-a8c4-d3879b9d6719</a></p>", 
+            "commentable_id": 91, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/04/2016 18:26:14", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14113, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/patis-oberts-als-equipaments-educatius-bfdb88e8-404c-411e-b180-b2f15fc018b5\">https://decidim.barcelona/proposals/patis-oberts-als-equipaments-educatius-bfdb88e8-404c-411e-b180-b2f15fc018b5</a></p>", 
+            "commentable_id": 91, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/04/2016 18:30:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14117, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

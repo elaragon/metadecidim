@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2444, 
+            "name": "Albert Vil\u00e0 Picas", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2444, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2677", 
+        "conflictive": false, 
+        "created_at": "15/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.multascea.es/recurrir/58-conoce-el-margen-de-error-de-los-radares", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2677, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "L'Ajuntament de Barcelona imposa multes de 100\u20ac per circular a 50.1 km/h.\r\nS'hauria de considerar un marge d'error i revisar-ne l'efectivitat.", 
+        "title": "Respectar marge d'error radar per exc\u00e9s de velocitat", 
+        "total_comments": 4, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 13, 
+        "url": "https://decidim.barcelona/pam/proposals/respectar-marge-d-error-radar-per-exces-de-velocitat", 
+        "votable": null, 
+        "voted": null
+    }
+}

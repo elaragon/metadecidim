@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 409, 
+            "name": "Pepe C.", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 409, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5387", 
+        "conflictive": false, 
+        "created_at": "16/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.lavanguardia.com/local/sevilla/20160316/40472980879/primera-banca-publica-en-espana-cero-por-ciento-interes-sevilla.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5387, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 11, 
+            "name": "Economia cooperativa, social i solid\u00e0ria", 
+            "position": 2
+        }, 
+        "summary": "Crear una banca p\u00fablica municipal per finan\u00e7ar l'economia local, especialment l'ESS, que doni pr\u00e8stecs al 0%. En el cas de BCN, es proposa fer una banca descentralitzada per Districtes on les forces de cada Ple estiguin representades en els Consells d'Adm adhoc. El ve\u00efnat definiria i controlaria els criteris \u00e8tics i socials d'actuaci\u00f3.", 
+        "title": "Crear una banca p\u00fablica municipal (sense interessos)", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 6, 
+        "url": "https://decidim.barcelona/pam/proposals/crear-una-banca-publica-municipal-sense-interessos", 
+        "votable": null, 
+        "voted": null
+    }
+}

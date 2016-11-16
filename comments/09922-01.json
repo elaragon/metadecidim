@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 22468, 
+                "name": "Plataforma per una Fiscalitat Justa, ambiental i solid\u00e0ria", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": false
+            }, 
+            "body": "<p>Aquesta proposta porta impl\u00edcita que les activitats amb \u00e0nim de lucre no haurien de tenir bonificacions d'IBI (com les de propietats de l'Esglesia amb activitat econ\u00f2mica i beneficis).</p>\n\n<p>La presumpta exempci\u00f3 d'IBI de l'Esgl\u00e9sia no \u00e9s tal, segons regula el mateix acord de 1979 entre Espanya i la Santa Seu (aquest acord diu que s\u00f3n exemptes les activitats lucratives), i segons ha sentenciat el tribunal suprem (veure la sent\u00e8ncia del Tribunal Suprem del 4 d'abril del 2014: <a href=\"http://www.fiscal-impuestos.com/exenci%C3%B3n-ibi-inmuebles-iglesia-catolica-tribunal-supremo.html\">http://www.fiscal-impuestos.com/exenci%C3%B3n-ibi-inmuebles-iglesia-catolica-tribunal-supremo.html</a>) \n<br />L'exempci\u00f3 d'IBI de l'Esgl\u00e9sia \u00e9s doncs m\u00e9s fruit de la pr\u00e0ctica i la in\u00e8rcia que de que la llei ho estableixi aix\u00ed, i \u00e9s, per tant, revisable.</p>", 
+            "commentable_id": 9922, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 23:49:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11523, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

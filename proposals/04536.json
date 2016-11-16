@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10945, 
+            "name": "INSTITUT BARCELONA-CONGR\u00c9S", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 10945, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4536", 
+        "conflictive": false, 
+        "created_at": "09/03/2016", 
+        "district": {
+            "id": 8, 
+            "name": "Nou Barris"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4536, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Augmentar les hores de dedicaci\u00f3 dels professionals dels EAP (psicopedagogs, treballadora social) i d'integraci\u00f3 social (extensi\u00f3 tamb\u00e9 a prim\u00e0ria) tot atenent al nombre de casos a atendre en cada districte i no amb criteris uniformes.", 
+        "title": "Augmentar les hores de dedicaci\u00f3 dels professionals dels EAP i d'integraci\u00f3 social ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 16, 
+        "url": "https://decidim.barcelona/pam/proposals/augmentar-les-hores-de-dedicacio-dels-professionals-dels-eap-i-d-integracio-social", 
+        "votable": null, 
+        "voted": null
+    }
+}

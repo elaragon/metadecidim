@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10862, 
+                "name": "Glo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Son proyectos que aprovechan los recursos del barrio y que hacen del espacio vecinal un lugar m\u00e1s humano. No te los pierdas, busca en Internet y ver\u00e1s qu\u00e9 interesantes</p>", 
+            "commentable_id": 4245, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/03/2016 10:49:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3914, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

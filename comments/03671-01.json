@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7229, 
+                "name": "benua", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aix\u00f2 no \u00e9s una proposta, \u00e9s un comentari.\n<br />Quina \u00e9s la teva proposta?</p>", 
+            "commentable_id": 3671, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/03/2016 11:07:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3142, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7229, 
+                "name": "benua", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/desallotjar-el-solars-ocupats-del-barri-del-coll\">https://decidim.barcelona/proposals/desallotjar-el-solars-ocupats-del-barri-del-coll</a></p>", 
+            "commentable_id": 3671, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/03/2016 11:43:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3151, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6739, 
+                "name": "Salvador Barrau V.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Una societat eq uilibrada ha de resoldre aquests problemes des de l'administraci\u00f3. Una societat equilibrada es quella que els rics i els pobres viuen amb dignitat. Cal retornar la dignitat a qui pot haver-la perdut i ajudar-los. Es un tema uqe ha de resoldre ajuntament,generalitat i estat, ja que hi han immigrants. Alguns extrangers son europeus,els recursos han de ser publics. I el ve\u00efns han de ser neutrals i inclos a favor del m\u00e9s debil</p>", 
+            "commentable_id": 3671, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/03/2016 18:02:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3674, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

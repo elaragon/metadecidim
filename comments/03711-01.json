@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1320, 
+                "name": "Aurora MF", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Barcelona Activa t\u00e9 subvencions molt bones per a fomentar les contractacions de persones amb m\u00e9s de 40 anys: <a href=\"http://aplicnotes.barcelonactiva.cat/aplic/subvencions/bonscompromis.nsf/inicio?openform&amp;IDI=ES\">http://aplicnotes.barcelonactiva.cat/aplic/subvencions/bonscompromis.nsf/inicio?openform&amp;IDI=ES</a></p>", 
+            "commentable_id": 3711, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/03/2016 23:34:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6349, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/pla-de-xoc-contra-l-atur-de-molt-llarga-durada\">https://decidim.barcelona/proposals/pla-de-xoc-contra-l-atur-de-molt-llarga-durada</a></p>", 
+            "commentable_id": 3711, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 11:56:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8336, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 6473, 
+            "name": "Jaume Layola", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 6473, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3804", 
+        "conflictive": false, 
+        "created_at": "03/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3804, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "\u00c9s paranormal que els bars puguin tancar a les 03 hores i les terrasses a les tantes de la matinada ,( el soroll mata) els ve\u00efns han de tancar portes i finestres, sigui amb calor sufocant, per preservar, als nens petits perqu\u00e8 puguin dormir, persones que s\u00b4han de aixecar d\u00b4hora per treballar, i contribuir amb els seus impostos al manteniment del A ", 
+        "title": "Que condicionen els horaris de bars i terrasses a la necessitat i qualitat  de vida dels ve\u00efns-es", 
+        "total_comments": 7, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 4, 
+        "total_votes": 32, 
+        "url": "https://decidim.barcelona/pam/proposals/que-condicionen-els-horaris-de-bars-i-terrasses-a-la-necessitat-i-qualitat-de-vida-dels-veins-es", 
+        "votable": null, 
+        "voted": null
+    }
+}

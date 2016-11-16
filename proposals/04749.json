@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4749", 
+        "conflictive": false, 
+        "created_at": "12/03/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 4749, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Cal millorar el manteniment de la piscina que s'ha quedat antiga. Fa fred als passadissos, es podria estudiar implantar algun sistema de calefacci\u00f3. Els jardins del recinte de la piscina estan molt descuidats i en mal estat, amb molta vegetaci\u00f3 seca:  perill d\u2019incendi.\r\n", 
+        "title": "Millora del manteniment de les instal\u00b7lacions i entorn de la Piscina Municipal de Trinitat Vella", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 8, 
+        "url": "https://decidim.barcelona/pam/proposals/millora-del-manteniment-de-les-instal-lacions-i-entorn-de-la-piscina-municipal-de-trinitat-vella", 
+        "votable": null, 
+        "voted": null
+    }
+}

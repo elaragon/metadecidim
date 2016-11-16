@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 19201, 
+            "name": "Grup d'arquitectes Eixample COAC", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 19201, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8744", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "https://www.dropbox.com/sh/jgi83o65al1coo9/AAARA2DvcSen2YLMI1uXPL5Ba?dl=0", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8744, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Grup de treball Arquitectes de l\u2019Eixample. COAC 2016. Com a professionals de l\u2019Arquitectura i de l\u2019 Urbanisme, per\u00f2 sobretot com a ve\u00efns de l\u2019Eixample, volem fer p\u00fablic el document adjunt, donant a con\u00e8ixer les nostres opinions en relaci\u00f3 als d\u00e8ficits i oportunitats de l\u2019espai p\u00fablic i els equipaments en els barris de l'Eixample .", 
+        "title": "D\u00e8ficits i oportunitats d\u2019equipaments i espai p\u00fablic a l\u2019Eixample. ", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 11, 
+        "url": "https://decidim.barcelona/pam/proposals/deficits-i-oportunitats-d-equipaments-i-espai-public-a-l-eixample", 
+        "votable": null, 
+        "voted": null
+    }
+}

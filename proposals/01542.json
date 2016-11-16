@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2614, 
+            "name": "Waldorapaz", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2614, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1542", 
+        "conflictive": false, 
+        "created_at": "06/02/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1542, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Estudiar un plan de movilidad que alivie los brutales colapsos que genera el C.Comercial La Maquinista durante los fines de semana, un plan de movilidad no solo pensado para el centro comercial sino tambi\u00e9n para todos los vecinos que residimos en los alrededores del centro. Que la zona no sea una c\u00e1rcel los fines de semana", 
+        "title": "Plan de Movilidad para zona Maquinista/Sant Andreu/B.Pastor", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 50, 
+        "url": "https://decidim.barcelona/pam/proposals/plan-de-movilidad-para-zona-maquinista-sant-andreu-b-pastor", 
+        "votable": null, 
+        "voted": null
+    }
+}

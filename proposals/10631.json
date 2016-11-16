@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10631", 
+        "conflictive": false, 
+        "created_at": "09/04/2016", 
+        "district": {
+            "id": 8, 
+            "name": "Nou Barris"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 10631, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Aix\u00f2 seria una acci\u00f3 per augmentar la predisposici\u00f3 de la ciutadania vers la compra de cotxes i motos el\u00e8ctriques. Hauria d\u2019estar acompanyada d\u2019un pl\u00e0nol d\u2019ubicaci\u00f3 en paper i digital per difondre l\u2019\u00fas d\u2019altres energies.", 
+        "title": "Incrementar el nombre de carregadors per a cotxes el\u00e8ctrics.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/incrementar-el-nombre-de-carregadors-per-a-cotxes-electrics", 
+        "votable": null, 
+        "voted": null
+    }
+}

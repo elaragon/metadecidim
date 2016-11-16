@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 12172, 
+            "name": "albertgs12", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 12172, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4864", 
+        "conflictive": false, 
+        "created_at": "14/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.barcelonapirineus2026.org/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4864, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Barcelona t\u00e9 l'oportunitat de reviure el somni ol\u00edmpic, per\u00f2 ara de la m\u00e0 dels Pirineus on s'organitzarien les cites que tenen m\u00e9s a veure amb els esports de neu (esqu\u00ed alp\u00ed, n\u00f2rdic, etc) i a la ciutat on es disputarien les proves relacionades amb els esports de gel (hoquei gel, patinatge, etc). Tamb\u00e9 es millorarien les infraestructures.", 
+        "title": "Impulsar la candidatura ol\u00edmpica Barcelona-Pirineus 2026", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/impulsar-la-candidatura-olimpica-barcelona-pirineus-2026", 
+        "votable": null, 
+        "voted": null
+    }
+}

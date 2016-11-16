@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 926, 
+                "name": "Toni51", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En principio es una idea razonable, pero quien primero deberia opinar son las personas que trabajan los dias festivos. Hay personas que \u00fanicamente trabajan estos dias de fiesta, por lo que si los anulan se quedan sin trabajar.</p>", 
+            "commentable_id": 1531, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/02/2016 11:24:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1136, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3449, 
+                "name": "Helena b", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ning\u00fa pensa en els treballadors..tenen una vida tambe eh?</p>", 
+            "commentable_id": 1531, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/02/2016 16:54:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1174, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9821, 
+                "name": "marina puig", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No apertura! Nunca en festivos!!</p>", 
+            "commentable_id": 1531, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/03/2016 22:42:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3278, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1136", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2777, 
+                "name": "F.T", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Yo trabajo en un comercio del centro y trabajo festivos, te aseguro que hago la propuesta porque conozco lo que supone trabajar en festivo de primera mano. En mi empresa no se contrata a gente para que solo trabaje sabados y domingos, trabajamos los de siempre y no te puedes negar a trabajar. A mi, si se contratara solo personas que quisieran trabajar los festivos, estupendo, pero la realidad es otra y muy diferente a lo que muchos piensan. Los trabajadores del centro estamos atados de pies y manos y a merced de los empresarios y de las decisiones del ayuntamiento que son los \u00fanicos que pueden acabar con esto.</p>", 
+            "commentable_id": 1531, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/02/2016 16:11:47", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1170, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

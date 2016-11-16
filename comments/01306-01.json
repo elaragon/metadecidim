@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 588, 
+                "name": "dmendez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Mesura interessant. Les zones 30 s\u00f3n sovint vies on els vehicles motoritzats superen \u00e0mpliament (i sense dificultat) la velocitat m\u00e0xima permesa. Aquesta \u00e9s una q\u00fcesti\u00f3 que l'ajuntament hauria de fer front per reduir el risc d'atropellaments als passos de vianants i facilitar la circulaci\u00f3 en bicicleta per l'asfalt.</p>", 
+            "commentable_id": 1306, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/02/2016 22:08:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 504, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 164, 
+                "name": "J. Gabriel Gallart", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>He obert aquesta proposta, espero el vostre suport:  <a href=\"https://decidim.barcelona/proposals/incloure-el-faldo-excepte-bicicletes-als-senyals-de-direccio-prohibida-de-les-plataformes-uniques\">https://decidim.barcelona/proposals/incloure-el-faldo-excepte-bicicletes-als-senyals-de-direccio-prohibida-de-les-plataformes-uniques</a></p>", 
+            "commentable_id": 1306, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 18:57:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4262, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/ampliacio-de-les-zones-de-pacificacio-del-transit-zones-30-zones-20-i-zones-10\">https://decidim.barcelona/proposals/ampliacio-de-les-zones-de-pacificacio-del-transit-zones-30-zones-20-i-zones-10</a></p>", 
+            "commentable_id": 1306, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 19:39:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17604, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 484, 
+            "name": "Ada Garcia M", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 484, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1179", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1179, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "El barri del Guinard\u00f3 \u00e9s un barri  residencial, per aix\u00f2 contrasta el fet que manquen carrers peatonals.  Necessitem un espai lliure de vehicles per on passejar. El barri est\u00e0 format per carrers molt petits on, a m\u00e9s, hi fa molta pujada, les voreres s\u00f3n molt estretes i dificulten el pas tant als nens com a la gent gran. Volem carrers per la gent.", 
+        "title": "Necessitat de carrers peatonals al Barri del Guinard\u00f3", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 3, 
+        "total_votes": 47, 
+        "url": "https://decidim.barcelona/pam/proposals/necessitat-de-carrers-peatonals-al-barri-del-guinardo", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 21570, 
+                "name": "Jordi Callej\u00f3n", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aquest parterres amb plantes tan altes nomes fan que acumular bruticia.S\u00b4hauria de repensar quin tipus de plantes s\u00b4hi posen, no nomes per la neteja de la pla\u00e7a sino per la visibilitzaci\u00f3. A vegades no veus qui esta sentat als bancs darrere d\u00e1 quests parterres i crea una mica d\u00b4inseguretat.\n<br />Penso que amb una m\u00ednima inversi\u00f3 podria quedar molt mes maco i mes cohesionador, al estil del parc de les culleres, entre rambla del poblenou i els carrers pallars i pujades, just darrera de la ludoteca, pero sense area de joc infantil no li cal a aquesta pla\u00e7a, ja que ubica una escola i no seria positiu per als veins que hi viuen.</p>", 
+            "commentable_id": 4272, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 15:35:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10999, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2921", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2921, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 11, 
+            "name": "Economia cooperativa, social i solid\u00e0ria", 
+            "position": 2
+        }, 
+        "summary": "Afavorir la creaci\u00f3 i el manteniment de grups cooperatius i altres formes d\u2019intercooperaci\u00f3 (com l\u2019economia col\u00b7laborativa transformadora) tot impulsant la implementaci\u00f3, de manera participada, d\u2019una moneda social i el mercat social a trav\u00e9s d\u2019eines en l\u00ednia, de fires territorials i sectorials i de la compra i contractaci\u00f3 p\u00fablica \u00e8tica i responsable.Els exemples de moneda social com els de Bristol, Tolouse o Nantes demostren que \u00e9s una manera efica\u00e7 de promoure el desenvolupament territorial i de generar un efecte multiplicador de la riquesa creada a la ciutat, ja que beneficien el petit i mitj\u00e0 comer\u00e7 i la creaci\u00f3 del mercat social.", 
+        "title": "Suport a la intercooperaci\u00f3 empresarial, social i comunit\u00e0ria", 
+        "total_comments": 10, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 10, 
+        "total_positive_comments": 0, 
+        "total_votes": 12, 
+        "url": "https://decidim.barcelona/pam/proposals/suport-a-la-intercooperacio-empresarial-social-i-comunitaria", 
+        "votable": null, 
+        "voted": null
+    }
+}

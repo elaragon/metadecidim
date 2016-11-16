@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 5000, 
+            "name": "Consell de Barri Sagrada Fam\u00edlia", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 5000, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2357", 
+        "conflictive": false, 
+        "created_at": "12/02/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2357, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 26, 
+            "name": "Govern transparent  i rendici\u00f3 de comptes", 
+            "position": 1
+        }, 
+        "summary": "Sessions de treball parit\u00e0ries, e-Govern, Open Data, Tecnologia i pol\u00edtica, e-voto, informaci\u00f3 sobre dret acc\u00e9s a informaci\u00f3, web on els ciutadans puguin proposar projectes.", 
+        "title": "Millora en els canals de comunicaci\u00f3 amb l'Ajuntament.", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 9, 
+        "url": "https://decidim.barcelona/pam/proposals/millora-en-els-canals-de-comunicacio-amb-l-ajuntament-39d0567d-70b5-4c22-b2b3-60dd87e4f8c6", 
+        "votable": null, 
+        "voted": null
+    }
+}

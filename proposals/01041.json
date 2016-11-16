@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-1041", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": {
+            "id": 8, 
+            "name": "Nou Barris"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1041, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 5, 
+            "name": "Cicles de vida ", 
+            "position": 5
+        }, 
+        "summary": "Dissenyar un pla per millorar l\u2019ocupaci\u00f3 en els sectors d\u2019edat joves, amb la col\u00b7laboraci\u00f3 de les entitats i col\u00b7lectius juvenils.  Coordinar recursos i projectes com ara el Pla de garantia juvenil, amb l\u2019assessorament i impuls del serveis sociolaborals per a joves existents a l'Espai Jove Les Basses.", 
+        "title": "Pla d\u2019ocupaci\u00f3 juvenil", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 33, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-d-ocupacio-juvenil", 
+        "votable": null, 
+        "voted": null
+    }
+}

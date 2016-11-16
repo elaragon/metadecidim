@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 22240, 
+            "name": "Associaci\u00f3 l'Esquitx", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 22240, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10241", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 10241, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 6, 
+            "name": "Habitatge", 
+            "position": 6
+        }, 
+        "summary": "Que des de l'Ajuntament es vetlli perqu\u00e8 els ve\u00cfns dels barris de Ciutat Vella puguin continuar als barris, creant pol\u00edtiques de regulaci\u00f3 de l'especulaci\u00f3 immobiliaria (que fan pujar el preu dels habitatges, mobbing immobiliari). En definitiva pol\u00edtiques que protegeixin als ve\u00efns, i especialment els que es trobin en situacions m\u00e9s vulnerables.\r\n", 
+        "title": "Pol\u00edtiques d'arrelament i habitatge", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/politiques-d-arrelament-i-habitatge", 
+        "votable": null, 
+        "voted": null
+    }
+}

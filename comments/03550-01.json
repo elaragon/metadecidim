@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5723, 
+                "name": "Nuria Graell G", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Per favor, perseguir,  immobilitzar i sancionar amb molta m\u00e9s contund\u00e8ncia les motos que fan molt m\u00e9s soroll del que \u00e9s soportable per les persones, i la seva qualitat de vida. La contaminaci\u00f3 ac\u00fastica de Barcelona \u00e9s insufrible, i moltes motos de segur que s\u00f3n ilegals i no els passa r\u00e8s. Gr\u00e0cies</p>", 
+            "commentable_id": 3550, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/02/2016 23:35:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2880, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9244, 
+                "name": "Olga guti", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Regularitzar tamb\u00e9 el aparcar en les voreres,  en molts carrers petits dificulta el pas als vianants.</p>", 
+            "commentable_id": 3550, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/02/2016 10:01:00", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3032, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11117, 
+                "name": "paramo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>campanya per sensibilitzar els motoristes per l'utilitzaci\u00f2 responsble d'aquest vehicle - velocitat,circulaci\u00f2 correcta, aparcament. Gr\u00e0cies</p>", 
+            "commentable_id": 3550, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 12:33:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4790, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

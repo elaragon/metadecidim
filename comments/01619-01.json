@@ -1,0 +1,242 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9821, 
+                "name": "marina puig", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Amb incentius, perqu\u00e8 sin\u00f3, no ho veig clar...No crec que les comunitats de ve\u00efns hi accedeixin sin\u00f3 \u00e9s amb incentius....</p>", 
+            "commentable_id": 1619, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/03/2016 22:17:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3256, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7672, 
+                "name": "lascore", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hi ha propostes similars o iguals:</p>\n\n<p><a href=\"https://decidim.barcelona/proposals/terrats-verds\">https://decidim.barcelona/proposals/terrats-verds</a>   377 vots\n<br /><a href=\"https://decidim.barcelona/proposals/permacultura-urbana-als-balcons-i-terrats\">https://decidim.barcelona/proposals/permacultura-urbana-als-balcons-i-terrats</a>     10 vots\n<br /><a href=\"https://decidim.barcelona/proposals/uns-barris-i-una-ciutat-verds\">https://decidim.barcelona/proposals/uns-barris-i-una-ciutat-verds</a>    1 vot\n</p>", 
+            "commentable_id": 1619, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 23:49:56", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4931, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3588, 
+                "name": "monica", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Crec que lo primer \u00e9s mostrar possibilitats i demostrar els avantatges de fer servir els terrats per plaques solars i plantes. Segur que hi ha exemples interesants a difondre. Tamb\u00e9 d'heures per afegir verd a les fasanes  esxteriors i interior o a fanals. I pot ser organitar un concurs de bones pr\u00e0ctiques.</p>", 
+            "commentable_id": 1619, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 01:58:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11542, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 22916, 
+                "name": "pelonegro", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En esta l\u00ednea llevan trabajando colectivos como ENCAJES URBANOS, pero las trabas administrativas hacen d\u00edficil su realizaci\u00f3n. AZOTEAS VERDES Y VECINALES. ENJOY YOUR ROOFTOP!</p>", 
+            "commentable_id": 1619, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 13:42:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12125, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3256", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3322, 
+                "name": "Carrie", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>si es clar te que haber un tipus de subvenci\u00f3 o incentiu</p>", 
+            "commentable_id": 1619, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 14:08:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12186, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "11542", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3322, 
+                "name": "Carrie", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>gr\u00e0cies</p>", 
+            "commentable_id": 1619, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 14:08:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12187, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "12125", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3322, 
+                "name": "Carrie", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>pues ojal\u00e1 el consistorio libere esas trabas administrativas y adem\u00e1s os subvencione para poder promocionar ersta incicitiva</p>", 
+            "commentable_id": 1619, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 14:09:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12194, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

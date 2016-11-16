@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12034, 
+                "name": "N\u00faria Camacho", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>S\u00f3c barcelonina de naixement, tot i que ara visc fora, per\u00f2 tinc fam\u00edlia i amics a la ciutat aix\u00ed que hi baixo sovint. Cada vegada que haig d'anar al Guinard\u00f3 i agafar el 55 perqu\u00e8 el metro queda massa lluny, \u00e9s indignant el mal servei que hi ha, passen poqu\u00edssims, i trigo entre una hora i una hora i mitja des del centre de Barcelona fins al Guinard\u00f3. \u00c9s trist per\u00f2 arribo abans a Londres des de casa meva que des del centre a Guinard\u00f3.  </p>", 
+            "commentable_id": 3684, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/03/2016 21:09:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4707, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12257, 
+                "name": "Miquel dRM", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Sempre m'ha semblat que el barri del Guinard\u00f3, pel fet de ser tant accidentat i de que el metro nom\u00e9s hi arriba de forma \"perif\u00e8rica\", hauria de beneficiar-se d'un servei d'autobusos refor\u00e7at. </p>", 
+            "commentable_id": 3684, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 17:13:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4857, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4707", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9174, 
+                "name": "Susana Palma", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord: \u00e9s habitual veure passar 3 i 4 autobusos d'altres l\u00ednies per cada 55 a hores punta, i els autobusos van plen\u00edssims, gent gran de peu... I gaireb\u00e9 tothom que l'agafa al centre puja al Guinard\u00f3 o a prop, perqu\u00e8 ning\u00fa que tingui una altra l\u00ednia a prop o un metro a l'abast s'espera a aquesta l\u00ednia que ara funciona lamentablement. Caldria refor\u00e7ar molt\u00edssim el servei!</p>", 
+            "commentable_id": 3684, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 01:15:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4730, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4707", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9174, 
+                "name": "Susana Palma", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>I \u00e9s m\u00e9s trist encara quan, en comptes d'altres l\u00ednies de bus convencional, el que veus passar s\u00f3n 4 i 5 busos tur\u00edstics: els turistes poden moure's sense problemes, no solen tenir moltes presses i, fora d'\u00e8poca, els seus busos, sempre dobles, van completament buits... en canvi, se'ls cuida molt m\u00e9s que als ciutadans! Lamentable!</p>", 
+            "commentable_id": 3684, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 01:18:31", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4731, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

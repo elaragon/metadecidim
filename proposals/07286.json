@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 15762, 
+            "name": "Assemblea BCom\u00fa La Verneda Sant Mart\u00ed", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 15762, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7286", 
+        "conflictive": false, 
+        "created_at": "29/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7286, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 18, 
+            "name": "Participaci\u00f3 ciutadana", 
+            "position": 2
+        }, 
+        "summary": "Que l'Ajuntament i el districte comuniqui abans a les Associacions de ve\u00efns i ve\u00efnes aquelles actuacions significatives que es faran al seu territori (per exemple: reformar un parc infantil, donar una llic\u00e8ncia de nova activitat, instal\u00b7lar un pipi-can, , donar permisos a un nou bar d'oci nocturn, implantaci\u00f3 d'una benzinera...)", 
+        "title": "Comunicar la proposta d'actuacions a les AAVV", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 1, 
+        "total_votes": 10, 
+        "url": "https://decidim.barcelona/pam/proposals/comunicar-la-proposta-d-actuacions-a-les-aavv", 
+        "votable": null, 
+        "voted": null
+    }
+}

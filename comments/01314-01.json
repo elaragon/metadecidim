@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7333, 
+                "name": "Ana M\u00aa Mu\u00f1oz M\u00e1rmol", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El projecte d'ampliaci\u00f3 permetria fer un nou menjador que pugui donar servei a tots els nens sense necessitat de for\u00e7ar torns de menjador. L'Institut necessita aules i tots dos centres necessiten nous espais polivalents. Fa anys es va aprovar i pagar un projecte que mai s'ha materialitzat i ja ha quedat obsolet. On ha anat a parar?</p>", 
+            "commentable_id": 1314, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/02/2016 19:48:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2417, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10414, 
+                "name": "Sonia83", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>pagat  i tot... tela... endavant!</p>", 
+            "commentable_id": 1314, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/03/2016 08:56:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3619, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12530, 
+                "name": "Rogeret", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>el que caldria tamb\u00e9 \u00e9s revisar el projecte \"educatiu\" en general, i en concret el de menjador ja que al meu parer no fonamenta l'autonomia de l'infant ni respecta la seva llibertat, almenys a P3 es serveix el menjar servit i tallat, sense q l'infant pugi regular el que vol menjar ni pugui tallar-se l'aliment</p>", 
+            "commentable_id": 1314, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 12:42:22", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5010, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/ampliar-i-millorar-el-ceip-ignasi-iglesias-ceip-ferran-i-clua-ies-alzina-i-ceip-mestre-gibert\">https://decidim.barcelona/proposals/ampliar-i-millorar-el-ceip-ignasi-iglesias-ceip-ferran-i-clua-ies-alzina-i-ceip-mestre-gibert</a></p>", 
+            "commentable_id": 1314, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 19:02:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17551, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 12303, 
+            "name": "Xavier Barreras Merino", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 12303, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8587", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8587, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Com que les T12 s\u00f3n de pl\u00e0stic, aquestes s'arruguen o es trenquen cada dos per tres. Quan passa, hem d'esperar gaireb\u00e9 un mes per tenir la nova targeta. \r\nPer aix\u00f2, demano que les targetes T12 siguin de cartr\u00f3, com una T10 normal i corrent, perqu\u00e8 aix\u00ed no hem de tenir cap problema en bescanviar les T12. A m\u00e9s, demano que es vengui a les m\u00e0quines.", 
+        "title": "Que les T12 estiguin fetes de cartr\u00f3, com les altres targetes", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/que-les-t12-estiguin-fetes-de-cartro-com-les-altres-targetes", 
+        "votable": null, 
+        "voted": null
+    }
+}

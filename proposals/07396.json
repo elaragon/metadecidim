@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 13290, 
+            "name": "procomuns.net", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 13290, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7396", 
+        "conflictive": false, 
+        "created_at": "30/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://procomuns.net/ca/politiques/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7396, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 20, 
+            "name": "Administraci\u00f3  intel\u00b7ligent i inclusiva", 
+            "position": 4
+        }, 
+        "summary": "Com a mesura de transici\u00f3 que l\u2019administraci\u00f3 comenci a utilitzar xarxes socials, plataformes i serveis d\u2019Internet lliures i/o distribu\u00efts en paral\u00b7lel als que fa servir, i comunicar a la ciutadania que pot seguir o relacionar-se a trav\u00e9s d\u2019aquests.", 
+        "title": "Canviar com opera internament l\u2019Ajuntament en alguns fronts vinculats al procom\u00fa: pres\u00e8ncia municipal en xarxes socials lliures i distribu\u00efdes", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/canviar-com-opera-internament-l-ajuntament-en-alguns-fronts-vinculats-al-procomu-presencia-municipal-en-xarxes-socials-lliures-i-distribuides", 
+        "votable": null, 
+        "voted": null
+    }
+}

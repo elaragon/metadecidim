@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2896", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2896, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Continuar amb l\u2019impuls dels programes que promouen l\u2019h\u00e0bit de la lectura. Paral\u00b7lelament, i en el marc de Barcelona, Ciutat Liter\u00e0ria, promoure el treball dels escriptors, epicentre de la creaci\u00f3 liter\u00e0ria, aix\u00ed com donar suport a la tasca de llibreters, editors i traductors. Seguir treballant en la l\u00ednia de destacar les biblioteques com a prescriptors culturals, i impulsar la visibilitzaci\u00f3 del patrimoni literari a l\u2019espai urb\u00e0.", 
+        "title": "Pla de foment a la lectura i la difusi\u00f3 del llibre", 
+        "total_comments": 8, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 7, 
+        "total_positive_comments": 1, 
+        "total_votes": 38, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-de-foment-a-la-lectura-i-la-difusio-del-llibre", 
+        "votable": null, 
+        "voted": null
+    }
+}

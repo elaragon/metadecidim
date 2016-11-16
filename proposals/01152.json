@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 340, 
+            "name": "Consell d'Associacions de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 340, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1152", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://cab.cat/Noticies/presentem-l-informe-de-diagnosi-de-les-subvencions-per-a-la-realitzacio-de-projectes-activitats-i-serveis-2014.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1152, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 19, 
+            "name": "Acci\u00f3 comunit\u00e0ria", 
+            "position": 3
+        }, 
+        "summary": "Malgrat que es d\u00f3na per suposat que les subvencions estan adre\u00e7ades a les entitats sense \u00e0nim de lucre, actualment hi ha \u00e0mbits i programes als quals es poden presentar empreses. Des de les associacions de la ciutat apostem perqu\u00e8 la relaci\u00f3 de l\u2019administraci\u00f3 amb les empreses ha de ser amb altres mecanismes.", 
+        "title": "Convocat\u00f2ria general de subvenions  nomes per entitats sense anim de lucre", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 2, 
+        "total_votes": 22, 
+        "url": "https://decidim.barcelona/pam/proposals/convocatoria-general-de-subvenions-nomes-per-entitats-sense-anim-de-lucre", 
+        "votable": null, 
+        "voted": null
+    }
+}

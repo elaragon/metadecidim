@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 16012, 
+            "name": "rafafede", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 16012, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7347", 
+        "conflictive": false, 
+        "created_at": "30/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7347, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Cal incloure el Dret de Connexi\u00f3 entre les necessitats b\u00e0siques. Avui no \u00e9s possible accedir a productes o serveis b\u00e0sics (cita m\u00e8dica, etc) sense internet. El cost anual d'un paquet comercial b\u00e0sic supera el 600 euros. El % de comunitats de ve\u00efns amb morosos supera el 25%. La pensi\u00f3 m\u00ednima est\u00e0 en 630 bruts. Una opci\u00f3 s\u00f3n les xarxes lliures. ", 
+        "title": "Dret de Connexio. Acc\u00e9s a Internet", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 2, 
+        "total_votes": 16, 
+        "url": "https://decidim.barcelona/pam/proposals/dret-de-connexio-acces-a-internet", 
+        "votable": null, 
+        "voted": null
+    }
+}

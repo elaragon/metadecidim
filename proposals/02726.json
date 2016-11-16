@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 3499, 
+            "name": "aurora alvarez", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 3499, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2726", 
+        "conflictive": false, 
+        "created_at": "17/02/2016", 
+        "district": {
+            "id": 8, 
+            "name": "Nou Barris"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2726, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 5, 
+            "name": "Cicles de vida ", 
+            "position": 5
+        }, 
+        "summary": "El Kasal de Joves Roquetes necessita un nou empla\u00e7ament. Al carrer on \u00e9s ara, no poden desenvolupar amb calma les seves activitats. D'altra banda, l'amfiteatre de Roquetes \u00e9s un espai sense \u00fas, que \u00e9s necessari pel barri dinamitzar. Ajuntem les dues necessitats i oportunitats fent un nou Casal de Joves a l'amfiteatre de Roquetes", 
+        "title": "Casal de Joves Roquetes a l'Amfiteatre", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 26, 
+        "url": "https://decidim.barcelona/pam/proposals/casal-de-joves-roquetes-a-l-amfiteatre", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-867", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 867, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 4, 
+            "name": "Equitat de g\u00e8nere i diversitat sexual", 
+            "position": 4
+        }, 
+        "summary": "Crear una taula de treball interdepartamental i interadministrativa amb tots els actors centrals (judicatura, fiscalia, cossos de seguretat, entitats socials, immigraci\u00f3, etc\u00e8tera) per revisar i definir el circuit d\u2019actuaci\u00f3 de tots els agents a la ciutat, per definir indicadors de detecci\u00f3 i per millorar el sistema de protecci\u00f3 de les v\u00edctimes.", 
+        "title": "Coordinar els agents que intervenen contra el tr\u00e0fic de dones", 
+        "total_comments": 9, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 9, 
+        "total_positive_comments": 0, 
+        "total_votes": 19, 
+        "url": "https://decidim.barcelona/pam/proposals/coordinar-els-agents-que-intervenen-contra-el-trafic-de-dones", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A la cita presencial de l'Escola Pia de Sant Antoni, els adolescents van proposar fer restricci\u00f3 de tr\u00e0nsit per reduir la contaminaci\u00f3 a la ciutat. Van proposar que es restring\u00eds els tr\u00e0nsit de dilluns a divendres el Centre (a partir de carrer Arag\u00f3 cap al mar) , on el centre fos per als vianants i els cotxes privats no poguessin transitar, o b\u00e9 fer-ho per matr\u00edcules parelles o imparelles segons la setmana o el dia.</p>", 
+            "commentable_id": 6938, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 11:52:10", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6952, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "6952", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14959, 
+                "name": "Carles90ar", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La restricci\u00f3 seria un bon m\u00e8tode com a transici\u00f3 cap a l'objectiu de buidar la ciutat de cotxes o b\u00e9 de permetre alguns despla\u00e7aments puntuals un cop feta.</p>", 
+            "commentable_id": 6938, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 10:41:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8274, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

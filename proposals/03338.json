@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 6762, 
+            "name": "Miquel Ruscalleda Bota", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 6762, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3338", 
+        "conflictive": false, 
+        "created_at": "23/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "www.mobilicat.net", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3338, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Unificar el Bicing i el BiciBox amb bicicletes p\u00fabliques i privades i una xarxa d\u2019aparcaments segurs que incloguin altres servei com el BiciPark del carrer Num\u00e0ncia i gestionat per un organisme que incorpori entitats de la bicicleta i finan\u00e7ament necessari a partir dels recursos provinents de l'\u00e0rea blava i verda i abast metropolit\u00e0.", 
+        "title": "La Bicicleta P\u00fablica a Barcelona -  Bicing", 
+        "total_comments": 8, 
+        "total_negative_comments": 2, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 21, 
+        "url": "https://decidim.barcelona/pam/proposals/la-bicicleta-publica-a-barcelona-bicing", 
+        "votable": null, 
+        "voted": null
+    }
+}

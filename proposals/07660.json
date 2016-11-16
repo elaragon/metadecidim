@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7660", 
+        "conflictive": false, 
+        "created_at": "31/03/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 7660, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Es considera que aquesta connexi\u00f3 \u00e9s insuficient, per freq\u00fc\u00e8ncies de pas i ubicaci\u00f3 de les parades d'autob\u00fas, en haver-hi problemes per accedir al CAP de Sant Andreu (Avinguda Meridiana), deguda a la gran pendent del Carrer Concepci\u00f3 Arenal (des de la parada de l\u2019autob\u00fas 11 del Passeig Fabra i Puig).", 
+        "title": "Millorar la connexi\u00f3 de transport p\u00fablic en superf\u00edcie entre el Bon Pastor i el CAP de Sant Andreu (Avinguda Meridiana)", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 5, 
+        "url": "https://decidim.barcelona/pam/proposals/millorar-la-connexio-de-transport-public-en-superficie-entre-el-bon-pastor-i-el-cap-de-sant-andreu-avinguda-meridiana", 
+        "votable": null, 
+        "voted": null
+    }
+}

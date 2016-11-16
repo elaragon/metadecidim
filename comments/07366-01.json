@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16089, 
+                "name": "Joan Diaz", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si volem una societat inclusiva \u00e9s absolutament necessari establir mesures de discriminaci\u00f3 positiva envers les persones amb m\u00e9s dificultats</p>", 
+            "commentable_id": 7366, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 12:55:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6966, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16116, 
+                "name": "Marisa Gasc\u00f3n", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Una ciutat solid\u00e0ria ha d'oferir oportunitats als m\u00e9s vulnerables.</p>", 
+            "commentable_id": 7366, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 13:37:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6975, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

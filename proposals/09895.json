@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9895", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9895, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Es podria fer entregant un indicador perqu\u00e8 els puguin identificar. Es comenta aquesta situaci\u00f3 que tamb\u00e9 afecta a la ciutadania, no nom\u00e9s als comer\u00e7os, perqu\u00e8 hi ha moltes fam\u00edlies que han de descarregar els seus fills del cotxe i de vegades aix\u00f2 es fa complicat amb l'aparcament existent", 
+        "title": "Permetre la c\u00e0rrega i desc\u00e0rrega pels ve\u00efns i comerciants del Carrer Gran de Sant Andreu", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/permetre-la-carrega-i-descarrega-pels-veins-i-comerciants-del-carrer-gran-de-sant-andreu", 
+        "votable": null, 
+        "voted": null
+    }
+}

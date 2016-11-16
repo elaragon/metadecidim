@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 369, 
+                "name": "Maclaren", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Sempre que sigui dintre d'una estrat\u00e8gia global de mobilitat sotenible, canvi de model economic cap la indutralitzaci\u00f3 i desenvolupament tecnol\u00f3gic de base local. </p>", 
+            "commentable_id": 1395, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 15:47:47", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 934, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

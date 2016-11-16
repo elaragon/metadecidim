@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9931", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9931, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Quan  des dels diferents serveis p\u00fablics es dissenyen intervencions que afecten a infants-joves-fam\u00edlies, fer-ho col\u00b7locant en el centre de les decisions els propis afectats per les mateixes, per tal de comptar amb els recursos que ells mateixos i la seva xarxa poden activar (p.e. metodologies com les confer\u00e8ncies de grup familiar).", 
+        "title": "Tornar a situar a les persones al centre de a intervenci\u00f3, com a subjectes de la seva salut mental i no com objectes.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/tornar-a-situar-a-les-persones-al-centre-de-a-intervencio-com-a-subjectes-de-la-seva-salut-mental-i-no-com-objectes", 
+        "votable": null, 
+        "voted": null
+    }
+}

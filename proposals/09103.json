@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9103", 
+        "conflictive": false, 
+        "created_at": "07/04/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/meetings/esplai-abat-cassia-barcelona-mes-humana-i-en-transicio-ecologica", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9103, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Els infants de l\u2019esplai Abat Cassi\u00e0 van estar debatent diferents millores pel medi ambient de la ciutat. Van proposar augmentar el nombre de sem\u00e0fors al barri degut a la quantitat d\u2019embussos de cotxe que hi ha.", 
+        "title": "M\u00e9s sem\u00e0fors al barri de Gr\u00e0cia", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/mes-semafors-al-barri-de-gracia", 
+        "votable": null, 
+        "voted": null
+    }
+}

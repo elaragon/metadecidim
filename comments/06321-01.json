@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 23309, 
+                "name": "Rosa M Gomez Farran", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>F\u00c0CIL SOLUCI\u00d3: Nom\u00e9s que els autocars acreditats de fer visita tur\u00edstica amb GUIA OFICIAL i AMB RESERVA CONFIRMADA DE SAGRADA FAMILIA (ja que molts grups nom\u00e9s fan la volta per fora), poguessin encotxar i desencotxar en un altre espai alternatiu (a escollir entre l'Ajuntament i el ve\u00efnat), es repartirien les marabuntes humanes de c/ Marina i Sardenya entre altres rutes i disminuiria l'IMPACTE sobre els dos carrers mencionats.</p>", 
+            "commentable_id": 6321, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 19:50:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12623, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

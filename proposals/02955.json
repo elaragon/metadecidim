@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2955", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2955, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 17, 
+            "name": "Energia i canvi clim\u00e0tic", 
+            "position": 5
+        }, 
+        "summary": "Programa de rehabilitaci\u00f3 transversal d\u2019edificis d\u2019habitatges i equipaments amb l\u2019objectiu de millorar l\u2019habitabilitat, l\u2019accessibilitat, la sostenibilitat, la salubritat, la seguretat i el paisatge urb\u00e0, incrementar l\u2019efici\u00e8ncia energ\u00e8tica, aconseguir habitatges de lloguer social, actuar sobre conjunts urbans que requereixen una atenci\u00f3 especial i  millorar l\u2019ocupaci\u00f3.", 
+        "title": "Estrat\u00e8gia per impulsar la rehabilitaci\u00f3", 
+        "total_comments": 6, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 4, 
+        "total_positive_comments": 2, 
+        "total_votes": 36, 
+        "url": "https://decidim.barcelona/pam/proposals/estrategia-per-impulsar-la-rehabilitacio", 
+        "votable": null, 
+        "voted": null
+    }
+}

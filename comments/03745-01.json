@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10061, 
+                "name": "Reivax", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>S\u00f3c usuari diari de bicicleta i, excepte casos molt concrets que a tots els col\u00b7lectius es troben, crec que no existeix l'esmentat problema generalitzat de conviv\u00e8ncia. Aix\u00f2 si, conci\u00e8nciar per a evitar incidents i malentesos sempre esta b\u00e9.</p>", 
+            "commentable_id": 3745, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/03/2016 09:39:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3418, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12688, 
+                "name": "Jaume Mestres i Capitan", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Las bicicletas, skaters, etc. son para paises donde la gente es educada y con principios de convivencia, no para este pa\u00eds </p>", 
+            "commentable_id": 3745, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/03/2016 21:19:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5824, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14546, 
+                "name": "angel.guardia", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>S\u00f3c usuari de bicicleta a ciutat vella i visc a Portaferrissa, vaig cada dia i torno de la feina en bicicleta perqu\u00e8 em sembla sostenible i a m\u00e9s crec que hi tinc tot el dret, sincerament veig zero empatia dels vianants cap a la gent que utilitzem bicicleta per despla\u00e7ar-nos, et veuen venir i tenen espai per apartar-se i no fan ni el gest, la majoria de cops et miren com si fossis un monstre tot i que vagis a poc a poc... No ho entenc! </p>", 
+            "commentable_id": 3745, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/03/2016 17:06:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6474, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/ordenacio-dels-vehicles-de-mobilitat-personal\">https://decidim.barcelona/proposals/ordenacio-dels-vehicles-de-mobilitat-personal</a></p>", 
+            "commentable_id": 3745, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 17:03:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 16016, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

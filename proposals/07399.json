@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7399", 
+        "conflictive": false, 
+        "created_at": "30/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 7399, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Impulsar des de l\u2019administraci\u00f3 i la comunitat educativa la revaloritzaci\u00f3 de l\u2019educaci\u00f3 f\u00edsica com a eina pedag\u00f2gica en l\u2019\u00e0mbit de l\u2019educaci\u00f3 en general.", 
+        "title": "Posar en valor l\u2019educaci\u00f3 f\u00edsica en l\u2019\u00e0mbit educatiu. ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/posar-en-valor-l-educacio-fisica-en-l-ambit-educatiu", 
+        "votable": null, 
+        "voted": null
+    }
+}

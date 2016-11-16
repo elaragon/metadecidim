@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8386", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8386, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Donat que la comunicaci\u00f3 \u00e9s clau per arribar a la gent del barri i que aquesta s\u00e0piga qu\u00e8 passa cal fer una comunicaci\u00f3 a escala de barri. Sortir al carrer i aprofitar actes a l'espai p\u00fablic per fer difusi\u00f3 de la programaci\u00f3 cultural.  Fer-ho individualment \u00e9s molt dificil. Cal sumar esfor\u00e7os  aprofitar espais. ", 
+        "title": "Aprofitar trobades i esdeveniments a l'espai p\u00fablic per fer difusi\u00f3 de l'activitat cultural", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/aprofitar-trobades-i-esdeveniments-a-l-espai-public-per-fer-difusio-de-l-activitat-cultural", 
+        "votable": null, 
+        "voted": null
+    }
+}

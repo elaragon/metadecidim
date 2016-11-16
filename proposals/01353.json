@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1734, 
+            "name": "Cristina Palou Moreno", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1734, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1353", 
+        "conflictive": false, 
+        "created_at": "03/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1353, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Vivim en una ciutat molt bruta. I la prova \u00e9s que tenim la ciutat plena de pintades a les parets, persianes, bancs, per tot arreu...\r\nPots veure la difer\u00e8ncia quan viatges per les ciutats d'Europa i no trobes cap graffiti.\r\nProposo sancions econ\u00f2miques i que repintin les zones pintades.\r\nPROU BRUTICIA I INCIVISME!  ", 
+        "title": "PROU GRAFITIS A BARCELONA", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 22, 
+        "url": "https://decidim.barcelona/pam/proposals/prou-grafitis-a-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

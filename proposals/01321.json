@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1377, 
+            "name": "Marc Guallar", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1377, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1321", 
+        "conflictive": false, 
+        "created_at": "03/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1321, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Impulsar l'actuaci\u00f3 dels Consells Escolars (de centre, de districe i de Barcelona) de cara a seguir tenint una eina important i primordial per a l'educaci\u00f3 de la ciutat. Conviv\u00e8ncia, participaci\u00f3 i decisi\u00f3, van de la m\u00e0 dels consells que hi ha a la ciutat. No s'hauria de perdre de vista si volem una ciutat amb una gran millora educativa.", 
+        "title": "Consells Escolars amb m\u00e9s implicaci\u00f3 ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 10, 
+        "url": "https://decidim.barcelona/pam/proposals/consells-escolars-mes-implicats", 
+        "votable": null, 
+        "voted": null
+    }
+}

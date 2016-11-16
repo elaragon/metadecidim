@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9459", 
+        "conflictive": false, 
+        "created_at": "07/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9459, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Instar a les administracions competents per a garantir l\u2019acc\u00e9s p\u00fablic i equitatiu als serveis de salut mental i bucodental.  Cal estudiar i donar resposta a l\u2019acc\u00e9s desigual que a l\u2019actualitat es d\u00f3na amb les persones amb discapacitat intel\u2022lectual que per poder fer els tractaments requereixen de sedaci\u00f3.", 
+        "title": "Instar a les administracions competents per a garantir l\u2019acc\u00e9s p\u00fablic i equitatiu als serveis de salut mental i bucodental", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/instar-a-les-administracions-competents-per-a-garantir-l-acces-public-i-equitatiu-als-serveis-de-salut-mental-i-bucodental", 
+        "votable": null, 
+        "voted": null
+    }
+}

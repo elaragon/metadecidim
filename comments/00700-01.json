@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5414, 
+                "name": "Quim Sans ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Per con\u00e8ixer amb m\u00e9s detall la proposta i qui la fa, podeu  clicar aqu\u00ed :\n<br /><a href=\"http://www.amcvallvidrera.org/?page_id=27\">http://www.amcvallvidrera.org/?page_id=27</a>\n<br /><a href=\"http://www.amcvallvidrera.org/?page_id=13\">http://www.amcvallvidrera.org/?page_id=13</a>\n</p>", 
+            "commentable_id": 700, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/02/2016 17:35:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2024, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9343, 
+                "name": "decidim sarri\u00e0-sant gervasi", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta ampliada al debat \"Som Joves\" amb la seg\u00fcent: <a href=\"https://decidim.barcelona/proposals/usos-del-mercat-de-vallvidrera-per-als-joves\">https://decidim.barcelona/proposals/usos-del-mercat-de-vallvidrera-per-als-joves</a>\n</p>", 
+            "commentable_id": 700, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/03/2016 09:47:10", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6485, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/casals-de-barri-a-la-zona-de-turo-park-i-a-galvany\">https://decidim.barcelona/proposals/casals-de-barri-a-la-zona-de-turo-park-i-a-galvany</a></p>", 
+            "commentable_id": 700, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 20:34:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 18425, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

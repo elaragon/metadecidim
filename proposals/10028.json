@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 21651, 
+            "name": "patrimm", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 21651, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10028", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": {
+            "id": 8, 
+            "name": "Nou Barris"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 10028, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "En el Pseo. Urrutia los \u00e1rboles tienen muchos mosquitos o lo que sean (muy peque\u00f1itos. Entran en las casas y como el a\u00f1o pasado hay que poner mosquiteras y no dejan pasar el aire y si los mosquitos. Tampoco han podado bien los \u00e1rboles a pesar de haber puesto muchas quejas no han querido hacerlo m\u00e1s ni mejor.", 
+        "title": "desparasitar \u00e1rboles en Paseo Urrutia y podar mejor", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/desparasitar-arboles-en-paseo-urrutia-y-podar-mejor", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/definir-els-nous-equipaments-sociosanitaris-en-particular-per-atendre-les-drogodependencies-al-districte-de-les-corts\">https://decidim.barcelona/proposals/definir-els-nous-equipaments-sociosanitaris-en-particular-per-atendre-les-drogodependencies-al-districte-de-les-corts</a></p>", 
+            "commentable_id": 2438, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/04/2016 11:11:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 13464, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/centre-d-atencio-primaria\">https://decidim.barcelona/proposals/centre-d-atencio-primaria</a></p>", 
+            "commentable_id": 2438, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/04/2016 11:16:27", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 13478, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/ambulatori-compartit-barcelona-l-hospitalet-a-collblanc\">https://decidim.barcelona/proposals/ambulatori-compartit-barcelona-l-hospitalet-a-collblanc</a></p>", 
+            "commentable_id": 2438, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/04/2016 11:25:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 13497, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

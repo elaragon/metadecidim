@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 993, 
+                "name": "Pep\u00edn L\u00f3pez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>afegiria... i que tots el barris poguessin gaudir d'alguna mostra d'art fixe (escultura, estatua, art abstracte, street art, etc) que, potser, en algun moment es converteixi en un simbol identificatiu d'aquest barri    </p>", 
+            "commentable_id": 1473, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/02/2016 18:39:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1189, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

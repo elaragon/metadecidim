@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 13147, 
+            "name": "cecili", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 13147, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8972", 
+        "conflictive": false, 
+        "created_at": "07/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8972, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Es vol concentrar tot el verd en el parc dels tres turons i generar un pulm\u00f3 per Barcelona. \r\nNo respirar\u00eda molt millor Barcelona  si es recuperes totes les pla\u00e7es p\u00fabliques de Barcelona que havien sigut verdes i que ara s\u00f3n de ciment?\r\nSurt molt m\u00e9s econ\u00f3mic que expropiar tot un barri hist\u00f2ric per plantar quatre pins.", 
+        "title": "Expropiar tot un barri", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/expropiar-tot-un-barri", 
+        "votable": null, 
+        "voted": null
+    }
+}

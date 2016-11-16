@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2585, 
+                "name": "maria  marrugat", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aquest    projecta   es   molt   interessant,   per   potenciar-lo    son    molt   importants  i  necessaris   \" els   voluntaris   \"    enimeusa </p>", 
+            "commentable_id": 16, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/03/2016 12:26:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4599, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/potenciar-la-funcio-del-projecte-radars-per-detectar-casos-d-exclusio-de-gent-gran-a-gracia\">https://decidim.barcelona/proposals/potenciar-la-funcio-del-projecte-radars-per-detectar-casos-d-exclusio-de-gent-gran-a-gracia</a></p>", 
+            "commentable_id": 16, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 19:29:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12615, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/replicar-el-projecte-radars-als-barris-de-vallcarca-i-penitens\">https://decidim.barcelona/proposals/replicar-el-projecte-radars-als-barris-de-vallcarca-i-penitens</a></p>", 
+            "commentable_id": 16, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 19:32:00", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12616, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/social-ampliar-projecte-radars\">https://decidim.barcelona/proposals/social-ampliar-projecte-radars</a></p>", 
+            "commentable_id": 16, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 19:32:21", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12617, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

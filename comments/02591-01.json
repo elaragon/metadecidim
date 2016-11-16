@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10599, 
+                "name": "lafinacolomer", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Per\u00f2 de deb\u00f2: amb mitjans i mesures sancionadores greus i clausurant aquells establiments il\u00b7legals. Cal ajudar les comunitats de ve\u00efns a protegir-se.</p>", 
+            "commentable_id": 2591, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/03/2016 20:27:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3752, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14490, 
+                "name": "Maria  LP", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Respecte a la Llei.- Respectar la legislaci\u00f3 i molt especialment, l\u2019esperit de la llei en totes les normatives municipals de l\u2019Ajuntament de Barcelona, aix\u00f2 vol dir, donar exemple de bona practica en les actuacions municipals en l\u2019\u00e0mbit del turisme.\n<br />a.\tRespectar el dret de propietat (Llibre V de CCC 4\u00aa part), la llei auton\u00f2mica de turisme (Decret 159/2012), el codi civil (art. 1582 RD 24/07/1889) i les directives europees de consum col\u2022laboratiu.\n</p>", 
+            "commentable_id": 2591, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 15:01:10", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6149, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9811", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/meetings/ies-alzina-una-barcelona-diversa-que-asseguri-el-bon-viure", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9811, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Els estudiants que assisteixen a l'aula de refor\u00e7 escolar de l'IES Alzina van reclamar que es garant\u00eds l\u2019acc\u00e9s universal i gratu\u00eft a tota la poblaci\u00f3: operacions, medicaments, pr\u00f2tesis, ulleres... tot all\u00f2 que t\u00e9 un cost i \u00e9s necessari per millorar la salut de les persones, sobretot aquells medicaments que s\u00f3n per tractaments de llarga durada. ", 
+        "title": "Garantir l'acc\u00e9s universal a la salut: ulleres, medicaments, pr\u00f2tesis, etc. gratu\u00efts! ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/garantir-l-acces-universal-a-la-salut-ulleres-medicaments-protesis-etc-gratuits", 
+        "votable": null, 
+        "voted": null
+    }
+}

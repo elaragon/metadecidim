@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 94, 
+                "name": "Genis Barrera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Poc a poc s'ha d'anar reduint la zona d'aparcament en superf\u00edcie subvencionat com \u00e9s la zona verda i blava. Aquest espai ha de ser espai p\u00fablic pel vianant/ciutad\u00e0 i no per aparcar un vehicle privat </p>", 
+            "commentable_id": 1136, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 10:26:26", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 188, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "188", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 301, 
+                "name": "Marc Colomer", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Vas molt lluny i \"ojal\u00e0\" sigui aix\u00ed i que s'elimini del tot les zones de pagament per poder estacionar al carrer sense problemes ni costos. La meva proposta l'he fet en un sentit m\u00e9s realista, ja que veig bastant improbable que treguin les zones de pagament. Per\u00f2 com he dit al principi \"ojal\u00e0\" fos aix\u00ed. \n<br />Gr\u00e0cies pel teu comentari.</p>", 
+            "commentable_id": 1136, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 13:32:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 247, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

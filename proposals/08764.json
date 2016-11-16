@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8764", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8764, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Incloure accions que promoguin una millora de la implementaci\u00f3 de la Llei de Depend\u00e8ncia amb un increment, amb qualitat del treball, del nombre de treballadores familiars i ajuda a domicili. Desplegar la Llei de Depend\u00e8ncia exercint les compet\u00e8ncies del r\u00e8gim local.", 
+        "title": "Promoure una millora de la implementaci\u00f3 de la Llei de Depend\u00e8ncia", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/promoure-una-millora-de-la-implementacio-de-la-llei-de-dependencia", 
+        "votable": null, 
+        "voted": null
+    }
+}

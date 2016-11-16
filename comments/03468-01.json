@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9025, 
+                "name": "Jos\u00e9", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Jo personalment no seria tan partid\u00e0ria d'introduir noves excepcions fiscals com de donar m\u00e9s subvencions a les entitats que ho necessitin. No disminuir ingressos per\u00f2 si repartir millor els ajuts (o donar-ne m\u00e9s).</p>", 
+            "commentable_id": 3468, 
+            "commentable_type": "Proposal", 
+            "created_at": "27/02/2016 22:30:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2922, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 827, 
+                "name": "Marga", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Jo crec que no s'ha de subvencionar ni treure impostos. Es pot revisar tot el que fa refer\u00e8ncia a si els impostos que es cobren calen, i sobretot en qu\u00e8 s'inverteixen, per\u00f2 \u00e9s la manera de tenir diners per cobrir les necessitats de tots els ciutadans. </p>", 
+            "commentable_id": 3468, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 16:17:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6594, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

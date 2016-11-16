@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1159, 
+            "name": "manut\u00edn", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1159, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3353", 
+        "conflictive": false, 
+        "created_at": "24/02/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3353, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "Desde hace muchos a\u00f1os, el Ayuntamiento de Barcelona est\u00e1 m\u00e1s preocupado por la imagen exterior y por el \"postureo\" que por mejorar la calidad de vida de los vecinos que los sustentan con sus impuestos. Por tanto, creo que una soluci\u00f3n f\u00e1cil ser\u00eda trasladar el #MWC16 a la Plaza de la Font d'en Fargas para que los congresistas disfrutaran del lugar.", 
+        "title": "Trasladar el Mobile World Congress a la plaza de la Font d'en Fargas", 
+        "total_comments": 4, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 6, 
+        "url": "https://decidim.barcelona/pam/proposals/trasladar-el-mobile-world-congress-a-la-plaza-de-la-font-d-en-fargas", 
+        "votable": null, 
+        "voted": null
+    }
+}

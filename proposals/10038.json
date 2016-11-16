@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 16809, 
+            "name": "JOSE LUIS RODRIGUEZ FRIED", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 16809, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10038", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 10038, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Cientos de miles de vecinos concienciados con el reciclaje  tenemos en casa hasta 4 recipientes para separar los distintos residuos, y aun asi exiten bomillas electricas, baterias, moviles, etc, que no se  mezclan y debemos llevar hasta los puntos verdes.  una cosa es ser conscientes y otra trabajar gratis para las companias de reciclaje privadas.", 
+        "title": "Afegir un contenidor m\u00e9s als ja existents en cada carrer anomenat  \"punt verd generic\"", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/afegir-un-contenidor-mes-als-ja-existents-en-cada-carrer-anomenat-punt-verd-generic", 
+        "votable": null, 
+        "voted": null
+    }
+}

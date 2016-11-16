@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 3717, 
+            "name": "Salvador Pastor Blasco", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 3717, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6870", 
+        "conflictive": false, 
+        "created_at": "26/03/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6870, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "dada la situaci\u00f3n geogr\u00e1fica del barrio entre sant mart\u00ed y ciutat vella, es como si fuera una tierra de nadie,con equipamientos,algunos como la universidad,el zooo, pero esto ha hecho que se descuiden espacios p\u00fablicos degradados,hay que mantenerlos y estudiar qu\u00e9 hacer con la zona de vias ,al descubierto que van para la estaci\u00f3n de renfe defrancia", 
+        "title": "estudiar y desarrollar un nuevo urbanismo en las zonas y espacios potenciales del barrio del parc y la llacuna de poblenou", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/estudiar-y-desarrollar-un-nuevo-urbanismo-en-las-zonas-y-espacios-potenciales-del-barrio-del-parc-y-la-llacuna-de-poblenou", 
+        "votable": null, 
+        "voted": null
+    }
+}

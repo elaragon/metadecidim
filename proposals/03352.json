@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 217, 
+            "name": "ACister\u00f3", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 217, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3352", 
+        "conflictive": false, 
+        "created_at": "24/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3352, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 18, 
+            "name": "Participaci\u00f3 ciutadana", 
+            "position": 2
+        }, 
+        "summary": "At\u00e8s que la din\u00e0mica de participaci\u00f3 ha de ser constant, un Butllet\u00ed (digital) podr\u00eda mantenir el lligam amb molta gent que, sense participar activament, sent inter\u00e8s pels afers que aquesta activitat genera. A partir d'aqu\u00ed, seria m\u00e9s f\u00e0cil per a molta m\u00e9s gent entrar en processos participatius.", 
+        "title": "Crear un \"Butllet\u00ed de la Participaci\u00f3\"", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 10, 
+        "url": "https://decidim.barcelona/pam/proposals/crear-un-butlleti-de-la-participacio", 
+        "votable": null, 
+        "voted": null
+    }
+}

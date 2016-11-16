@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9188, 
+                "name": "josep timon", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Respecte a l'increment d'oferta p\u00fablica d'escola bressol que es vol desenvolupar primer s'hauria de valorar si realment hi ha demanda al respecte, en concret el 5% quasi d'oferta p\u00fablica no va ser coberta en primera instancia el curs passat, d'aquest no en tinc les dades, per\u00f2 a la plana web municipal s'ofereixen les EBM amb disponibilitat de places a data febrer 2016. Tamb\u00e9 s'ha de valorar que la reducci\u00f3 de la demanda ha provocat el tancament d'antigues escoles bressol privades amb autoritzaci\u00f3, tres els darrers cursos al voltant del Can\u00f2drom. Per\u00f2 els pol\u00edtics no volen aportar solucions, nom\u00e9s inaugurar noves escoles, aix\u00f2 serveix per a socialistes, convergents i l'equip actual. \u00c9s necessari mantenir l'oferta p\u00fablica i privada, ajudar a les fam\u00edlies que porten els seus fills a les escoles privades a que puguin redu\u00efr el cost fins a nivell municipal i, molt important i urgent\u00edssim, procedir al tancament de totes les llars d'infants il.legals, 4 centres al voltant del Can\u00f2drom.</p>", 
+            "commentable_id": 3063, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/02/2016 22:13:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3006, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3006", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12353, 
+                "name": "Alejman", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Don\u00e7 no se a on,  per que a La Sagrera la meva nena es va quedar fora,  nom\u00e9s hi han 2 al barri </p>", 
+            "commentable_id": 3063, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 20:20:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4891, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

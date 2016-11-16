@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 827, 
+                "name": "Marga", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Em sembla be la primera part de la proposta, que els impostos siguin progressius quan s'inicia una activitat, per\u00f2 les subvencions est\u00e0 demostrat que no fan que una activitat funcionai, al contrari. Per tant si una activitat no funciona es tanca. L'Ajuntament ha de garantir serveis b\u00e0sics a tots els ciutadans, les subvencions no van be.</p>", 
+            "commentable_id": 1116, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 19:19:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6638, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 181, 
+                "name": "crismon", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Veure cost de ser autonom. Comparativa de forbes.<a href=\"http://www.forbes.es/actualizacion/2625/cuanto-cuesta-ser-autonomo-en-europa/3\">http://www.forbes.es/actualizacion/2625/cuanto-cuesta-ser-autonomo-en-europa/3</a></p>", 
+            "commentable_id": 1116, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 19:52:01", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6645, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 181, 
+                "name": "crismon", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Fomentar l'empleabilitat a discapacitat amb subvencions paliaria les retallades se les exempcions fiscals a la contractacio amb la derogacio amb real decreto 1/2013 de 29 noviembre que </p>", 
+            "commentable_id": 1116, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 20:00:34", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6647, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

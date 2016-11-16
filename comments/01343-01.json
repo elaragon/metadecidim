@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 581, 
+                "name": "CarmeG", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Jo he fet una proposta similar per\u00f2 indicant que necessitem espais verds amb condicions i no pipicans petits de sorra (quan plou s\u00b4enfanga). Tamb\u00e9 he proposat una part de la platja on puguin anar els gossos estiu/ hivern. </p>", 
+            "commentable_id": 1343, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 10:08:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 564, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

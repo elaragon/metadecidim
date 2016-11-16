@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8761, 
+            "name": "Ventura Gileto", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 8761, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3565", 
+        "conflictive": false, 
+        "created_at": "26/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3565, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "At\u00e9s l'incivisme de molts, no tots, usuaris del carril bici, no cicilistes habituals , i convertirse en una situaci\u00f3 de perill i risc per els vianants creuar en zones on est\u00e0 instaurat, caldria revisar-ho i fer que nom\u00e9s sigui d'un sentit de la marxa , a l'igual que els cotxes .\u00e9s un debat que hi ha al carrer com tamb\u00e9 als mitjans com al diaris.", 
+        "title": "Replantegament dels carrils bici de doble sentit en carrers de sentit \u00fanic de circulaci\u00f3", 
+        "total_comments": 39, 
+        "total_negative_comments": 2, 
+        "total_neutral_comments": 3, 
+        "total_positive_comments": 0, 
+        "total_votes": 20, 
+        "url": "https://decidim.barcelona/pam/proposals/replantegament-dels-carrils-bici-de-doble-sentit-en-carrers-de-sentit-unic-de-circulacio", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 19058, 
+                "name": "jgilvent", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Facilitar i subvencionar les rehabilitacions portades a terme per ciutadans particulars, contribuents a l'IBI de la ciutat, sempre que la propietat estigui ocupada i en \u00fas i tingui pendents reformes i millores derivades de la Inspecci\u00f3 T\u00e8cnica de l'Edifici o per millorar l'efici\u00e8ncia energ\u00e8tica de la propietat.</p>", 
+            "commentable_id": 735, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 10:55:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8286, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

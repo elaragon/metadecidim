@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10664, 
+                "name": "Javier Gil", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es una buena iniciativa pero que creo que deber\u00eda extenderse hasta Balmes. Un eje similar a Enric Granados, con tr\u00e1fico limitado a residentes, carga y descarga y garajes. \n<br />La Antigua Esquerra del Eixample tiene muy pocas zonas verdes y un eje verde, que vertebre el barrio, es clave para mejorar la vida de los vecinos.  La calle ya tiene un efectivo carril bici que debe ser el inicio para ganar m\u00e1s espacio para ciclistas, viandantes y vecinos. </p>\n\n<p>Adem\u00e1s, es una calle con gran vida cultural y social, presencia hist\u00f3rica de colectivos, lo que potencia la necesidad de ser m\u00e1s ambiciosos en la creaci\u00f3n de este eje. </p>\n\n<p>A nivel de tr\u00e1fico, Gran Via y Valencia, en sentido Bes\u00f2s, quedan a dos manzanas, por lo que no supondr\u00eda un gran cambio. </p>", 
+            "commentable_id": 4210, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 10:05:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4101, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/crear-l-eix-del-consell-de-cent\">https://decidim.barcelona/proposals/crear-l-eix-del-consell-de-cent</a></p>", 
+            "commentable_id": 4210, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/04/2016 12:05:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 13560, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

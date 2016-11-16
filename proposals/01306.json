@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1389, 
+            "name": "Amics de la Bici", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 1389, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1306", 
+        "conflictive": false, 
+        "created_at": "03/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1306, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Amb mesures f\u00edsiques i passos de vianants elevats, fins i tot al mig dels carrers on la longitud entre cru\u00eflles permet circular als vehicles de motor a m\u00e9s de 30 f\u00e0cilment. La reducci\u00f3 de velocitat dels motoritzats, que permetr\u00e0 circular a la bicicleta per la cal\u00e7ada amb seguretat.", 
+        "title": "Garantir la reducci\u00f3 de velocitat a 30 km/h. m\u00e9s seguretat: bicicleta i vianants", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 2, 
+        "total_votes": 60, 
+        "url": "https://decidim.barcelona/pam/proposals/garantir-la-reduccio-de-velocitat-a-30-km-h-mes-seguretat-bicicleta-i-vianants", 
+        "votable": null, 
+        "voted": null
+    }
+}

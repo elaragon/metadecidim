@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10867, 
+            "name": "AMPA ESCOLA PAU CASALS GR\u00c0CIA", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 10867, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4706", 
+        "conflictive": false, 
+        "created_at": "11/03/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "https://drive.google.com/file/d/0B5BOreUbTt0cbTJoTzF1WW1lMk0/view?usp=sharing", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4706, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Els patis de les escoles de Barcelona s\u00f3n grisos, durs, avorrits... Proposem un projecte de transformaci\u00f3 dels patis urbans, reivindicant la seva capacitat l\u00fadica, educadora i integradora. I fent-ho de forma participativa i col\u00b7laborativa, amb tota la comunitat educativa, comen\u00e7ant amb un projecte pilot a l\u2019escola Pau Casals-Gr\u00e0cia, ja en curs.\r\n\r\n ", 
+        "title": "L'hora del pati", 
+        "total_comments": 6, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 4, 
+        "total_votes": 158, 
+        "url": "https://decidim.barcelona/pam/proposals/l-hora-del-pati", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 7470, 
+            "name": "Arnau Montserrat", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 7470, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3380", 
+        "conflictive": false, 
+        "created_at": "24/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.eldiario.es/ultima-llamada/Plan_B_para_Europa-Decrecimiento_6_487211280.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3380, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 17, 
+            "name": "Energia i canvi clim\u00e0tic", 
+            "position": 5
+        }, 
+        "summary": "Posar en marxa abans de 2017 un Pla metropolit\u00e0 de relocalitzaci\u00f3 i descarbonitzaci\u00f3 per l'adaptaci\u00f3 i mitigaci\u00f3 del canvi clim\u00e0tic. Convertir la transici\u00f3 ecol\u00f2gica en l'eix vertebrador del canvi de model de ciutat. Crear una oficina promotora,  transversal a les \u00e0rees de comer\u00e7, mobilitat, econom\u00eda social, energ\u00eda, urbanisme i medi ambient.", 
+        "title": "Pla metropolit\u00e0 de relocalitzaci\u00f3 i descarbonitzaci\u00f3 per l'adaptaci\u00f3 i mitigaci\u00f3 del canvi clim\u00e0tic", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 68, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-metropolita-de-relocalitzacio-i-descarbonitzacio-per-l-adaptacio-i-mitigacio-del-canvi-climatic", 
+        "votable": null, 
+        "voted": null
+    }
+}

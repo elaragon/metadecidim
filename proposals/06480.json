@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 14669, 
+            "name": "davidgibert", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 14669, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6480", 
+        "conflictive": false, 
+        "created_at": "22/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6480, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Per una mobilitat sostenible i accessible tamb\u00e9 als barris on no hi ha connexi\u00f3 ferroviaria demano que puguem viatjar amb els nostres gossos als autobussos. Cal seguir l'exemple del metro i del tramvia de Barcelona aix\u00ed com altres ciutats catalanes, espanyoles i tamb\u00e9 europees on s\u00ed es pot viatjar amb gossos lligats i a l'autob\u00fas.", 
+        "title": "Gossos a l'autob\u00fas de Barcelona (TMB)", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/gossos-a-l-autobus-de-barcelona-tmb", 
+        "votable": null, 
+        "voted": null
+    }
+}

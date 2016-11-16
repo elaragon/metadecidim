@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7187, 
+                "name": "Montserrat Morera Isern", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La transpar\u00e8ncia i l'\u00fas de locals no utilitzats eines indispensables per la participaci\u00f3 i el funcionament associatiu</p>", 
+            "commentable_id": 1747, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/02/2016 10:43:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2314, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7268, 
+                "name": "BJumo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Imprescindible!</p>", 
+            "commentable_id": 1747, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/02/2016 14:55:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2368, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/desenvolupar-el-pla-de-suport-a-les-associacions-26b7a887-eab1-4fc6-ba04-95b52853d3aa\">https://decidim.barcelona/proposals/desenvolupar-el-pla-de-suport-a-les-associacions-26b7a887-eab1-4fc6-ba04-95b52853d3aa</a></p>", 
+            "commentable_id": 1747, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 13:46:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10847, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

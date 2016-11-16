@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11925, 
+                "name": "Salvador", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic pensant en estudiants, en nens que diariament han d'anar a Barcelona per estudiar. Podriem fer que fos un \u00fas laborable per comen\u00e7ar a veure l'impacte per exemple. Moltes families han tingut que anar-sen de Barcelona pels preus dels habitatges per\u00f2 han maantingut els nens i la feina a Barcelona. Dormen fora per s\u00f3n Barcelonins i Barcelonines. Gent que dorm a 15 minuts en tren del seu col\u00b7legi han de pagar per un transport molt m\u00e9s que un nen que dorm a 40 minuts del Col\u00b7legi per\u00f2 segueix estan  al terme municipal de Barcelona. Si volem que els nostres fills i filles s'acustumin i es mental\u00b7litzin  desde petits al \u00fas del transport p\u00fablic hem de demostrar que sempre hi ha una alternativa viable en transport p\u00fablic. Si veuen que el cost es molt superior a la que puguin buscaran alternatives.</p>", 
+            "commentable_id": 4779, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/03/2016 08:31:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4681, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

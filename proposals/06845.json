@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6845", 
+        "conflictive": false, 
+        "created_at": "26/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 6845, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 11, 
+            "name": "Economia cooperativa, social i solid\u00e0ria", 
+            "position": 2
+        }, 
+        "summary": "Definir qu\u00e8 \u00e9s i que no \u00e9s l\u2019ECSS i establir criteris transversals: No \u00e9s la forma jur\u00eddica sin\u00f3 els valors socials que hi ha darrera. Mostrar bones pr\u00e0ctiques que ja funcionen; Visibilitzar a cada territori qui hi ha, amb exposicions p\u00fabliques, treballant amb la xarxa d'entitats. Espai p\u00fabl\u00edc com  altaveu per donar a con\u00e8ixer les altres economies.", 
+        "title": "Utilitzar els mitjans de comunicaci\u00f3 p\u00fablics (pantalles d\u2019equipaments, de TMB, cares B de les banderoles, etc.) i la xarxa d\u2019equipaments i serveis per donar a con\u00e8ixer i fer visible l\u2019ECSS.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/utilitzar-els-mitjans-de-comunicacio-publics-pantalles-d-equipaments-de-tmb-cares-b-de-les-banderoles-etc-i-la-xarxa-d-equipaments-i-serveis-per-donar-a-coneixer-i-fer-visible-l-ecss", 
+        "votable": null, 
+        "voted": null
+    }
+}

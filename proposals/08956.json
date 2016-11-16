@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 9321, 
+            "name": "Equip Educatiu EBM Caspolino ", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 9321, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8956", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "Proposem que s\u2019accelerin les decisions al voltant del canvi de gesti\u00f3 indirecta a directa. Els equips educatius i les fam\u00edlies de les tres escoles bressol municipals ens trobem en un moment d\u2019incertesa per aquesta situaci\u00f3, a m\u00e9s, estem patint la insensibilitat i la incomprensi\u00f3 d\u2019algunes companyes de l\u2019IMEB a trav\u00e9s de diferents plataformes socials de la xarxa, amb al\u2022lusions directes en la nostra contra. Per tant, demanem concreci\u00f3 immediata en la resoluci\u00f3 d\u2019aquesta situaci\u00f3 que afecta a la nostra comunitat educativa.  Gr\u00e0cies.", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8956, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Proposem que s\u2019accelerin les decisions al voltant del canvi de gesti\u00f3 indirecta a directa de les tres escoles municipals EBM Caspolino, EBM Enxaneta i EBM Patufets de Navas, tenint en compte la continu\u00eftat tant dels projectes educatius com dels equips docents actuals que treballen en aquestes escoles. Demanem concreci\u00f3 immediata en la resoluci\u00f3.\r\n", 
+        "title": "Concreci\u00f3 immediata en el canvi de gesti\u00f3 EBM CASPOLINO, EBM ENXANETA, EBM PATUFETS DE NAVAS ", 
+        "total_comments": 10, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 7, 
+        "total_votes": 109, 
+        "url": "https://decidim.barcelona/pam/proposals/concrecio-inmediata-en-el-canvi-de-gestio-ebm-caspolino-ebm-enxanet-ebm-patufets-de-navas", 
+        "votable": null, 
+        "voted": null
+    }
+}

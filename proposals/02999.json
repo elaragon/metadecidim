@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2999", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2999, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Dur a terme actuacions de millora als centres c\u00edvics: condicionar l\u2019edifici Mallorca del CC Sagrada Fam\u00edlia (2a fase); fer millores a Cotxeres Borrell; recuperar el Xalet Golferichs i alliberar l'espai que ocupa la Fundaci\u00f3 Pi i Sunyer, i millorar el punt d\u2019atenci\u00f3 al p\u00fablic a la Casa Elizalde. Impulsar la creaci\u00f3 de casals de barri que s'incorporin a la xarxa de ciutat.", 
+        "title": "Millorar les infraestructures dels centres c\u00edvics", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 22, 
+        "url": "https://decidim.barcelona/pam/proposals/millorar-les-infraestructures-dels-centres-civics", 
+        "votable": null, 
+        "voted": null
+    }
+}

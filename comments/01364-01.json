@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aquesta proposta va sorgir a la cita presencial \"El joc a la ciutat. On juguen els nens i les nenes a Ciutat Vella?\". Concretament, els infants van manifestar: Tenir en compte els nens amb necessitats educatives especials i fer activitats conjuntament amb els altres nens.</p>", 
+            "commentable_id": 1364, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 10:42:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6921, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A la cita presencial que va tenir lloc a l\u2019Escola Sant Ram\u00f3n Nonat, els estudiants de 4rt d\u2019ESO B van estar debatent diverses propostes per millorar el medi ambient de la ciutat, entre aquestes van proposar l\u2019augment de m\u00e9s espais i parcs infantils habilitats. </p>", 
+            "commentable_id": 1364, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/04/2016 16:58:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7800, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

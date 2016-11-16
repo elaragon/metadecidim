@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2846", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2846, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Millorar l\u2019accessibilitat a l\u2019espai p\u00fablic, edificis, transport, productes, serveis i processos de comunicaci\u00f3, a fi de garantir l\u2019autonomia, la igualtat d\u2019oportunitats i la no-discriminaci\u00f3 de les persones amb diversitat funcional, auditiva, visual i amb dificultats en la comprensi\u00f3 i la parla. Desplegar el pla posant \u00e8mfasi en totes les activitats de lleure, esdeveniments ciutadans i activitats culturals.", 
+        "title": "Pla d'accessibilitat universal", 
+        "total_comments": 60, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 58, 
+        "total_positive_comments": 2, 
+        "total_votes": 18, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-d-accessibilitat-universal", 
+        "votable": null, 
+        "voted": null
+    }
+}

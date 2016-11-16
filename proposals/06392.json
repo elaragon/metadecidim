@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 14669, 
+            "name": "davidgibert", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 14669, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6392", 
+        "conflictive": false, 
+        "created_at": "22/03/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "http://fotos.subefotos.com/50e26d533be72fe8748665218b62556co.jpg", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6392, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Per poder caminar de punta a punta de l'Avinguda Gaud\u00ed s'han de sortejar tres cru\u00eflles amb molt de tr\u00e0nsit i que, per la seva forma octogonal, ens obliga a creuar dos carrers per poder continuar el passeig en linia recta.\r\nProposo que \u00e9s cre\u00efn tres nous pas de vianants per poder connectar l'avinguda en l\u00ednia recta (adjunto pl\u00e0nol de la proposta).", 
+        "title": "Connectar en l\u00ednia recta l'Avinguda Gaudi mitjan\u00e7ant tres nous passos de vianants (Eixample - Sagrada Familia)", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 15, 
+        "url": "https://decidim.barcelona/pam/proposals/connectar-tots-els-trams-de-l-avinguda-gaudi-mitjancant-passos-de-vianants", 
+        "votable": null, 
+        "voted": null
+    }
+}

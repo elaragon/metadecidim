@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10703, 
+                "name": "suport decidim.barcelona2", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>(continua) durant les festes, sigui aprofitable per les festes de l\u2019any seg\u00fcent.\n<br />- Ampliar aquesta acci\u00f3 a totes les Festes del Calendari Festiu gracienc.\n<br />- Avan\u00e7ar en les mesures que fomenten l\u2019estalvi energ\u00e8tic com pot ser la inversi\u00f3 en llum freda o led a la Festa Major.\n</p>", 
+            "commentable_id": 7116, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 13:14:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6725, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10703, 
+                "name": "suport decidim.barcelona2", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/ambientalitzacio-de-festes-als-barris-del-districte-de-gracia\">https://decidim.barcelona/proposals/ambientalitzacio-de-festes-als-barris-del-districte-de-gracia</a>\n<br /><a href=\"https://decidim.barcelona/proposals/ambientalitzar-les-festes\">https://decidim.barcelona/proposals/ambientalitzar-les-festes</a>\n<br /><a href=\"https://decidim.barcelona/proposals/fomentar-les-accions-culturals-relacionades-amb-la-festa-major\">https://decidim.barcelona/proposals/fomentar-les-accions-culturals-relacionades-amb-la-festa-major</a>\n<br /><a href=\"https://decidim.barcelona/proposals/augmentar-el-control-de-la-contaminacio-acustica-en-les-festes-majors-de-gracia\">https://decidim.barcelona/proposals/augmentar-el-control-de-la-contaminacio-acustica-en-les-festes-majors-de-gracia</a>\n<br /><a href=\"https://decidim.barcelona/proposals/minimitzacio-de-residus-i-reutilitzacio-de-material-en-les-festes-majors-de-gracia\">https://decidim.barcelona/proposals/minimitzacio-de-residus-i-reutilitzacio-de-material-en-les-festes-majors-de-gracia</a></p>", 
+            "commentable_id": 7116, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 13:23:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6728, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

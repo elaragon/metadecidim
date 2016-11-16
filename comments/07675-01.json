@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6658, 
+                "name": "Angel H", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>I el mateix penso dels de Parcs i jardins sempre netejant les zones verdes deixantles pelades  per\u00f2 no son capa\u00e7os de plantar noves esp\u00e8cies de arbres o plantes . Aixi tb treballa qualssevol \n</p>", 
+            "commentable_id": 7675, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 00:42:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7915, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "7915", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6658, 
+                "name": "Angel H", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>I no nomes passa a ciutat meridiana tb a trinitat nova. Penso que els treballadors de parcs i jardins np s\u00f3n gemt qualificada perqu\u00e8 tallen tot el que se els posa per davant i potser creixi un arbre per una llavor caiguda i ja estan ells carregant se la. </p>", 
+            "commentable_id": 7675, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 00:50:00", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7916, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

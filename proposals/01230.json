@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 831, 
+            "name": "Pilar Vicente Vara", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 831, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1230", 
+        "conflictive": false, 
+        "created_at": "02/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1230, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Modificar l'Ordenan\u00e7a Municipal de Barcelona per reduir un m\u00ednim de 5 decibels (dB) cadascun dels l\u00edmits permesos segons  franges horaries i zones. Revisar la Ordenan\u00e7a per fer-la m\u00e9s respectuosa amb els drets fonamentals de les persones (dret al descans, dret a la intimitat personal i familiar, etc).", 
+        "title": "Reduir 5 decibels el l\u00edmit de soroll perm\u00e9s per la Ordenan\u00e7a Municipal.", 
+        "total_comments": 16, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 15, 
+        "total_votes": 114, 
+        "url": "https://decidim.barcelona/pam/proposals/reduir-5-decibels-el-limit-de-soroll-permes-per-la-ordenanca-municipal", 
+        "votable": null, 
+        "voted": null
+    }
+}

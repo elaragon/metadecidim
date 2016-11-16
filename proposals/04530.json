@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 164, 
+            "name": "J. Gabriel Gallart", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 164, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4530", 
+        "conflictive": false, 
+        "created_at": "09/03/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4530, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "L'eix Creu Coberta - Sants t\u00e9 m\u00e9s \u00fas d'autopista urbana que de carrer c\u00edvic, ha de deixar de ser una autopista per convertir-se en un carrer a escala humana. Es proposen actuacions concretes:   dos carrils bus reversibles, carrega i desc\u00e0rrega en hora vall i aparcament nocturn i dos carril de circulaci\u00f3 velocitat 30  ", 
+        "title": "Convertir l'eix Creu Coberta - Sants en un eix c\u00edvic pacificant el tr\u00e0nsit", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 25, 
+        "url": "https://decidim.barcelona/pam/proposals/convertir-l-eix-creu-coberta-sants-en-un-eix-civic-pacificant-el-transit", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9543, 
+                "name": "elenagaro4", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic totalment d\u00b4acord amb aquesta proposta ja que altres barris m\u00e9s petits ja en tenen.\u00c9s una manca m\u00e9s de totes les que tenim an el barri.</p>", 
+            "commentable_id": 3953, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/03/2016 20:04:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3581, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10364, 
+                "name": "M\u00aa del Carmen Fern\u00e1ndez Campos", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00c9s veritat ho necessitem urgenment, com tantes altres coses en el barri. Molt pagar impostos per\u00f3, quina quantitat s\u00b4utilitza en aquest barri?</p>", 
+            "commentable_id": 3953, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/03/2016 20:07:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3582, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3581", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10192, 
+                "name": "Eli Rolando ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Doy mi apoyo a la propuesta y argumento que es una reivindicaci\u00f3n muy antigua  y que varias veces ha estado en los PAD  pidi\u00e9ndose una en el polideportivo de la calle miner\u00eda y otra en can Ferrero</p>", 
+            "commentable_id": 3953, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 15:37:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4192, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

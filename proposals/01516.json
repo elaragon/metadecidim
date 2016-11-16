@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2621, 
+            "name": "Agata Lafont", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2621, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1516", 
+        "conflictive": false, 
+        "created_at": "05/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://goo.gl/xyIN2N", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1516, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Barcelona \u00e9s una ciutat on no \u00e9s completament ca\u00f3tic conduir gracies a les m\u00e9s de 300 mil motos que t\u00e9 censades. \r\nPer qu\u00e9 les motos no poden utilitzar el carril de bus tal i com passa en altres ciutats de Espanya (Valencia, Sevilla, Madrid, Palma de Mallorca, Palmas de Gran Canaria...)?? ", 
+        "title": "Carril Bus tamb\u00e9 per motos", 
+        "total_comments": 10, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 3, 
+        "total_positive_comments": 5, 
+        "total_votes": 75, 
+        "url": "https://decidim.barcelona/pam/proposals/carril-bus-tambe-per-motos", 
+        "votable": null, 
+        "voted": null
+    }
+}

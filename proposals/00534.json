@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-534", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 534, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 6, 
+            "name": "Habitatge", 
+            "position": 6
+        }, 
+        "summary": "Refor\u00e7ar els recursos de l'Oficina d'Habitatge. Impulsar els programes de mediaci\u00f3 existents per evitar nous desnonaments. Instar les administracions competents a qu\u00e8 facilitin amb prou antelaci\u00f3 la informaci\u00f3 d\u2019ordres de llan\u00e7ament.", 
+        "title": "Oficina d'Habitatge i acci\u00f3 contra els desnonaments per motius econ\u00f2mics", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 22, 
+        "url": "https://decidim.barcelona/pam/proposals/oficina-d-habitatge-i-accio-contra-els-desnonaments-per-motius-economics", 
+        "votable": null, 
+        "voted": null
+    }
+}

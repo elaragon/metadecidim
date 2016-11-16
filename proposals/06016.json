@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 14106, 
+            "name": "Fem Sant Antoni ", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 14106, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6016", 
+        "conflictive": false, 
+        "created_at": "19/03/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "https://femsantantoni.wordpress.com/2016/03/04/postura-de-fsa-al-projecte-de-remodelacio-dels-extrems-del-paral%C2%B7lel/     https://femsantantoni.wordpress.com/2015/08/13/resultats-de-la-1a-fase-del-proces-participatiu-pensem-en-paral%C2%B7lel/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6016, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Estudiar des de la cooperaci\u00f3 entre ve\u00efnat i ajuntament la reurbanitzar aquestes zones per facilitar usos ve\u00efnals (zones de joc i esbarjo, espais per activitats culturals de carrer, espais verd...). Rectificar per aconseguir una millora substancial \u00e9s una bona inversi\u00f3 ", 
+        "title": "Reconvertir les voreres ampliades dels carrers de l'Eixample amb Paral\u00b7lel en places ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 36, 
+        "url": "https://decidim.barcelona/pam/proposals/reconvertir-les-voreres-ampliades-dels-carrers-de-l-eixample-amb-paral-lel-en-places", 
+        "votable": null, 
+        "voted": null
+    }
+}

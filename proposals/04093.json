@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4093", 
+        "conflictive": false, 
+        "created_at": "05/03/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 4093, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Amb la participaci\u00f3 de persones amb trastorns mentals greu (TMG), especialment en el disseny de l\u2019atenci\u00f3; treballant des de m\u00e9s \u00f2ptiques que la biom\u00e8dica, i posant \u00e8mfasi en la comunicaci\u00f3 i t\u00e8cniques innovadores, com per exemple les t\u00e8cniques d\u2019escalada", 
+        "title": "Organitzar formaci\u00f3 en l\u2019\u00e0mbit de la salut mental", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 7, 
+        "url": "https://decidim.barcelona/pam/proposals/organitzar-formacio-en-l-ambit-de-la-salut-mental", 
+        "votable": null, 
+        "voted": null
+    }
+}

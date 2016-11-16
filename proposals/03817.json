@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10107, 
+            "name": "Recuperem_el_Bors\u00ed", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 10107, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3817", 
+        "conflictive": false, 
+        "created_at": "03/03/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "https://drive.google.com/file/d/0B4ecnL6U6LwcaHM0Ykt6N2dYb0k/view?usp=sharing", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3817, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Reclamem que l'antiga seu de l\u2019escola d\u2019art La Llotja torni a ser centre p\u00fablic d'experimentaci\u00f3 educativa, de formaci\u00f3, creaci\u00f3, difusi\u00f3 i promoci\u00f3 dels ensenyaments art\u00edstics i del disseny pels joves i ve\u00efns de Ciuta Vella i BCN, referent per les escoles i instituts de CVella i tamb\u00e9 pels centres p\u00fablics d\u2019art de BCN.  Art i cohesi\u00f3 social.\r\n\r\n", 
+        "title": "Recuperem el Bors\u00ed", 
+        "total_comments": 9, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 7, 
+        "total_votes": 102, 
+        "url": "https://decidim.barcelona/pam/proposals/recuperem-el-borsi", 
+        "votable": null, 
+        "voted": null
+    }
+}

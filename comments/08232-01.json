@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1157, 
+                "name": "Rosa Esc", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>D'acord, sempre que no augmenti el nombre de vehicles a la ciutat. Caldria a m\u00e8s, incloure transport p\u00fablic pels tunels (bus). Es del tot increible que no circulin m\u00e9s que vehicles privats. Hem creat una proposta per limitar el tr\u00e0nsit privat a l'Avinguda Vallvidrera que esta d'acord amb l'espirit d'aquesta proposta</p>", 
+            "commentable_id": 8232, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 10:12:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11586, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 23412, 
+                "name": "ValNoyola", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Lo ideal ser\u00eda un bus p\u00fablico o zona bicis en los t\u00faneles</p>", 
+            "commentable_id": 8232, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 21:08:30", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12683, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/tunels-de-vallvidrera-gratis\">https://decidim.barcelona/proposals/tunels-de-vallvidrera-gratis</a></p>", 
+            "commentable_id": 8232, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 10:36:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 16535, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

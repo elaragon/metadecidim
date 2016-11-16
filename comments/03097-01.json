@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12179, 
+                "name": "suport.decidim1", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en la cita presencial: Turisme i usos de l'espai urb\u00e0 i p\u00fablic. \"\tA la Rambla del Poble Nou hauria d\u2019haver-hi 1/3 de terrasses com a m\u00e0xim i respectar dist\u00e0ncia entre elles. Fer un pla d\u2019usos i que hi participin entitats i ve\u00efnat \" </p>", 
+            "commentable_id": 3097, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/03/2016 13:50:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5770, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15488, 
+                "name": "MPlou", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic totalment d'acord. Cada vegada \u00e9s m\u00e9s dif\u00edcil passegar per la Rambla del Poblenou.</p>", 
+            "commentable_id": 3097, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 19:40:30", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6642, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/limitar-les-terrasses-de-la-rambla-del-poblenou-i-aplicacio-de-mesures-sancionadores-als-locals-que-no-compleixin-la-normativa\">https://decidim.barcelona/proposals/limitar-les-terrasses-de-la-rambla-del-poblenou-i-aplicacio-de-mesures-sancionadores-als-locals-que-no-compleixin-la-normativa</a></p>", 
+            "commentable_id": 3097, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 15:40:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17192, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

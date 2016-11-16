@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-978", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 978, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Potenciar els despla\u00e7aments a peu, amb bicicleta i amb transport p\u00fablic i situar la contaminaci\u00f3 atmosf\u00e8rica per sota dels l\u00edmits que marca la Uni\u00f3 Europea. Els eixos estrat\u00e8gics s\u00f3n assolir una mobilitat segura, sostenible, equitativa i eficient.", 
+        "title": "Pla de mobilitat urbana", 
+        "total_comments": 27, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 27, 
+        "total_positive_comments": 0, 
+        "total_votes": 42, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-de-mobilitat-urbana", 
+        "votable": null, 
+        "voted": null
+    }
+}

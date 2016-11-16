@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1777, 
+            "name": "Sexteni", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1777, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1364", 
+        "conflictive": false, 
+        "created_at": "03/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1364, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Encara que no els veiem, s\u00f3n molts els infants, nens/es amb discapacitat intel\u00b7lectual, f\u00edsica, sensorial, pluridiscapacitat... Tanmateix, no existeixen en els parcs infantils zones adaptades per a ells, per poder accedir amb cadira de rodes o f\u00e0cilment accessibles en general. La proposta recau en adaptar un tant per cent dels parcs dels barris.", 
+        "title": "Zones infantils adaptades", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 22, 
+        "url": "https://decidim.barcelona/pam/proposals/zones-infantils-adaptades", 
+        "votable": null, 
+        "voted": null
+    }
+}

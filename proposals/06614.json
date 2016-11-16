@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6614", 
+        "conflictive": false, 
+        "created_at": "23/03/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 6614, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Promoure la relaci\u00f3 entre el Bosc Turull i el Jard\u00ed del Silenci, potenciar la ci\u00e8ncia ciutadana, amb participaci\u00f3 i voluntariat, per fer seguiment de la biodiversitat, dins de l'acci\u00f3 \"Aula Ambiental Bosc Turull i Jard\u00ed del silenci\".", 
+        "title": "Incrementar recursos i la interacci\u00f3 entre els equipaments del Bosc Turull i del Jard\u00ed del Silenci, amb m\u00e9s visites i activitats colaterals als equipaments.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/incrementar-recursos-i-la-interaccio-entre-els-equipaments-del-bosc-turull-i-del-jardi-del-silenci-amb-mes-visites-i-activitats-colaterals-als-equipaments", 
+        "votable": null, 
+        "voted": null
+    }
+}

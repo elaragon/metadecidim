@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10880", 
+        "conflictive": false, 
+        "created_at": "19/04/2016", 
+        "district": {
+            "id": 8, 
+            "name": "Nou Barris"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 10880, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Elaboraci\u00f3 que estudi\u00ef les esp\u00e8cies arb\u00f2ries a posar als diferents espais del Districte, tenint en compte l'urbanisme de la zona, la instal\u00b7laci\u00f3 de punts de llum artificial i la profunditat del s\u00f2l per tal d'arribar a un escenari que harmonitzi les esp\u00e8cies d'arbres. Catalogac\u00edo i difusi\u00f3 de les especies que hi robem. Protocol de poda.", 
+        "title": "Pla de millora de l'arbrat", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-de-millora-de-l-arbrat-8d767e69-edb7-4714-af24-e40fe000ee24", 
+        "votable": null, 
+        "voted": null
+    }
+}

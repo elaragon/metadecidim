@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 395, 
+                "name": "Neo Sala", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En relaci\u00f3n a esta propuesta, comentar que los pr\u00f3ximos d\u00edas 22 y 23 de Abril se celebrara en Amsterdam la primera Conferencia Internacional de Alcaldes de la Noche. Se adjunta link a continuaci\u00f3n en donde se puede ver el programa, ponentes, etc.... <a href=\"http://nachtburgemeester.amsterdam/the-first-international-night-mayor-summit-kicks-off-in-amsterdam/\">http://nachtburgemeester.amsterdam/the-first-international-night-mayor-summit-kicks-off-in-amsterdam/</a> </p>", 
+            "commentable_id": 10693, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 21:19:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12694, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

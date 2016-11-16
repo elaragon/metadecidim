@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8317", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8317, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 8, 
+            "name": "Migraci\u00f3, interculturalitat i discriminaci\u00f3 zero", 
+            "position": 8
+        }, 
+        "summary": "At\u00e8s que la compet\u00e8ncia en el reconeixement i homologaci\u00f3 de t\u00edtols cursats a l\u2019estranger \u00e9s del govern estatal, es proposa que des de l\u2019ajuntament es faci incid\u00e8ncia per agilitzar i facilitar aquests procediments.", 
+        "title": "Fer incid\u00e8ncia pol\u00edtica interinstitucional per facilitar el reconeixement d\u2019estudis i l\u2019homologaci\u00f3 de t\u00edtols acad\u00e8mics", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/fer-incidencia-politica-interinstitucional-per-facilitar-el-reconeixement-d-estudis-i-l-homologacio-de-titols-academics", 
+        "votable": null, 
+        "voted": null
+    }
+}

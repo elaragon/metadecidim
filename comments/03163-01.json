@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6739, 
+                "name": "Salvador Barrau V.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic d'acord en el plantejament. No obstant, cal tenir en compte que som mediterranis i som de dificil complaure. La meva proposta es i seria revolucionaria si el pa\u00eds canvi\u00e9s l'horari espanyol per l'europeu. Dinar a les 12, plegar a les 18, sopar a les 20, anar al cine a les 21, i dormir a les 11 de la nit. Us invito a fer vostre aquesta idea,que representa copiar all\u00f2 que fan a Europa.</p>", 
+            "commentable_id": 3163, 
+            "commentable_type": "Proposal", 
+            "created_at": "19/02/2016 12:59:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2149, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12179, 
+                "name": "suport.decidim1", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en la Sessi\u00f3 de treball Pam. Just\u00edcia Social. \"Incloure en el Pla de treball socioeducatiu  mesures de conciliaci\u00f3 familiar i  promoure el debat entre els Serveis socials del territori  i Educaci\u00f3 \"</p>", 
+            "commentable_id": 3163, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 08:44:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9031, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

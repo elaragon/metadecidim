@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 5201, 
+            "name": "Amadeu AL", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 5201, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2626", 
+        "conflictive": false, 
+        "created_at": "13/02/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2626, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "L'anterior govern, despres de molt temps demanant-ho les escoles p\u00fabliques del barri, es va comprometre a fer avinguda foix via zona 30.\r\nDesitgem que els actuals resposanbles jo facin efectiu per la pacificaci\u00f3 i seguretats dels nois i noies del nostre barri. L'actual tr\u00e0nsit o la gent que vulgui anara r\u00e0pid que ho faci per pedralbes.", 
+        "title": "Avinguda Foix Zona 30", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 13, 
+        "url": "https://decidim.barcelona/pam/proposals/avinguda-foix-zona-30", 
+        "votable": null, 
+        "voted": null
+    }
+}

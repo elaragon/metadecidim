@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 9898, 
+            "name": "M.Eugenia S\u00e1nchez Carrat\u00e9", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 9898, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5328", 
+        "conflictive": false, 
+        "created_at": "16/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5328, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 18, 
+            "name": "Participaci\u00f3 ciutadana", 
+            "position": 2
+        }, 
+        "summary": "Caldria refor\u00e7ar el treball en conjunt dels serveis socials amb els altres serveis dels districtes, municipals i no municipals, fent una aposta perqu\u00e8 els serveis socials puguin dependre dels districtes", 
+        "title": "Promoure mes conexi\u00f3 dels serveis socials amb altres serveis dels districtes", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/promoure-mes-conexio-dels-serveis-socials-amb-altres-serveis-dels-districtes", 
+        "votable": null, 
+        "voted": null
+    }
+}

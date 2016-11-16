@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2900", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2900, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Per detectar el conjunt de projectes que\u00a0fomenten l'aprenentatge\u00a0de la pr\u00e0ctica art\u00edstica\u00a0i dissenyar un conjunt de mesures per\u00a0assegurar la seva extensi\u00f3 i reequilibri\u00a0al conjunt de la ciutat, i fomentar una millor relaci\u00f3 entre equipaments i projectes culturals\u00a0centres educatius de prim\u00e0ria i secund\u00e0ria de cada territori\u00a0per\u00a0al foment\u00a0tant\u00a0de la creaci\u00f3 i la pr\u00e0ctica art\u00edstica\u00a0com de la divulgaci\u00f3 cultural.", 
+        "title": "Programa d'ensenyaments art\u00edstics", 
+        "total_comments": 27, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 27, 
+        "total_positive_comments": 0, 
+        "total_votes": 22, 
+        "url": "https://decidim.barcelona/pam/proposals/programa-d-ensenyaments-artistics", 
+        "votable": null, 
+        "voted": null
+    }
+}

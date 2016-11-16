@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8379", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/meetings/la-marina-del-prat-vermell-una-barcelona-mes-humana-i-en-transicio-ecologica-i-que-garanteixi-el-bon-govern", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8379, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Al taller Eduard Aun\u00f3s va ternir lloc   una cita presencial amb adolescents del barri de la Marina del Prat Vermell per tal de que debatessin diferents propostes per millorar la qualitat de vida en el seu barri. Aquests van proposar que s\u2019ofereixi un servei de refor\u00e7 escolar al barri de la mineria la campana, cada tarda de dilluns a divendres, pels", 
+        "title": "Crear un servei de refor\u00e7 escolar al barri de la Marina ", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/crear-un-servei-de-reforc-escolar-al-barri-de-la-marina", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 7103, 
+            "name": "Ana Txarola", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 7103, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3210", 
+        "conflictive": false, 
+        "created_at": "21/02/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3210, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Un NOU PAVELL\u00d3 per a l'\u00fanic Club d'Handbol Femen\u00ed de Barcelona. Al barris de Sants, Hostafrancs i La Bordeta falten pavellons per donar resposta a les necessitats dels clubs. Hi ha saturaci\u00f3 en els pavellons existents. El Club Esportiu Handbol BCN Sants vol espai per treballar millor i incrementar el nombre de jugadors/res. ", 
+        "title": "Necessitat nou pavell\u00f3 a Sants-La Bordeta per a l'\u00fanic Club d'Handbol Femen\u00ed de Barcelona", 
+        "total_comments": 11, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 9, 
+        "total_votes": 159, 
+        "url": "https://decidim.barcelona/pam/proposals/necessitat-nou-pavello-a-sants-la-bordeta-per-a-l-unic-club-d-handbol-femeni-de-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

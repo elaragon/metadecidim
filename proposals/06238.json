@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6238", 
+        "conflictive": false, 
+        "created_at": "21/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 6238, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 4, 
+            "name": "Equitat de g\u00e8nere i diversitat sexual", 
+            "position": 4
+        }, 
+        "summary": "Augmentar el nombre de PIADS presents al districte per facilitar l\u2019atenci\u00f3 per motius de viol\u00e8ncia de g\u00e8nere. La proximitat \u00e9s un facilitador per a les v\u00edctimes, si han de canviar de barri o districte per anar al PIAD pot ser dissuasiu.", 
+        "title": "Augmentar el nombre de PIADS presents al Districte. ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 5, 
+        "url": "https://decidim.barcelona/pam/proposals/augmentar-el-nombre-de-piads-presents-al-districte", 
+        "votable": null, 
+        "voted": null
+    }
+}

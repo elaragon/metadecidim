@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2942", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2942, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Mesures correctores orientades a reduir els nivells de soroll existent a les zones de superaci\u00f3 i a protegir les zones amb una bona qualitat ac\u00fastica. La normativa en mat\u00e8ria de contaminaci\u00f3 ac\u00fastica estableix que cada cinc anys s\u2019han d\u2019actualitzar els mapes estrat\u00e8gics de soroll. La darrera actualitzaci\u00f3 es va fer l\u2019any 2012, per tant l\u2019any 2017 caldr\u00e0 tornar a actualitzar-los mesurant o simulant ac\u00fasticament tota la ciutat.", 
+        "title": "Pla de reducci\u00f3 de la contaminaci\u00f3 ac\u00fastica i mapa de soroll", 
+        "total_comments": 50, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 46, 
+        "total_positive_comments": 3, 
+        "total_votes": 158, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-de-reduccio-de-la-contaminacio-acustica-i-mapa-de-soroll", 
+        "votable": null, 
+        "voted": null
+    }
+}

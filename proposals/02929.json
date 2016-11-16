@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2929", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2929, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 24, 
+            "name": "Un nou lideratge p\u00fablic", 
+            "position": 3
+        }, 
+        "summary": "Elaborar una an\u00e0lisi de totes les externalitzacions existents i valorar-ne la idone\u00eftat per mantenir la situaci\u00f3 actual o assumir-ne la internalitzaci\u00f3. Les externalitzacions tant de personal com de serveis que efectua el consistori han d\u2019estar sempre altament justificades i realitzar-se quan \u00e9s impossible utilitzar els mitjans propis de l\u2019Administraci\u00f3.", 
+        "title": "Mapa de les externalitzacions existents i pol\u00edtiques d'internalitzaci\u00f3", 
+        "total_comments": 19, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 19, 
+        "total_positive_comments": 0, 
+        "total_votes": 11, 
+        "url": "https://decidim.barcelona/pam/proposals/mapa-de-les-externalitzacions-existents-i-politiques-d-internalitzacio", 
+        "votable": null, 
+        "voted": null
+    }
+}

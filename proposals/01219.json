@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 48, 
+            "name": "Marc Casanovas i Bassas", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 48, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1219", 
+        "conflictive": false, 
+        "created_at": "02/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.ccma.cat/324/mes-de-mil-denuncies-a-propietaris-de-gossos-per-incomplir-la-normativa/noticia/1440528/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1219, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Controlar i gestionar l'activitat dels gossos als parcs i carrers que poden suposar una limitaci\u00f3 al gaudi dels ciutadans i infants. \r\nMultar els propietaris que no recullen les femtes i insistir en la necessitat que ensinistrin els gossos perqu\u00e8 aprenguin a orinar a casa, al seu sorral (encara que els resulti m\u00e9s inc\u00f2mode).", 
+        "title": "Acotar la invasi\u00f3 de gossos en espais p\u00fablics", 
+        "total_comments": 68, 
+        "total_negative_comments": 14, 
+        "total_neutral_comments": 6, 
+        "total_positive_comments": 10, 
+        "total_votes": 141, 
+        "url": "https://decidim.barcelona/pam/proposals/acotar-la-invassio-de-gossos-en-espais-publics", 
+        "votable": null, 
+        "voted": null
+    }
+}

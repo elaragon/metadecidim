@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10785, 
+            "name": "e. ustrell", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 10785, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4297", 
+        "conflictive": false, 
+        "created_at": "07/03/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4297, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Renovaci\u00f3 integral dels carrers de la zona del Baix Guinard\u00f3, en especial dels de sentit horitzontal, estrets i totalment abandonats: prioritzar la circulaci\u00f3 de vianants respecte els vehicles; ampliar les voreres perqu\u00e8 siguin accessibles; dotar-los d'enllumenat, arbrat i mobiliari urb\u00e0; canalitzar les l\u00ednies a\u00e8ries de les companyies de serveis.", 
+        "title": "Dignificaci\u00f3 carrers Baix Guinard\u00f3 entre Rda. Guinard\u00f3 i Trav. Gr\u00e0cia ", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 21, 
+        "url": "https://decidim.barcelona/pam/proposals/dignificacio-carrers-baix-guinardo-entre-rda-guinardo-i-trav-gracia", 
+        "votable": null, 
+        "voted": null
+    }
+}

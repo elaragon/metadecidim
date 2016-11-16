@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8701, 
+                "name": "Elisabet Juan", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment a favor. La compra i gesti\u00f3 p\u00fablica han de ser exemplars en l'\u00fas eficient de l'energia, des de l'a\u00efllament dels edificis, a la incorporaci\u00f3 d'energies eficients i renovables i tamb\u00e9 a la gesti\u00f3 innovadora dels mateixos en termes climatics, energetics i de qualitat de l'aire.</p>", 
+            "commentable_id": 4599, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/03/2016 19:41:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4426, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11545, 
+                "name": "Gumer", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>S\u00ed per\u00f2 primer que ens expliquin el cost que tindr\u00e0 a la factura de la llum. Que ning\u00fa no ens va preguntar si voliem subvencions a les renovables que ara paguem amb un ull de la cara cada mes.</p>", 
+            "commentable_id": 4599, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/03/2016 23:38:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4463, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment a favor.\n<br /><a href=\"https://decidim.barcelona/proposals/substituir-tots-els-taxis-i-busos-per-vehicles-no-contaminants\">https://decidim.barcelona/proposals/substituir-tots-els-taxis-i-busos-per-vehicles-no-contaminants</a>\n<br /><a href=\"https://decidim.barcelona/proposals/fixar-un-limit-de-temps-per-prohibir-la-circulacio-de-vehicles-contaminants\">https://decidim.barcelona/proposals/fixar-un-limit-de-temps-per-prohibir-la-circulacio-de-vehicles-contaminants</a></p>", 
+            "commentable_id": 4599, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 12:21:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5001, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

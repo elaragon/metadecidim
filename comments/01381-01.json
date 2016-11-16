@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3812, 
+                "name": "libove", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Desafortunadament, a Barcelona hi ha molts robatoris i danys a bicis aparcades en la via p\u00fablica. Fins que tindr\u00edem aparcaments realment segurs com a ells de Bicibox, continuar\u00e1 de ser dif\u00edcil per a nosaltres confiar en deixar les nostres bicis aparcades, que desmotiva for\u00e7a el us de la bici com a mod de transport habitual dins de la ciutat.</p>", 
+            "commentable_id": 1381, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/02/2016 10:23:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1256, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11344, 
+                "name": "Ferrniga", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El Bicibox permet controlar perfectament el temps en que les bicicletes s'estacionen a les seves places d'aparcament. En les parades de m\u00e9s \u00fas es pot escur\u00e7ar el temps m\u00e0xim d'estacionament per afavorir la rotaci\u00f3. Tot i aix\u00f2 la prioritat hauria de ser oferir primer els aparcaments segurs i despr\u00e9s estudiar qu\u00e8 s'ha de fer per afavorir la rotaci\u00f3.</p>", 
+            "commentable_id": 1381, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/03/2016 09:04:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4341, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9294, 
+                "name": "Raquel Anse", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Molt d'acord, com a ve\u00efna del barri pateixo la manca d'equipaments p\u00fablics del nostre barri. La biblioteca Sofia Barat n'\u00e9s un clar exemple de la precarietat dels equipamentns en aquesta zona. Hi podriem afegir tamb\u00e9 la manca d'escoles p\u00fabliques en espais dignes (com a exemple d'edifici que ocupa el CEIP la Concepci\u00f3), equipaments espotius p\u00fablics i zones verdes.\n<br />Reivindiquem la Dreta de l'Eixample com a zona residencial.</p>", 
+            "commentable_id": 251, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/02/2016 12:52:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3046, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10359, 
+                "name": "Susanna Altarriba", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Som moltes les associacions del barri que necessitem un lloc f\u00edsic on trobar-nos i en el Taller Mas Riera podria a ser aquest lloc, a part del valor de recuperar un teatre de i per l'Eixample.</p>", 
+            "commentable_id": 251, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/03/2016 20:01:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3580, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

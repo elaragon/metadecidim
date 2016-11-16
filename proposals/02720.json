@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 5192, 
+            "name": "Charlie LeFuck", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 5192, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2720", 
+        "conflictive": false, 
+        "created_at": "16/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2720, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Doncs un dels grans oblidats de la ciutat es el sector de la moto a Barcelona, molt nombr\u00f3s i que facilita molt la movilitat arreu de la ciutat, necessita o be compartir espai amb el taxi o crear carrils als grans eixos de la ciutat amb prioritat per a elles( diagonal, gran via, arag\u00f2....)", 
+        "title": "Carril motos", 
+        "total_comments": 8, 
+        "total_negative_comments": 3, 
+        "total_neutral_comments": 5, 
+        "total_positive_comments": 0, 
+        "total_votes": 16, 
+        "url": "https://decidim.barcelona/pam/proposals/carril-motos", 
+        "votable": null, 
+        "voted": null
+    }
+}

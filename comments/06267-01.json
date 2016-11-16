@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3661, 
+                "name": "Josep-Llu\u00eds Alonso Arum\u00ed", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Pots participar en l'organitzaci\u00f3 de la Festa Major. Tamb\u00e9 pots adre\u00e7ar la teva opini\u00f3 a <a href=\"mailto:secretariafederacio@gmail.com\">secretariafederacio@gmail.com</a>\n</p>", 
+            "commentable_id": 6267, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/03/2016 11:32:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6238, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "6238", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14496, 
+                "name": "lily", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Gr\u00e0cies per la informaci\u00f3!</p>", 
+            "commentable_id": 6267, 
+            "commentable_type": "Proposal", 
+            "created_at": "23/03/2016 20:36:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6419, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

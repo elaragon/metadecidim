@@ -1,0 +1,209 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10703, 
+                "name": "suport decidim.barcelona2", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda al Consell de Salut de Nou Barris: \"Fer un pla de planificaci\u00f3 de l\u2019envelliment a Nou Barris, per fomentar un envelliment actiu, aut\u00f2nom i de qualitat (sempre que sigui possible).\"</p>", 
+            "commentable_id": 195, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 19:14:47", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5636, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10703, 
+                "name": "suport decidim.barcelona2", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda al Consell de Salut de Nou Barris: \"Generar un llistat d\u2019espais on la gent gran pot participar (casals, gimnasos, biblioteques, espais de salut) per fomentar l\u2019envelliment actiu i saludable.\"</p>", 
+            "commentable_id": 195, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/03/2016 12:42:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5756, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12179, 
+                "name": "suport.decidim1", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en la cita presencial: Consell de Salut del Districte de l\u2019Eixample. \"Crear pisos adaptats per la gent gran, potenciar el compartir pisos, etc.  \"</p>", 
+            "commentable_id": 195, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 13:38:01", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6732, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12179, 
+                "name": "suport.decidim1", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en la cita presencial: Consell de Salut del Districte de l\u2019Eixample. \"Facilitar el pagament de resid\u00e8ncies i unitats per a gent gran i persones dependents.\"</p>", 
+            "commentable_id": 195, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 13:38:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6733, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12179, 
+                "name": "suport.decidim1", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en la cita presencial: Consell de Salut del Districte de l\u2019Eixample. \"Pel que fa a l\u2019autonomia personal i cultura de la cura, crear recursos per les persones dependents.\"</p>", 
+            "commentable_id": 195, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 13:39:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6734, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/crear-una-xarxa-d-establiments-amables-amb-les-persones-grans\">https://decidim.barcelona/proposals/crear-una-xarxa-d-establiments-amables-amb-les-persones-grans</a></p>", 
+            "commentable_id": 195, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 18:19:55", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11312, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 6, 
+        "total_pages": 1
+    }
+}

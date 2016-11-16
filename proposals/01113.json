@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 191, 
+            "name": "Piti Cervell\u00f3", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 191, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1113", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1113, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Amb la supressi\u00f3 del carril d'aparcament de zona blava de la Gran Via de Les Corts Catalanes, aquesta s'ha vist perjudicada perqu\u00e8 ha passat a tenir un carril m\u00e9s de circulaci\u00f3, amb la contaminaci\u00f3 ac\u00fastica i ambiental que aix\u00f2 ha suposat. Els ve\u00efns i les ve\u00efnes hem notat un augment del soroll dels cotxes, sumat al soroll que ja hi havia abans.", 
+        "title": "Recuperar l'aparcament de \"zona blava\" del carril dret de la Gran Via CC", 
+        "total_comments": 4, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 19, 
+        "url": "https://decidim.barcelona/pam/proposals/recuperar-l-aparcament-de-zona-blava-del-carril-dret-de-la-gran-via-cc", 
+        "votable": null, 
+        "voted": null
+    }
+}

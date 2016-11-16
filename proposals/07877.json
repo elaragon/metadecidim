@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 16909, 
+            "name": "Alian\u00e7a contra la Pobresa Energ\u00e8tica", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 16909, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-7877", 
+        "conflictive": false, 
+        "created_at": "01/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://pobresaenergetica.es/principis/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7877, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 6, 
+            "name": "Habitatge", 
+            "position": 6
+        }, 
+        "summary": "Davant l'incompliment de la llei 24/2015 el Ajuntament de Barcelona pot sancionar econ\u00f2micament a les empreses subministradores i a dia d'avui encara no s'ha obert cap expedient sancionador.", 
+        "title": "Sancionar a les empreses subministradores davant l'incompliment de la llei 24/2015", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 18, 
+        "url": "https://decidim.barcelona/pam/proposals/sancionar-a-les-empreses-subministradores-davant-l-incompliment-de-la-llei-24-2015", 
+        "votable": null, 
+        "voted": null
+    }
+}

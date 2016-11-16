@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11147, 
+                "name": "VirginiaV", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Cada dia canvien les parades de lloc, ni que sigui per moure-les 10 metres!!!! Aix\u00f2 \u00e9s una despesa innecesaria. \n<br />Demanaria que parades com les del bus 22 tornin a tenir el mateix recorregut o allargar-lo. Tot i que es van fer manifestacions p\u00fabliques, ning\u00fa no va fer cas!!! El 90% d'usuaris del 22 baixaven a Vilana-Horaci (per anar a les escoles i a la cl\u00ednica Teknon). Ara s'ha de canviar de bus i et deixa molt m\u00e9s lluny el nou que han posat. \n<br />Ja de pas... \u00e9s vergony\u00f3s que per r\u00e9correr Travessera de Dalt , per culpa de les obres previstes fins Abril de 2017!!!!, s'hagi de perdre cada dia 15 minuts amb l'H6 !!!! Vergony\u00f3s en una ciutat com aquesta . Realment voleu promoure el transport p\u00fablic? Perqu\u00e8 amb serveis aix\u00ed l'\u00fanic que ve de gust \u00e9s agafar cotxe o moto. </p>", 
+            "commentable_id": 1575, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 13:39:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4169, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 21390, 
+                "name": "Ikebanna", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El nou sistema de bus \u00e9s una bona idea, l\u00ednees de bus que aprofiten l'estructura de la ciutat per anar m\u00e9s depressa en horitzontal, Vertical o Diagonal. Per\u00f2 a la pr\u00e0ctica fan perdre molt m\u00e9s temps als usuaris, perqu\u00e8 per fer el mateix trajecte que abans feies amb un sol autob\u00fas (cas del 64) , ara n'has d'agafar tres i per fer cada canvi has de caminar un bon tros, la qual cosa \u00e9s un greu problema per a la gent gran, persones amb mobilitat redu\u00efda o amb nens. Els intercanviadors tindrien sentit si realment en baixant a una parada es pogu\u00e9s canviar de bus i passar d'un Ha a un V o un D sense moure's de lloc. </p>", 
+            "commentable_id": 1575, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 13:10:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10719, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

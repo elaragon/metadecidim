@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-934", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 934, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 11, 
+            "name": "Economia cooperativa, social i solid\u00e0ria", 
+            "position": 2
+        }, 
+        "summary": "Suport a programes de petita escala repartits per tot el territori, que s\u00f3n un aspecte sovint poc visible a les macroan\u00e0lisis per\u00f2, en canvi, molt presents en la vida quotidiana: \u201cTemps de barri, temps per a tu\u201d, \u201cDe deu a una\u201d, la Xarxa d\u2019Empreses NUST, els projectes pilot de comer\u00e7 i mercat i els bancs del temps.", 
+        "title": "Bancs del temps i projectes pilot de comer\u00e7 i mercat", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 14, 
+        "url": "https://decidim.barcelona/pam/proposals/bancs-del-temps-i-projectes-pilot-de-comerc-i-mercat", 
+        "votable": null, 
+        "voted": null
+    }
+}

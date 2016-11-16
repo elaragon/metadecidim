@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2449, 
+            "name": "Pablo Ramos Garcia", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2449, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1669", 
+        "conflictive": false, 
+        "created_at": "09/02/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "http://www.fundaciosergi.org/2012/11/la-masoveria-urbana-una-aposta-per-facilitar-lacces-a-lhabitatge/   https://www.facebook.com/SostreCivic/   https://www.facebook.com/mula.llaralternativa?fref=ts   http://www.promusa.cat/index.asp?ap=contingut&idApartat=26&idIdioma=0   http://www.ajuntamentimpulsa.cat/es/sant-cugat-hace-una-apuesta-por-la-%E2%80%9Cmasoveria-urbana%E2%80%9D-como-estrategia-para-facilitar-el-acceso-a-la-vivienda.aspx   https://directa.cat/pactar-masoveria-urbana-amb-un-ajuntament-lexperiencia-del-collectiu-sis-claus   https://ca.goteo.org/project/masoveria-urbana-a-barcelona   ", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1669, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 6, 
+            "name": "Habitatge", 
+            "position": 6
+        }, 
+        "summary": "Xarxa per posar en contacte masovers urbans amb propietaris d'immobles abandonats i en des\u00fas. Els inquilins gaudirien de l'habitatge a canvi de rehabilitar-lo durant un per\u00edode de temps establert en un contracte fruit d'una negociaci\u00f3, amb la mediaci\u00f3, suport i garanties de l'ajuntament i cooperatives com Sostre C\u00edvic.", 
+        "title": "Facilitant l'acc\u00e9s a l'habitatge - Xarxa de masoveria urbana municipal", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 35, 
+        "url": "https://decidim.barcelona/pam/proposals/facilitant-l-acces-a-l-habitatge-xarxa-de-masoveria-urbana-municipal", 
+        "votable": null, 
+        "voted": null
+    }
+}

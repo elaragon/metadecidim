@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8661, 
+            "name": "M. Ferrer", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 8661, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3556", 
+        "conflictive": false, 
+        "created_at": "26/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3556, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 17, 
+            "name": "Energia i canvi clim\u00e0tic", 
+            "position": 5
+        }, 
+        "summary": "El subministrament el\u00e8ctric \u00e9s un servei b\u00e0sic i essencial per a tota la ciutadania. Les infraestructures el\u00e8ctriques les paguen els promotors, urbanitzadors o usuaris i es veuen obligats a cedir-les a una empresa privada que nom\u00e9s cerca el seu m\u00e0xim benefici econ\u00f2mic. Cal que aquestes infraestructures reverteixin sobre la ciutat i ciutadans", 
+        "title": "Municipalitzaci\u00f3 de la xarxa de distribuci\u00f3 el\u00e8ctrica", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 45, 
+        "url": "https://decidim.barcelona/pam/proposals/municipalitzacio-de-la-xarxa-de-distribucio-electrica", 
+        "votable": null, 
+        "voted": null
+    }
+}

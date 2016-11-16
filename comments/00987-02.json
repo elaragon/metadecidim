@@ -1,0 +1,341 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 23853, 
+                "name": "Josep Busquets Vidal", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/promoure-l-autosuficiencia-i-autoconsum-energetics\">https://decidim.barcelona/proposals/promoure-l-autosuficiencia-i-autoconsum-energetics</a></p>", 
+            "commentable_id": 987, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 14:48:27", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17152, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/promoure-un-mercat-local-associat-a-l-estalvi-energetic\">https://decidim.barcelona/proposals/promoure-un-mercat-local-associat-a-l-estalvi-energetic</a></p>", 
+            "commentable_id": 987, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 15:23:55", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17179, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/promocio-d-una-xarxa-de-fotolineres\">https://decidim.barcelona/proposals/promocio-d-una-xarxa-de-fotolineres</a></p>", 
+            "commentable_id": 987, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 15:24:55", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17180, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/energia-solar-als-edificis-publics\">https://decidim.barcelona/proposals/energia-solar-als-edificis-publics</a></p>", 
+            "commentable_id": 987, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 15:25:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17182, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/optimizacion-de-energia\">https://decidim.barcelona/proposals/optimizacion-de-energia</a></p>", 
+            "commentable_id": 987, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 15:25:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17183, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/assessorament-de-la-transicio-energetica-per-districtes\">https://decidim.barcelona/proposals/assessorament-de-la-transicio-energetica-per-districtes</a></p>", 
+            "commentable_id": 987, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 15:26:10", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17184, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/impostos-mes-elevats-per-als-vehicles-mes-contaminants\">https://decidim.barcelona/proposals/impostos-mes-elevats-per-als-vehicles-mes-contaminants</a></p>", 
+            "commentable_id": 987, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 15:26:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17185, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/preparar-un-pla-energetic-de-barcelona\">https://decidim.barcelona/proposals/preparar-un-pla-energetic-de-barcelona</a></p>", 
+            "commentable_id": 987, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 15:31:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17187, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/crear-un-gestor-comptable-energetic\">https://decidim.barcelona/proposals/crear-un-gestor-comptable-energetic</a></p>", 
+            "commentable_id": 987, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 15:31:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17188, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/generar-actuacions-de-district-heating-generacio-distribuida-entre-comunitats-veins-barris\">https://decidim.barcelona/proposals/generar-actuacions-de-district-heating-generacio-distribuida-entre-comunitats-veins-barris</a></p>", 
+            "commentable_id": 987, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 15:33:31", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17191, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 2, 
+        "next_page": null, 
+        "prev_page": 1, 
+        "total_count": 30, 
+        "total_pages": 2
+    }
+}

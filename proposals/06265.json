@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2761, 
+            "name": "Daviz Villota", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2761, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6265", 
+        "conflictive": false, 
+        "created_at": "21/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6265, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 18, 
+            "name": "Participaci\u00f3 ciutadana", 
+            "position": 2
+        }, 
+        "summary": "Parlament ciutad\u00e0 constituit per persones que no hagin presentat cap mena de candidatura ni promoci\u00f3 personal, Que siguin persones independents triades per un  suport ciutad\u00e0 (5.000 signatures) sense cap restricci\u00f3 d'edat, origen o situaci\u00f3 legal. El funcionament d'aquest parlament ser\u00e0 dissenyat per un proc\u00e9s ciutad\u00e0 amb un consell d'assessorament", 
+        "title": "Parlament ciutad\u00e0 independent de ciutadans amb suport popular, sense candidats politics.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/parlament-ciutada-independent-de-ciutadans-amb-suport-popular-sense-candidats-politics", 
+        "votable": null, 
+        "voted": null
+    }
+}

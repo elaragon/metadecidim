@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8592, 
+            "name": "Ada", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 8592, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3533", 
+        "conflictive": false, 
+        "created_at": "26/02/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3533, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "Som ve\u00efns de la finca de Sancho de Avila i sol\u00b7licitem l'obertura d'un supermercat at\u00e8s que no n'hi ha cap en un km a la rodona. El m\u00e9s proper est\u00e0 cap a Marina a 20 minuts caminant.Tots els ve\u00efns estar\u00edem encantats i tindria una gran acollida. Per no haver no hi ha ni un trist forn de pa i cada cop hi ha m\u00e9s poblaci\u00f3.", 
+        "title": "Obertura de supermercat d'alguna cadena a zona Sancho de Avila/Pamplona", 
+        "total_comments": 7, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 4, 
+        "total_positive_comments": 2, 
+        "total_votes": 26, 
+        "url": "https://decidim.barcelona/pam/proposals/obertura-de-supermercat-d-alguna-cadena-a-zona-sancho-de-avila-pamplona", 
+        "votable": null, 
+        "voted": null
+    }
+}

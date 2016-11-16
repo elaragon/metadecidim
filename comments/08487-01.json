@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17445, 
+                "name": "Pau Castell\u00f3 Gil", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hi ha moltes ve\u00efnes que porten reclamant-ho molt de temps i ,fins i tot, han presentat firmes al govern de districte. Tornaria a donar servei als escolars de Coves d'en Cimany i a les ve\u00efnes amb mobilitat redu\u00efda que ara han de caminar bastant m\u00e9s per arribar a casa</p>", 
+            "commentable_id": 8487, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 18:28:13", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8100, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16420, 
+                "name": "shm4", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>la nova xarxa de bus te les parades mes separades. Aquesta decissi\u00f3 no s' adapta als barris amb topografia dif\u00edcil com el Carmel i a la poblaci\u00f3 amb problemes per caminar</p>", 
+            "commentable_id": 8487, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 19:49:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8111, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

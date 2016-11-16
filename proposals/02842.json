@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2842", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2842, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 1, 
+            "name": "Just\u00edcia social", 
+            "position": 1
+        }, 
+        "summary": "Garantir el dret d\u2019acc\u00e9s als subministraments b\u00e0sics amb el desplegament de la Llei 24/2015, de 29 d'abril, que preveu actuacions per aturar les execucions hipotec\u00e0ries i els desnonaments i per fer front a la pobresa energ\u00e8tica, \u00e9s a dir, la dificultat per afrontar les factures dels subministraments b\u00e0sics d\u2019electricitat, gas i aigua.", 
+        "title": "Aplicar la llei de mesures urgents per afrontar la pobresa energ\u00e8tica i l'emerg\u00e8ncia habitacional", 
+        "total_comments": 17, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 13, 
+        "total_positive_comments": 4, 
+        "total_votes": 145, 
+        "url": "https://decidim.barcelona/pam/proposals/aplicar-la-llei-de-mesures-urgents-per-afrontar-la-pobresa-energetica-i-l-emergencia-habitacional", 
+        "votable": null, 
+        "voted": null
+    }
+}

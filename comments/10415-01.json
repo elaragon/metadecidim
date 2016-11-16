@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/demanem-la-poda-dels-arbres-de-av-diagonal-de-josep-pla-a-selva-de-mar\">https://decidim.barcelona/proposals/demanem-la-poda-dels-arbres-de-av-diagonal-de-josep-pla-a-selva-de-mar</a></p>", 
+            "commentable_id": 10415, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 14:27:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14823, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/demanem-tallar-les-branques-de-les-moreres-del-triangle-de-selva-de-mar-diagonal\">https://decidim.barcelona/proposals/demanem-tallar-les-branques-de-les-moreres-del-triangle-de-selva-de-mar-diagonal</a></p>", 
+            "commentable_id": 10415, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 14:27:56", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14824, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

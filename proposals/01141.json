@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 314, 
+            "name": "DonRamon", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 314, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1141", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1141, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Hacer la reforma de Pere IV manteni\u00e9ndola tambi\u00e9n como eje de transporte p\u00fablico. Carril bus en ambos sentidos, y tal vez estudiar abrir un vial a trav\u00e9s del parque para evitar los rodeos. En el tramo norte habr\u00eda espacio para carril bus en el centro de la v\u00eda, estilo Pg. Colom o C/ Tarragona.", 
+        "title": "Mantener Pere IV como eje de transporte p\u00fablico", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 3, 
+        "total_positive_comments": 0, 
+        "total_votes": 13, 
+        "url": "https://decidim.barcelona/pam/proposals/mantener-pere-iv-como-eje-de-transporte-publico", 
+        "votable": null, 
+        "voted": null
+    }
+}

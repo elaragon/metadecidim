@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8815, 
+            "name": "Gonzalo Zaragoza", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 8815, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3570", 
+        "conflictive": false, 
+        "created_at": "26/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3570, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Es triste que los parques, el \u00fanico contacto con la naturaleza que puede tener un ni\u00f1o en una ciudad, sea el lugar donde la gente est\u00e1 llevando a sus perros a orinar y defecar.\r\nIr\u00f3nicamente en muchos parques de Barcelona son los ni\u00f1os los que est\u00e1n en un recinto vallado para que los perros pueden pasear a sus anchas por el parque.\r\n", 
+        "title": "Proteger los espacios verdes para que los ni\u00f1os no tengan que compartirlo con los perros", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 27, 
+        "url": "https://decidim.barcelona/pam/proposals/proteger-los-espacios-verdes-para-que-los-ninos-no-tengan-que-compartirlo-con-los-perros", 
+        "votable": null, 
+        "voted": null
+    }
+}

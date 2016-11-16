@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8117", 
+        "conflictive": false, 
+        "created_at": "04/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8117, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Projecte pensat per a persones amb una malaltia digestiva greu problema m\u00e8dic no contagi\u00f3s que necessiten utilitzar urgentment serveis.\r\n\r\nhttps://decidim.barcelona/proposals/adhesio-de-la-ciutat-a-la-campanya-no-puc-esperar \r\n", 
+        "title": " Adhesi\u00f3 de la ciutat a la campanya \u201cno puc esperar\u201d:", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/adhesio-de-la-ciutat-a-la-campanya-no-puc-esperar-cbb8cad2-c79e-4aab-87d4-76b6cc71a36f", 
+        "votable": null, 
+        "voted": null
+    }
+}

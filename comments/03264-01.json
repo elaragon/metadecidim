@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5242, 
+                "name": "Alejandro Gim\u00e9nez Imirizaldu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si us plau </p>", 
+            "commentable_id": 3264, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 15:33:34", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2723, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A la cita presencial de l\u2019Escola Els arcs, els estudiants de 4rt d\u2019ESO van proposar que la xarxa Wifi de Barcelona arribi al transport p\u00fablic, en concret als autobusos i les seves parades.  </p>", 
+            "commentable_id": 3264, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/04/2016 12:21:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7725, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A la cita presencial que va tenir lloc a l\u2019Escola Els Arcs, els estudiants de 4rt ESO C van proposar ampliar el servei de wifi gratu\u00eft a la ciutat i sobretot que funcioni b\u00e9. Tamb\u00e9 van proposar facilitar l\u2019acc\u00e9s al wifi a les parades de metro, autob\u00fas i ferrocarrils.  </p>", 
+            "commentable_id": 3264, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 09:17:37", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8196, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A la cita que va tenir lloc a l'espai jove La Fontana, 32 joves van estar debatent diverses propostes per millorar el medi ambient de la ciutat de Barcelona. Entre aquestes van proposar posar xarxa wifi gratu\u00efta a les parades de transport p\u00fablic de la ciutat. </p>", 
+            "commentable_id": 3264, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 16:44:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9678, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "7725", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 512, 
+                "name": "Solidaritat Catalana per la Independ\u00e8ncia", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Queda clar aleshores que es una demanda a tenir molt en compte i ens alegra la coincid\u00e8ncia.Gr\u00e0cies pel comentari! :)</p>", 
+            "commentable_id": 3264, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/04/2016 12:25:49", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7728, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

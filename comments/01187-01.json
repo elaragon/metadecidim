@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": true, 
+                "hidden": false, 
+                "id": 1318, 
+                "name": null, 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No nom\u00e9s \u00e9s el soroll dels vehicles de la ciutat, sino tamb\u00e9 la gent que crida con si li an\u00e9s la vida quan est\u00e0 tenint una conversa . I, les sortides i les entrades dels nens i nenes a les escoles i instituts, insoportable. Jo visc davant d'una escola i, des de les 16.30h que surten, fins les 19h hi ha un xivarri de nens, nenes, pares i mares, que \u00e9s insoportable. Hauriem de ser m\u00e9s conscients de lo perjudicial que \u00e9s el soroll per la salut, i entre tots/ es moderar-lo, i si cal, que es mult\u00e9s molt m\u00e9s i, que la gu\u00e0rdia urbana actu\u00ef d'ofici sense pr\u00e8via den\u00fancia. Per la bona salut de tothom!</p>", 
+            "commentable_id": 1187, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 21:13:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1003, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2750, 
+                "name": "JOSEP M", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El soroll es un tema molt descuidat  per l\u00b4Ajuntament. Barcelona es una de les ciutats mes sorolloses del mon. Las motos  son un martiri i no tenen cap tipus de control.</p>", 
+            "commentable_id": 1187, 
+            "commentable_type": "Proposal", 
+            "created_at": "19/02/2016 00:23:56", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2117, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 5, 
+            "total_votes": 5
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7264, 
+                "name": "Esteban", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Yo incluso apoyar\u00eda la instalaci\u00f3n de controles para la contaminaci\u00f3n ac\u00fastica para poder eliminar el ruido de un gran n\u00famero de motocicletas.</p>", 
+            "commentable_id": 1187, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/02/2016 15:30:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2386, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 4, 
+            "total_votes": 4
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10493, 
+                "name": "Urkiux", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00bfPor qu\u00e9 el Ayuntamiento permite la circulaci\u00f3n de algunas motos que est\u00e1 especialmente preparadas para hacer un ruido infernal? Me refiero espacialmente a algunos scooters de alta cilindrada y motos custom. No entiendo que sus usuarios disfruten haciendo tanto ruido (\u00bfhago ruido, luego existo?) pero desde luego el resto de ciudadadanos no tenemos porque soportarlo.</p>", 
+            "commentable_id": 1187, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/03/2016 21:34:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3689, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

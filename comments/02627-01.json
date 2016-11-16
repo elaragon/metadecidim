@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5357, 
+                "name": "daviduriarte ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Creo que ser\u00eda interesante poder votar en contra. De todas formas, una forma de pode votar en contra es por medio de los comentarios que puedes marcar como \"A favor\", \"Neutral\" o \"En contra\"</p>", 
+            "commentable_id": 2627, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/02/2016 18:47:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1771, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3026, 
+                "name": "Imma V.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tampoc s'hauria de poder votar la pr\u00f2pia proposta o comentari. </p>", 
+            "commentable_id": 2627, 
+            "commentable_type": "Proposal", 
+            "created_at": "19/03/2016 06:55:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5860, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/desenvolupar-una-plataforma-de-participacio-digital-ciutadana\">https://decidim.barcelona/proposals/desenvolupar-una-plataforma-de-participacio-digital-ciutadana</a></p>", 
+            "commentable_id": 2627, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 11:07:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10420, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1771", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3026, 
+                "name": "Imma V.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00bfY si no quieres hacer comentarios? Si no se escribe no se puede a\u00f1adir ning\u00fan comentario. Y de la misma manera que se puede votar de forma an\u00f3nima a favor deber\u00eda poder hacerse en contra.</p>", 
+            "commentable_id": 2627, 
+            "commentable_type": "Proposal", 
+            "created_at": "19/03/2016 06:58:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5861, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 13768, 
+            "name": "N\u00faria Oriol", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 13768, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5634", 
+        "conflictive": false, 
+        "created_at": "17/03/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "Doble sentit verge de montserrat", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5634, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Crec que s'hauria de tornar a posar el doble sentit de circulaci\u00f3 per la verge de Montserrat desde el C/ Cartagena fins al Passeig Maragall. Els que vivim entre aquest tram, hem de donar una inmensa volta per anar, per exemple, de la pla\u00e7a Font Castellana fins a la pla\u00e7a del Nen de la rutlla. O com a m\u00ednim pel ve\u00efns residents en aquesta zona.", 
+        "title": "Retorn al doble sentit de circulaci\u00f3 Avinguda Verge de Montserrat", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 19, 
+        "url": "https://decidim.barcelona/pam/proposals/retorn-al-doble-sentit-de-circulacio-avinguda-verge-de-montserrat", 
+        "votable": null, 
+        "voted": null
+    }
+}

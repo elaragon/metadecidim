@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12911, 
+                "name": "MariusG", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>I a m\u00e9s afegir pilars que impedeixin que els cotxes pugin a la vorera. Els dies de futbol, el barri de Badal \u00e9s el parking de la ciutat, no pots caminar per les voreres (ja ni parlo de carritos o cadires de rodes). Molts carrers tenen potencial per ampliar voreres i/o peatonalitzar. Ja s\u00f3n anys que no es fa cap actuaci\u00f3 en aquest sentit mentrestant veiem com en el barri de Les Corts han fet 2 ampliacions en poc temps de difer\u00e8ncia en alguns carrers. Badal est\u00e0 totalment oblidat per l'ajuntament des de fa molt temps i es va degradant progressivament.</p>", 
+            "commentable_id": 5335, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 14:17:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5239, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

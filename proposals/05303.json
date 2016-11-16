@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5303", 
+        "conflictive": false, 
+        "created_at": "16/03/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 5303, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 5, 
+            "name": "Cicles de vida ", 
+            "position": 5
+        }, 
+        "summary": "Instal\u00b7laci\u00f3 d\u2019un equipament per a joves a la Marina,  ja que no tenen un lloc de refer\u00e8ncia. Fer un viver d\u2019empreses i un espai d\u2019oficis i serveis a la Marina per a noves activitats de titularitat p\u00fablica per\u00f2 participatiu i democr\u00e0tic. Espais de \u201crefer\u00e8ncia\u201d que transmetin les noves maneres de fer economies al Poble-Sec i la Marina.", 
+        "title": "Generar espais de refer\u00e8ncia en l\u2019\u00e0mbit de la formaci\u00f3, inserci\u00f3 i noves economies", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/generar-espais-de-referencia-en-l-ambit-de-la-formacio-insercio-i-noves-economies", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2884", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2884, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 21, 
+            "name": "Defensa i protecci\u00f3 dels Drets Humans", 
+            "position": 9
+        }, 
+        "summary": "Mapejament d\u2019actors i definici\u00f3 d\u2019objectius per posar en marxa una estrat\u00e8gia coordinada que respecti la independ\u00e8ncia de tots els actors per\u00f2 que pugui ser integral i integrada. Potenciar les xarxes de ciutats, catalanes i internacionals, de promoci\u00f3 i monitoratge de drets humans. Facilitar la informaci\u00f3 i orientaci\u00f3 ciutadana per a l\u2019exercici dels drets humans.", 
+        "title": "Promoci\u00f3 i monitoratge dels drets humans a trav\u00e9s d\u2019un treball en xarxa", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 9, 
+        "url": "https://decidim.barcelona/pam/proposals/promocio-i-monitoratge-dels-drets-humans-a-traves-d-un-treball-en-xarxa", 
+        "votable": null, 
+        "voted": null
+    }
+}

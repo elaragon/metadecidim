@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 22910, 
+            "name": "Maria Pilar Alonso", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 22910, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10535", 
+        "conflictive": false, 
+        "created_at": "09/04/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 10535, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Dotar a tota la Baixada de la Gl\u00f2ria (fins i tot en ls trams on actualment no hi ha) de escales mec\u00e0niques DE PUJADA I BAIXADA i que funcionin LES 24h del dia, amb un sistema d'aturada total quan no s'estiguin utilitzant. Crec que seria el remei per molta gent gran del barri i en general milloraria molt la vida dels ve\u00efns del barri .gr\u00e0cies", 
+        "title": "Accesibilitat al barri de La Salut (Gr\u00e0cia)", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/accesibilitat-al-barri-de-la-salut-gracia", 
+        "votable": null, 
+        "voted": null
+    }
+}

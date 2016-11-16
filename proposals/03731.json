@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 3177, 
+            "name": "Josep M. Guillumet An\u00e9s", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 3177, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3731", 
+        "conflictive": false, 
+        "created_at": "02/03/2016", 
+        "district": {
+            "id": 4, 
+            "name": "Les Corts"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3731, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Al carrer Keynes el Pla General califica una franja de 5.625 m2 destinada a Zona verda i espais p\u00fablics que ja fa m\u00e9s de 20 anys que s'hauria d'haver cedit al municipi per a \u00fas p\u00fablic i que la AVV ha reivindicat . Aquest espais han de ser per a \u00fas p\u00fablic dels ciutadans  per zones verdes, passeig, pistes de petanca", 
+        "title": "Aconseguir les zones verdes previstes al Pla General de Barcelona al carrer Keynes (Teniente Coronel Valenzuela)", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 14, 
+        "url": "https://decidim.barcelona/pam/proposals/aconseguir-les-zones-verdes-previstes-al-pla-general-de-barcelona-al-carrer-keynes-teniente-coronel-valenzuela", 
+        "votable": null, 
+        "voted": null
+    }
+}

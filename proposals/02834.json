@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2834", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2834, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 20, 
+            "name": "Administraci\u00f3  intel\u00b7ligent i inclusiva", 
+            "position": 4
+        }, 
+        "summary": "Dur a terme una sistematitzaci\u00f3 per evitar inconsist\u00e8ncies i solapaments de tasques i funcions deguts a la complexitat de l\u2019estructura organitzativa i funcional de l\u2019Ajuntament i dels seus ens. Gestionar els recursos humans amb equilibri retributiu dels llocs de treball. Ordenar i fer coherents i eficients les relacions laborals i a la selecci\u00f3, la provisi\u00f3, la formaci\u00f3, i la gesti\u00f3 de riscos.", 
+        "title": "Millorar l\u2019organitzaci\u00f3 interna", 
+        "total_comments": 9, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 9, 
+        "total_positive_comments": 0, 
+        "total_votes": 11, 
+        "url": "https://decidim.barcelona/pam/proposals/millorar-l-organitzacio-interna", 
+        "votable": null, 
+        "voted": null
+    }
+}

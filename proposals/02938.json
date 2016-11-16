@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2938", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2938, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 13, 
+            "name": "Turisme sostenible", 
+            "position": 5
+        }, 
+        "summary": "Constituir un espai de trobada entre una representaci\u00f3 \u00e0mplia i plural de la ciutadania i el govern local que permeti exercir el dret a la participaci\u00f3 en el marc institucional m\u00e9s adient, generant reflexi\u00f3 i propostes que contribueixin a l\u2019estrat\u00e8gia de l\u2019acci\u00f3 municipal per definir el model de turisme i la gesti\u00f3 que en fa en el marc del model de ciutat.", 
+        "title": "Consell de Turisme i Ciutat", 
+        "total_comments": 4, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 4, 
+        "total_positive_comments": 0, 
+        "total_votes": 16, 
+        "url": "https://decidim.barcelona/pam/proposals/consell-de-turisme-i-ciutat", 
+        "votable": null, 
+        "voted": null
+    }
+}

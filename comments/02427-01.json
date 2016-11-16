@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9462, 
+                "name": "Antoni", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>I tant que \u00e9s una llarga reivindicaci\u00f3 ve\u00efnal. Aquesta part de barri no t\u00e9 cap equipament que propici un teixit de barri. Aix\u00f2 en l'anterior mandat tenia la m\u00e0xima prioritat per\u00f2 no es va invertir ni un c\u00e8ntim. En qualsevol cas ja toca. \n<br />Sabem que Can Ferrer \u00e9s un espai petit per un Centre C\u00edvic, per\u00f2 \u00e9s pot habilitar com un lloc de trobada d'associacions amb alguns continguts socials, metre esperem un Cassal o Centre C\u00edvic.</p>", 
+            "commentable_id": 2427, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/03/2016 17:55:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3216, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12039, 
+                "name": "banyeres", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Efectivament, la part sud de Sant Gervasi \u00e9s molt densa i sense equipaments, a m\u00e9s a m\u00e9s, la poblaci\u00f3  \u00e9s  cada cop m\u00e9s envellida i no t\u00e9 cap biblioteca ni espai cultural</p>", 
+            "commentable_id": 2427, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/03/2016 22:24:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4713, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9464, 
+                "name": "MariaC. L\u00f3pez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>s\u00f3n urgents els equipaments a la part sud de Sant Gervasi, cassals espais de trobada per gent gran i joves. Biblioteques, l'equipament m\u00e9s ben valorat per la poblaci\u00f3 encara no ha arribat a aquesta part  del barri</p>", 
+            "commentable_id": 2427, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 16:40:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5065, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-752", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 752, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 1, 
+            "name": "Just\u00edcia social", 
+            "position": 1
+        }, 
+        "summary": "Estrat\u00e8gia integral de cohesi\u00f3 i innovaci\u00f3 social als barris m\u00e9s vulnerables a partir de quatre \u00e0mbits d\u2019actuaci\u00f3: programes socials, actuacions de promoci\u00f3 econ\u00f2mica i ocupaci\u00f3, intervenci\u00f3 sobre l\u2019espai p\u00fablic i els equipaments, i rehabilitaci\u00f3 d\u2019habitatges.", 
+        "title": "Pla de barris", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 28, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-de-barris-4a852b86-cbd6-4cc5-9f1d-49067e050fcf", 
+        "votable": null, 
+        "voted": null
+    }
+}

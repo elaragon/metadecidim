@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4123, 
+                "name": "marc balcells", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Les patates fregides entrarien tamb\u00e9 en la prohibici\u00f3? i el bacall\u00e0 a la llauna?</p>", 
+            "commentable_id": 1476, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/02/2016 19:32:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1350, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1350", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8202, 
+                "name": "Alex Murphy", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Jajaja, totalment d'acord amb tu Marc. </p>", 
+            "commentable_id": 1476, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/02/2016 09:02:37", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2932, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1350", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 198, 
+                "name": "Manuel D\u00e1vila Rodr\u00edguez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si  supieras la cantidad de agua y vegetales que hacen falta para producir un solo kilo de carne creo que hasta te har\u00edas vegetariano,  si supieras a que es debido el aumento de cancer tan alarmante que hay en el mundo lo mismo dejar\u00edas de comer patatas fritas o limitar\u00edas su uso, por cierto los niveles de contaminaci\u00f3n en los mares hace que casi sea una ruleta rusa comer seg\u00fan que pescados.</p>", 
+            "commentable_id": 1476, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/02/2016 15:01:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2980, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1350/2980", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15833, 
+                "name": "un11imig", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El mateix es podria aplicar de la majoria de vegetals (de fet tots) , que encara que ecol\u00f2gics estan ja contaminats o directament son transg\u00e8nics...</p>", 
+            "commentable_id": 1476, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 19:00:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6837, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

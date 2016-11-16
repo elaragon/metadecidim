@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8734, 
+            "name": "Maria Iborra can\u00f3", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 8734, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3566", 
+        "conflictive": false, 
+        "created_at": "26/02/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3566, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Necessita un manteniment m\u00e9s acurat degut a la gran quantitat de persones que passen, en fan \u00fas (o mal \u00fas). M\u00e9s recollida de  les papereres i neteja del carrer. M\u00e9s neteja dels contenidors d'escombreries, qu\u00e8 s\u00f3n utilitzats com a WC p\u00fablics.", 
+        "title": "Neteja al barri de l'estaci\u00f3 de Sants", 
+        "total_comments": 6, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 4, 
+        "total_positive_comments": 2, 
+        "total_votes": 23, 
+        "url": "https://decidim.barcelona/pam/proposals/neteja-al-barri-de-l-estacio-de-sants", 
+        "votable": null, 
+        "voted": null
+    }
+}

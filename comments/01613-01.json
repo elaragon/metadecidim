@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3857, 
+                "name": "Eva Valero", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La falta de personal \u00e9s indispensable per a una bona atenci\u00f3 al ciutad\u00e0, estalviant-li esperes innecess\u00e0ries. Tamb\u00e9 s'hauria de dotar als tramitadors del medis t\u00e8cnics suficients i actualitzats per aconseguir una feina eficaz i eficient. La opci\u00f3 de la CITA PR\u00c8VIA general ser\u00eda una soluci\u00f3 pr\u00e0ctica per evitar p\u00e9rdua de temps i cues interminables!!</p>", 
+            "commentable_id": 1613, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/02/2016 12:38:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1281, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3804, 
+                "name": "AM27412", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Adjunto el mateix comentari que en altre proposta. Les Oficines d'Atenci\u00f3 al Ciutad\u00e0 requereixen de m\u00e9s treballadors per poder realitzar una atenci\u00f3 adequada per poder donar una bona imatge de la ciutat i no un sacrifici extra per part dels pocs treballadors que han de fer un sobre-esfor\u00e7 per poder satisfer la demanda actual de la ciutadania. S'ha de dir que \u00e9s important l'adequaci\u00f3 de les oficines (materials, eines, etc) per tal de poder realitzar un bon servei com mereix la marca BCN.</p>", 
+            "commentable_id": 1613, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/02/2016 14:51:26", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1937, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9531, 
+                "name": "Toni K. BuSa", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La veritat \u00e9s que els temps d'espera a les OAC's son vergonyosos. I, ara, que obliguen a tenir cita pr\u00e8via... encara resulta m\u00e9s vergony\u00f3s tenir cita pr\u00e8via per fer cua de m\u00e9s de mitja hora. </p>", 
+            "commentable_id": 1613, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/03/2016 08:47:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3128, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

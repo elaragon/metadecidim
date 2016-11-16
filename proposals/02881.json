@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2881", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2881, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 8, 
+            "name": "Migraci\u00f3, interculturalitat i discriminaci\u00f3 zero", 
+            "position": 8
+        }, 
+        "summary": "Potenciar els espais espec\u00edfics que treballen amb les dones que inicien un proc\u00e9s de reagrupaci\u00f3 familiar, dins del programa d\u2019acompanyament al reagrupament familiar. Facilitar el proc\u00e9s d\u2019autonomia i apoderament a les dones i els nois que arriben.", 
+        "title": "Potenciar els espais de dona i joves del programa d'acompanyament a la reagrupaci\u00f3 familiar", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 13, 
+        "url": "https://decidim.barcelona/pam/proposals/potenciar-els-espais-de-dona-i-joves-del-programa-d-acompanyament-a-la-reagrupacio-familiar", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 7470, 
+            "name": "Arnau Montserrat", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 7470, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4021", 
+        "conflictive": false, 
+        "created_at": "05/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4021, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 26, 
+            "name": "Govern transparent  i rendici\u00f3 de comptes", 
+            "position": 1
+        }, 
+        "summary": "No \u00e9s sostenible ni efica\u00e7 que els alts c\u00e0rrecs tinguin que assumir m\u00faltiples responsabilitats. Convertir-los en bic\u00e8fals, amb 2 persones assumint el c\u00e0rrec, facilitaria la conciliaci\u00f3 familiar i social, fomentaria el treball en equip, repartiria protagonisme medi\u00e0tic i estr\u00e8s, formaria quadres i seria exemple de bon viure: + temps i - diners.", 
+        "title": "Bicefalia als alts c\u00e0rrecs p\u00fablics", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/bicefalia-als-alts-carrecs-publics", 
+        "votable": null, 
+        "voted": null
+    }
+}

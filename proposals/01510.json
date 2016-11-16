@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1743, 
+            "name": "Anna Are\u00f1as Rusi\u00f1ol", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1743, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1510", 
+        "conflictive": false, 
+        "created_at": "05/02/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1510, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Els pipicans que t\u00e9 el barri de Gr\u00e0cia pels m\u00e9s peluts s\u00f3n escassos i petits a excepci\u00f3 del renovat pipican de Travessera amb Marina. La resta \u00e9s de dimensions ridicules com ara el de Travessera. Per aix\u00f2 demano a l' ajuntament un pipican c\u00e8ntric i gran pel barri.", 
+        "title": "Volem un pipican digne a la vila de Gr\u00e0cia", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 24, 
+        "url": "https://decidim.barcelona/pam/proposals/volem-un-pipican-digne-a-la-vila-de-gracia", 
+        "votable": null, 
+        "voted": null
+    }
+}

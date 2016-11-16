@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 3854, 
+            "name": "Alfons Llopis", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 3854, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1665", 
+        "conflictive": false, 
+        "created_at": "09/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1665, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 21, 
+            "name": "Defensa i protecci\u00f3 dels Drets Humans", 
+            "position": 9
+        }, 
+        "summary": "No permetre l\u2019obertura d\u2019entitats i negocis que promoguin l\u2019odi, la xenof\u00f2bia, el racisme l\u2019homof\u00f2bia, l\u2019exaltaci\u00f3 del feixisme i la negaci\u00f3 de l\u2019holocaust.", 
+        "title": "Tanquem la llibreria Europa", 
+        "total_comments": 5, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 35, 
+        "url": "https://decidim.barcelona/pam/proposals/tanquem-la-llibreria-europa", 
+        "votable": null, 
+        "voted": null
+    }
+}

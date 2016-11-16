@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10054, 
+            "name": "Observatori Cultural de G\u00e8nere", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 10054, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3785", 
+        "conflictive": false, 
+        "created_at": "03/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3785, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 4, 
+            "name": "Equitat de g\u00e8nere i diversitat sexual", 
+            "position": 4
+        }, 
+        "summary": "Si la cultura en clau de dona (feta per dones i que parla dones) t\u00e9 poca visibilitat, si es deixa entrar en comptagotes a la programaci\u00f3 dels grans centres culturals, per qu\u00e8 no crear un \"Women's Lab\" que serveixi per dinamitzar-la i donar-li m\u00e9s espai? Un laboratori que aculli propostes i ajudi a programar-les a la ciutat.", 
+        "title": "Creaci\u00f3 d'un \"Women's Lab\" cultural", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/creacio-d-un-women-s-lab-cultural", 
+        "votable": null, 
+        "voted": null
+    }
+}

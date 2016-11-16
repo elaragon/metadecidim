@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8098", 
+        "conflictive": false, 
+        "created_at": "04/04/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/meetings/escola-betania-patmos-una-barcelona-mes-humana-i-en-transicio-ecologica-3r-eso-a", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8098, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "A la cita que va tenir lloc a l\u2019Escola Bet\u00e0nia- Patmos, els estudiants de 3r ESO A van proposar que una vegada al mes es realitzin dinars populars a cada barri de Barcelona, on es desenvolupin activitats i el dinar sigui gratu\u00eft per tal de fomentar la interrelaci\u00f3 entre els ve\u00efns i ve\u00efnes del barri.", 
+        "title": "Dinars de germanor als barris un cop al mes", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/dinars-de-germanor-als-barris-un-cop-al-mes", 
+        "votable": null, 
+        "voted": null
+    }
+}

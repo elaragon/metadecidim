@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2177, 
+                "name": "Gl\u00f2ria BM", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Justament no fa gaire vaig denunciar aquesta \"incid\u00e8ncia\" a la p\u00e0gina de l'Ajuntament, en refer\u00e8ncia a les figueres de moro del Parc del Guinard\u00f3, que estan en un estat deplorable. Si no es poden salvar que les treguin i en plantin de noves...</p>", 
+            "commentable_id": 1294, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 15:37:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 634, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2316, 
+                "name": "Pau Garc\u00eda", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El Parc de Collserola tamb\u00e9 est\u00e0 patint aquest problema, fa bastanta pena veure les figueres de moro (d'on mengem els \"Higos Chumbos\") en aquest estat.</p>", 
+            "commentable_id": 1294, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 21:47:34", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1896, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "634", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1261, 
+                "name": "Daniel #NoalTTIP", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>S\u00ed, jo tamb\u00e9 em refer\u00eda a les figueres de moro, el que passa \u00e9s que no sab\u00eda que es diguessin aix\u00ed (cada d\u00eda s'apren alguna cosa nova). A un lloc concret del Parc G\u00fcell les han substituit per un altre mena de cactus, queda molt pobre pero almenys \u00e9s una soluci\u00f3, i a altres llocs del Parc i a les inmediacions segueixen les figueres de moro, moribundes. Una pena. </p>", 
+            "commentable_id": 1294, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 18:52:01", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 713, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

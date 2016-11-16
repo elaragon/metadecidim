@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8461", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/proposals/oferir-activitats-per-a-persones-amb-diversitat-funcional-als-centres-civics-i-equipaments-i-espais-de-lleure", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8461, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Festes de la Merc\u00e8 Accessibles, espectacles i teatres accessibles per a artistes i espectadors (bucle magn\u00e8tic fix, etc.), \r\naccessibilitat visual en els espais p\u00fablics culturals (audiodescripci\u00f3 en visites guiades, explicacions adaptades en codi Braille, etc), centres c\u00edvics adaptats f\u00edsicament i comunicativament (sonoritzaci\u00f3, etc).", 
+        "title": "Accessibilitat a la oferta de lleure i cultura de la ciutat", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/accessibilitat-a-la-oferta-de-lleure-i-cultura-de-la-ciutat", 
+        "votable": null, 
+        "voted": null
+    }
+}

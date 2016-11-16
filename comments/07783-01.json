@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 79, 
+                "name": "Andreu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aix\u00f2 ja existeix, amb l'aplicaci\u00f3 ApparkB. Un altra cosa \u00e9s que s'hauria d'ampliar per a l'\u00fas dels que aparquem per mesos, no per hores</p>", 
+            "commentable_id": 7783, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 10:53:30", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7341, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "7341", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15300, 
+                "name": "oriolrp", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>jo com que tamb\u00e9 faig \u00fas de l'\u00c0rea com a resident no m'afecta l'app. No entenc doncs perqu\u00e8 no s'ha fet amb els residents tamb\u00e9. Ja he canviat l'enunciat. Gr\u00e0cies</p>", 
+            "commentable_id": 7783, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 13:36:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7391, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

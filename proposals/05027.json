@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8951, 
+            "name": "Merce Aranda", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 8951, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5027", 
+        "conflictive": false, 
+        "created_at": "14/03/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5027, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Obertura de m\u00e9s places d'infantil i prim\u00e0ria a la nova escola Enten\u00e7a  per al curs 2016/17, responent i donant cobertura a les realitats de moltes fam\u00edlies que no hi podem accedir. Volem decidir l'educaci\u00f3 dels nostres infants. Confiem en l'educaci\u00f3  respectuosa com la clau per al futur dels nostres fills/es, per\u00f2 l'oferta a la ciutat \u00e9s limitada.", 
+        "title": "Places d'infantil i prim\u00e0ria a la nova escola Enten\u00e7a", 
+        "total_comments": 19, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 3, 
+        "total_positive_comments": 15, 
+        "total_votes": 173, 
+        "url": "https://decidim.barcelona/pam/proposals/places-d-infantil-i-primaria-a-la-nova-escola-entenca", 
+        "votable": null, 
+        "voted": null
+    }
+}

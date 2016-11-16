@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 19495, 
+            "name": "meridiana72", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 19495, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8942", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8942, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "S'hauria de modificar la normativa de circulaci\u00f3 de bicicletes per les voreres. Tot i tenir espai marcat no el respecten, van en direcci\u00f3 contr\u00e0ria a la marcada,  van a velocitat excessiva i i som els vianants els que els hem d'esquivar. Haurien d'anar sempre per la cal\u00e7ada i ser objecte de sanci\u00f3 si no ho respecten. Cal civisme i no crear perill.", 
+        "title": "Fer una nova regulaci\u00f3 per la circulaci\u00f3 de bicicletes, patins i d'altres elements m\u00f2bils ", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/fer-una-nova-regulacio-per-la-circulacio-de-bicicletes-patins-i-d-altres-elements-mobils", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15060, 
+                "name": "alfonso", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els meus fills no poden pagar tants diners de cop, per aix\u00f2 crec que si s'abarat\u00eds una mica potser joves com els meus fills se la podrien permetre. Demano que es faci cas de veritat a aquesta proposta. Gr\u00e0cies!</p>", 
+            "commentable_id": 6584, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/03/2016 17:41:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6456, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 22940, 
+                "name": "judith97", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els joves estudiants no tenim ingresos per poder pagar un transport tan car.</p>", 
+            "commentable_id": 6584, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 13:50:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12136, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

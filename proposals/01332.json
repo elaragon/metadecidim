@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1604, 
+            "name": "Eiyeitis", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1604, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1332", 
+        "conflictive": false, 
+        "created_at": "03/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1332, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 26, 
+            "name": "Govern transparent  i rendici\u00f3 de comptes", 
+            "position": 1
+        }, 
+        "summary": "Som molts els ciutadans que necesitem coneixer activitats del Ajuntament de Barcelona. Al trucar al telefon general la telefonista no en sap res i et diu que truquis al 010, s\u00ed que en sap els costos de la trucada al 010. Es incomprensible que als ciutdans s'ens cobri per voler saber que fa el nostre Ajuntament. Aquest s\u00ed que es un REPAGO.", 
+        "title": "Telefon gratuit d'informaci\u00f3 del Ajuntament de Barcelona", 
+        "total_comments": 13, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 5, 
+        "total_positive_comments": 5, 
+        "total_votes": 685, 
+        "url": "https://decidim.barcelona/pam/proposals/telefon-gratuit-d-informacio-del-ajuntament-de-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

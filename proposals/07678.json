@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 13078, 
+            "name": "D2-Esquerra", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 13078, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7678", 
+        "conflictive": false, 
+        "created_at": "31/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7678, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 26, 
+            "name": "Govern transparent  i rendici\u00f3 de comptes", 
+            "position": 1
+        }, 
+        "summary": "Lo mismo en la puntuaci\u00f3n de la mesa de contrataci\u00f3n, a\u00f1adiendo la demostraci\u00f3n de cumpIntroduir criteris de transpar\u00e8ncia en les empreses que contracten amb l'ajuntament limiento de normativa laboral y de pagos a la SS.\r\n", 
+        "title": "Introduir criteris de transpar\u00e8ncia en les empreses que contracten amb l'ajuntament ", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 10, 
+        "url": "https://decidim.barcelona/pam/proposals/introduir-criteris-de-transparencia-en-les-empreses-que-contracten-amb-l-ajuntament", 
+        "votable": null, 
+        "voted": null
+    }
+}

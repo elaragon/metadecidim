@@ -1,0 +1,209 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3554, 
+                "name": "MontseC", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Est\u00e0s penalitzant els barris alts. Deixeu com est\u00e0, nom\u00e9s falta que encara gravis els que estan mes desafavorits.</p>", 
+            "commentable_id": 2652, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 20:59:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1890, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15829, 
+                "name": "Mar\u00eda P\u00e9rez Mar", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Em temo que no \u00e9s una q\u00fcesti\u00f3 d'incentiu nom\u00e9s.  Treballo al centre de Barcelona i quan arribava no hi havia lloc per la bici perqu\u00e8 molta gent baixava a treballar.  Si hem d'esperar per que les pugi la mateixa gent, haurem d'esperar a les sortides de les feines.  O sigui que no podrem prescindir dels remolcs puxant i baixant bicis.</p>", 
+            "commentable_id": 2652, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 07:53:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7121, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1890", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5357, 
+                "name": "daviduriarte ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estimada Montse, en t\u00e9rminos relativos es posible que se penalice a los barrios altos con esta propuesta, pero en t\u00e9rminos absolutos tambi\u00e9n se beneficiar\u00edan puesto que se reducir\u00eda el coste del servicio y por tanto el precio que se cobra al usuario y el que no se cobra y se paga con impuestos. No tiene ning\u00fan sentido tener bicicletas solo para bajar y que se suban en cami\u00f3n, para eso ser\u00eda mejor un servicio de autob\u00fas. No estoy proponiendo grandes diferencias, podr\u00edan ser incluso c\u00e9ntimos, pero servir\u00eda de incentivo, como lo es por ejemplo los cinco c\u00e9ntimos que se cobran ahora por la bolsa del s\u00faper y que han reducido dr\u00e1sticamente su uso. Se podria tambien organizar competiciones y dar premios a las personas que hayan recorrido m\u00e1s desnivel positivo. Sobre qu\u00e9 los barrios altos son los m\u00e1s desfavorecidos, al menos en t\u00e9rminos de renta familiar, no es correcto c\u00f3mo puedes ver en este gr\u00e1fico, <a href=\"http://www.elperiodico.com/es/graficos/barcelona/renta-barcelona-2014-pobreza-7890/\">http://www.elperiodico.com/es/graficos/barcelona/renta-barcelona-2014-pobreza-7890/</a>  </p>", 
+            "commentable_id": 2652, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 22:00:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1897, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1890", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3554, 
+                "name": "MontseC", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No entrar\u00e9 en discussi\u00f3, perqu\u00e8 tenim conceptes molt diferents. El que est\u00e0 molt clar, \u00e9s que vius al pla i no necessites aquest medi de despla\u00e7ament per anar a treballar.</p>", 
+            "commentable_id": 2652, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/02/2016 12:21:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1925, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1890/1897", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5786, 
+                "name": "Benedetta", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Entiendo lo poco ecol\u00f3gico que pueda ser que haya furgonetas siempre subiendo para recargar las paradas pero a la vez entiendo que no todo el mundo tenga las capacidades f\u00edsicas de subir cuestas; asimismo hay que decir que tampoco es que las bicicletas con sus 3 marchas est\u00e9n tan preparadas como para ciertas subidas. En fin... en vez que siempre tener que penalizar a alguien (esto generalmente solo trae malestar) se podr\u00eda premiar a quien lo hace bien... que se incentive a hacer bien en lugar de siempre penalizar quien no necesariamente lo hace mal adrede.</p>", 
+            "commentable_id": 2652, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/02/2016 15:00:01", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1938, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1890/1925", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5357, 
+                "name": "daviduriarte ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Montse, siento decirte que no vivo en el Pla y que no uso el Bicing para trabajar porque no es fiable ya que muchas veces me encuentro que los puestos no hay bicicletas o que no hay sitio para dejarlas. He llegado tarde a m\u00e1s de una reuni\u00f3n por esta raz\u00f3n por lo que prefiero utilizar otros medios de transporte.  Est\u00e9 problema de falta de disponibilidad de bici o aparcamiento en parte se mitigar\u00eda con mi propuesta. Como economista que soy conozco el poder de la incentivaci\u00f3n (positiva y negativa)  para el cambio de comportamientos y los costes que se derivan de la ineficiencia del sistema actual. Mi inter\u00e9s es mejorar la ciudad de Barcelona y no mi propio inter\u00e9s.</p>", 
+            "commentable_id": 2652, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/03/2016 19:27:30", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3229, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

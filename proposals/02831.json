@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2831", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2831, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 19, 
+            "name": "Acci\u00f3 comunit\u00e0ria", 
+            "position": 3
+        }, 
+        "summary": "Desenvolupar del Pla de suport a les associacions (2015-2017), fruit del comprom\u00eds de l\u2019Ajuntament amb el teixit associatiu. T\u00e9 per objectiu donar-li suport perqu\u00e8 pugui afrontar els seus reptes i necessitats de futur. Col\u00b7laborar en els projectes de les associacions que siguin d\u2019inter\u00e8s p\u00fablic, especialment els que contribueixin a la participaci\u00f3 de la ciutadania en els afers p\u00fablics.", 
+        "title": "Desenvolupar el Pla de suport a les associacions", 
+        "total_comments": 10, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 9, 
+        "total_positive_comments": 1, 
+        "total_votes": 12, 
+        "url": "https://decidim.barcelona/pam/proposals/desenvolupar-el-pla-de-suport-a-les-associacions-26b7a887-eab1-4fc6-ba04-95b52853d3aa", 
+        "votable": null, 
+        "voted": null
+    }
+}

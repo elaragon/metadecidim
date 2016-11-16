@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 7328, 
+            "name": "Associaci\u00f3 de Ve\u00efns i Ve\u00efnes Clot-Camp de l'Arpa", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 7328, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4762", 
+        "conflictive": false, 
+        "created_at": "12/03/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4762, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Creaci\u00f3 d'un centre p\u00fablic integrat de Formaci\u00f3 Professional a la pla\u00e7a de les Gl\u00f2ries. Creaci\u00f3 de l'Escola de M\u00fasica elemental, tal i com est\u00e0 acordat en el projecte de remodelaci\u00f3 de la pla\u00e7a de les Gl\u00f2ries. Creaci\u00f3 d'una Escola Oficial d'Idiomes. ", 
+        "title": "Creaci\u00f3 de nous equipaments educatius: FP, Escola de M\u00fasica elemental i Escola Oficial d'Idiomes", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 3, 
+        "total_positive_comments": 0, 
+        "total_votes": 44, 
+        "url": "https://decidim.barcelona/pam/proposals/creacio-de-nous-equipaments-educatius-fp-escola-de-musica-elemental-i-escola-oficial-d-idiomes", 
+        "votable": null, 
+        "voted": null
+    }
+}

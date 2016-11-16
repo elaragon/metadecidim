@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5221", 
+        "conflictive": false, 
+        "created_at": "16/03/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 5221, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 12, 
+            "name": "Ocupaci\u00f3 de qualitat", 
+            "position": 4
+        }, 
+        "summary": "Augmentar els recursos i la formaci\u00f3 professional per evitar l'exclusi\u00f3 de persones dels barris de la Marina i Poble-Sec. \tAugmentar els recursos dels dispositius d\u2019inserci\u00f3 sociolaboral als barris de la Marina i Poble-Sec i crear oportunitats reals pels joves de perfils vulnerables , com els acords de contractes en pr\u00e0ctiques i/o duals.", 
+        "title": "Consolidar la formaci\u00f3, la inserci\u00f3 sociolaboral i la relaci\u00f3 amb les empreses del territori.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/consolidar-la-formacio-la-insercio-sociolaboral-i-la-relacio-amb-les-empreses-del-territori", 
+        "votable": null, 
+        "voted": null
+    }
+}

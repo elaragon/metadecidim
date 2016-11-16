@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4557, 
+            "name": "Brauli Tamarit", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4557, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1707", 
+        "conflictive": false, 
+        "created_at": "10/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://feniss.org", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1707, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Substituci\u00f3 gradual de l'enllumenat p\u00fablic i dels sem\u00e0fors de la ciutat per il\u00b7luminaci\u00f3 Sense Obsolesc\u00e8ncia Programada (SOP) i de molt baix consum, per tal d'estalviar en el consum el\u00e8ctric i en la despesa deguda a la substituci\u00f3 cont\u00ednua de les bombetes i dels punts de llum, evitant al m\u00e0xim omplir de deixalles el Planeta.", 
+        "title": "Fanals i sem\u00e0fors p\u00fablics Sense Obsolesc\u00e8ncia Programada i de molt baix consum.", 
+        "total_comments": 7, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 7, 
+        "total_votes": 27, 
+        "url": "https://decidim.barcelona/pam/proposals/fanals-i-semafors-publics-sense-obsolescencia-programada-i-de-molt-baix-consum", 
+        "votable": null, 
+        "voted": null
+    }
+}

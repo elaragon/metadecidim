@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1401, 
+                "name": "Lena", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es fa necessari tamb\u00e9 un carril bici en MDeu de Monserrat.</p>", 
+            "commentable_id": 1608, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/02/2016 10:09:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1689, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9174, 
+                "name": "Susana Palma", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Trobo interessant l'obertura del carrer Brussel\u00b7les a la Font Castellana, per\u00f2 nom\u00e9s per a vianants: de no ser aix\u00ed, el carrer Brussel\u00b7les absorbiria el sentit de la marxa que s'ha tret de la Mare de D\u00e9u de Montserrat, i \u00e9s un carrer ben petit per admetre circulaci\u00f3 cont\u00ednua. I, com deien altres propostes, ens calen zones peatonals al barri.</p>", 
+            "commentable_id": 1608, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 14:24:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4523, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 613, 
+                "name": "Josep M Armengou", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>D'entrada, en contra, llevat que s'ide\u00ef una f\u00f3rmula que fos factible nom\u00e9s per a casos de necessitat demostrada i de servei p\u00fablic.</p>", 
+            "commentable_id": 1608, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 15:46:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4545, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12257, 
+                "name": "Miquel dRM", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord amb Susana Palma, l'obertura del carrer Brusseles nom\u00e9s hauria de ser peatonal!</p>", 
+            "commentable_id": 1608, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 17:15:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4858, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4523", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 613, 
+                "name": "Josep M Armengou", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Exacte.</p>", 
+            "commentable_id": 1608, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 15:47:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4546, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

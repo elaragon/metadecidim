@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2894", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2894, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "La ciutat t\u00e9 un ampli ventall d\u2019iniciatives, entitats i col\u00b7lectius que treballen per recuperar la mem\u00f2ria hist\u00f2rica. Cal valorar-les i elaborar conjuntament nous relats de la mem\u00f2ria hist\u00f2rica de la ciutat, i promoure instruments i programes per a la gesti\u00f3 i la difusi\u00f3 de la nostra mem\u00f2ria col\u00b7lectiva, dels fons orals i el patrimoni immaterial, per fomentar les visions plurals i cr\u00edtiques del passat i seu significat actual.", 
+        "title": "Impulsar i donar suport a les iniciatives que promouen la conservaci\u00f3, la difusi\u00f3 i l'accessibilitat del patrimoni material i immaterial, ja sigui el generat i custodiat per l'administraci\u00f3 publica, com el d'entitats i iniciatives del territori", 
+        "total_comments": 9, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 9, 
+        "total_positive_comments": 0, 
+        "total_votes": 12, 
+        "url": "https://decidim.barcelona/pam/proposals/impulsar-i-donar-suport-a-les-iniciatives-que-promouen-la-conservacio-la-difusio-i-l-accessibilitat-del-patrimoni-material-i-immaterial-ja-sigui-el-generat-i-custodiat-per-l-administracio-publica-com-el-d-entitats-i-iniciatives-del-territori", 
+        "votable": null, 
+        "voted": null
+    }
+}

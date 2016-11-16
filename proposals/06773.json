@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 15119, 
+            "name": "L\u00e0lia", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 15119, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6773", 
+        "conflictive": false, 
+        "created_at": "24/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6773, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Dins el programa de l'Institut de Cultura de Barcelona, ampliar el nombre de F\u00e0briques de Creaci\u00f3 a trav\u00e9s de rehabilitar edificis patrimonials de la ciutat que es trobin en des\u00fas. En concret la Carboneria, on actualment s'est\u00e0 fent un treball de tesi per la seva viabilitat, ja que a l'Eixample no n'hi ha cap sent el districte m\u00e9s dens de la ciutat", 
+        "title": "Ampliar el nombre de F\u00e0briques de Creaci\u00f3 de Barcelona, centres d'exposici\u00f3 i creaci\u00f3 art\u00edstica. En concret incloure La Carboneria.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/ampliar-el-nombre-de-fabriques-de-creacio-de-barcelona-centres-d-exposicio-i-creacio-artistica-en-concret-incloure-la-carboneria", 
+        "votable": null, 
+        "voted": null
+    }
+}

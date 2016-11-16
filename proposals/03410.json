@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1575, 
+            "name": "Associaci\u00f3 Ve\u00efns i Amfitrions", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1575, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3410", 
+        "conflictive": false, 
+        "created_at": "25/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "www.facebook.com/ViaBCN", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3410, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 13, 
+            "name": "Turisme sostenible", 
+            "position": 5
+        }, 
+        "summary": "Els ve\u00efns que compartim la nostra llar amb visitants volem un marc normatiu just i racional que ens empari. Molts de nosaltres compartim casa nostra per poder pagar les factures i arribar a fi de mes.  Apostem per un turisme sostenible i c\u00edvic on el visitant visqui i respecti la ciutat integrat com un ve\u00ed m\u00e9s.", 
+        "title": "Volem un marc normatiu just i racional per compartir casa nostra", 
+        "total_comments": 60, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 4, 
+        "total_positive_comments": 51, 
+        "total_votes": 267, 
+        "url": "https://decidim.barcelona/pam/proposals/volem-un-marc-normatiu-just-i-racional-per-compartir-casa-nostra", 
+        "votable": null, 
+        "voted": null
+    }
+}

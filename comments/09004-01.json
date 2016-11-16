@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/prohibir-les-pantalles-de-tv-exteriors-tipus-times-square-a-nova-york\">https://decidim.barcelona/proposals/prohibir-les-pantalles-de-tv-exteriors-tipus-times-square-a-nova-york</a></p>", 
+            "commentable_id": 9004, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 14:57:30", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14860, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/prohibir-la-musica-a-tope-a-les-botigues-de-roba-i-les-portes-obertes\">https://decidim.barcelona/proposals/prohibir-la-musica-a-tope-a-les-botigues-de-roba-i-les-portes-obertes</a></p>", 
+            "commentable_id": 9004, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 16:06:30", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14890, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2188, 
+            "name": "Antonio Fern\u00e1ndez", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2188, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1450", 
+        "conflictive": false, 
+        "created_at": "04/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "Tancada Vall Hebron 20/1/16 Conseller Comin torni'ns els 1.500 milions retallats (https://www.youtube.com/watch?v=IFiNlPVLTV0)", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1450, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Aconseguir que els 1.500 milions de l'ICS destinats a financiar les cl\u00edniques privadas i/o concertades vagin a la sanitat p\u00fablica.", 
+        "title": "Combatre la financiaci\u00f3 de  la sanitat privada amb diners p\u00fablics", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 2, 
+        "total_votes": 71, 
+        "url": "https://decidim.barcelona/pam/proposals/combatre-la-financiacio-de-la-sanitat-privada-amb-diners-publics", 
+        "votable": null, 
+        "voted": null
+    }
+}

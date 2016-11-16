@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12038, 
+                "name": "elsoldaluz", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Crec que caldria posar dues taxes una tur\u00edstica i un altre de la poblaci\u00f3 espanyola que fos, pels primers el preu d'una atracci\u00f3, i per la resta un preu simb\u00f3lic que permet\u00e9s a una fam\u00edlia de 5 p\u00e8rsones anar un cop a la setmana.</p>", 
+            "commentable_id": 3144, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/03/2016 22:23:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4712, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 827, 
+                "name": "Marga", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic d'acord en que la ciutadania pugui accedir als museus de la ciutat, per\u00f2 pensar que els majors de 65 anys no poden pagar \u00e9s absurd. Hi ha gent de 65 anys que t\u00e9 molts diners. La rebaixa de les quotes a pagar en qualsevol cosa no hauria d'anar en funci\u00f3 de l'edat sino en funci\u00f3 dels diners que un t\u00e9.</p>", 
+            "commentable_id": 3144, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 19:35:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6641, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/foment-del-caracter-public-divers-i-col-lectiu-de-la-cultura-garantint-l-acces-i-la-participacio-activa-de-la-ciutadania-en-la-produccio-i-en-la-gestio-dels-processos-culturals\">https://decidim.barcelona/proposals/foment-del-caracter-public-divers-i-col-lectiu-de-la-cultura-garantint-l-acces-i-la-participacio-activa-de-la-ciutadania-en-la-produccio-i-en-la-gestio-dels-processos-culturals</a></p>", 
+            "commentable_id": 3144, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 11:11:58", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10434, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

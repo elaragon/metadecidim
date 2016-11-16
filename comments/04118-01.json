@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13271, 
+                "name": "Janet M\u00e9rida Fern\u00e1ndez ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Cuando las propuestas son favorables al conjuntos de la ciudadan\u00eda, no parece despertar mucho inter\u00e9s. Resulta lamentable cuando a  cada momento hablamos de igual y DDHH. M\u00e1s Solidaridad, seguridad, Garant\u00edas Fundamentales para <a href=\"mailto:Tod@s\">Tod@s</a>. Me parece fant\u00e1stico, que se tenga la necesidad que ninguna persona es Ilegal y que Tod@s Som@s Ciudadan@s Reivindicando Derechos. </p>", 
+            "commentable_id": 4118, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/03/2016 01:53:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6479, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12957, 
+                "name": "Claparols-Carrera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Elas turistes son turistes, \u00e9s a dir fan turs i no es poden posar horaris de tirustes, semblaria la dictadura sovi\u00e8tica, que portava als turistes per on ells volien i a l'hora que volien!!!, ja n'hi ha pro de \"pijotades\" amb perd\u00f3.</p>", 
+            "commentable_id": 4040, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 12:07:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8349, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,341 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 79, 
+                "name": "Andreu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>100% d'acord amb el Pepe Rubianes. Tinc m\u00e9s dubtes sobre el Labordeta. Quina relaci\u00f3 t\u00e9 amb Barcelona?</p>", 
+            "commentable_id": 1425, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 17:42:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 682, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 2, 
+            "total_likes": 3, 
+            "total_votes": 5
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2426, 
+                "name": "Joaquim Pisa C.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Caldria recordar que a Barcelona viuen milers d'aragonesos d'origen o segona generaci\u00f3, completament arrelats a la ciutat, pels quals Labordeta \u00e9s un s\u00edmbol.  </p>", 
+            "commentable_id": 1425, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 10:05:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 773, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2423, 
+                "name": "Jordi C", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>S'hauria d'obrir un proc\u00e9s participatiu de llistes obertes per a decidir el nom dels futurs carrers o canvis de nomencl\u00e0tor a Barcelona. Del resultat del proc\u00e9s, en sortiria una llista en forma de r\u00e0nquing i s'anirien incorporant els noms per ordre.</p>", 
+            "commentable_id": 1425, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 10:17:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 778, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2593, 
+                "name": "Rub\u00e9n BCN", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ambos ya est\u00e1n en la lista del nomencl\u00e1tor, una lista que es muy larga, y que en cualquier caso, a tener en cuenta: 1) Tienen prioridad los nombres de mujer 2) Para ponerle el nombre a una calle o plaza hay que crear una nueva calle  o plaza 3) No puede aplicarte motivos pol\u00edticios</p>", 
+            "commentable_id": 1425, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 19:25:58", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 845, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/incloure-en-el-nomeclator-de-carrers-bcn-a-pepe-rubianes-i-j-a-labordeta\">https://decidim.barcelona/proposals/incloure-en-el-nomeclator-de-carrers-bcn-a-pepe-rubianes-i-j-a-labordeta</a></p>", 
+            "commentable_id": 1425, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 18:18:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 18379, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/liberalitzacio-noms-dels-carrers\">https://decidim.barcelona/proposals/liberalitzacio-noms-dels-carrers</a></p>", 
+            "commentable_id": 1425, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 18:19:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 18380, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "682", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1139, 
+                "name": "Toni Campos", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Qualsevol anti franquista de Barcelona ha tingut sempre a J.A. Labordeta en estima. De fet la relaci\u00f3 entre Barcelona i Labordeta era de estimaci\u00f3 mutua.  Tant es aix\u00ed que en 1978 Labordeta juntament a altres cantautros aragonesos monta un concert en el Palau d'Esports de Barcelona en solidaritat amb dos periodistes que havien destapat un cas de possible corrupci\u00f3 a la Caja Zaragoza. Va reunir 12.00 personas. De fet la relaci\u00f3 entre Barcelona i Labordeta va ser tant estreta que va ser homenagejat al Festival BarnaSants, principal festival de can\u00e7ons d'autor del Sud d'Europa.</p>", 
+            "commentable_id": 1425, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 19:50:20", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 719, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "682/719", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 79, 
+                "name": "Andreu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Moltes gr\u00e0cies per l'explicaci\u00f3. Doncs carrers o places pels dos! Que apa que no n'hi ha que sobren...</p>", 
+            "commentable_id": 1425, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 12:57:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 798, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "778", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 181, 
+                "name": "crismon", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Jo estic per afavorir la paritat en el nomencl\u00e0tor de carrers Homes-Dones. un 7% (nom de dona)  front  un 43% (noms d'home). I excloure els nomb del santoral per la paritat, ha de ser noms de persona reals, oblidats.</p>", 
+            "commentable_id": 1425, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/02/2016 10:43:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1132, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "845", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1139, 
+                "name": "Toni Campos", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Uy...tres requisitos que cumplian Juan de Borbon y Juan Antonio Samarach, veo....</p>", 
+            "commentable_id": 1425, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/02/2016 02:07:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1020, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 6, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1099, 
+            "name": "AINAPJ", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1099, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1291", 
+        "conflictive": false, 
+        "created_at": "02/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1291, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Reduir paulatinament les \u00e0rees d'aparcament per a cotxes a l'espai p\u00fablic, per recuperar l'espai per a gaudi de les persones. Fer estudis de les necessitats d'aparcament en soterrani, per fer-ne on calgui, i anar reduint les places en espai p\u00fablic conforme la oferta en soterrani sigui major.", 
+        "title": "Reduir les \u00e0rees d'aparcament en espai p\u00fablic per recuperar-les per a persones", 
+        "total_comments": 2, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 28, 
+        "url": "https://decidim.barcelona/pam/proposals/reduir-les-arees-d-aparcament-en-espai-public-per-recuperar-les-per-a-persones", 
+        "votable": null, 
+        "voted": null
+    }
+}

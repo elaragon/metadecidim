@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 15432, 
+            "name": "Jordi de Gr\u00e0cia", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 15432, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6924", 
+        "conflictive": false, 
+        "created_at": "28/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6924, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Per reduir el sorolll nocturn i millorar el descans dels ve\u00efns, proposo que els camions d'escombraries no circulin entre les dotze de la nit i les vuit del mat\u00ed. Hi ha prou temps entre les 08.00h i les 23.55h per recollir la brossa. Hi ha carrers on durant la matinada passen sorollosament fins a cinc i sis camions que recullen deixalles diferents.", 
+        "title": "Redu\u00efm l'hora nocturna de pas dels camions de brossa", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 11, 
+        "url": "https://decidim.barcelona/pam/proposals/reduim-l-hora-de-pas-dels-escombriaries", 
+        "votable": null, 
+        "voted": null
+    }
+}

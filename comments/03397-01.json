@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15143, 
+                "name": "Mari carmen", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La calle Sant Joan de Malta como bien propones,  necesita una reforma, pero  en toda la calle  desde la c/ Guatemala hasta el C/ Verneda.</p>", 
+            "commentable_id": 3397, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/03/2016 13:28:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6495, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 23361, 
+                "name": "Proviraf", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Absolutament d'acord, si es fa la reforma del carrer Sant Joan de Malta s'ha de fer fins al final, fins a Verneda</p>", 
+            "commentable_id": 3397, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 20:17:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12643, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6739, 
+                "name": "Salvador Barrau V.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Me parece bien, aunque me parecer\u00eda mejor ponerlo en todas las lenguas del estado espa\u00f1ol y todas las de Europa, no sea que alguien se enfade</p>", 
+            "commentable_id": 3165, 
+            "commentable_type": "Proposal", 
+            "created_at": "19/02/2016 13:29:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2157, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1208, 
+                "name": "Jebimetal", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Claro... y as\u00ed no tendr\u00e1s que aprender catal\u00e1n.</p>", 
+            "commentable_id": 3165, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/02/2016 19:49:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2418, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10677, 
+                "name": "Eduard E V", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ja n'hi ha prou d'imposar la llengua invasora dels espanyols. Aqu\u00ed \u00e9s Catalunya. Tothom hi \u00e9s benvingut, per\u00f2 respecteu el que trobeu, que ja va sent hora que n'aprengueu de respectar.</p>", 
+            "commentable_id": 3165, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/04/2016 10:11:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7669, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

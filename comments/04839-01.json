@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10703, 
+                "name": "suport decidim.barcelona2", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda al Consell de Salut de Sants - Montjuic: \"Crear un banc de professionals i entitats que ofereixin formaci\u00f3 en l\u2019\u00e0mbit de salut i que alg\u00fa centralitzi aquesta informaci\u00f3 i s\u2019encarregui de posar en contacte els diferents agents, els \u201cofertants\u201d i els demandants de formaci\u00f3.\"</p>", 
+            "commentable_id": 4839, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 11:23:26", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4770, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

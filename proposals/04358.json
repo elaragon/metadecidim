@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4358", 
+        "conflictive": false, 
+        "created_at": "08/03/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 4358, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Els vehicles que accedeixen al C/ Font Florida a trav\u00e9s d'una rampa i corba molt pronunciada provinents del C/ Chopin estan obligats a fer-ho amb molta pot\u00e8ncia. D'altra banda els vianants que acompanyen carrets de nadons o cadires de rodes han de fer-ho per la cal\u00e7ada at\u00e8s que les voreres s\u00f3n massa estretes, amb el conseg\u00fcent risc d'accidents.", 
+        "title": "Instal\u00b7lar un mirall a la fa\u00e7ana de la Masia Can Cervera", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 6, 
+        "url": "https://decidim.barcelona/pam/proposals/instal-lar-un-mirall-a-la-facana-de-la-masia-can-cervera", 
+        "votable": null, 
+        "voted": null
+    }
+}

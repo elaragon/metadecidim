@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8316", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8316, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 8, 
+            "name": "Migraci\u00f3, interculturalitat i discriminaci\u00f3 zero", 
+            "position": 8
+        }, 
+        "summary": "Serveis de mediaci\u00f3 i traducci\u00f3 intercultural m\u00e9s estables i fixes als diferents serveis p\u00fablics del districte. Especialment als equipaments de l\u2019INEM, la Seguretat Social, CAPs, Escoles\u2026", 
+        "title": "Lligar la r\u00e0tio de les escoles bressol a la resta d\u2019equipaments educatius", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/lligar-la-ratio-de-les-escoles-bressol-a-la-resta-d-equipaments-educatius", 
+        "votable": null, 
+        "voted": null
+    }
+}

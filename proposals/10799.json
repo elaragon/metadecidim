@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10799", 
+        "conflictive": false, 
+        "created_at": "11/04/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 10799, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "En el tram de l\u2019Av. Meridiana entre la cru\u00eflla amb Rio de Janeiro i fins al Passeig de Fabra i Puig existeix un carril pel qual no s\u2019hi pot circular perqu\u00e8 la senyalitzaci\u00f3 horitzontal ho prohibeix. Es planteja utilitzar aquest carril per fer m\u00e9s \u2018verda\u2019 la Meridiana i utilitzar-lo com a filtre respecte el tr\u00e0nsit, el soroll i la pol\u00b7luci\u00f3", 
+        "title": "\u00das del carril lateral de l'Avinguda Meridiana (a l'al\u00e7ada de Can Drag\u00f3) per guanyar terreny al cotxe", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/us-del-carril-lateral-de-l-avinguda-meridiana-a-l-alcada-de-can-drago-per-guanyar-terreny-al-cotxe", 
+        "votable": null, 
+        "voted": null
+    }
+}

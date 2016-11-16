@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10865", 
+        "conflictive": false, 
+        "created_at": "16/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/meetings/necessitat-de-les-associacions-de-persones-malaltes-i-familiars", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 10865, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Augment la capacitat d\u2019incid\u00e8ncia pol\u00edtica dels afectats per les malalties i dels familiars / cuidadors en aspectes com la gesti\u00f3 d\u2019equipaments, la definici\u00f3 de pol\u00edtiques, programes i projectes.", 
+        "title": "La Sanitat a Barcelona: Garantir la capacitat d'influ\u00e8ncia de les persones afectades i els familiars/cuidadors.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/la-sanitat-a-barcelona-garantir-la-capacitat-d-influencia-de-les-persones-afectades-i-els-familiars-cuidadors", 
+        "votable": null, 
+        "voted": null
+    }
+}

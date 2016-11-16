@@ -1,0 +1,209 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No entenc gaire quina \u00e9s la proposta per tal de donar-li suport.</p>", 
+            "commentable_id": 2666, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 21:41:31", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1895, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12615, 
+                "name": "Ana Anguita", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>hi ha un desfase enorme entre la senyalitzaci\u00f3 pels vehicles de tracci\u00f3 motora (cotxes, motos, furgos) versus tracci\u00f3 animal (bicis). No es poden aplicar les mateixes normes pq, b\u00e0sicament, s\u00f3n vehicles diferents. Totalment d'acord amb la revisi\u00f3, sempre i quan, de fons hi hagi aquesta mirada. </p>", 
+            "commentable_id": 2666, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/03/2016 13:36:56", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6257, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1895", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": true, 
+                "hidden": false, 
+                "id": 5080, 
+                "name": null, 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La proposta \u00e9s: que hi ha alguns sem\u00e0fors de les bicicletes que est\u00e0n mal col\u00b7locats o sincronitzats i no es veuen. Jo com a ciclista perque me'ls conec pero si no no pas. Voldria que l'ajuntament ho revis\u00e9s.</p>", 
+            "commentable_id": 2666, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/02/2016 09:48:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1912, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1895/1912", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord.</p>", 
+            "commentable_id": 2666, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/02/2016 09:50:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1913, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1895/1912", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6185, 
+                "name": "M.Mateu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Deus ser dels pocs ciclistes que se'ls mira. Gr\u00e0cies...</p>", 
+            "commentable_id": 2666, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/02/2016 15:49:21", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2019, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 1, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1895/1912/2019", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": true, 
+                "hidden": false, 
+                "id": 5080, 
+                "name": null, 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>jo considero que els sem\u00e0fors s\u00f3n per tohom i no entenc per que la gent se'ls salta, si posen la seva vida i la dels altres en perill...</p>", 
+            "commentable_id": 2666, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/02/2016 22:02:56", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2037, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

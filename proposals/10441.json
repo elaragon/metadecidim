@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10441", 
+        "conflictive": false, 
+        "created_at": "09/04/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 10441, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 13, 
+            "name": "Turisme sostenible", 
+            "position": 5
+        }, 
+        "summary": "Es va proposar fer participar als estudiantes Erasmus en els espais de participaci\u00f3 en les places, fer intercanvis d\u2019idiomes, activitats amb nens, culturals, recon\u00e8ixer i aprofundir en les diferents tipologies de turisme, i recuperar l\u2019esperit d\u2019acollida d\u2019aquest territori que de tot arreu a rebut molt b\u00e9 a tothom.", 
+        "title": "Obrir espais comuns de trobada entre ve\u00efns, ve\u00efnes i visitants.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/obrir-espais-comuns-de-trobada-entre-veins-veines-i-visitants", 
+        "votable": null, 
+        "voted": null
+    }
+}

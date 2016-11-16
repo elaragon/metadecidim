@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 16909, 
+            "name": "Alian\u00e7a contra la Pobresa Energ\u00e8tica", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 16909, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-7875", 
+        "conflictive": false, 
+        "created_at": "01/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://pobresaenergetica.es/principis/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7875, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 1, 
+            "name": "Just\u00edcia social", 
+            "position": 1
+        }, 
+        "summary": "La llei 24/2015 en el seu article 6.1 la norma estableix que \u201cLes administracions p\u00fabliques han de garantir el dret d\u2019acc\u00e9s als subministraments b\u00e0sics d\u2019aigua potable, de gas i d\u2019electricitat a les persones i unitats familiars en situaci\u00f3 de risc d\u2019exclusi\u00f3 residencial, d'acord amb\r\nl'article 5.10, mentre duri aquesta situaci\u00f3.\u201d", 
+        "title": "Compliment de la llei 24/2015 en materia de pobresa energ\u00e8tica", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 22, 
+        "url": "https://decidim.barcelona/pam/proposals/compliment-de-la-llei-24-2015-en-materia-de-pobresa-energetica", 
+        "votable": null, 
+        "voted": null
+    }
+}

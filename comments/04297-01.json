@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": true, 
+                "hidden": false, 
+                "id": 7164, 
+                "name": null, 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Jo vist a Encarnaci\u00f3 amb Sardenya i lo pitjor de tot es que les voreres est\u00e1n brutisimes, pasen es netejadors molt poc sovint i amb una desgana, que si mires la vorera recent acabada de netejar fot un f\u00e0stic... Tota plena de pixades de gos i de no tan gos, les cantonades tenen una capa negra de no se que merda. Com a minim que netegin b\u00e9.</p>", 
+            "commentable_id": 4297, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/03/2016 10:12:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3910, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6920, 
+                "name": "Noidelguinard\u00f3", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hi estic totalment a favor. De fet, vaig presentar una proposta semblant no fa gaires setmanes. Aquesta zona en concret est\u00e0 deixada de la ma de D\u00e8u i ja \u00e9s hora de que es renovi i modernitzi per millorar la vida dels seus habitants.</p>", 
+            "commentable_id": 4297, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/03/2016 12:50:20", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3938, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5757, 
+                "name": "Ana Villagordo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La vida nocturna forma part de la nostra cultura per\u00f2 els carrers i les places estan envoltades de vivendes amb persones que hi viuen i hi dormen i hi volen descansar. Trobar l'equilibri no \u00e9s f\u00e0cil per\u00f2 ho ha de ser. Baixar els decibels en les converses pot resultar molt \u00edntim i divertit. I mantenir el carrer net ja \u00e9s un tema de civisme que no s\u00e9 molt b\u00e9 com es pot afrontar, per\u00f2 est\u00e0 clar que cal fer-ho. Si tots f\u00f3ssim capa\u00e7os de reclamar comportaments c\u00edvics, potser no serien tan habituals... \n<br />Sort i endavant!</p>", 
+            "commentable_id": 1728, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/02/2016 10:46:13", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1917, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7919, 
+                "name": "RCordoba", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Acabar d'un cop amb els instruments i  els cants a qualsevol hora de la nit i  qualsevol dia de la setmana que no deixen descansar als ve\u00efns. Al mateix temps, actuar contra els llauners que donen alcohol a aquestes les persones a les places quan tanquen tots els bars de copes. Comen\u00e7a a ser insoportable aquesta situaci\u00f3!   </p>", 
+            "commentable_id": 1728, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/02/2016 11:07:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2537, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

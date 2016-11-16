@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5613, 
+                "name": "Elizabeth Glrz", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Malgrat que sembli una utopia perqu\u00e8 clarament el consumisme est\u00e0 en favor de que els aparells no durin res per fer-nos comprar m\u00e9s, hem de lluitar per fer de la veu un crit i que es formin m\u00e9s cooperatives per aquesta causa!! </p>", 
+            "commentable_id": 3330, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/02/2016 21:36:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2628, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 5, 
+            "total_votes": 5
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5242, 
+                "name": "Alejandro Gim\u00e9nez Imirizaldu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Introduir un segell municipal per a botigues compromeses amb un cicle de vida \u00fatil garantit dels seus productes. </p>", 
+            "commentable_id": 3330, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 21:11:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2751, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 7, 
+            "total_votes": 7
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

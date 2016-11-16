@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8951, 
+            "name": "Merce Aranda", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 8951, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3587", 
+        "conflictive": false, 
+        "created_at": "27/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3587, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Tenint en compte que tenim una de les baixes de maternitat i paternitat de menys temps d'Europa. Ser conscients del que significa tant a nivell personal, professional, emocional...el fet de tenir un fill/a i millorar les condicions i temporalitats de baixes de maternitat i paternitat com quelcom prioritari en la cura i l'atenci\u00f3 a la petita inf\u00e0nci", 
+        "title": "Ampliaci\u00f3 del temps de \"baixa\" de maternitat i paternitat", 
+        "total_comments": 6, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 4, 
+        "total_votes": 108, 
+        "url": "https://decidim.barcelona/pam/proposals/ampliacio-del-temps-de-baixa-de-maternitat-i-paternitat", 
+        "votable": null, 
+        "voted": null
+    }
+}

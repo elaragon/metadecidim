@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2879", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2879, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 8, 
+            "name": "Migraci\u00f3, interculturalitat i discriminaci\u00f3 zero", 
+            "position": 8
+        }, 
+        "summary": "Facilitar informaci\u00f3 a tota la xarxa d\u2019entitats d\u2019acollida perqu\u00e8 totes les persones que arriben a la ciutat, independentment de la seva situaci\u00f3 jur\u00eddica, puguin empadronar-se com a primer pas per a la seva integraci\u00f3. Vetllar, complint la llei, per mantenir criteris inclusius en l\u2019empadronament, i potenciar la figura de l\u2019empadronament sense domicili fix.", 
+        "title": "Facilitar l'empadronament de totes les persones que visquin a la ciutat de Barcelona, independentment de la seva situaci\u00f3 jur\u00eddica", 
+        "total_comments": 7, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 4, 
+        "total_positive_comments": 3, 
+        "total_votes": 21, 
+        "url": "https://decidim.barcelona/pam/proposals/facilitar-l-empadronament-de-totes-les-persones-que-visquin-a-la-ciutat-de-barcelona-independentment-de-la-seva-situacio-juridica", 
+        "votable": null, 
+        "voted": null
+    }
+}

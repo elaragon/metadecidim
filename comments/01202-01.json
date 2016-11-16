@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 546, 
+                "name": "monsol", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Claro comercio de proximitat y asociaciones afines al que gobierne en ese momento,o como lo haras?,adquirir bien ,expropiar?como en Venezuela te refieres.</p>", 
+            "commentable_id": 1202, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 12:27:58", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 598, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "598", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 512, 
+                "name": "Solidaritat Catalana per la Independ\u00e8ncia", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es pot fer quan el propietari no est\u00e0 localitzable o el local en questi\u00f3 no tingui propietari registrat.</p>", 
+            "commentable_id": 1202, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 13:06:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 612, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "598", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10449, 
+                "name": "CarmenCascajosa", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00bfY por qu\u00e9 hay que hacerlo como en Venezuela? \u00bfNunca has visto una expropiaci\u00f3n en Espa\u00f1a? Porque cuando hubo que hacer expropiaciones en barrios enteros barceloneses para, supuestamente, mejora de trazado urbano, servicios, etc. no se dej\u00f3 de hacer. Si pueden echar a las familias humildes para hacer un teatro por qu\u00e9 no se va a poder expropiar un local de un banco para hacer un peque\u00f1o comercio? Otra cosa es que est\u00e9s de acuerdo, est\u00e1 claro, pero que tus argumentos sean justos y realistas. Maduro no pinta nada aqu\u00ed.</p>", 
+            "commentable_id": 1202, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 14:29:13", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9478, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

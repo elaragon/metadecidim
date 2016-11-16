@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10067, 
+            "name": "Margarita L\u00f3pez Carrillo", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 10067, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4837", 
+        "conflictive": false, 
+        "created_at": "14/03/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4837, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Actualment, l\u2019acc\u00e9s del metro al vest\u00edbul de l'Estaci\u00f3 de Sants es un laberint estret i sinu\u00f3s que esdev\u00e9 un veritable i perill\u00f3s tap en hores punta. N\u2019est\u00e0 ple de escales no mec\u00e0niques i no m\u00e9s un ascensor IN\u00daTIL per canviar d'andana a la l\u00ednia 5 per\u00f2 no pas per accedir a dalt.   ", 
+        "title": "Remodelaci\u00f3 de l'acc\u00e9s des de metro L5 i L3 Estaci\u00f3 de Sants al best\u00edbul de l'estaci\u00f3 de tren. ", 
+        "total_comments": 9, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 7, 
+        "total_positive_comments": 2, 
+        "total_votes": 15, 
+        "url": "https://decidim.barcelona/pam/proposals/remodelacio-de-l-acces-des-de-metro-l5-i-l3-estacio-de-sants-al-bestibul-de-l-estacio-de-tren", 
+        "votable": null, 
+        "voted": null
+    }
+}

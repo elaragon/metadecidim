@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8814", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8814, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 12, 
+            "name": "Ocupaci\u00f3 de qualitat", 
+            "position": 4
+        }, 
+        "summary": "Cal trobar maneres d'oferir un servei m\u00e9s personalitzat que realment sigui \u00fatil per als joves que el fan servir; Barcelona Activa, programes de garantia juvenil... ", 
+        "title": "Millorar i optimitzar els serveis juvenils d'acompanyament i inserci\u00f3 al m\u00f3n laboral de l'Ajuntament de Barcelona", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/millorar-i-optimitzar-els-serveis-juvenils-d-acompanyament-i-insercio-al-mon-laboral-de-l-ajuntament-de-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

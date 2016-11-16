@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2904", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2904, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Instrument de planificaci\u00f3 b\u00e0sic per al seguiment de la xarxa d\u2019espais esportius p\u00fablics i privats de la ciutat, amb capacitat d\u2019avaluaci\u00f3 de les caracter\u00edstiques i prestacions. Permet detectar d\u00e8ficits i ajuda a la presa de decisions en relaci\u00f3 amb la planificaci\u00f3 actual i futura de nous espais i equipaments esportius per a la ciutat, d\u2019acord amb el Pla d\u2019instal\u00b7lacions i equipaments esportius de Catalunya.", 
+        "title": "Mapa d\u2019instal\u00b7lacions esportives", 
+        "total_comments": 19, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 19, 
+        "total_positive_comments": 0, 
+        "total_votes": 26, 
+        "url": "https://decidim.barcelona/pam/proposals/mapa-d-instal-lacions-esportives-c9ad3739-9a32-4410-8b58-999295b07e6c", 
+        "votable": null, 
+        "voted": null
+    }
+}

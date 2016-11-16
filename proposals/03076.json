@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3076", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3076, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "- Casernes de Sant Andreu: construir els equipaments i les promocions d\u2019habitatge pendents. Urbanitzar els vials i les zones verdes. \n- Porta Trinitat: construir les promocions d\u2019habitatge i els equipaments pendents. \n- La Sagrera: actualitzar i definir les prioritats per executar en el marc de les actuacions previstes en el Pla d\u2019equipaments del barri: escola bressol, CEIP, poliesportiu de Camp del Ferro, institut... \n- Can\u00f2drom: executar els equipaments pendents, escola bressol i poliesportiu. \n- Avinguda Meridiana: definir de manera col\u00b7lectiva com ha de ser la nova avinguda, un carrer m\u00e9s pacificat i m\u00e9s hum\u00e0. \n- Parc lineal: acordar amb l\u2019Estat espanyol la reactivaci\u00f3 de les obres i la garantia de finan\u00e7ament p\u00fablic i abordar amb els ve\u00efns projectes d\u2019urbanitzaci\u00f3 de l\u2019entorn i possibles actuacions provisionals.", 
+        "title": "Grans projectes urban\u00edstics al districte", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 54, 
+        "url": "https://decidim.barcelona/pam/proposals/grans-projectes-urbanistics-al-districte", 
+        "votable": null, 
+        "voted": null
+    }
+}

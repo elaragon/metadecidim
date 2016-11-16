@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10712, 
+            "name": "Froil\u00e0", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 10712, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4628", 
+        "conflictive": false, 
+        "created_at": "10/03/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4628, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Des-de el carrer Aldea, pel c/Font del Remei, Mora la Nova, Mora d'Ebre, Font del Coll i PARADA a la boca metro L.5 Beat Almat. Continuar pel carrer Beat Almat, Baixada Sant Mari\u00e1, i parada a la cantanoda Torrent del Remei, per continuar pel seu itinirari actual. Donar\u00eda ampliaci\u00f3 de sevei de barri i servei als veh\u00efnS de c/ Beat Almat (Nort)  ", 
+        "title": "Bus Barri 129 a parada metro c7 Bea Almat", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/bus-barri-129-a-parada-metro-c7-bea-almat", 
+        "votable": null, 
+        "voted": null
+    }
+}

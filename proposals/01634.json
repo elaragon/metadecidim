@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 3770, 
+            "name": "MariaMA", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 3770, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1634", 
+        "conflictive": false, 
+        "created_at": "09/02/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1634, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Ara que tenim tot el tram de Santjoanistes peatonal paradoxalment ha passat a ser m\u00e9s perill\u00f3s que abans. Es van posar uns testos amb la bona intenci\u00f3 que els cotxes no hi poguessin aparcar per\u00f2 segueixen fent-ho i, a m\u00e9s, les mares que com jo anem amb el cotxet dif\u00edcilment podem passar entre test, paret i cotxes i camions aparcats i circulant. ", 
+        "title": "Canviar testos de carrer Santjoanistes (de la Gleva a Saragossa)", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 17, 
+        "url": "https://decidim.barcelona/pam/proposals/canviar-testos-de-carrer-santjoanistes-de-la-gleva-a-saragossa", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9700", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9700, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 11, 
+            "name": "Economia cooperativa, social i solid\u00e0ria", 
+            "position": 2
+        }, 
+        "summary": "Creaci\u00f3 d'una estrat\u00e8gia de promoci\u00f3 d'aquesta xarxa existent, amb efectes en el foment del comer\u00e7 de proximitat, en l'autorganitzaci\u00f3, en la conexi\u00f3 del teixit social, alguns exemples: cooperatives de consum, conexi\u00f3 productors i consumidors, Caus i teixit social,etc. El rol de l'Administraci\u00f3 seria: foment, refor\u00e7, visualitzaci\u00f3 i promoci\u00f3.", 
+        "title": "Economia Social i Solid\u00e0ria", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/economia-social-i-solidaria", 
+        "votable": null, 
+        "voted": null
+    }
+}

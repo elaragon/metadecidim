@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 11969, 
+            "name": "Aurelio L\u00f3pez Mu\u00f1oz", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 11969, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-7916", 
+        "conflictive": false, 
+        "created_at": "02/04/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7916, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Arranjament i ajardinament dels dos parterres actuals de ciment, compresos al carrer Balears entre carrer Rubens i passeig de la Mare de D\u00e9u del Coll: ara estan tapats amb ciment i rajoles i nom\u00e9s fan que escupir l'aigua quan plou. Es proposa un tap\u00eds vegetal (arbres, plantes, arbustos) que donaria color i contindria les avingudes d'aigua.", 
+        "title": "Carrer Balears, al barri del Coll: ajardinament parterres i ornamentaci\u00f3 vegetal", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/carrer-balears-al-barri-del-coll-ajardinament-parterres-i-ornamentacio-vegetal", 
+        "votable": null, 
+        "voted": null
+    }
+}

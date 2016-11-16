@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 3717, 
+            "name": "Salvador Pastor Blasco", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 3717, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6819", 
+        "conflictive": false, 
+        "created_at": "26/03/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6819, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "debido a las condiciones tur\u00edsticas de de esta zona del distrito de sant mart\u00ed hay que estudiar las diferentes formas econ\u00f3micas de aprovechar los impulsos para reactivar a la econom\u00eda de l citado barrio,hay que ponen  en marcha, al mismo tiempo,un plan de usos tur\u00edstico,impulsar el transporte p\u00fablico de superficie", 
+        "title": "aprovechar la vitalidad turistica de la zona para reactivar la econom\u00eda de diagonal mar y el frente mar\u00edtimo", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/aprovechar-la-vitalidad-turistica-de-la-zona-para-reactivar-la-economia-de-diagonal-mar-y-el-frente-maritimo", 
+        "votable": null, 
+        "voted": null
+    }
+}

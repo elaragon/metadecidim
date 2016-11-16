@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6514, 
+                "name": "Oriol B", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els actuals busos h\u00edbrids tamb\u00e9 tenen motor diesel, de manera que no acaben de solucionar el problema. S'hauria de tenir en compte tamb\u00e9 que els nous autobusos h\u00edbrids han de tenir un sistema Start-Stop (no tots ho tenen) que apagui el motor de combusti\u00f3 al aturar-se i circular a baixa velocitat, ja que redueix considerablement el soroll.</p>", 
+            "commentable_id": 6166, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 14:23:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6766, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15636, 
+                "name": "Noelia At", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Existe una iniciativa para que se cree una linia de autob\u00fas expres por La Diagonal como alternativa al tranvia o mientras lo construyen. Votad: <a href=\"https://decidim.barcelona/proposals/d30-bus-directo-entre-glories-y-francesc-macia\">https://decidim.barcelona/proposals/d30-bus-directo-entre-glories-y-francesc-macia</a></p>", 
+            "commentable_id": 6166, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 19:24:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6842, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

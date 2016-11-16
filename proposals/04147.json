@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4147", 
+        "conflictive": false, 
+        "created_at": "05/03/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 4147, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "Es demana que es promogui la continu\u00eftat de l'eix comercial del Carrer Gran de Sant Andreu quan s'arriba al Carrer Gran de la Sagrera per tal de convertir-lo en un eix continu per passejar i poder comprar, pol d'atracci\u00f3 de la zona", 
+        "title": "Connectar en un eix de continu\u00eftat comercial el Carrer Gran de la Sagrera amb el Carrer Gran de Sant Andreu", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/connectar-en-un-eix-de-continuitat-comercial-el-carrer-gran-de-la-sagrera-amb-el-carrer-gran-de-sant-andreu", 
+        "votable": null, 
+        "voted": null
+    }
+}

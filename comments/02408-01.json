@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7229, 
+                "name": "benua", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La vocaci\u00f3 d'el Consolat \u00e9s ser un museu i un centre cultural.</p>", 
+            "commentable_id": 2408, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/02/2016 13:25:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2353, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 3, 
+            "total_likes": 2, 
+            "total_votes": 5
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/taula-d-accions-comunitaries-al-barri-del-coll\">https://decidim.barcelona/proposals/taula-d-accions-comunitaries-al-barri-del-coll</a></p>", 
+            "commentable_id": 2408, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/04/2016 17:51:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 13124, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2353", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9500, 
+                "name": "Gilbert Montan\u00e9 Pinto", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00c9s una proposta m\u00e9s, que com totes pot tenir aspectes a favor i aspectes en contra, per\u00f2 al final l'\u00fas que se li acabi donant al Consolat no est\u00e0 escrit enlloc i s'haur\u00e0 de debatre.</p>", 
+            "commentable_id": 2408, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/03/2016 12:50:49", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3160, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 4, 
+            "total_votes": 5
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2353", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9828, 
+                "name": "Tomas Gomcar", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>L'educaci\u00f3 en lleure \u00e9s molt important , si be ens queixem de que no hi ha un insititut on fer que els joves estiguin conectats al barri, una de les poques entitats juvenils que trebalal aquest tema es quedar\u00e0 sense local per dur a terme el seu projecte educatiu. Creiem que es pot compaginar el centre cultural amb un espai per poder fer esplais els caps de setmana.  </p>", 
+            "commentable_id": 2408, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/03/2016 22:46:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3282, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 2, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2353/3160", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7229, 
+                "name": "benua", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>S'ha de destinar a projectes amb molta visibilitat sociocultural. </p>", 
+            "commentable_id": 2408, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 18:27:26", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5623, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

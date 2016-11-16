@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1113, 
+            "name": "CFL", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1113, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1278", 
+        "conflictive": false, 
+        "created_at": "02/02/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "http://upcommons.upc.edu/bitstream/handle/2099.1/20902/Lam01-%20SITUACI%C3%931.pdf?sequence=43&isAllowed=y", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1278, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Comunicar amb un viaducte peatonal elevat, el Parc de la Ciutadella, amb el Parc de la Barceloneta i el mar. Generant un passeig \"verd\" desde el barri de Gr\u00e0cia, a trav\u00e9s del remodelat Passeig de Sant Joan, fins al mar. Recuperant la idea Genial de l'hist\u00f2ric viaducte de l'exposici\u00f3 Universal, que ja va unir la Ciutadella amb el mar l'any 1.888.", 
+        "title": "Obrir el Parc de la Ciutadella al MAR. - Per sobre del Zoo, les vies i la Ronda.", 
+        "total_comments": 5, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 3, 
+        "total_votes": 67, 
+        "url": "https://decidim.barcelona/pam/proposals/obrir-el-parc-de-la-ciutadella-al-mar-per-sobre-del-zoo-les-vies-i-la-ronda", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7252, 
+                "name": "Silvia R.A.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Creo que la propuesta deber\u00eda hacerse extensa a toda la red de autobuses. No s\u00e9 si ya son ecol\u00f3gicos, pero ruido, hacen un rato. En verano, con las ventanas abiertas es dif\u00edcil dormir, y durante el d\u00eda, contribuyen notablemente a la contaminaci\u00f3n ac\u00fastica. Dicen que en el futuro, este tipo de contaminaci\u00f3n ser\u00e1 causa de muerte de demasiadas personas en las ciudades. Una pena.</p>", 
+            "commentable_id": 6083, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 14:41:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6137, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13220, 
+                "name": "J.L.Peralta", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Bus electric  &gt;Deuria ser una \"conditio sine qua non\" per la concession de aqust servei !</p>", 
+            "commentable_id": 6083, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/03/2016 09:20:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6480, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

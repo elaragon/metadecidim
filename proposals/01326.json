@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1485, 
+            "name": "Nat\u00e0lia Boronat", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1485, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1326", 
+        "conflictive": false, 
+        "created_at": "03/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1326, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Que un percentatge de la recaptaci\u00f3 obtinguda per sancions de tr\u00e0nsit (a Barcelona m\u00e9s de 45 milions d'euros en l'\u00faltim exercici) es destini al finan\u00e7ament de les investigacions per trobar la cura de la lesi\u00f3 medul\u00b7lar. El 55,5% de les lesions medul\u00b7lars es produeixen en conseq\u00fc\u00e8ncia d'un accident de tr\u00e0nsit. ", 
+        "title": "Destinar un percentatge de les multes de tr\u00e0nsit a I+D per la lesio medul\u00b7lar ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 27, 
+        "url": "https://decidim.barcelona/pam/proposals/destinar-un-percentatge-de-les-multes-de-transit-a-i-d-per-la-lesio-medul-lar", 
+        "votable": null, 
+        "voted": null
+    }
+}

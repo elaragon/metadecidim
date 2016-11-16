@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4971, 
+                "name": "ECOM", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": true
+            }, 
+            "body": "<p>Us expliquem, m\u00e9s \u00e0mpliament, la nostra proposta:\n<br />-\tAprovar un nou reglament de la normativa de participaci\u00f3 municipal a la ciutat i als 10 districtes de Barcelona. Aquest reglament hauria de desenvolupar metodologies participatives i planificar una estrat\u00e8gia per arribar al m\u00e0xim als ciutadans i aconseguir que la seva participaci\u00f3 esdevingui en un context accessible, transparent i democr\u00e0tic, promovent la participaci\u00f3 de les persones amb discapacitat de la ciutat. En aquest sentit, pensem que \u00e9s imprescindible que tots els espais de participaci\u00f3 disposin de professionals, formats en participaci\u00f3, que s\u2019hi puguin dedicar de manera exclusiva a dinamitzar-los</p>", 
+            "commentable_id": 1810, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 12:07:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7367, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/revisio-de-la-normativa-per-a-una-participacio-ciutadana-plural-i-eficac\">https://decidim.barcelona/proposals/revisio-de-la-normativa-per-a-una-participacio-ciutadana-plural-i-eficac</a></p>", 
+            "commentable_id": 1810, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 11:14:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10444, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

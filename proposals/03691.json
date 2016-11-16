@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3691", 
+        "conflictive": false, 
+        "created_at": "01/03/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 3691, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 4, 
+            "name": "Equitat de g\u00e8nere i diversitat sexual", 
+            "position": 4
+        }, 
+        "summary": "Revisar i millorar el model integral d\u2019atenci\u00f3 i recuperaci\u00f3 de la viol\u00e8ncia masclista. Millorar l\u2019atenci\u00f3 a les v\u00edctimes de les viol\u00e8ncies masclistes, incloent les dones i els fills i filles i els tractaments per a la recuperaci\u00f3, amb participaci\u00f3 dels PIAD i amb visi\u00f3 comunit\u00e0ria. Aix\u00ed mateix, cal  dotar de m\u00e9s recursos. ", 
+        "title": "Revisar i dotar de m\u00e9s recursos el model integral d\u2019atenci\u00f3 i recuperaci\u00f3 de la viol\u00e8ncia masclista, millorar l'atenci\u00f3 de les v\u00edctimes de les viol\u00e8ncies masclistes, incloent les dones i els fills i filles  amb suport del PIAD i amb visi\u00f3 comunit\u00e0ria", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 16, 
+        "url": "https://decidim.barcelona/pam/proposals/revisar-i-dotar-de-mes-recursos-el-model-integral-d-atencio-i-recuperacio-de-la-violencia-masclista-millorar-l-atencio-de-les-victimes-de-les-violencies-masclistes-incloent-les-dones-i-els-fills-i-filles-amb-suport-del-piad-i-amb-visio-comunitaria", 
+        "votable": null, 
+        "voted": null
+    }
+}

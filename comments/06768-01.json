@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 827, 
+                "name": "Marga", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Cal transpar\u00e8ncia en la gestio de qualsevol cosa de l'Ajuntament, per\u00f2 alerta en fer valoracions nom\u00e9s quantitatives per fer comparatives. Hi ha serveis que s'han de valorar qualitativament. </p>", 
+            "commentable_id": 6768, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 18:27:22", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6622, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12009, 
+                "name": "Associacio Catalana per la Defensa de la Sanitat P\u00fablica", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>- Presentar un cop a l'any en els Consells de Salut un resum gr\u00e0fic de resultats per territoris i linea de serveis dels informes anuals de la Central de Resultats</p>", 
+            "commentable_id": 6768, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 13:53:01", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6744, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/desenvolupar-la-nova-oficina-de-transparencia-i-bones-practiques\">https://decidim.barcelona/proposals/desenvolupar-la-nova-oficina-de-transparencia-i-bones-practiques</a></p>", 
+            "commentable_id": 6768, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 22:56:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 16361, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

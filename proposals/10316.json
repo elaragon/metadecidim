@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 22273, 
+            "name": "Barcelonauta", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 22273, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10316", 
+        "conflictive": false, 
+        "created_at": "09/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 10316, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Als barris lim\u00edtrofs amb altres municipis (Sta Coloma, St Adri\u00e0 i l'Hospitalet) es d\u00f3na sovint la paradoxa de tenir una escola a tocar per\u00f2 com que pertany a un altre municipi dif\u00edcilment hi puguis accedir. Que es tingu\u00e9s en compte la proximitat real al centre educatiu independentment del municipi de pertanyen\u00e7a alhora de donar punts d'acc\u00e9s.", 
+        "title": "Punts per proximitat real a la preinscripci\u00f3 escolar independentment del municipi", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/punts-per-proximitat-real-a-la-preinscripcio-escolar-independentment-del-municipi", 
+        "votable": null, 
+        "voted": null
+    }
+}

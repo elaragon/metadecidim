@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1941, 
+                "name": "christianpg", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>no ho entenc, perqu\u00e8 les bicis s\u00ed i els vehicles no? En tot cas, la persona que va a la bici sempre \u00e9s la m\u00e9s vulnerable </p>", 
+            "commentable_id": 1384, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 02:48:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 548, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2870, 
+                "name": "Xavier ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Total, si no els respecta gaireb\u00e9 ning\u00fa...</p>", 
+            "commentable_id": 1384, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 18:35:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 964, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "548", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2496, 
+                "name": "rux", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Des de la bicicleta \u00e9s molt m\u00e9s f\u00e0cil tenir bona visibilitat de l'entorn i creuar en condicions de seguretat. D'aquesta manera s'aconsegueix promoure l'\u00fas de la bicicleta augmanetant la seva velocitat mitjana i alhora s'educa als conductors pel que fa a les prioritats (vianant - bicicleta - altres). Un cop els conductors de tots els vehicles s'hagin reeducat entenent les prefer\u00e8ncies, potser es pot acabar ampliant aquesta iniciativa a tots els vehicles, fet que donaria m\u00e9s llibertat tant a vianants com a ciclistes (es podria creuar en qualsevol moment sense haver d'esperar al sem\u00e0for verd)</p>", 
+            "commentable_id": 1384, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 14:43:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 815, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "548", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4246, 
+                "name": "octaviorubio", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00c9s un model que ja s'ha implantat amb \u00e8xit a Paris des de 2015. Es va realitzar per a una circulaci\u00f3 mes flu\u00efda les bicicletes i aix\u00ed promoure el seu \u00fas.</p>", 
+            "commentable_id": 1384, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/03/2016 18:57:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3679, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "548", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8827, 
+                "name": "genisbcn", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>bici = vehicle de tracci\u00f3 humana.\n<br />Aqu\u00ed ho explica:\n<br /><a href=\"https://www.youtube.com/watch?v=0t9PvDCVptU&amp;feature=youtu.be\">https://www.youtube.com/watch?v=0t9PvDCVptU&amp;feature=youtu.be</a>\n</p>", 
+            "commentable_id": 1384, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 00:50:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8171, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

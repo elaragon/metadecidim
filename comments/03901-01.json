@@ -1,0 +1,209 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10313, 
+                "name": "quim", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No podem callar quan ens roben el cel i l'aire ....</p>", 
+            "commentable_id": 3901, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/03/2016 15:12:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3557, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 2, 
+            "total_likes": 0, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10282, 
+                "name": "V\u00edctor GC", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Comento aqu\u00ed per manifestar la meva oposici\u00f3. La q\u00fcesti\u00f3 de les Chemtrails es una teoria conspirativa sense cap base ni evidencia cient\u00edfica. Punt i final.</p>", 
+            "commentable_id": 3901, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/03/2016 16:15:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3565, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 79, 
+                "name": "Andreu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Consparanoia chemtrails a Decidim Barcelona? </p>", 
+            "commentable_id": 3901, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/03/2016 18:07:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3574, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 40, 
+                "name": "Sergio Espin", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si alg\u00fa ho demostra cient\u00edficament en parlem. De moment, aix\u00f2 em sembla la conspiranoia m\u00e9s gran desde la inquisici\u00f3</p>", 
+            "commentable_id": 3901, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/03/2016 18:30:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3576, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2100, 
+                "name": "rp", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Una magufada conspiranoica no, si us plau.</p>", 
+            "commentable_id": 3901, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/03/2016 18:45:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3577, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10887, 
+                "name": "SergiDiaz", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No es pot prohibir el que no existeix.</p>", 
+            "commentable_id": 3901, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 23:10:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8138, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 6, 
+        "total_pages": 1
+    }
+}

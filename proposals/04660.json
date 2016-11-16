@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 11545, 
+            "name": "Gumer", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 11545, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4660", 
+        "conflictive": false, 
+        "created_at": "11/03/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4660, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 20, 
+            "name": "Administraci\u00f3  intel\u00b7ligent i inclusiva", 
+            "position": 4
+        }, 
+        "summary": "\u00c8s extremadament dif\u00edcil poder parlar amb alg\u00fa informat que et doni resposta al servei d\u00b4Hisenda, si per exemple s\u00b4han pagat impostos per error (cosa que pot passar a empreses). La pr\u00e0ctica actual ha portat a molta gent a donar per perduts qualsevol mena de diners pagats a l\u00b4Ajuntament per error.", 
+        "title": "Que es pugui rebre resposta del servei d\u00b4Hisenda per email", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/que-es-pugui-rebre-resposta-del-servei-d-hisenda-per-email", 
+        "votable": null, 
+        "voted": null
+    }
+}

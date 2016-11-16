@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9846, 
+                "name": "Marta del Blanco Guti\u00e9rrez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Molt bona idea poder passejar des de la sortida del t\u00fanel de la Rovira fins el carrer Dante. Caminant pel tronc central s'evitariannles cru\u00eflles i milloraria la seguretat</p>", 
+            "commentable_id": 3262, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/03/2016 21:49:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3249, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16420, 
+                "name": "shm4", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estaria d'acord si aquesta passera fos una primera fase de l\u2019arranjament total de la Rambla, amb el soterrament dels cotxes que utilitzen el t\u00fanel de la Rovira com a via r\u00e0pida d\u2019acc\u00e9s a la ciutat, deixant el pas pels laterals exclusivament per al tr\u00e0nsit de ve\u00efns i comer\u00e7os. I si la passera es fa accessible a cadires de rodes i cotxets, ja que la que poseu d\u2019exemple, existent a Llobreg\u00f3s, \u00e9s en realitat una escala.</p>", 
+            "commentable_id": 3262, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 15:38:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7208, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/rambla-del-carmel\">https://decidim.barcelona/proposals/rambla-del-carmel</a></p>", 
+            "commentable_id": 3262, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 12:07:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15424, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

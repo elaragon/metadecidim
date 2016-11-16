@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 7141, 
+            "name": "Reig Marina", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 7141, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4767", 
+        "conflictive": false, 
+        "created_at": "12/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4767, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "1. Per recollida brossa. El soroll dels camions de recollida de brossa i recollida selectiva \u00e9s molt gran. Proposta de revisar els sistemes i els horaris. I fer recerca en reducci\u00f3 del soroll mec\u00e0nic dels camions.\r\n2. Per motos. Posar un tope de nivell de decibelis.\r\n3. Reducci\u00f3 terrasses i horaris\r\n", 
+        "title": "Reducci\u00f3 contaminaci\u00f3 ac\u00fastica ", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 25, 
+        "url": "https://decidim.barcelona/pam/proposals/reduccio-contaminacio-acustica", 
+        "votable": null, 
+        "voted": null
+    }
+}

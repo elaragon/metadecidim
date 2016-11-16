@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 21570, 
+                "name": "Jordi Callej\u00f3n", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Horts urbans comunitaris amb possibilitat de fer esport es una idea genial que abarca les necessitats de tot un barri que comen\u00e7a a degradarse a ulls vista.\n<br />Escoles, ve\u00efnat i perwones en risc d\u00b4exclusi\u00f3 les que podrien fer un bon us i alhora espai de trobada dels jovents fent esport i amb espais ludics.\n<br />Gran projecte que s\u00b4hauria de fomentar i donar suport per part del que li toqui.</p>", 
+            "commentable_id": 4280, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 15:47:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11025, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16625, 
+                "name": "Ag", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Fa goig veure com de forma organitzada, amb calendaris i torns fan obres d'art graffiti als murs d'aquesta illa des de fa temps(bona iniciativa de l'ajuntament), complementar-ho amb la recuperaci\u00f3 del front\u00f3 que porta tants anys en des\u00fas i amb la creaci\u00f3 d'horts urbans (equipament inexistent al barri i amb prou demanda) seria una idea genial i amb bona acollida al barri. Al cap i a la fi antigament aquestes terres eren tot un seguit d'horts, no estaria malament recuperar el seu \u00fas original i aprofitar tots els beneficis socials que aportaria.</p>", 
+            "commentable_id": 4280, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 23:28:00", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12769, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "11025", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16625, 
+                "name": "Ag", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord Jordi. Als barris on s'han creat son tot un \u00e9xit combinat amb l'esport de ben segur encara tindria m\u00e9s potencial.</p>", 
+            "commentable_id": 4280, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 23:30:22", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12771, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "12769", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 21570, 
+                "name": "Jordi Callej\u00f3n", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>De fet aquella part del barri es deia el barri del tomaquet....\n<br />Horts urbans a aquest espai i esports lliures, sense pagament, es la millor opci\u00f3.\n<br />Gracies per suport Ag.</p>", 
+            "commentable_id": 4280, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 23:33:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12772, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 21445, 
+                "name": "natttts", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El que caldria es posar dues pilones entre els carrils d'un sentit i de l'altre, a l'al\u00e7ada del carrer de G\u00f3sol, ja que molta gent fa el gir prohibit per doble continua, i \u00e9s molt perillos pels vehicles que circulen direcci\u00f3 via augusta i pels vianants que creuen Verg\u00f3s per el pas de zebra on comen\u00e7a el carrer G\u00f3sol.</p>", 
+            "commentable_id": 3221, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 13:33:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10790, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

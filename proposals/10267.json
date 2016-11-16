@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 22273, 
+            "name": "Barcelonauta", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 22273, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10267", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": {
+            "id": 4, 
+            "name": "Les Corts"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 10267, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "El tramvia passa per l'Avinguda de Xile, una via amb molt poca activitat comercial i poca aflu\u00e8ncia de gent, penso que estaria b\u00e9 modificar-ne lleugerament el recorregut i fer-lo passar per una via paral\u00b7lela: pel carrer de Cardenal Reig, molt m\u00e9s comercial i concorregut, on el tramvia segur que seria m\u00e9s profit\u00f3s com a transport p\u00fablic.", 
+        "title": "Fer passar el tramvia pel carrer Cardenal Reig", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/fer-passar-el-tramvia-pel-carrer-cardenal-reig", 
+        "votable": null, 
+        "voted": null
+    }
+}

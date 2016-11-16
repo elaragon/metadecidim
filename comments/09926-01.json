@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9263, 
+                "name": "Suport decidim Activitat Econ\u00f2mica", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/modificacio-de-la-fiscalitat-per-compensar-els-impactes-i-els-costos-de-l-activitat-turistica\">https://decidim.barcelona/proposals/modificacio-de-la-fiscalitat-per-compensar-els-impactes-i-els-costos-de-l-activitat-turistica</a></p>", 
+            "commentable_id": 9926, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 14:21:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10911, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 22468, 
+                "name": "Plataforma per una Fiscalitat Justa, ambiental i solid\u00e0ria", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": false
+            }, 
+            "body": "<p>La \"taxa\" tur\u00edsitca hauria d'incorporar criteris de proporcionalitat (per exemple que suposi un 0,5% del cost de la pernoctaci\u00f3) o de progressivitat (un 0,2% per pernoctacions de fins a 50euros/nit, un 0,5% per pernoctacions de 51\u20ac-150\u20ac, i un 1% per pernoctacions de m\u00e9s de 150\u20ac, per exemple).\n<br />Tamb\u00e9 hi hauria d'haver un control democr\u00e0tic sobre com es gasta l'import d'aquesta recaptaci\u00f3, que serveixi per a afavorir el petit comer\u00e7, i tamb\u00e9 establir un major control sobre com Turisme de Barcelona gestiona part d'aquest impost.</p>", 
+            "commentable_id": 9926, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 23:30:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11517, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

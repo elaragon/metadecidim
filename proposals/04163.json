@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4163", 
+        "conflictive": false, 
+        "created_at": "06/03/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 4163, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "Es demana senyalitzar a les sortides del metro els eixos comercials de proximitat, per\u00f2 tamb\u00e9 als esglaons de les estacions i a les pantalles dels vagons per potenciar aquest teixit. Aix\u00ed mateix, tamb\u00e9 es demana publicitar aquest comer\u00e7 de proximitat als equipaments amb un alt volum d'usuaris", 
+        "title": "Millorar la senyalitzaci\u00f3 dels eixos de comer\u00e7 de proximitat", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/millorar-la-senyalitzacio-dels-eixos-de-comerc-de-proximitat", 
+        "votable": null, 
+        "voted": null
+    }
+}

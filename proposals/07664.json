@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7664", 
+        "conflictive": false, 
+        "created_at": "31/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 7664, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "\"Mapejar\u201d les parades d\u2019autob\u00fas amb l\u2019objectiu de comprovar si aquestes s\u2019adapten al servei p\u00fablic de proximitat i comprovar tamb\u00e9 que les parades estiguin al lloc pel que van ser creades inicialment.", 
+        "title": "Fer un mapeig de la ubicaci\u00f3 de les parades d'autob\u00fas per planificar millor la mobilitat amb aquest mitj\u00e0 de transport", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/fer-un-mapeig-de-la-ubicacio-de-les-parades-d-autobus-per-planificar-millor-la-mobilitat-amb-aquest-mitja-de-transport", 
+        "votable": null, 
+        "voted": null
+    }
+}

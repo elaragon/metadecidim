@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9208", 
+        "conflictive": false, 
+        "created_at": "07/04/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9208, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Proposta Consell de Barri La Salut", 
+        "title": "Resoldre la cunya invasora del Tenis la Salut a la cru\u00eflla del carrer Riera Can Toda amb Mare de Deu de la Salut que en redueix la visibilitats pels vianants, molts d\u2019ells escolars.'", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 10, 
+        "url": "https://decidim.barcelona/pam/proposals/resoldre-la-cunya-invasora-del-tenis-la-salut-a-la-cruilla-del-carrer-riera-can-toda-amb-mare-de-deu-de-la-salut-que-en-redueix-la-visibilitats-pels-vianants-molts-d-ells-escolars", 
+        "votable": null, 
+        "voted": null
+    }
+}

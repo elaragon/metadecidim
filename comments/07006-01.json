@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12179, 
+                "name": "suport.decidim1", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en la cita presencial: Consell de Salut del Districte de l'Eixample. \"Desenvolupar els estudis i els an\u00e0lisis necessaris per tenir un coneixement exhaustiu de les necessitats de salut de la poblaci\u00f3\"</p>", 
+            "commentable_id": 7006, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 10:37:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6916, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12179, 
+                "name": "suport.decidim1", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en la cita presencial: Consell de Salut del Districte de l'Eixample. \"Desmedicalitzar la fi de la vida. Treballar pel dret a la mort digna\"</p>", 
+            "commentable_id": 7006, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 10:38:20", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6917, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12179, 
+                "name": "suport.decidim1", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en la cita presencial: Consell de Salut del Districte de l'Eixample. \"Regular o limitar la sobre-medicalitzaci\u00f3 d\u2019alguns processos propis del cicle vital de les dones. Revisar els protocols i directrius en aquest sentit.\"</p>", 
+            "commentable_id": 7006, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 10:39:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6918, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

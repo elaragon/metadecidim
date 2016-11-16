@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 512, 
+            "name": "Solidaritat Catalana per la Independ\u00e8ncia", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 512, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4231", 
+        "conflictive": false, 
+        "created_at": "07/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4231, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Per tal de garantir el dret a la salut i la qualitat assistencial reclamem l'opertura de les urg\u00e8ncies nocturnes on no hi hagi un CUAP a prop,i que siguin cogestionats entre Generalitat i Ajuntament.La Govern cedir\u00e0 les instal.lacions i maquin\u00e0ria i l'Ajuntament el personal nocturn via IMAS.", 
+        "title": "Reopertura dels CAP en horari nocturn.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 26, 
+        "url": "https://decidim.barcelona/pam/proposals/reopertura-dels-cap-en-horari-nocturn", 
+        "votable": null, 
+        "voted": null
+    }
+}

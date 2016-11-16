@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 327, 
+            "name": "V\u00edctor", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 327, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1537", 
+        "conflictive": false, 
+        "created_at": "06/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.lavanguardia.com/vida/20160205/301933501637/francia-prohibe-desperdiciar-comida-supermercados.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1537, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 1, 
+            "name": "Just\u00edcia social", 
+            "position": 1
+        }, 
+        "summary": "Em sembla una bona proposta per implementar a la ciutat. Des de l\u2019Ajuntament s\u2019hauria de liderar una petici\u00f3 a l\u2019administraci\u00f3 corresponent perqu\u00e8 no es llenci a les escombraries el menjar que ja no poden vendre els supermercats per\u00f2 el seu valor nutritiu encara est\u00e0 en bones condicions per ser consumit.", 
+        "title": "Copiar proposta: Fran\u00e7a prohibeix llen\u00e7ar el menjar sobrant dels supermercats", 
+        "total_comments": 12, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 5, 
+        "total_votes": 372, 
+        "url": "https://decidim.barcelona/pam/proposals/copiar-proposta-franca-prohibeix-llencar-el-menjar-sobrant-dels-supermercats", 
+        "votable": null, 
+        "voted": null
+    }
+}

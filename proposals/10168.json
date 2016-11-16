@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 567, 
+            "name": "CarlosP.C.86", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 567, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10168", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 10168, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 8, 
+            "name": "Migraci\u00f3, interculturalitat i discriminaci\u00f3 zero", 
+            "position": 8
+        }, 
+        "summary": "Fi de tota viol\u00e8ncia exercida per les forces policials contra els venedors ambulants i retirada de multes i procediments judicials oberts contra els venedors ambulants (incl\u00fas des de l'Ajuntament de Barcelona com a part denunciant) i reconeixement de la resid\u00e8ncia dels manters a Barcelona. ", 
+        "title": "Manters i venedors ambulants", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/manters-i-venedors-ambulants-6b82a6e6-70cb-4330-a48f-d9c1f08023a4", 
+        "votable": null, 
+        "voted": null
+    }
+}

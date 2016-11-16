@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6739, 
+                "name": "Salvador Barrau V.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>el participant escriu les seves creencies que no demostra</p>", 
+            "commentable_id": 2818, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/02/2016 14:08:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2271, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 1, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8612, 
+                "name": "Javier Cuch\u00ed", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Recolzo molt calorosament la iniciativa de l'Andreu (tot i no saber qu\u00e8 hi pot fer l'Ajuntament, at\u00e8s que no es tracta de productes prohibits). El que jo s\u00ed faig \u00e9s deixar de comprar a tota farm\u00e0cia que divulgui l'\u00fas d'aquest productes frau.</p>", 
+            "commentable_id": 2818, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/02/2016 12:45:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2796, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 1, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10449, 
+                "name": "CarmenCascajosa", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Imprescindible. Las instituciones p\u00fablicas, si no fomentan su eliminaci\u00f3n, que al menos dejen de ser c\u00f3mplices de este desvar\u00edo. Por cierto, creo que la UB acaba de anular sus m\u00e1sters.</p>", 
+            "commentable_id": 2818, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 21:54:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8960, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2271", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 79, 
+                "name": "Andreu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El participant aporta un link on s'explica qu\u00e8 \u00e9s la homeopatia</p>", 
+            "commentable_id": 2818, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/02/2016 23:14:49", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2301, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 1, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2796", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 79, 
+                "name": "Andreu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Per aix\u00f2 demano fomentar l'eliminaci\u00f3, que no vol dir prohibir. Per\u00f2 les farm\u00e0cies no s\u00f3n llocs per vendre boletes de sucre com a medicines de veritat</p>", 
+            "commentable_id": 2818, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/02/2016 13:59:49", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2809, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

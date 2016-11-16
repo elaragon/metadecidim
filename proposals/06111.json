@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6111", 
+        "conflictive": false, 
+        "created_at": "20/03/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 6111, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 19, 
+            "name": "Acci\u00f3 comunit\u00e0ria", 
+            "position": 3
+        }, 
+        "summary": "L'AVV de Congr\u00e9s i els Indians podr\u00e0 ser l'encarregada de gestionar-lo, at\u00e8s que ja ho feia anteriorment, per\u00f2 t\u00e9 el repte de fer-ho des de la gesti\u00f3 c\u00edvica. Es vol que sigui un equipament obert al barri, per\u00f2 sense infrautilitzar-lo, que tamb\u00e9 serveixi per aportar activitats atractives al barri.", 
+        "title": "Definir conjuntament, entre les entitats del barri i l'ajuntament, quin tipus d'equipament ser\u00e0 el Teatre del Congr\u00e9s", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/definir-conjuntament-entre-les-entitats-del-barri-i-l-ajuntament-quin-tipus-d-equipament-sera-el-teatre-del-congres", 
+        "votable": null, 
+        "voted": null
+    }
+}

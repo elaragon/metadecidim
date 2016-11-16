@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 411, 
+            "name": "merameque", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 411, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1161", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1161, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Con el fin de disminuir la contaminaci\u00f3n y otros efectos da\u00f1inos provocado por el exceso de circulaci\u00f3n dentro de Barcelona. Me parecer\u00eda interesante tener grandes zonas de aparcamientos (gratuitos o de bajo coste) en las entradas de los grandes ejes de Barcelona (Diagonal, Meridiana), con el fin de incentivar el uso de los transportes p\u00fablicos. ", 
+        "title": "PARKINGS EN LAS ENTRADAS DE BARCELONA", 
+        "total_comments": 43, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 25, 
+        "total_positive_comments": 9, 
+        "total_votes": 331, 
+        "url": "https://decidim.barcelona/pam/proposals/parkings-en-las-entradas-de-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

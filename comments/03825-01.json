@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10285, 
+                "name": "Montserrat Forcadas", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>S\u00f9per bona idea. Hi ha una experi\u00e8ncia que neix a Fano, It\u00e0lia. El projecte s'anomenta \"La ciudad de los ni\u00f1os\" maig del 1991. La gent adulta s\u00f3m millors davant de la pres\u00e8ncia d'un infant. Conduim millor, no diem paraulotes, no som tant agressius. Els nens han de estar m\u00e9s presents a totes les esferes social, comen\u00e7ant per l'espai p\u00fablic.</p>", 
+            "commentable_id": 3825, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/03/2016 12:26:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3536, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9100, 
+                "name": "Pau Ocean", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Gran idea! S'ha de cuidar als infants!!</p>", 
+            "commentable_id": 3825, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/03/2016 11:49:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3629, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

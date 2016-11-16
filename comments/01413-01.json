@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 908, 
+                "name": "M\u00f3n", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Sobretot sense que tingu\u00e9ssin interessos en afavorir els bancs, sin\u00f3 al contrari, per evitar situacions enganyoses i que no s'aprofiti ning\u00fa del desconeixement per part dels clients.</p>", 
+            "commentable_id": 1413, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 15:50:30", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 639, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2696, 
+                "name": "Caparica", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Existeix un servei gratu\u00eft de l'Ag\u00e8ncia de l'Habitatge de Barcelona d'assessorament i intermediaci\u00f3 hipotecari pel que fa productes hipotecaris que a Barcelona es fa a les Oficines d'Habitatge</p>", 
+            "commentable_id": 1413, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 00:41:13", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 873, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "639", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1949, 
+                "name": "Jordi Mayn\u00e9 Sell\u00e9s", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Comparteixo totalment el teu punt de vista. L'\u00e8xit dep\u00e8n de la netedat del proc\u00e9s i de la bona predisposici\u00f3 dels voluntaris.</p>", 
+            "commentable_id": 1413, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 15:55:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 641, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "873", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1949, 
+                "name": "Jordi Mayn\u00e9 Sell\u00e9s", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Agraeixo el comentari i la aportaci\u00f3 per\u00f2 el meu suggeriment va m\u00e9s enll\u00e0, es disposar d'alg\u00fa que t'ajudi en tot el que fa refer\u00e8ncia amb les finances personals, seria voluntari i sense remuneraci\u00f3, nom\u00e8s es pagarien per part del Ajuntament despeses de transport i altres relacionades del voluntari i mai per la seva tasca.</p>", 
+            "commentable_id": 1413, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/02/2016 07:57:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1118, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

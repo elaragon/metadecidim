@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11316, 
+                "name": "Plataforma Carrers per a tothom", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": false
+            }, 
+            "body": "<p>\u00c9s el que demanem la Plataforma carrers per a Tothom, formada per entitats de persones amb discapacitat. Per posar un exemple, les persones cegues estan en perill en els carrers de plataforma \u00fanica com al Passeig de Gr\u00e0cia entre d'altres. Tamb\u00e9 ho estan les persones  grans o les usu\u00e0ries de cadira de rodes quan han d'anar pel mig de carrers perque s'han instal\u00b7lat pilones. Platformes \u00faniques s\u00ed per\u00f2 a carrers estrets, que \u00e9s per al que s'han pensat. Als carrers amples estem en perill. </p>", 
+            "commentable_id": 492, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/03/2016 13:49:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4377, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

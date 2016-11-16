@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1654, 
+            "name": "Jaume Villalba Gomis", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1654, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1340", 
+        "conflictive": false, 
+        "created_at": "03/02/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1340, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Resum de la proposta Resulta que dintre de poc faran anar tots el gossos lligats sense distincio i posaran multes, crec que abans de tot aixo podrieu fer uns pipicans en condicions i lo suficienmet grans per que els gossos pugin correr i disfrutar, un ejemple el parc dels taronges a montjuich.Crec que estem discriminats.", 
+        "title": "Animals de Companya i zones de esbarjo per a ells.", 
+        "total_comments": 22, 
+        "total_negative_comments": 3, 
+        "total_neutral_comments": 3, 
+        "total_positive_comments": 5, 
+        "total_votes": 84, 
+        "url": "https://decidim.barcelona/pam/proposals/animals-de-companya-i-zones-de-esbarjo-per-a-ells", 
+        "votable": null, 
+        "voted": null
+    }
+}

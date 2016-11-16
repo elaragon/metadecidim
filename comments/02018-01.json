@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5595, 
+                "name": "Zaida Palet", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Un dels projectes de Vallbona Viu impulsat per la Junta de l'Avv de Vallbona 2002-2009. Ara \u00e9s el moment de fer just\u00edcia a un barri envoltat d'autopistes, vies de tren, per\u00f2 amb un entorn viu d'oportunitats que identifica el seu potencial: Rec comtal, Granja del Ritz, horts, ... Que cal que es visualitzi amb la implicaci\u00f3 real de l'Ajuntament amb una inversi\u00f3 que impulsi un dels barris m\u00e9s oblidats per totes les forces pol\u00edtiques que han governat a la Ciutat.</p>", 
+            "commentable_id": 2018, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 21:32:49", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1894, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

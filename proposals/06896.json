@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 15331, 
+            "name": "Peregir", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 15331, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6896", 
+        "conflictive": false, 
+        "created_at": "27/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6896, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "El bus \u00e9s un transport molt lent,  tots els experts de mobilitat diuen que han de tenir menys parades. \r\nVolem un xarxa de bus eficient i r\u00e0pida,  no pot ser que en bicicleta es vagi m\u00e9s r\u00e0pid. \r\nProposta: treure 1 parada de 3 o 1 de 2, de la meitat de l\u00ednies. Deixar la meitat com ara per la gent gran. \r\nTb volem m\u00e9s freq\u00fcencia el cap setmana\r\n\r\n\r\n", 
+        "title": "Autob\u00fas \u00fatils,  m\u00e9s r\u00e0pids", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/autobus-utils-mes-rapids", 
+        "votable": null, 
+        "voted": null
+    }
+}

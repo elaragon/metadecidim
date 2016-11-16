@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15325, 
+                "name": "Alfons66", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Preferiria un inspector al meu costat tot el dia que no pas haver d'esperar (o de redactar informes que no llegir\u00e0 ning\u00fa) per cada comunicat diferit. A m\u00e9s, hi ha criteris d'intervenci\u00f3 o de catalogaci\u00f3 que no s'adiuen amb la realitat. Un edifici de 1973 no ha d'estar incl\u00f2s en l'\u00e0mbit del modernisme. I haver de presentar estudis hist\u00f2rics per poder comen\u00e7ar a investigar qu\u00e8 hi ha a sota d'un paviment afegit fa 10 anys no t\u00e9 cap l\u00f2gica. A favor de modificar totes les ordenances implicades.</p>", 
+            "commentable_id": 6410, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/03/2016 21:11:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6526, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

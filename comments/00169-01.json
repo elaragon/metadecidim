@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9911, 
+                "name": "Elena Lopez Estebanez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Conseguir que las suministradoras de estos servicios  donen parte de los beneficios que obtienen </p>", 
+            "commentable_id": 169, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/03/2016 23:15:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3395, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17332, 
+                "name": "Luc\u00eda La Flaca", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Esta propuesta deber\u00eda estar entre las 5 primeras. Y desde luego, si aplicamos la Ley 24/2015 en su totalidad, podr\u00edamos ser ejemplo a nivel estatal e internacional de lo que la ciudadan\u00eda organizada es capaz de lograr cuando nos lo proponemos. Ni set, ni fred ni foscor!</p>", 
+            "commentable_id": 169, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 20:42:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12662, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

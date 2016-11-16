@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5908, 
+                "name": "Jes\u00fas Delgado Salda\u00f1a", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>I m\u00e9s la mesura la podriem extendre a tota la ciutat</p>", 
+            "commentable_id": 1745, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/02/2016 19:37:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1960, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5908, 
+                "name": "Jes\u00fas Delgado Salda\u00f1a", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No solo prohbir la motos por las aceras en  poble sec sino tambien por toda la cudad y ademas las bicis tambien por las aceras no, las aceras   son para los peatones</p>", 
+            "commentable_id": 1745, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/02/2016 11:43:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2055, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 368, 
+                "name": "Joaquim Navarro", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Molt bona proposta, crec que hauriem de juntar esfor\u00e7os quan una proposta es semblant o igual a un altre, animo a votar a aquesta que ja va m\u00e9s avan\u00e7ada <a href=\"https://decidim.barcelona/proposals?_=1458549318457&amp;filter=&amp;order=relevance&amp;page=3&amp;random_seed=0.8503615166980965&amp;search=moto&amp;turbolinks=true\">https://decidim.barcelona/proposals?_=1458549318457&amp;filter=&amp;order=relevance&amp;page=3&amp;random_seed=0.8503615166980965&amp;search=moto&amp;turbolinks=true</a>\n</p>", 
+            "commentable_id": 1745, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 13:53:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6120, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1320, 
+                "name": "Aurora MF", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00c9s veritat. La Gu\u00e0rdia Urbana no hauria de ser tan permissiva amb les motos. </p>", 
+            "commentable_id": 1745, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/04/2016 00:10:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7488, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

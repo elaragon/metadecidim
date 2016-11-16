@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1696, 
+                "name": "ventura", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En moltes ocasions he vist podar els abres quan ja tenien incl\u00fas fulles \n</p>", 
+            "commentable_id": 1347, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/02/2016 18:41:58", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 466, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": true, 
+                "hidden": false, 
+                "id": 1911, 
+                "name": null, 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic d'acord!!</p>", 
+            "commentable_id": 1347, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/02/2016 23:45:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 526, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4873, 
+                "name": "Carlota Gim\u00e9nez i Compte", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A part de la poda a destemps, considero que no s'ent\u00e9n el criteri al l'hora de tallar de socarrel alguns arbres ben sans dels carrers. Fa mal als ulls i \u00e9s del tot antipedag\u00f2gic cara a l'educaci\u00f3 mediambiental veure un arbre amb un tall sa que podia tenir fins a 50 anys substitu\u00eft per un arbret que durar\u00e0 50 anys m\u00e9s fins que el tallin. Sincerament penso que \u00e9s tractar els arbres com mobles urbans.</p>", 
+            "commentable_id": 1347, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/02/2016 18:58:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1562, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 613, 
+                "name": "Josep M Armengou", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Se'n podria dir molt m\u00e9s per\u00f2 el que diu Roman ja \u00e9s m\u00e9s que clar. Apunto que la pol\u00edtica de Parcs i Jardins, quan no arboricida, \u00e9s com a m\u00ednim err\u00e0tica. Un contrasentit. El respecte als arbres \u00e9s un signe elemental de civilitat. Ells, els m\u00e9s vells, a m\u00e9s, hi eren abans que nosaltres, de manera que cal pensar-s'ho b\u00e9 abans de fer-los cap mal. Gr\u00e0cies.</p>", 
+            "commentable_id": 1347, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 15:58:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4550, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

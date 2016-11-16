@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 821, 
+            "name": "Susanna Segovia", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 821, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3240", 
+        "conflictive": false, 
+        "created_at": "22/02/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3240, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "El funicular l'utilitzen molts nens i nenes per accedir a les escoles de Montju\u00efc. Quan es tanca per obres durant 4 mesos en ple curs escolar afecta a la  mobilitat quotidiana.  Cal que el manteniment del funicular es faci en vacances escolars. No posem els turistes que l'utilitzen un cop, per davant dels nostres nens i nenes que pugen cada dia", 
+        "title": "Funicular: cal prioritzar el servei p\u00fablic per barcelonins/es", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 34, 
+        "url": "https://decidim.barcelona/pam/proposals/funicular-cal-prioritzar-el-servei-public-per-barcelonins-es", 
+        "votable": null, 
+        "voted": null
+    }
+}

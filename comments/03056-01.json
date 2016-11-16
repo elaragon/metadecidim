@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13169, 
+                "name": "Antonio U.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El tram d\u00b4avinguda Madrid entre la Pla\u00e7a del Centre (reurbanitzada fa poc) i Josep Tarradellas necessita una reforma urgent. Les voreres son estretes, la crisi bancaria a deixat un munt de locals lliures i tot plegat requereix una reforma urgent que ja estava prevista en l\u00b4anterior mandat i com d\u00b4altres ha quedat en no res. No pensem en el problemes de mobilitat que suposa quan arriben partits importants o qualsevol altre tipus d\u00b4acte que es celebri al Camp Nou</p>", 
+            "commentable_id": 3056, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 22:26:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5361, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

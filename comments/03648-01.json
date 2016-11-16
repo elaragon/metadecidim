@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9464, 
+                "name": "MariaC. L\u00f3pez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Necess\u00e0ria a tota la ciutat</p>", 
+            "commentable_id": 3648, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/02/2016 21:09:49", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3096, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3037, 
+                "name": "helenafebres", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>aqu\u00ed ja s'est\u00e0 gestant una proposta concreta amb l'ajuntament <a href=\"http://www.laborda.coop/\">http://www.laborda.coop/</a>. El proper dissabte 5 de mar\u00e7 fem una cal\u00e7otada a can batll\u00f3 de Sants per informar i mostrar.\n</p>", 
+            "commentable_id": 3648, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/02/2016 23:24:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3114, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 594, 
+                "name": "Jordi Go\u00f1i El Troc", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aniria b\u00e9 disposar de de vivendes amb espais i serveis comuns per a la gent del Poble Sec.</p>", 
+            "commentable_id": 3648, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 20:43:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7085, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8941, 
+                "name": "Carolina L\u00f3pez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>L'equip de govern vam proposar una mesura en aquest sentit, us animem a votar-la tamb\u00e9: <a href=\"https://decidim.barcelona/proposals/cessions-de-sol-o-edificis-a-les-cooperatives-d-habitatge-d-us-social\">https://decidim.barcelona/proposals/cessions-de-sol-o-edificis-a-les-cooperatives-d-habitatge-d-us-social</a>. </p>", 
+            "commentable_id": 3648, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 15:04:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8029, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

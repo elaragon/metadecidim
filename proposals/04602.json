@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4602", 
+        "conflictive": false, 
+        "created_at": "10/03/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 4602, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 1, 
+            "name": "Just\u00edcia social", 
+            "position": 1
+        }, 
+        "summary": "Complir amb el precepte constitucional que totes les persones tenen dret al treball, a l\u2019habitatge, l\u2019educaci\u00f3 i la salut. Per una bona salut primer cal solucionar les causes de les problem\u00e0tiques: lleis justes (viol\u00e8ncia de g\u00e8nere), ajuts adients (atenci\u00f3 a les persones m\u00e9s vulnerables), igualtat social (ocupaci\u00f3 per tothom).", 
+        "title": "Garantir els drets Constitucionals de les persones", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 12, 
+        "url": "https://decidim.barcelona/pam/proposals/garantir-els-drets-constitucionals-de-les-persones", 
+        "votable": null, 
+        "voted": null
+    }
+}

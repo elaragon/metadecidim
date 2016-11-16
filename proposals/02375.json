@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 5001, 
+            "name": "Consell de Barri Sant Antoni", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 5001, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 5, 
+            "name": "Just\u00edcia global"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2375", 
+        "conflictive": false, 
+        "created_at": "12/02/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2375, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 5, 
+            "id": 29, 
+            "name": "Ciutat d\u2019acollida", 
+            "position": 2
+        }, 
+        "summary": "Que no arribin els refugiats sirians a Barcelona, comprom\u00eds de l'Ajuntament amb el tema dels refugiats de guerra.", 
+        "title": "Atenci\u00f3 a les persones refugiades.", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 13, 
+        "url": "https://decidim.barcelona/pam/proposals/atencio-a-les-persones-refugiades-216198af-9354-48cf-a7d2-310644415e01", 
+        "votable": null, 
+        "voted": null
+    }
+}

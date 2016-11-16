@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4973", 
+        "conflictive": false, 
+        "created_at": "14/03/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 4973, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Volem poder jugar al carrer. Per aix\u00f2 volem un barri net, amb menys cotxes, m\u00e9s bicicletes.\r\nPosar una cistella per poder jugar a b\u00e0squet. Es va comentar que la Pla\u00e7a Vila de Madrid podria ser un bon lloc.\r\nPosar un cinema- Posar una piscina- Posar una fira amb atraccions\r\nMenys botigues de roba i m\u00e9s de llaminadures", 
+        "title": "Jugar al carrer i  oferta de lleure pensada pels nens", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 5, 
+        "url": "https://decidim.barcelona/pam/proposals/jugar-al-carrer-i-oferta-de-lleure-pensada-pels-nens", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2183, 
+            "name": "KK", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2183, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1453", 
+        "conflictive": false, 
+        "created_at": "04/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1453, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Canviar les ordenances per tal de que el topless o el \"semi-nudisme\" no sigui multat. Mentre els ciutadans duguin les parts \u00edntimes cobertes, ja no ha de \"molestar\" a ning\u00fa.  Les multes actuals vulneren el dret a dur la indument\u00e0ria que es vulgui. Aturem les restriccions de llibertat dignes d'\u00e8poques m\u00e9s fosques i retr\u00f2grades. Estem al segle XXI!", 
+        "title": "No multar mai m\u00e9s el topless o el \"semi-nudisme\"", 
+        "total_comments": 5, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 36, 
+        "url": "https://decidim.barcelona/pam/proposals/no-multar-mai-mes-el-topless-o-el-semi-nudisme", 
+        "votable": null, 
+        "voted": null
+    }
+}

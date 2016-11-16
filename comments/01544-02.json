@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 22303, 
+                "name": "olgad", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El que hauria d'haver s\u00f3n m\u00e9s zones d'esbarg pels gossos i que estiguessin envoltades per tanques altes (la gran majoria si fan un metre gr\u00e0cies) doncs hi ha gossos que corren i salten si s\u00f3n baixes. Aix\u00f2 \u00e9s perillos pels mateixos animals que el que volen \u00e9s corre i amb aix\u00f3 provocar accidents implicant-se ells mateixos, ensurts a persones que passejan pel costat i tamb\u00e9 es poden perdre. Per altre banda, per la zona que jo visc haig d'anar fins el parc de la Sagrada Fam\u00edlia per trobar-ne un (de tanques baixes) o b\u00e9 a un altre que hi ha al carrer de la Trav.de Gr\u00e0cia amb Pg de S. Joan que es troba enmig de solars a on no d\u00f3na ni el sol ni passa aire, fent molt mal olor.  En canvi en tot el Passeig de Sant Joan no hi ha ni un sol parc de gossos per\u00f2 si en canvi est\u00e0 ple de parcs pels nens i gent gran (camp de petanca). Crec que podrien aprofitar un dels espais que queden buits per fer un parc de gossos , doncs els jardins estan molt deixats. D'aquesta manera guanyariem tots.</p>", 
+            "commentable_id": 1544, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 22:51:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11498, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 2, 
+        "next_page": null, 
+        "prev_page": 1, 
+        "total_count": 21, 
+        "total_pages": 2
+    }
+}

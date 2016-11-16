@@ -1,0 +1,275 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 992, 
+                "name": "Toni PB", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A todas las asociaciones sin animo de lucro deber\u00edan  tener un lugar donde reunirse y el ayuntamiento si tiene locales vac\u00edos, es una forma formidables de darle uso.</p>", 
+            "commentable_id": 1215, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 20:35:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 351, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 4, 
+            "total_votes": 4
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1067, 
+                "name": "Marga Figueredo Hdez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si todos colaboramos, lo heremos posible.</p>", 
+            "commentable_id": 1215, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/02/2016 08:48:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 383, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 963, 
+                "name": "Ampa Escola Seat", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Penso que fan moltes activitats pel barri. I que menys, cedir un espai on poder treballar. </p>", 
+            "commentable_id": 1215, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 21:42:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 727, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6174, 
+                "name": "Adela Ortiz", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Me parece interesante que las asociaciones del barrio tengan un lugar donde reunirse</p>", 
+            "commentable_id": 1215, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/02/2016 14:21:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2015, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6316, 
+                "name": "Victor Valenzuela", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Nom\u00e8s us conec pel que publiqueu a Facebook, per\u00f2 se que us esfor\u00e7eu i treballeu dur per aconseguir fer de La Marina un gran barri. Us mereixeu aquest espai m\u00e9s que ning\u00fa. Teniu tot el meu suport! ;)</p>", 
+            "commentable_id": 1215, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/02/2016 21:08:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2034, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/la-marina\">https://decidim.barcelona/proposals/la-marina</a></p>", 
+            "commentable_id": 1215, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/04/2016 13:11:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 13718, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "351", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1131, 
+                "name": "Daniel Fern\u00e1ndez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Moltes gr\u00e0cies Toni.</p>", 
+            "commentable_id": 1215, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 20:36:21", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 352, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "727", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 953, 
+                "name": "lupe", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Gracias por el apoyo.</p>", 
+            "commentable_id": 1215, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/02/2016 14:34:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1161, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 6, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1654, 
+                "name": "Jaume Villalba Gomis", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>no i ha prou llocs de esbarjo per els gosos</p>", 
+            "commentable_id": 1529, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/02/2016 12:16:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1143, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3725, 
+                "name": "Maitestac", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Com Jaume. Per a aquesta normativa cal definir zones d'esbarjo per els gosos</p>", 
+            "commentable_id": 1529, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/02/2016 08:57:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1237, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12133, 
+                "name": "kenca", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>y como estas areas son insuficientes, creamos mounstruos en vez de perros civilizados, sociables y sin estres, no? propon soluciones un poco mas flexibles, lo que pides ser\u00e1 imposible puesto que las zonas de uso compartido, las van a poner en su mayoria en plazas, asi que busca otra manera de castigarnos!</p>", 
+            "commentable_id": 1529, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 13:33:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7389, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 229, 
+                "name": "rita", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No podria estar m\u00e9s d'acord...Si us plau, evitem fer servir serveis privatius en entitats educatives...</p>", 
+            "commentable_id": 7505, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 00:02:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7113, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16287, 
+                "name": "tuttle", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Mi hija, de 11 a\u00f1os, ya tiene una cuenta de correo de google que le han dado la escuela sin nisiquera comentarlo primero con los padres, ni explicar a nadie los t\u00e9rminos de uso y condiciones, ni debatir todo lo que significa el entrego de los datos personales /para que los tengan durante ya toda la vida) a los grandes multinacionales, ni ninguna alternativa. La generalitat est\u00e1 entregando/vendiendo/despreciando la vida digital de los ni\u00f1os de calatunya.</p>", 
+            "commentable_id": 7505, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 09:12:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7130, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16458, 
+                "name": "Pitus", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Amb Google les nostres dades deixen de ser nostres. El seu comprom\u00eds, si n'existeix, \u00e9s nom\u00e9s de bona voluntat. Es reserven el dret de canviar les condicions quan ells vulguin. No donen res debades. Vull que  les dades meves dades sempre siguin meves i nom\u00e9s meves. </p>", 
+            "commentable_id": 7505, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 16:18:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7217, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "7130", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 229, 
+                "name": "rita", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Efectivament, Google admet la recol\u00b7lecci\u00f3 de dades dels infants...I sembla ser que ning\u00fa sap qu\u00e8 en volen fer...\n<br />\"Google says it tracks personal student data, but not for advertising\" \n<br /><a href=\"https://www.washingtonpost.com/news/education/wp/2016/02/16/google-says-it-tracks-personal-student-data-but-not-for-advertising/?tid=ss_tw\">https://www.washingtonpost.com/news/education/wp/2016/02/16/google-says-it-tracks-personal-student-data-but-not-for-advertising/?tid=ss_tw</a></p>", 
+            "commentable_id": 7505, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 10:36:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7137, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

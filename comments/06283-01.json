@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5950, 
+                "name": "Jordi Salabert", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No tindria mes sentit fer un carril bici al lateral o paralel mes que anul\u00b7lar una infrastructura que ajuda a que el transport public interurba sigui mes rapid?</p>", 
+            "commentable_id": 6283, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 23:58:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12791, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "12791", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2072, 
+                "name": "ekin", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La infraestructura \u00e9s ja nul\u00b7la abans de ser inaugurada, i amb tres anys en servei del carril bus vao qualsevol persona veu que ha estat una obra fara\u00f2nica per als resultats que ha tingut. Crec que la l\u00f2gica no hagu\u00e9s estat crear un carril bus separat als altres carrils, sin\u00f3 passar de tres carrils de circulaci\u00f3 a dos carrils m\u00e9s carril bus , ens obr\u00edem estalviats molts euros .</p>", 
+            "commentable_id": 6283, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/04/2016 00:36:30", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12794, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

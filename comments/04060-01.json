@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12688, 
+                "name": "Jaume Mestres i Capitan", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Lo que se est\u00e1 haciendo con los cambios de lineas de autobuses es UNA ABERRACI\u00d3N</p>", 
+            "commentable_id": 4060, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/03/2016 20:33:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5812, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14891, 
+                "name": "PauRebull", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El recorregut que feia el 64 en concret est\u00e0 ben cobert ara. </p>", 
+            "commentable_id": 4060, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 17:01:31", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6610, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 20112, 
+                "name": "Antomo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El recorrido entre sant Antoni/Poble sec y la Barceloneta est\u00e1 muy mal cubierto, y a partir de la primavera ya el 64 no era suficiente con su frecuencia. El D20, que ya exist\u00eda y no se ha a\u00f1adido en sustituci\u00f3n, llega ya repleto a la altura del Poble Sec. Yo viajo con un beb\u00e9, y ya no puedo llegar al barrio de la barceloneta, ni volver de ello en trasporte publico, ni ir al club deportivo donde he ido toda la vida</p>", 
+            "commentable_id": 4060, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 15:01:21", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9524, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/millorar-el-servei-del-bus-de-barri\">https://decidim.barcelona/proposals/millorar-el-servei-del-bus-de-barri</a></p>", 
+            "commentable_id": 4060, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 17:11:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 16052, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

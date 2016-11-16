@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2912", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2912, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "L\u2019economia verda i circular com a estrat\u00e8gia de desenvolupament per millorar la competitivitat i l'atractivitat de les \u00e0rees d'activitat econ\u00f2mica, per vincular l\u2019activitat industrial de car\u00e0cter tradicional amb les noves tend\u00e8ncies en el sector: ecodisseny i ecoinnovaci\u00f3, simbiosi industrial, racionalitzaci\u00f3 dels recursos energ\u00e8tics, etc\u00e8tera.", 
+        "title": "Impuls de l'economia verda i circular, especialment la rehabilitaci\u00f3 energ\u00e8tica, i les energies renovables", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 21, 
+        "url": "https://decidim.barcelona/pam/proposals/impuls-de-l-economia-verda-i-circular-especialment-la-rehabilitacio-energetica-i-les-energies-renovables", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9298, 
+                "name": "J. Alberto", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El pasillo existente es tan raqu\u00edtico porque un parking privado ocupa el espacio que deber\u00eda ser de todos. Para que unos pocos puedan dejar su coche al centro de la ciudad tienen que molestar a los miles de personas que utilizan este pasillo.</p>", 
+            "commentable_id": 4955, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 16:25:10", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4845, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12255, 
+                "name": "lucylju", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estoy totalmente de acuerdo, el pasillo es muy largo y faltan cintas transportadoras</p>", 
+            "commentable_id": 4955, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 16:47:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4854, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

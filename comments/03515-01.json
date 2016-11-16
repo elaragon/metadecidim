@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>I qu\u00e8 fem amb la llei de lliure compet\u00e8ncia?</p>", 
+            "commentable_id": 3515, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/02/2016 15:25:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2833, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1638, 
+                "name": "Marga Arregui", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A mi tampoc em sembla be que en pocs metres hi hagi tants negocis identics. Ni mengen ni deixen menjar. He comptabilitzat en el meu barri, concretament en una rotllana d'uns 300  metres, fins a 14 bars (parada metro Congr\u00e9s). Es necessari? Aix\u00f3 s'hauria de gestionar millor.</p>", 
+            "commentable_id": 3515, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 20:26:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6657, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2833", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8218, 
+                "name": "maga", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tenir compet\u00e8ncia va b\u00e9. Per\u00f2 trobar-no un forn de costat amb un altre... Les franqu\u00edcies de p\u00e0 aprofiten la llei de lliure compet\u00e8ncia i lloguen locals al costat mateix del forn del barri. Aix\u00f2 \u00e9s el que penso que no s'hauria de deixar fer. </p>", 
+            "commentable_id": 3515, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/03/2016 15:28:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3650, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2833/3650", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8218, 
+                "name": "maga", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tamb\u00e9 n'hi ha d'altres, no sols Granier. Per exemple La Boheme...</p>", 
+            "commentable_id": 3515, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/03/2016 15:32:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3652, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 1, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2833/3650", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La seva opini\u00f3 \u00e9s molt respectable per\u00f2 lamentablement no veig viable la seva proposta segons l'ordenament jur\u00eddic.</p>", 
+            "commentable_id": 3515, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/03/2016 11:16:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3708, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

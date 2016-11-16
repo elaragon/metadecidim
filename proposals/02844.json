@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2844", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2844, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 1, 
+            "name": "Just\u00edcia social", 
+            "position": 1
+        }, 
+        "summary": "Revisar les accions que es porten a terme per combatre el sensellarisme amb la Xarxa d\u2019Atenci\u00f3 a les Persones Sense Llar de Barcelona. Elaborar i engegar un pla d\u2019actuaci\u00f3 amb quatre prioritats: revisar les metodologies d\u2019intervenci\u00f3, desenvolupar pol\u00edtiques de provisi\u00f3 d\u2019habitatge, trencar amb els estigmes de les persones sense sostre, i crear mecanismes de participaci\u00f3 per a aquestes persones.", 
+        "title": "Pla d\u2019actuaci\u00f3 contra el sensellarisme", 
+        "total_comments": 13, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 13, 
+        "total_positive_comments": 0, 
+        "total_votes": 14, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-d-actuacio-contra-el-sensellarisme-c08dc9d6-904d-4630-a7c0-83404f01cced", 
+        "votable": null, 
+        "voted": null
+    }
+}

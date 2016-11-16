@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2480, 
+                "name": "Albert99", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Desconec, en concret, el cas del Poliesportiu Valldaura, per\u00f2 en tot cas, el model de gesti\u00f3 c\u00edvica, abans de tendir a l'ampliaci\u00f3 s'hauria de revisar i avaluar </p>", 
+            "commentable_id": 1093, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/02/2016 10:48:22", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1986, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6658, 
+                "name": "Angel H", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A la trinitat nova no hi ha cap complex esportiu ...  quin cost tindria posar per exemple unes pistes de p\u00e0del. ? </p>", 
+            "commentable_id": 1093, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 23:51:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2771, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

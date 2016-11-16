@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10023, 
+                "name": "Sheila", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>...i que es faci de forma \u00e0gil i honesta. \n<br />Menys condescend\u00e8ncia i m\u00e9s efici\u00e8ncia</p>", 
+            "commentable_id": 3750, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/03/2016 19:35:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3379, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3827, 
+                "name": "suport decidim.barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "moderator", 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en la cita presencial, Debat de les persones grans en el proc\u00e9s participatiu d\u2019elaboraci\u00f3 del PAM 2015 -2016 : \"Publicitar m\u00e9s els espais que estan pensats per rebre queixes o suggeriments de la ciutadania. Per exemple establir un sistema per denunciar desperfectes a la via p\u00fablica i establir un sistema de \u201cacuse de recibo\u201d de manera que es comprovi que el missatge s\u2019ha rebut i es doni resposta\"</p>", 
+            "commentable_id": 3750, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 16:58:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5069, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12688, 
+                "name": "Jaume Mestres i Capitan", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00bfAtenci\u00f3n al ciudadano? \"El Cuento de una Noche de Verano\"</p>", 
+            "commentable_id": 3750, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 20:27:27", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5125, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

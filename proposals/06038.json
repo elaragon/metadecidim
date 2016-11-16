@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 14140, 
+            "name": "plataforma ve\u00efnal", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 14140, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6038", 
+        "conflictive": false, 
+        "created_at": "19/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.lavanguardia.com/local/barcelona/20160311/40362950547/barcelona-playa-perros-ordenanza-animales.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6038, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Se acaba de aprobar una ordenanza municipal que en junio'16 cerrar\u00e1, con valla, 1.200m2 de playa (platja de Llevant) para el uso \"exclusivo de perros\" (con duchas, papeleras y bebederos especiales). El coste es de 60.000\u20ac+28.000\u20ac de mantenimiento anual.\r\nSi respetamos demasiado a los animales podemos incluso humanizarlos contra las personas!", 
+        "title": "Contra la playa de \"uso exclusivo para perros\"", 
+        "total_comments": 35, 
+        "total_negative_comments": 3, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 6, 
+        "total_votes": 14, 
+        "url": "https://decidim.barcelona/pam/proposals/contra-la-playa-de-uso-exclusivo-para-perros", 
+        "votable": null, 
+        "voted": null
+    }
+}

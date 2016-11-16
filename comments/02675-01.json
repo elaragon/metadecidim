@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6830, 
+                "name": "Diana Dix", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>hauria de tenir l'origen a la part alta de montbau, som l'\u00fanic barri sense bus de barri</p>", 
+            "commentable_id": 2675, 
+            "commentable_type": "Proposal", 
+            "created_at": "19/02/2016 18:30:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2189, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7193, 
+                "name": "Jaime Rivera Rodriguez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El v21 recorre tot montbau, el parc de la vall d'hebron i travessa horta (a escassos 150 metres de pl eivissa). A Sant Gen\u00eds en canvi, es necessari ja que el 76 i el 19 arriben fins al hospital de la vall d'hebron i tota la part alta del barri no quedar\u00eda coberta si no exist\u00eds el 185. (carrers natzaret, saldes, canoves, elies pages i costa pacheco) </p>", 
+            "commentable_id": 2675, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 09:45:01", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2665, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2665", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5471, 
+                "name": "Jordi Pr\u00edncep", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Sigui com sigui, no crec que la seva petici\u00f3 sigui incompatible amb la meva. Salutacions.</p>", 
+            "commentable_id": 2675, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 13:40:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8513, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

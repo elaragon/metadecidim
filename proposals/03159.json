@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 873, 
+            "name": "Ernesto", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 873, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3159", 
+        "conflictive": false, 
+        "created_at": "19/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3159, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "Actualment hi han subvencions i ajuts basats en criteris poc justificables: Ajudes a fam\u00edlies nombroses, a fam\u00edlies monoparentals etc., pel simple fet de pert\u00e0nyer a un d'aquets grups; sense tenir en compte els ingressos ni el patrimoni dels mateixos. Actualment subvencionem els estudis, el transport de fam\u00edlies amb ingressos i patrimoni elevats.", 
+        "title": "Nova pol\u00edtica de subvencions- ajuts  a les families i ciutadans. Eliminaci\u00f3 de criteris poc justificables.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 11, 
+        "url": "https://decidim.barcelona/pam/proposals/nova-politica-de-subvencions-ajuts-a-les-families-i-ciutadans-eliminacio-de-criteris-poc-justificables", 
+        "votable": null, 
+        "voted": null
+    }
+}

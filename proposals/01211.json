@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 675, 
+            "name": "Helena S", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 675, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1211", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1211, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "El parc de la Pomera \u00e9s un parc infantil de \"petits\" situat al bell mig del barri i parc de refer\u00e8ncia (\u00fanic amb gronxadors amb cistelles). Demanem que s'aprofiti m\u00e9s l'espai on est\u00e0 empla\u00e7at, que s'incloguin els bancs dels costats dins del recinte, posar m\u00e9s gronxadors, fer m\u00e9s gran la caseta, arbres que donin ombra a l'estiu, etc.", 
+        "title": "Remodelaci\u00f3 del parc de la Pomera de Sant Andreu", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 15, 
+        "url": "https://decidim.barcelona/pam/proposals/remodelacio-del-parc-de-la-pomera-de-sant-andreu", 
+        "votable": null, 
+        "voted": null
+    }
+}

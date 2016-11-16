@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-641", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 641, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 11, 
+            "name": "Economia cooperativa, social i solid\u00e0ria", 
+            "position": 2
+        }, 
+        "summary": "Constituir una taula de suport a l\u2019economia col\u00b7laborativa amb la participaci\u00f3 d\u2019actors de tots els barris, que treballar\u00e0 conjuntament amb el Consell d\u2019Economia, Empresa i Ocupaci\u00f3.", 
+        "title": "Taula de suport a l\u2019economia col\u00b7laborativa", 
+        "total_comments": 8, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 8, 
+        "total_positive_comments": 0, 
+        "total_votes": 14, 
+        "url": "https://decidim.barcelona/pam/proposals/taula-de-suport-a-l-economia-col-laborativa", 
+        "votable": null, 
+        "voted": null
+    }
+}

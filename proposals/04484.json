@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4484", 
+        "conflictive": false, 
+        "created_at": "09/03/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 4484, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Actualment l'enllumenat \u00e9s insuficient i, en el cas de la vorera oest del carrer Berenguer de Palou \u00e9s inexistent, donada la manca de llumin\u00e0ries en aquesta vorera.", 
+        "title": "Refor\u00e7ar l\u2019enllumenat de la Pla\u00e7a d\u2019Elx, el carrer Honduras i la vorera oest del carrer Berenguer de Palou.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/reforcar-l-enllumenat-de-la-placa-d-elx-el-carrer-honduras-i-la-vorera-oest-del-carrer-berenguer-de-palou", 
+        "votable": null, 
+        "voted": null
+    }
+}

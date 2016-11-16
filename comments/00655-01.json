@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10703, 
+                "name": "suport decidim.barcelona2", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>proposta debatuda al Debat del PAM del Consell Municipal d'Immigraci\u00f3: \"Promoure l\u2019espai p\u00fablic com un espai d\u2019\u00fas com\u00fa i social. S\u2019ent\u00e9n que els espais p\u00fablics s\u00f3n llocs de conviv\u00e8ncia i per aix\u00f2 es proposa potenciar-los com a espais inclusius on les persones i els col\u2022lectius puguin desenvolupar la seva vida social.\"</p>", 
+            "commentable_id": 655, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 17:14:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8085, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

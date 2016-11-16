@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 327, 
+            "name": "V\u00edctor", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 327, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1720", 
+        "conflictive": false, 
+        "created_at": "10/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.lavanguardia.com/20150518/54431303260/les-pifies-del-nomenclator-domingo-marchena.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1720, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "\u00c9s del tot inacceptable que es cometin errors ortogr\u00e0fics i/o sint\u00e0ctics i duplicitats en les plaques de nomencl\u00e0tor i altres senyals. L'Ajuntament hauria de revisar i corregir totes les errades que es detectin. Per a un futur, abans d'imprimir una placa o senyal, si us plau, que sigui revisada per un servei ling\u00fc\u00edstic.", 
+        "title": "Corregir errors de les plaques de nomencl\u00e0tor i altres senyals", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/corregir-errors-de-les-plaques-de-nomenclator-i-altres-senyals", 
+        "votable": null, 
+        "voted": null
+    }
+}

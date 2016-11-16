@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2873", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2873, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Estrat\u00e8gia compartida de les institucions i les entitats que operen en salut mental a la ciutat, per promoure el benestar emocional de la ciutadania, i donar la millor atenci\u00f3, suport i integraci\u00f3 a les persones amb problemes de salut mental i les seves fam\u00edlies. Es constitueix una taula per a la salut mental, com a instrument de trobada i participaci\u00f3 d\u2019institucions, prove\u00efdors de serveis, associacions de familiars i malalts, i persones expertes.", 
+        "title": "Pla de salut mental", 
+        "total_comments": 75, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 65, 
+        "total_positive_comments": 10, 
+        "total_votes": 16, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-de-salut-mental", 
+        "votable": null, 
+        "voted": null
+    }
+}

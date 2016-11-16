@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3104", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3104, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 18, 
+            "name": "Participaci\u00f3 ciutadana", 
+            "position": 2
+        }, 
+        "summary": "Reformular i racionalitzar el funcionament dels diferents \u00f2rgans de participaci\u00f3: consells de Barri i Sectorials, Audi\u00e8ncia P\u00fablica i Consell Ciutad\u00e0. Revisi\u00f3 de la normativa i la pr\u00e0ctica vigent amb l'objectiu de fomentar els espais de debat, participaci\u00f3 i decisi\u00f3 del ve\u00efnat. Impulsar la participaci\u00f3 d'infants i joves a partir dels centres educatius i entitats juvenils. Dissenyar canals de comunicaci\u00f3 espec\u00edfics amb els grups no associats i infrarepresentats.", 
+        "title": "Pla d'\u00f2rgans de participaci\u00f3", 
+        "total_comments": 9, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 8, 
+        "total_positive_comments": 1, 
+        "total_votes": 27, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-d-organs-de-participacio", 
+        "votable": null, 
+        "voted": null
+    }
+}

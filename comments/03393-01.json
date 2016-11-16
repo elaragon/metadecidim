@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 347, 
+                "name": "Jordi Carri\u00f3 Sabater", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Necessitem tota l'illa qualificada de parc amb equipaments p\u00fablics ja que al Guinard\u00f3 no hi ha equipaments.</p>", 
+            "commentable_id": 3393, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/02/2016 22:44:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2636, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/guinardo-torrent-de-melis-establir-un-pla-d-etapes-per-a-executar-els-equipaments-previstos-en-el-planejament\">https://decidim.barcelona/proposals/guinardo-torrent-de-melis-establir-un-pla-d-etapes-per-a-executar-els-equipaments-previstos-en-el-planejament</a></p>", 
+            "commentable_id": 3393, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 10:59:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15265, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/guinardo-torrent-de-melis-establir-un-pla-d-etapes-per-a-executar-els-equipaments-previstos-en-el-planejament-5989f191-5210-403c-962f-b1f615135f49\">https://decidim.barcelona/proposals/guinardo-torrent-de-melis-establir-un-pla-d-etapes-per-a-executar-els-equipaments-previstos-en-el-planejament-5989f191-5210-403c-962f-b1f615135f49</a></p>", 
+            "commentable_id": 3393, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 10:59:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15266, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/guinardo-torrent-de-melis-desenvolupar-els-espais-lliures\">https://decidim.barcelona/proposals/guinardo-torrent-de-melis-desenvolupar-els-espais-lliures</a></p>", 
+            "commentable_id": 3393, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 10:59:34", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15268, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 14146, 
+            "name": "javier", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 14146, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 5, 
+            "name": "Just\u00edcia global"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7287", 
+        "conflictive": false, 
+        "created_at": "29/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://kurdiscat.blogspot.com.es/2015/09/sobre-aylan-kurdi.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7287, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 5, 
+            "id": 28, 
+            "name": "Just\u00edcia global", 
+            "position": 1
+        }, 
+        "summary": "La ciudad de Kobane fue  escenario de batalla de la milicia kurda contra el Daesh (estado isl\u00e1mico). La batalla se gan\u00f3 pero la ciudad fue destruida en un 70%. Ahora hay que reconstruirla. As\u00ed se apoyan unas pol\u00edticas emancipadoras en Oriente Pr\u00f3ximo y se crean las condiciones para que la poblaci\u00f3n pueda regresar en lugar de huir a Europa.", 
+        "title": "Implicarse en la reconstrucci\u00f3n de la ciudad de Kobane, en la regi\u00f3n kurda de Siria.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 9, 
+        "url": "https://decidim.barcelona/pam/proposals/implicarse-en-la-reconstruccion-de-la-ciudad-de-kobane-en-la-region-kurda-de-siria", 
+        "votable": null, 
+        "voted": null
+    }
+}

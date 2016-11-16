@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 20490, 
+            "name": "jag19266", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 20490, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9526", 
+        "conflictive": false, 
+        "created_at": "07/04/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "https://www.facebook.com/photo.php?fbid=1174236529261288&set=a.539179296100351.126172.100000248559097&type=3&theater", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 9526, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "MILLORA  de movilitat C. Albacete/C.Sta. Perpetua que es de baixada desde Trav. De Dalt al C.Sta Perpetua:  Cambiant el costat dret de parking al esquerra , eliminant la ultima pla\u00e7a per poder girar i agafar correctament el C. Sta Perpetua. Es de vital importancia quan frequenenment tenquen el c. Torrent de l'Olla.", 
+        "title": "Millora movilitat al entorn pz. LESSEPS", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/millora-movilitat-al-entorn-pz-lesseps", 
+        "votable": null, 
+        "voted": null
+    }
+}

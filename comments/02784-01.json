@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4862, 
+                "name": "Josep Alberjon Fumanal", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>completament d'acord, quan l'Ada va parlar de reconvertir la guardia urbana antidisturbis en guardia urbana en general molts pensavem que aix\u00f2 facilitaria la creaci\u00f3 de la guardia urbana de proximitat</p>", 
+            "commentable_id": 2784, 
+            "commentable_type": "Proposal", 
+            "created_at": "20/02/2016 21:20:49", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2236, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2895, 
+                "name": "Josep Maria", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord. La funci\u00f3 de la GU ha de ser protegir i ajudar a les persones. Com mes propera sigui a els ciutadans mes complicitat i cooperaci\u00f3 trobar\u00e0 i per tant ser\u00e0 mes efica\u00e7. La GU ha de estar al serveis de les ciutadans i ciutadanes, no al servei del poder.</p>", 
+            "commentable_id": 2784, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/03/2016 20:03:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3232, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

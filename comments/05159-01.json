@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2593, 
+                "name": "Rub\u00e9n BCN", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si la calle Freser va a morir en Ind\u00fastria en lugar de en Navas, que se peatonalize todo el tramo entre Lorenzale y Navas.\n<br />Y que se tenga en cuenta la semaforizaci\u00f3n, y que actualmente los veh\u00edculos, tanto motos como coches, que llegan por Freser y quieren coger Trinxant se est\u00e1n saltando la semaforizaci\u00f3n de forma habitual.\n<br />Tambi\u00e9n de debe ser consciente de los riesgos de poner zonas de recreo infantil justo en la misma puerta de un colegio, cuando es el cruce de 3 calles.</p>", 
+            "commentable_id": 5159, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 17:30:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8747, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

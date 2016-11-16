@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1751, 
+            "name": "SusannaL", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1751, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1545", 
+        "conflictive": false, 
+        "created_at": "06/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1545, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Aquests malalts no han tingut un acc\u00e9s digne a la Sanitat ni a Pensions d'Invalidesa durant m\u00e9s de dues d\u00e8cades. Obligats a treballar per no ser indigents, molts han seguit treballant i cotitzant sota m\u00ednims  veient com baixava la seva futura pensi\u00f3. Establir la pensi\u00f3 en base a l'\u00faltima base de cotitzaci\u00f3 abans d'enmalaltir seria just\u00edcia social.", 
+        "title": "Complement econ\u00f2mic a la pensi\u00f3 a afectats pel S\u00edndrome de Sensibilitat Central", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 19, 
+        "url": "https://decidim.barcelona/pam/proposals/complement-economic-a-la-pensio-a-afectats-pel-sindrome-de-sensibilitat-central", 
+        "votable": null, 
+        "voted": null
+    }
+}

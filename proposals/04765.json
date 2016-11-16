@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 11880, 
+            "name": "Futurista", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 11880, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4765", 
+        "conflictive": false, 
+        "created_at": "12/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.gamesindustry.biz/articles/2016-01-25-esports-market-to-grow-43-percent-to-usd463m-in-2016-newzoo", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4765, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Ens hem de fer la idea de que en molts pocs anys els esports electr\u00f2nics estaran al nivell del f\u00fatbol o del basket, si \u00e9s que ja no ho estan entre molts grups de joves. Encara m\u00e9s amb el que ve en quant a realitat virtual. Som a temps d'avan\u00e7ar-n a altres ciutats interesades, i ser una de les capitals dels e-sports hospedant els grans esdeveniments", 
+        "title": "Podem ser la capital dels esports electr\u00f2nics", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/podem-ser-la-capital-dels-esports-electronics", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1099, 
+            "name": "AINAPJ", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1099, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1289", 
+        "conflictive": false, 
+        "created_at": "02/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1289, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Retornar la dignitat del metro i de les persones usu\u00e0ries, prohibint l'entrada dels gossos al metro. Com s'ha demostrat amb el canvi de normativa que els deixava entrar, nom\u00e9s hi ha m\u00e9s conflictes, incompliment i por a usar el metro. La degradaci\u00f3 del metro ha sigut evident amb la seva entrada.", 
+        "title": "Prohibir l'entrada de gossos al metro", 
+        "total_comments": 30, 
+        "total_negative_comments": 20, 
+        "total_neutral_comments": 4, 
+        "total_positive_comments": 5, 
+        "total_votes": 56, 
+        "url": "https://decidim.barcelona/pam/proposals/prohibir-l-entrada-de-gossos-al-metro", 
+        "votable": null, 
+        "voted": null
+    }
+}

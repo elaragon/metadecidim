@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4510, 
+                "name": "SalvaFerran", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p> Es necessari protegir i preservar tot el patrimoni arquitect\u00f2nic( masies esgl\u00e9sies,...) del parc i el tamb\u00e9 el seu petit patrimoni del parc les seves fonts, fites, safaretjos, camins rals...\n<br />Associaci\u00f3 de Ve\u00efns de Vallvidrera</p>", 
+            "commentable_id": 718, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 18:09:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1870, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4744, 
+                "name": "Francesca Blanch", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/potenciar-el-patrimoni-natural-cultural-i-agroalimentari-del-districte-entre-la-ciutadania\">https://decidim.barcelona/proposals/potenciar-el-patrimoni-natural-cultural-i-agroalimentari-del-districte-entre-la-ciutadania</a></p>", 
+            "commentable_id": 718, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 13:32:14", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15603, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

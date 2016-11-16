@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6915, 
+                "name": "Elisenda Realp", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Imprescindible per treballar de forma planificada i estructurada. Important promoure una pol\u00edtica de concertaci\u00f3 amb altres actors de la cooperaci\u00f3 per tendir a l'efici\u00e8ncia dels recursos i obtenir un millor impacte. Important treballar amb coher\u00e8ncia de pol\u00edtiques.</p>", 
+            "commentable_id": 2957, 
+            "commentable_type": "Proposal", 
+            "created_at": "20/02/2016 10:06:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2207, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

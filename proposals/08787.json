@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8787", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8787, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 1, 
+            "name": "Just\u00edcia social", 
+            "position": 1
+        }, 
+        "summary": "El pla ha de contemplar una an\u00e0lisi pr\u00e8via de les necessitats de la ciutat per tal de respondre adequadament als reptes d\u2019inclusi\u00f3 de manera transversal (implicant les \u00e0rees municipals que intervenen en els reptes d\u2019inclusi\u00f3: Drets Socials, Salut, Ocupaci\u00f3,  etc), amb l'acompanyament de serveis socials en la coordinaci\u00f3 entre actors implicats. ", 
+        "title": "Creaci\u00f3 d\u2019un pla d\u2019inclusi\u00f3 ent\u00e8s com a resposta pol\u00edtica al mapa de vulnerabilitat de la ciutat, a les diferents \u00e0rees socials que componen la inclusi\u00f3, a la coordinaci\u00f3 entre agents implicats i als recursos existents i  necessaris per executar-lo", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/creacio-d-un-pla-d-inclusio-entes-com-a-resposta-politica-al-mapa-de-vulnerabilitat-de-la-ciutat-a-les-diferents-arees-socials-que-componen-la-inclusio-a-la-coordinacio-entre-agents-implicats-i-als-recursos-existents-i-necessaris-per-executar-lo", 
+        "votable": null, 
+        "voted": null
+    }
+}

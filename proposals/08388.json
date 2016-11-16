@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8388", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/proposals/facilitar-l-acces-a-comercos-i-espais-d-oci-bars-restaurants-etc-a-les-persones-amb-discapacitat", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8388, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Que no es doni llic\u00e8ncia als comer\u00e7os fins que compleixin totes les mesures d\u2019accessibilitat previstes (lavabos adaptats i en bon estat, bona sonoritzaci\u00f3, rampes, etc), i que es garanteixi l\u2019adaptaci\u00f3 i accessibilitat de tots els negocis antics a partir d\u2019una morat\u00f2ria. ", 
+        "title": "Locals i productes completament adaptats i accessibles", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/locals-i-productes-completament-adaptats-i-accessibles", 
+        "votable": null, 
+        "voted": null
+    }
+}

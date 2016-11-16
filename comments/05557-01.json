@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10941, 
+                "name": "Miguel Santalices", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00c9s una molt b\u00e9 la proposta. Barcelona \u00e9s una de les ciutats amb m\u00e9s densitat de poblaci\u00f3 d\u2019Europa... i sobretot amb m\u00e9s densitat de vehicles privats contaminats per km2, al voltant dels 6000, altres grans poblacions d'Europa, Par\u00eds, Londres, Madrid, Berl\u00edn entre 2000 i 3000. El transport de mercaderies \u00e9s una font de contaminaci\u00f3 molt elevada a una ciutat, i amb molta dificultat de canvi, doncs les in\u00e8rcies s\u00f3n molt elevades. \u00c9s la nostra responsabilitat demanar foment a l'administraci\u00f3 i assolir els petits canvis personals, necessaris per millorar la nostra qualitat de vida.</p>", 
+            "commentable_id": 5557, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/03/2016 11:52:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5745, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

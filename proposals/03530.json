@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8581, 
+            "name": "Associaci\u00f3 Castellers de la Vila de Gr\u00e0cia", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 8581, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3530", 
+        "conflictive": false, 
+        "created_at": "26/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3530, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 20, 
+            "name": "Administraci\u00f3  intel\u00b7ligent i inclusiva", 
+            "position": 4
+        }, 
+        "summary": "Que en el portal de tr\u00e0mits de l'Ajuntament per tal de poder realitzar els seg\u00fcents tr\u00e0mits 100% de forma tem\u00e0tica:\r\n- Presentaci\u00f3 i Justificaci\u00f3 de Subvenci\u00f3\r\n- Mostreig de Factures per justificar-les\r\n- Presentaci\u00f3 de Permisos per realitzar Activitats al Carrer\r\n- Presentaci\u00f3 d'Inst\u00e0ncies\r\n\r\nQue es pugui fer tant com a persona F\u00edsica com Jur\u00eddica", 
+        "title": "Millorar la tramitaci\u00f3 telem\u00e0tica de permisos, subvencions, etc..", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 70, 
+        "url": "https://decidim.barcelona/pam/proposals/millorar-la-tramitacio-telematica-de-permisos-subvencions-etc", 
+        "votable": null, 
+        "voted": null
+    }
+}

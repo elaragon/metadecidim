@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1824, 
+                "name": "Yolanda Fajardo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>S'hauria de fer alguna cosa amb les motos. \u00c9s escandal\u00f3s com circulen amb impunitat per les voreres. I no nom\u00e8s per buscar aparcament. I a llocs on hi ha carril bici, els ciclistes igualment van per les voreres. Els peatons no podem caminar. Urgueix trobar sol\u00b7lucions!</p>", 
+            "commentable_id": 1236, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/02/2016 20:36:21", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 492, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 588, 
+                "name": "dmendez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Les voreres haurien de ser d'\u00fas exclusiu per als vianants i tenir vetat el seu \u00fas per part dels vehicles motoritzats. L'\u00fas d'aquest espai per part de les motocicletes, a part de reduir l'espai per al vianant i escopir fum a qui es troba assegut a un banc o terrassa, produeix situacions de risc en l'\u00fanic espai on el vianant hauria de poder caminar 100% segur.  Afegiria a aquesta proposta la reducci\u00f3 del temps d'espera als sem\u00e0fors per part dels vianants, tal i com es sol\u00b7licita tamb\u00e9 en aquesta altre proposta: <a href=\"https://decidim.barcelona/proposals/reduir-temps-d-espera-semafors-per-vianants\">https://decidim.barcelona/proposals/reduir-temps-d-espera-semafors-per-vianants</a></p>", 
+            "commentable_id": 1236, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/02/2016 12:23:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2066, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10009, 
+                "name": "DAVID V V ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Esta normativa ya existe. </p>", 
+            "commentable_id": 1236, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/03/2016 12:20:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3439, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3439", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 368, 
+                "name": "Joaquim Navarro", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si existe deber\u00eda empezar a aplicarse, pero no hay nada parecido porque precisamente hay muchas, much\u00edsimas aceras de menor anchura...</p>", 
+            "commentable_id": 1236, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/03/2016 12:34:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3440, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3439/3440", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10009, 
+                "name": "DAVID V V ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>la normativa para las bicis es esta de momento  <a href=\"http://www.transportebcn.es/BICI/articulo/normativa_municipal.html\">http://www.transportebcn.es/BICI/articulo/normativa_municipal.html</a>\n<br />para las motos esta  : <a href=\"http://blog.racc.es/coche-y-moto/muchas-motos-para-poco-aparcamiento-normas-generales-de-estacionamiento/\">http://blog.racc.es/coche-y-moto/muchas-motos-para-poco-aparcamiento-normas-generales-de-estacionamiento/</a>\n<br />otra cosa es que hay gente que lo inclumpla, pero esto pasa en todo.</p>", 
+            "commentable_id": 1236, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/03/2016 17:41:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3485, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

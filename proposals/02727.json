@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4677, 
+            "name": "Miquel Garcia", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4677, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2727", 
+        "conflictive": false, 
+        "created_at": "17/02/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2727, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Carrer deteriorat, degut a la circulaci\u00f3, motos envaint  voreres\r\n   -Es tracta de dissenyar-ho (Plataforma \u00danica) per pacificar el tr\u00e0nsit,  eixampla'n voreres i afavorir els comer\u00e7os i l\u2019\u00fas per als vianants.\r\n   -\u00c9s l\u2019eix principal del Barri, amb tres places que es volem potenciar.\r\n   -Recuperant el nom hist\u00f2ric \"Carrer Major de Sant  Gervasi\"\r\n", 
+        "title": "Remodelaci\u00f3 del carrer Sant Gervasi de Cassoles", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 20, 
+        "url": "https://decidim.barcelona/pam/proposals/remodelacio-del-carrer-sant-gervasi-de-cassoles", 
+        "votable": null, 
+        "voted": null
+    }
+}

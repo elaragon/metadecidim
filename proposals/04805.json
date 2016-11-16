@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 7328, 
+            "name": "Associaci\u00f3 de Ve\u00efns i Ve\u00efnes Clot-Camp de l'Arpa", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 7328, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4805", 
+        "conflictive": false, 
+        "created_at": "13/03/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4805, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 6, 
+            "name": "Habitatge", 
+            "position": 6
+        }, 
+        "summary": "La majoria de nous habitatges han d'estar protegits (en terrenys municipals, nom\u00e9s habitatge p\u00fablic), amb un m\u00ednim del 25% de lloguer en privats i d'un 75% en els p\u00fablics. Els pisos de protecci\u00f3, han de ser m\u00e9s assequibles. Contruir de forma immediata els que siguin per reubicar a els afectats (2 finques municipals al c/ Bolivia, etc.) ", 
+        "title": "Habitatges protegits a la Pla\u00e7a de les Gl\u00f2ries", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 46, 
+        "url": "https://decidim.barcelona/pam/proposals/habitatges-protegits-a-la-placa-de-les-glories", 
+        "votable": null, 
+        "voted": null
+    }
+}

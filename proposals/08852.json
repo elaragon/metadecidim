@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8852", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8852, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 13, 
+            "name": "Turisme sostenible", 
+            "position": 5
+        }, 
+        "summary": "Cal estendre algunes estrat\u00e8gies com la nit dels museus o la gratu\u00eftat dels museus els diumenges per la tarda, segmentaci\u00f3 de preus, ... per tal d\u2019afavorir que el p\u00fablic local pugui gaudir d\u2019aquests equipaments sense patir la massificaci\u00f3 tur\u00edstica.", 
+        "title": "Impulsar estrat\u00e8gies per tal que els ciutadans de Barcelona puguin gaudir dels equipaments culturals amb gran aflu\u00e8ncia tur\u00edstica", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 31, 
+        "url": "https://decidim.barcelona/pam/proposals/impulsar-estrategies-per-tal-que-els-ciutadans-de-barcelona-puguin-gaudir-dels-equipaments-culturals-amb-gran-afluencia-turistica", 
+        "votable": null, 
+        "voted": null
+    }
+}

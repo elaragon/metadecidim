@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 9148, 
+            "name": "Rosasi", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 9148, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-7894", 
+        "conflictive": false, 
+        "created_at": "01/04/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7894, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Ni els cotxes ni sobretot les motos respecten el pas de vianants quan giren des del pont de Vallcarca a l'esquerra  per baixar per republica argentina. Aix\u00f2 se solucionaria simplement deixant un minut el sem\u00e0for d'acc\u00e9s a l'avinguda  en vermell perqu\u00e8 puguin passar els vianants amb tranquilitat, es una cru\u00eflla amb molt pas de nens cap a les escoles", 
+        "title": "Millorar sem\u00e0fors cru\u00eflla pont Vallcarca i avinguda Republica Argentina", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 7, 
+        "url": "https://decidim.barcelona/pam/proposals/millorar-semafors-cruilla-pont-vallcarca-i-avinguda-republica-argentina", 
+        "votable": null, 
+        "voted": null
+    }
+}

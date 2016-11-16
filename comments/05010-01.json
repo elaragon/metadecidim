@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14540, 
+                "name": "Mario Mo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Transsexuals: Als serveis sanitaris de Barcelona, al CAP li anomenen Maria, per\u00f2 al Hospital Cl\u00ednic ja li anomenen pel seu nom Josep. Al Hospital Cl\u00ednic ja li fan tots el papers amb Josep.</p>\n\n<p>Al CAP no li poden canviar per que encara no t\u00e9 el DNI amb el nou nom.\n<br />A la consulta del ambulatori li notifiquen, el telefonen, i li criden per la llista (consulta, an\u00e0lisis) per Maria, tot i que ja es un home amb barba.\n<br />Els tr\u00e0mits administratius no tindrien que estar per sobre de la dignitat.\n<br />Aix\u00f2 est\u00e0 passant.\n<br />Si una persona ja ha iniciat la reassignaci\u00f3 de g\u00e8nere, tindria que tenir el mateix tracte a la atenci\u00f3 primaria i al Hospital. Cal coordinaci\u00f3, entre serveis sanitaris de  Barcelona i associacions LGTBI, aquest es nom\u00e9s es un exemple.</p>", 
+            "commentable_id": 5010, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 19:31:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6201, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

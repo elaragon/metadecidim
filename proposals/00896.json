@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-896", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 896, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Aquest observatori far\u00e0 el seguiment de les desigualtats en salut i dels factors econ\u00f2mics, socials i ambientals que la determinen a la ciutat, i avaluar\u00e0 els impactes en salut de les accions de m\u00faltiples \u00e0rees de Govern, i tamb\u00e9 en proposar\u00e0 millores.", 
+        "title": "Observatori d'Impactes en Salut i Qualitat de Vida de les Pol\u00edtiques Municipals", 
+        "total_comments": 12, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 12, 
+        "total_positive_comments": 0, 
+        "total_votes": 16, 
+        "url": "https://decidim.barcelona/pam/proposals/observatori-d-impactes-en-salut-i-qualitat-de-vida-de-les-politiques-municipals", 
+        "votable": null, 
+        "voted": null
+    }
+}

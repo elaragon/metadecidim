@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5040", 
+        "conflictive": false, 
+        "created_at": "15/03/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 5040, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Unir la Rambla de punta a punta. Tenir una \u00fanica Rambla. Unir les diferents zones (des de\r\nl\u2019Espai Jove fins al Mirador), i millorar l\u2019accessibilitat i la connectivitat de les diferents \r\nzones. Armonitzar el desnivell que hi ha a la zona 2 (dos nivells transversals i els accessos \r\nes tallen). Posen l\u2019exemple de la zona 1 (Espai Jove Boca Nord-c/L", 
+        "title": "Unir les zones de la Rambla", 
+        "total_comments": 4, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 2, 
+        "total_votes": 7, 
+        "url": "https://decidim.barcelona/pam/proposals/unir-les-zones-de-la-rambla", 
+        "votable": null, 
+        "voted": null
+    }
+}

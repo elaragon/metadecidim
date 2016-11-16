@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 19072, 
+                "name": "Joaqu\u00edn Soler Cura", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Crec que \u00e9s una bona proposta.</p>", 
+            "commentable_id": 8604, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 11:07:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8296, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9462, 
+                "name": "Antoni", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Bona iniciativa! Quedaria molt bonic, l'espai \u00e9s suficient i l'hi donaria harmonia al cam\u00ed que du a una de les portes del Tur\u00f3 Park.</p>", 
+            "commentable_id": 8604, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 15:04:56", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8634, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 22215, 
+                "name": "Sabi", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Una de les millors maneres d'apropar la natura als nostres carrers!! Tamb\u00e9 seria bona idea que els arbres que es plantessin fossin de fulla perenne aix\u00ed no caurien les fulles.</p>", 
+            "commentable_id": 8604, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 21:50:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11454, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

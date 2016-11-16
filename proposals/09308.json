@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 17643, 
+            "name": "Melisa", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 17643, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9308", 
+        "conflictive": false, 
+        "created_at": "07/04/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 9308, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Donat que hi ha alguns propietaris de gossos que deixen al gos entrar als parterres de flors i gespa a c\u00f3rrer i els fan malb\u00e9 seria convenient alguna soluci\u00f3 per tal que no pugessin accedir, a m\u00e9s a m\u00e9s de prendre les mesures de control i vigil\u00e0ncia necess\u00e0ries.  Aquests espais florals haurien de protegir-se de manera especial.", 
+        "title": "Col\u00b7locar algun tipus de protecci\u00f3 per als parterres de  gespa i flors del parc perqu\u00e8 els gossos no hi accedeixin i les facin malb\u00e9", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/col-locar-algun-tipus-de-proteccio-per-als-parterres-de-gespa-i-flors-del-parc-perque-els-gossos-no-hi-accedeixin-i-les-facin-malbe", 
+        "votable": null, 
+        "voted": null
+    }
+}

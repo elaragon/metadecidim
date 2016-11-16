@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 552, 
+            "name": "wefer", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 552, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1193", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.ara.cat/societat/enterrament-sepeli-funeraria_0_1021098097.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1193, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 5, 
+            "name": "Cicles de vida ", 
+            "position": 5
+        }, 
+        "summary": "\u00c9s una vergonya el que costa un enterrament a Barcelona.  Actualment \u00e9s, amb difer\u00e8ncia, la ciutat m\u00e9s cara de l'Estat espanyol.\r\nHi ha gent que ha de demanar un cr\u00e8dit per pagar un enterrament, que a la nostra ciutat t\u00e9 un cost molt superior al real, tot per beneficiar el monopoli atorgat al grup M\u00e9mora.\r\nCal remunicipalitzar el servei.", 
+        "title": "Remunicipalitzar els serveis funeraris per tenir enterraments a preu digne", 
+        "total_comments": 9, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 4, 
+        "total_votes": 383, 
+        "url": "https://decidim.barcelona/pam/proposals/remunicipalitzar-els-serveis-funeraris-per-tenir-enterraments-a-preu-digne", 
+        "votable": null, 
+        "voted": null
+    }
+}

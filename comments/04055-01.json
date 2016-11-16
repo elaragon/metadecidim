@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10703, 
+                "name": "suport decidim.barcelona2", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>proposta debatuda al Consell de Barri de la Barceloneta: \"Reconversi\u00f3 en pisos tutelats de les plantes superiors de la Cl\u00ednica Barceloneta. Caldria fer una modificaci\u00f3 del Pla Metropolit\u00e0. Ha arribat la proposta de fer un nou CAP i s'est\u00e0 avaluant.   Possibilitat de fer habitatge. Opci\u00f3 que l'Ajuntament faci de mediador. Assegurar que la Cl\u00ednica no passi a mans privades, que hi hagi espai sociosanitari i habitatge.\"</p>", 
+            "commentable_id": 4055, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 18:33:30", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7051, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10703, 
+                "name": "suport decidim.barcelona2", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/equipaments-d9da9936-7f49-4c28-9f61-74650004e0ac\">https://decidim.barcelona/proposals/equipaments-d9da9936-7f49-4c28-9f61-74650004e0ac</a></p>", 
+            "commentable_id": 4055, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 18:34:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7052, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

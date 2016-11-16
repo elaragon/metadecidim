@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2945", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2945, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Consolidar el parc dels Tres Turons com un pulm\u00f3 verd de la ciutat. Avan\u00e7ar en el planejament vigent a Tres Turons. Executar la fase 0 del planejament actual. Impulsar el cim del Tur\u00f3 de la Rovira com a espai obert a la mem\u00f2ria hist\u00f2rica: restes d'assentament iber, bateria antia\u00e8ria, barris d\u2019autoconstrucci\u00f3. Regular les antenes, els accessos i la circulaci\u00f3.", 
+        "title": "Els Tres Turons, pulm\u00f3 verd de Barcelona", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 3, 
+        "total_positive_comments": 0, 
+        "total_votes": 24, 
+        "url": "https://decidim.barcelona/pam/proposals/els-tres-turons-pulmo-verd-de-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

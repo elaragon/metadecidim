@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1707, 
+            "name": "Roman", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1707, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1347", 
+        "conflictive": false, 
+        "created_at": "03/02/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "http://amicsarbres.blogspot.com/2005/11/el-dret-de-larbre-la-ciutat.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1347, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Des de fa molts anys l'ajuntament poda els arbres fora de temporada i amb una periodicitat incorrecta. En deixar passar massa temps es fan branques molt gruixudes que al ser tallades danyen l'arbre. Igualment sol podar fora de temporada quan l'arbre ja ha brotat.  Barcelona es firmant de la Carta del Arbre per\u00f2 mai ha complert el que diu aquesta.", 
+        "title": "Podar els arbres correctament", 
+        "total_comments": 4, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 3, 
+        "total_votes": 104, 
+        "url": "https://decidim.barcelona/pam/proposals/podar-els-arbres-correctament", 
+        "votable": null, 
+        "voted": null
+    }
+}

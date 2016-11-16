@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2426, 
+            "name": "Joaquim Pisa C.", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2426, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1595", 
+        "conflictive": false, 
+        "created_at": "08/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.altresbarcelones.com/2011/07/avui-fa-75-anys-lalcament-franquista.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1595, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "El diumenge 19 de juliol de 1936, el poble barcelon\u00ed i les seves organitzacions obreres i populars van fer front al carrer a la revolta militar, derrotant els rebels i comen\u00e7ant una experi\u00e8ncia revolucion\u00e0ria que va despertar inter\u00e8s i simpatia arreu del m\u00f3n. Resta pendent un homenatge institucional i c\u00edvic de reconeixement p\u00fablic d'aquells fets.", 
+        "title": "Commemoraci\u00f3 c\u00edvica-institucional del 80\u00e9 aniversari del 19 de juliol de 1936  ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 9, 
+        "url": "https://decidim.barcelona/pam/proposals/commemoracio-civica-institucional-del-80e-aniversari-del-19-de-juliol-de-1936", 
+        "votable": null, 
+        "voted": null
+    }
+}

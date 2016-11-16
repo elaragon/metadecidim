@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5242, 
+                "name": "Alejandro Gim\u00e9nez Imirizaldu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Des de la Mar Bella fins el f\u00f2rum hi ha una esplanada de v\u00e0ries hect\u00e0rees en primera l\u00ednia de platja ocupada per... Un aparcament en superf\u00edcie.  Millorem aix\u00f2 tamb\u00e9.</p>", 
+            "commentable_id": 949, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 15:45:14", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2726, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3026, 
+                "name": "Imma V.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>I millores a les dutxes, jo totes funcionen, algunes fa anys que no funcionen </p>", 
+            "commentable_id": 949, 
+            "commentable_type": "Proposal", 
+            "created_at": "20/03/2016 18:19:49", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6000, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/habilitar-una-zona-de-platja-per-poder-anar-amb-les-mascotes-en-tot-el-periode-estival\">https://decidim.barcelona/proposals/habilitar-una-zona-de-platja-per-poder-anar-amb-les-mascotes-en-tot-el-periode-estival</a></p>", 
+            "commentable_id": 949, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 18:01:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8787, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17741, 
+                "name": "Suport General3 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/crear-playas-mas-naturales-y-con-mayor-biodiversidad\">https://decidim.barcelona/proposals/crear-playas-mas-naturales-y-con-mayor-biodiversidad</a></p>", 
+            "commentable_id": 949, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 15:03:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12382, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17741, 
+                "name": "Suport General3 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/creacion-de-arrecife-artificial-para-la-proteccion-restauracion-y-rehabilitacion-del-ecosistema-costero\">https://decidim.barcelona/proposals/creacion-de-arrecife-artificial-para-la-proteccion-restauracion-y-rehabilitacion-del-ecosistema-costero</a></p>", 
+            "commentable_id": 949, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 15:16:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12395, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 5, 
+        "total_pages": 1
+    }
+}

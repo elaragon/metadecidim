@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 13184, 
+            "name": "David Sancho", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 13184, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5426", 
+        "conflictive": false, 
+        "created_at": "16/03/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5426, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "Crear un mercat de productes ecol\u00f2gics i proximitat al barri de Vila Ol\u00edmpica, at\u00e9s que hi ha d\u00e8ficit de comer\u00e7 de proximitat. Proposem aconseguir, per l'ubicaci\u00f3,  la cessi\u00f3 de l'espai del Parc M\u00f2bil de l'Estat situat entre els carrers Marina i Ram\u00f3n Trias Fargas. L'especialitzaci\u00f3 ecol\u00f2gica, atrauria public d'altres barris.", 
+        "title": "Mercat de productes ecol\u00f2gics i de proximitat al barri de Ciutadella / Vila Olimpica. Districte Sant Mart\u00ed", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 11, 
+        "url": "https://decidim.barcelona/pam/proposals/mercat-de-productes-ecologics-i-de-proximitat-al-barri-de-ciutadella-vila-olimpica-districte-sant-marti", 
+        "votable": null, 
+        "voted": null
+    }
+}

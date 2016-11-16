@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7658", 
+        "conflictive": false, 
+        "created_at": "31/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 7658, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Que, a l\u2019hora de distribuir les parades d\u2019autob\u00fas, es tingui en compte la gent gran o gent amb mobilitat redu\u00efda en general, sobretot a la nova xarxa ortogonal, amb la qual s\u2019han anul\u00b7lat moltes parades i ara hi ha m\u00e9s dist\u00e0ncia d\u2019unes a altres (per a una persona gran 200 metres ja s\u00f3n molt).", 
+        "title": "Tenir en compte els col\u00b7lectius amb mobilitat redu\u00efda en la definici\u00f3 de les parades d'autob\u00fas", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/tenir-en-compte-els-col-lectius-amb-mobilitat-reduida-en-la-definicio-de-les-parades-d-autobus", 
+        "votable": null, 
+        "voted": null
+    }
+}

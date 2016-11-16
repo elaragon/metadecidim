@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 327, 
+            "name": "V\u00edctor", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 327, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1412", 
+        "conflictive": false, 
+        "created_at": "04/02/2016", 
+        "district": {
+            "id": 4, 
+            "name": "Les Corts"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1412, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "En aquest encreuament, per incorporar-te al carrer del Cardenal Reig des del carrer d'Aurora Bertrana, fa pujada amb el que hi ha visibilitat redu\u00efda (i m\u00e9s es dificulta els dies de futbol que la gent aparca on no deuria...) Aix\u00f2 se solucionaria amb un mirall de tr\u00e0nsit enfront -sota el senyal ja existent de sentit obligatori- per evitar accidents.", 
+        "title": "Incorporar mirall de tr\u00e0nsit encreuament c/ Cardenal Reig i c/ Aurora Bertrana", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 5, 
+        "url": "https://decidim.barcelona/pam/proposals/incorporar-mirall-de-transit-encreuament-c-cardenal-reig-i-c-aurora-bertrana", 
+        "votable": null, 
+        "voted": null
+    }
+}

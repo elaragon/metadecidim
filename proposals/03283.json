@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 7205, 
+            "name": "Associaci\u00f3 de Ve\u00efns i Amics del Passatge Ali\u00f3, 12 baixos", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 7205, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3283", 
+        "conflictive": false, 
+        "created_at": "23/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3283, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "14  Pacificaci\u00f3 del Passeig i crear un eix mar muntanya per vianants.  El Passeig de Sant Joan de Dalt (Mallorca a Travessera) t\u00e9 3 carrils de pujada i 3 de baixada per vehicles,  a difer\u00e8ncia de la resta cap a baix,  fins al Pg. de Llu\u00eds Companys, que nom\u00e9s en t\u00e9 4 carrils.  Demanem eixamplar les voreres laterals a costa d\u2019un carril de cotxes. ", 
+        "title": "Remodelaci\u00f3 i millora dels espais al voltant dels trams centrals  del Passeig de Sant Joan, de Travessera de Gr\u00e0cia a Diagonal (14) ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 6, 
+        "url": "https://decidim.barcelona/pam/proposals/remodelacio-i-millora-dels-espais-al-voltant-dels-trams-centrals-del-passeig-de-sant-joan-de-travessera-de-gracia-a-diagonal-14", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2364, 
+            "name": "Rocu", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2364, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1485", 
+        "conflictive": false, 
+        "created_at": "04/02/2016", 
+        "district": {
+            "id": 8, 
+            "name": "Nou Barris"
+        }, 
+        "editable": false, 
+        "external_url": "https://www.google.es/maps/place/Carrer+de+l'Escultor+Ord\u00f3\u00f1ez,+5,+08016+Barcelona/@41.4326088,2.174207,3a,66.8y,28.76h,93.72t/data=!3m4!1e1!3m2!1sVCU8omGtTq2e3hBqQDHujQ!2e0!4m2!3m1!1s0x12a4bd3acfa8c1a9:0xc536518377288481", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1485, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Remodelar el tram restant del carrer de l'Escultor Ord\u00f3\u00f1ez entre els carrers Madaleta  - Pi i Molist, ja que es va reurbanitzar aquest carrer i molts altres del barri i districte fa bastant temps i va quedar aquest petit tram pendent, sense arbrat, mala il\u00b7luminaci\u00f3 i voreres estretes mentre hi ha doble aprcament en bateria.", 
+        "title": "Reurbanitzaci\u00f3 Escultor Ord\u00f3\u00f1ez - Tram pendent del carrer", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 19, 
+        "url": "https://decidim.barcelona/pam/proposals/reurbanitzacio-tram-pendent-del-carrer-de-l-escultor-ordonez", 
+        "votable": null, 
+        "voted": null
+    }
+}

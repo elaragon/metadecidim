@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14676, 
+                "name": "Josep Anton i Riera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>L'actual piscina del Complex Can Felipa (la \u00fanica que hi ha a Poblenou) est\u00e0 absolutament saturada, fins a tal punt que nombroses categories de waterpolo del CN Poblenou han hagut de marxar a entrenar a St Adri\u00e0 del Bes\u00f2s. El nostre barri necessita piscines en condicions per tal de poder assumir tota l'activitat esportiva aqu\u00e0tica que el Barri de Poblenou \u00e9s capa\u00e7 de generar: cursets de nataci\u00f3 pel m\u00e9s petits, entrenaments diaris dels equips de waterpolo del CN Poblenou i la nataci\u00f3 de tots els socis del CEM Can Felipa. Necessitem piscines al barri, per la gent del barri.</p>", 
+            "commentable_id": 4137, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/03/2016 15:31:56", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6260, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

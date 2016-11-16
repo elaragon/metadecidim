@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4976, 
+            "name": "UE Sant Andreu", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 4976, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1918", 
+        "conflictive": false, 
+        "created_at": "12/02/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1918, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Continuar amb el proc\u00e9s de reforma integral del Camp Municipal Narc\u00ed Sala i executar las fases 2, 3 i 4 durant els anys 2016, 2017 i 2018 respectivament. Aquest proc\u00e9s sempre comptar\u00e0 amb la participaci\u00f3 i supervisi\u00f3 de l\u2019entitat gestora, que a m\u00e9s a m\u00e9s ser\u00e0 resacabalada amb instal\u2022lacions provisionals mentre les obres afectin parts de l\u2019estadi.", 
+        "title": "Reforma integral del Camp Municipal Narc\u00eds Sala", 
+        "total_comments": 20, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 16, 
+        "total_votes": 161, 
+        "url": "https://decidim.barcelona/pam/proposals/reforma-integral-del-camp-municipal-narcis-sala", 
+        "votable": null, 
+        "voted": null
+    }
+}

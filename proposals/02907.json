@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2907", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2907, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Els esdeveniments entesos com a element de promoci\u00f3 de l\u2019activitat esportiva, al servei de la ciutadania i de la promoci\u00f3 de les modalitats esportives que siguin d\u2019inter\u00e8s per a la ciutadania o les entitats de Barcelona. Mantenir la participaci\u00f3 de Barcelona en l'organitzaci\u00f3 internacional de l\u2019esport que sigui d\u2019inter\u00e8s en funci\u00f3 de les caracter\u00edstiques de la ciutat.", 
+        "title": "Promoci\u00f3 de modalitats esportives vinculades a esdeveniments del calendari esportiu anual", 
+        "total_comments": 11, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 11, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/promocio-de-modalitats-esportives-vinculades-a-esdeveniments-del-calendari-esportiu-anual", 
+        "votable": null, 
+        "voted": null
+    }
+}

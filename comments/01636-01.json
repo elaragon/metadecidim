@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7537, 
+                "name": "estherm81", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Completament d\u00b4acord amb la necessitat de m\u00e9s carrils bici a Sant Gervasi!! Sobretot a Balmes i passeig Bonanova-Sant Gervasi de Cassoles-Avda Vallcarca.</p>", 
+            "commentable_id": 1636, 
+            "commentable_type": "Proposal", 
+            "created_at": "23/02/2016 13:31:10", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2460, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12314, 
+                "name": "JuanTB", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Baixo cada dia en bici des de Pla\u00e7a Kennedy fins Pla\u00e7a Catalunya (lloc on treballo) i s'agrairia molt\u00edssim un carril bici ja que Balmes \u00e9s un eix principal connector de Barcelona. Estic segur de que si es fes un carril bici hi hauria molta gent que va en moto a treballar que agafaria la bicicleta. \u00c9s comprensible que a la gent de m\u00e9s de 40 anys els hi faci por, actualment sense carril bici, baixar el carrer Balmes a segons quines hores. </p>\n\n<p>A part, no cal fer carril bici tot Balmes ja que Enric Granados i Tusset ja el tenen. La idea podria anar entorn la connexi\u00f3 del carrer Balmes amb els carrers Tuset i d'Enric Granados (aquests cobreixen la part amb m\u00e9s influ\u00e8ncia de tr\u00e0fic del carrer Balmes). </p>\n\n<p>B\u00e9, estudiant la situaci\u00f3 amb una mica de cap segur que es poden fer coses molt bones per millorar la mobilitat urbana i fer de la nostra ciutat, poc a poc, un entorn m\u00e9s saludable i simp\u00e0tic.</p>\n\n<p>Els carrils bicis disminueixen l'impacte ac\u00fastic, ambiental i visual! Fan de la ciutat un entorn m\u00e9s sostenible! Tot s\u00f3n guanys. </p>", 
+            "commentable_id": 1636, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 18:47:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4877, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8400", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8400, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 12, 
+            "name": "Ocupaci\u00f3 de qualitat", 
+            "position": 4
+        }, 
+        "summary": "Les dones i l\u2019home present han parlat d\u2019ampliar els temps de les baixes maternal i paternal (\u00e9s proposa un any) tenint en compte els models finland\u00e8s i dan\u00e8s.\r\nIntercanvi de punts de vista respecte a la millora de les condicions que permetran gaudir de la crian\u00e7a: millora dels salaris", 
+        "title": "Augmentar les baixes a un any m\u00e9s o menys i millora els salaris pels dones i homes en el rol de mares i pares", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/augmentar-les-baixes-a-un-any-mes-o-menys-i-millora-els-salaris-pels-dones-i-homes-en-el-rol-de-mares-i-pares", 
+        "votable": null, 
+        "voted": null
+    }
+}

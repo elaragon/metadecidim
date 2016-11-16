@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1656, 
+            "name": "Maria R", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1656, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1338", 
+        "conflictive": false, 
+        "created_at": "03/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1338, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Estaria b\u00e9 que s'omplissin amb m\u00e9s freq\u00fc\u00e8ncia els bicings de Zona Universit\u00e0ria, sobretot a les hores de sortida, al migdia i a les 7-8 de la tarda. \u00c9s una ll\u00e0stima que estiguin molts cops buits perqu\u00e8 \u00e9s un transport molt utilitzat pels universitaris, a m\u00e9s va molt b\u00e9 perqu\u00e8 estan a la diagonal, on hi ha el millor carril bici de la ciutat.", 
+        "title": "Omplir amb m\u00e9s freq\u00fc\u00e8ncia els Bicings de Zona Universit\u00e0ria", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 11, 
+        "url": "https://decidim.barcelona/pam/proposals/omplir-amb-mes-frequencia-els-bicings-de-zona-universitaria", 
+        "votable": null, 
+        "voted": null
+    }
+}

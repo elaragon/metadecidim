@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14669, 
+                "name": "davidgibert", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>L'any 2004 semblava que aquesta ''senzilla'' actuaci\u00f3 seria una realitat, per\u00f2 mai es va saber res m\u00e9s. Deixo una not\u00edcia del diari Metro: <a href=\"http://www.santpau.es/santpau/actualitat/metro/2601041.htm\">http://www.santpau.es/santpau/actualitat/metro/2601041.htm</a></p>", 
+            "commentable_id": 6392, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/03/2016 19:23:27", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6294, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "6294", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14669, 
+                "name": "davidgibert", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hi ha una not\u00edcia  del 2004 que fa refer\u00e8ncia, per\u00f2 del diari vilaweb: <a href=\"http://www.vilaweb.cat/noticia/870960/20040627/lavinguda-gaudi-rambla.html\">http://www.vilaweb.cat/noticia/870960/20040627/lavinguda-gaudi-rambla.html</a></p>", 
+            "commentable_id": 6392, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/03/2016 22:18:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6308, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

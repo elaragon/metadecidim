@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5146", 
+        "conflictive": false, 
+        "created_at": "15/03/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 5146, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Promoure un model mixt de gesti\u00f3\r\nLa creaci\u00f3 d'un comit\u00e8 participatiu d'entitats conjuntament amb l'Ajuntament.\r\nGesti\u00f3 d'entitats amb acompanyament proper de l'Ajuntament.\r\nAUTOGESTI\u00d3.", 
+        "title": "ESPAI QUIR\u00d3 GESTI\u00d3: Promoure un model de gesti\u00f3 amb llideratge i participaci\u00f3 ve\u00efnal.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 5, 
+        "url": "https://decidim.barcelona/pam/proposals/espai-quiro-gestio-promoure-un-model-de-gestio-amb-llideratge-i-participacio-veinal-i-suport-de-l-ajuntament-per-als-futurs-usos-en-el-solar-quiro", 
+        "votable": null, 
+        "voted": null
+    }
+}

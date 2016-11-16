@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11567, 
+                "name": "guillefix", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No hi estic del tot d'acord. \n<br />S\u00ed que hi estic d'acord en multar les persones que consumeixen drogues en llocs freq\u00fcentats per nens (parcs o al costat de les escoles) o que consumeixen i molesten a terceres persones (gent de borratxera al carrer molestant a tot el ve\u00efnat a les 3 de la matinada) pero veig injust castigar a una persona que consumeix al carrer i no molesta a ning\u00fa, per exemple, una persona (o persones) que es beu una cervessa o es fuma un porro de c\u00e0nnabis sentat a un banc sense estorbar. </p>", 
+            "commentable_id": 4556, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 08:16:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4471, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12105, 
+                "name": "JRovira", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La criminalitzaci\u00f3 del consumidor per si mateix no t\u00e9 cap sentit. Altre cosa es parlar de les mol\u00e8sties associades al consum en temps d'esbarjo. L'enduriment de sancions tipus el que ha vingut practicant Madrid ha estat un frac\u00e0s. Cal respostes m\u00e9s imaginatives que incorporin models educatius i d'alternativa a la sanci\u00f3.</p>", 
+            "commentable_id": 4556, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 10:21:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4749, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

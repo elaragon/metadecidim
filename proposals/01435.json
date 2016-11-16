@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2046, 
+            "name": "Carles VR", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2046, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1435", 
+        "conflictive": false, 
+        "created_at": "04/02/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1435, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Els ve\u00efns d'aquesta zona tenim molt lluny els equipaments p\u00fablics:\r\n- CAP (Adri\u00e0, a c/Vallmajor), \r\n- Biblioteca (Pl. Lesseps)\r\n- Zones verdes (Jardins de Moragas)\r\n- Centres esportius municipals (Putxet, Can Caralleu, Perill)\r\nDemano una revisi\u00f3 de la distribuci\u00f3 d'equipaments d'acord amb l'alta densitat de poblaci\u00f3 de l'\u00e0rea.", 
+        "title": "Racionalitzaci\u00f3 de'equipaments a la zona Gal\u00b7la Plac\u00eddia", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 8, 
+        "url": "https://decidim.barcelona/pam/proposals/racionalitzacio-de-serveis-a-la-zona-gal-la-placidia", 
+        "votable": null, 
+        "voted": null
+    }
+}

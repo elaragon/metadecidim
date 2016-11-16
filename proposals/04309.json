@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10282, 
+            "name": "V\u00edctor GC", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 10282, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4309", 
+        "conflictive": false, 
+        "created_at": "08/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://www1.diba.cat/uliep/pdf/36525.pdf", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4309, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 18, 
+            "name": "Participaci\u00f3 ciutadana", 
+            "position": 2
+        }, 
+        "summary": "El NIP (podria anomenar-se Consell o Assemblea Ciutadana de Barcelona p.ex.), estaria format per un grup de persones escollides a l'atzar d'entre tots els empadronats a Barcelona. Aquest grup renovaria peri\u00f2dica i parcialment la meitat dels seus membres cada tres mesos, per exemple (Informaci\u00f3 sobre les seves funcions als comentaris).", 
+        "title": "Activar un Consell Ciutad\u00e0 de Participaci\u00f3 o Nucli d'Intervenci\u00f3 Paripativa (NIP) permanent i rotatiu per gestionar la interlocuci\u00f3 ciutadania-consistori, atendre les iniciatives de la plataforma i dissenyar les consultes ciutadanes", 
+        "total_comments": 10, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 2, 
+        "total_votes": 26, 
+        "url": "https://decidim.barcelona/pam/proposals/activar-un-nucli-d-intervencio-participativa-nip-o-consell-ciutada-permanent-i-rotatiu-per-gestionar-la-interlocucio-ciutadania-consistori-atendre-les-iniciatives-de-la-plataforma-i-dissenyar-les-consultes-ciutadanes", 
+        "votable": null, 
+        "voted": null
+    }
+}

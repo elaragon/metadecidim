@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6806", 
+        "conflictive": false, 
+        "created_at": "26/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 6806, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 18, 
+            "name": "Participaci\u00f3 ciutadana", 
+            "position": 2
+        }, 
+        "summary": "Fer transparents totes les accions i els resultats amb comunicacions efectives. Crear estructures espec\u00edfiques de comunicaci\u00f3 per a cada barri per fer seguiment i impuls de les accions i els resultats.", 
+        "title": "Crear canals de comunicaci\u00f3 interna i externa espec\u00edfics, actius durant tot el proc\u00e9s, per facilitar la coordinaci\u00f3 i la participaci\u00f3 de tots els agents", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/crear-canals-de-comunicacio-interna-i-externa-especifics-actius-durant-tot-el-proces-per-facilitar-la-coordinacio-i-la-participacio-de-tots-els-agents", 
+        "votable": null, 
+        "voted": null
+    }
+}

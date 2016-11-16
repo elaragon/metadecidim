@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 200, 
+            "name": "Meritxell", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 200, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1112", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1112, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Tenim un greu problema d'abandonament animal, les nostres protectores estan plenes d'animals que no troben una oportunitat. Per canviar-ho seria necessari prohibir (fins a revertir la situaci\u00f3) la venda de gossos i gats en botigues. En el seu lloc, podrien vendre nom\u00e9s animals procedents de protectores, refugis i gosseres autoritzades.", 
+        "title": "Prohibir la venda d'animals que no siguin de protectores", 
+        "total_comments": 11, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 6, 
+        "total_positive_comments": 4, 
+        "total_votes": 222, 
+        "url": "https://decidim.barcelona/pam/proposals/prohibir-la-venda-d-animals-que-no-siguin-de-protectores", 
+        "votable": null, 
+        "voted": null
+    }
+}

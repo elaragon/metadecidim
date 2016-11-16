@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8360", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8360, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Ampliaci\u00f3 de l\u2019oferta p\u00fablica de Formaci\u00f3 Professional i dels PFI al districte de Ciutat Vella.  ", 
+        "title": "Ampliaci\u00f3 de l\u2019oferta p\u00fablica de Formaci\u00f3 Professional i dels PFI al districte de Ciutat Vella.  ", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/ampliacio-de-l-oferta-publica-de-formacio-professional-i-dels-pfi-al-districte-de-ciutat-vella", 
+        "votable": null, 
+        "voted": null
+    }
+}

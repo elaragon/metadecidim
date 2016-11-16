@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 3178, 
+            "name": "Diana Larrahona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 3178, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1599", 
+        "conflictive": false, 
+        "created_at": "08/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1599, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "La nostra ciutat no compta amb una pista de gel municipal. Les \u00faniques pistes son la de FC Barcelona que est\u00e0 saturada i la de l'Skating que no t\u00e9 les mides homologades per la competici\u00f3. Existeix un gran n\u00famero d'esportistes d'hoquei gel, patinatge art\u00edstic, patinatge de velocitat i curling  que no tenen lloc on practicar els seus esports. ", 
+        "title": "Pista de gel municipal", 
+        "total_comments": 28, 
+        "total_negative_comments": 3, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 8, 
+        "total_votes": 121, 
+        "url": "https://decidim.barcelona/pam/proposals/pista-de-gel-municipal", 
+        "votable": null, 
+        "voted": null
+    }
+}

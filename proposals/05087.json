@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5087", 
+        "conflictive": false, 
+        "created_at": "15/03/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 5087, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Per exemple: Rugbi, hoquei herba, skate, cricket, tir amb arc. etc.\r\nL'objectiu \u00e9s  vincular aquest espai amb la resta del territori i atraure gent de fora del barri, mitjan\u00e7ant la creaci\u00f3 d'equipaments que el barri no disposa alhora que es crea un equipament a nivell de ciutat. Aix\u00f2 permetria, alhora, donar-li centralitat al barri.", 
+        "title": "Crear sin\u00e8rgia entre el barri de Bon Pastor i la ciutat, aprofitant  l'espai de l\u2019antic camp de futbol del carrer Santander, per a crear una instal\u00b7laci\u00f3 poliesportiva d\u2019algun esport minoritari i que manqui a nivell de ciutat.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/crear-sinergia-entre-el-barri-de-bon-pastor-i-la-ciutat-aprofitant-l-espai-de-l-antic-camp-de-futbol-del-carrer-santander-per-a-crear-una-instal-lacio-poliesportiva-d-algun-esport-minoritari-i-que-manqui-a-nivell-de-ciutat", 
+        "votable": null, 
+        "voted": null
+    }
+}

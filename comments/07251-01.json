@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2593, 
+                "name": "Rub\u00e9n BCN", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment cert! En el DNI ja es comprova que som ve\u00efns de Barcelona, no \u00e9s necessari tenir 50 carnets uns per als mercats, per a biblioteca, per TMB, per Gaudir Mes... \u00e9s un absurd.\n<br />Els ve\u00efns de Barcelona haur\u00edem de tenir acc\u00e9s gratu\u00eft al nostre patrimoni: Parc G\u00fcell, Castell de Montju\u00efc, Hospital de Sant Pau, Laberint...</p>", 
+            "commentable_id": 7251, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 00:12:58", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10152, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

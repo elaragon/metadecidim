@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic d'acord i acabar tamb\u00e9 l'estaci\u00f3 de metro Ernest Lluch (L5). Des de fa 10 anys que esperem que aquesta estaci\u00f3 s\u2019acabi finalment despr\u00e9s de les mol\u00e8sties causades als ve\u00efns durant tants anys. Amb gaireb\u00e9 l\u2019estaci\u00f3 ja finalitzada (i amb una inversi\u00f3 ja feta de 50M d\u2019\u20ac) nom\u00e9s queda per acabar-la un 20% dels treballs per poder-la obrir.</p>", 
+            "commentable_id": 3628, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/03/2016 09:52:49", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3298, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3298", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/finalitzar-l-estacio-de-metro-ernest-lluch-l5\">https://decidim.barcelona/proposals/finalitzar-l-estacio-de-metro-ernest-lluch-l5</a></p>", 
+            "commentable_id": 3628, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/03/2016 09:53:00", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3299, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

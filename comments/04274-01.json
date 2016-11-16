@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7637, 
+                "name": "MARC SEGURANA", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>sembla mentida que tot just quan s'acaba de pavimentar y deixar en perfectes condicions feu aquesta proposta. El que molesta es que hi aparquin aqu\u00ed y no paguin parquing, de zona verda no ho ha sigut mai ni ha estat previst que ho sigui. L'unica zona on hi ha un niu de rates es a l'espay tancat amb un mur verd que pertany a la seguretat social. inseguretat a les nits? aix\u00f2 no ho escriu alg\u00fa del barri.</p>", 
+            "commentable_id": 4274, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/03/2016 18:17:22", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3864, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 21570, 
+                "name": "Jordi Callej\u00f3n", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aquest triangle est\u00e0 catalogat com a zona verda, i no crec que una zona verda hagi d\u00b4estar plena de cotxes. Estaria molt be que aqui es construis un area de jocs infantils, ja que hi ha molta vivenda nova i molt pocs espais comuns de relacions humanes.\n<br />Si mes no, com a zona verda, en plan placeta tamb\u00e9 donaria resultats molts posititus, per unificar zones d\u00b4habitatge nous amb els nuclis d\u00b4habitatges antics</p>", 
+            "commentable_id": 4274, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 15:31:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10997, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/reformar-places-de-sant-marti-infancia-porxos-palmera-victoria-kent-puigcerda\">https://decidim.barcelona/proposals/reformar-places-de-sant-marti-infancia-porxos-palmera-victoria-kent-puigcerda</a></p>", 
+            "commentable_id": 4274, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 13:08:20", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 16967, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3864", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 21570, 
+                "name": "Jordi Callej\u00f3n", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Marc Segurana, crec que t\u00b4has conf\u00f3s de triangle...., aqu\u00ed es parla del que est\u00e0 just al carrer fluvi\u00e0 amb avinguda Diagonal, i tu fas referencia al que est\u00e0 al carrer llull, davant del parc diagonal Mar. De totes maneres tots dos triangles haurien de pasar o be a ser zona verda o ubicar algun equipament, que segur estar\u00e0s d\u00b4acord, al barri fan falta.</p>", 
+            "commentable_id": 4274, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 15:28:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10995, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 5039, 
+            "name": "ve\u00efnat de Vallvidrera-Tibidbo- Les Planes", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 5039, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2430", 
+        "conflictive": false, 
+        "created_at": "12/02/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2430, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Les comunicacions en transport p\u00fablic en horari nocturn i en caps de setmana resulten totalment insuficients, deixant desatesos les necessitats del ve\u00efnat de les poblacions de la muntanya i for\u00e7ant l\u2019a\u00efllament de sectors de la poblaci\u00f3 del districte. La recerca d\u2019alternatives per a posar fi a aquesta problem\u00e0tica \u00e9s una tasca necess\u00e0ria.", 
+        "title": "Transport p\u00fablic nocturn i de cap de setmana", 
+        "total_comments": 9, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 1, 
+        "total_votes": 152, 
+        "url": "https://decidim.barcelona/pam/proposals/transport-public-nocturn-i-de-cap-de-setmana", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 827, 
+                "name": "Marga", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ja n'hi ha prou d'externalitzar serveis que gestionen els amiguets d'alguns que manen per enriquir-se. Es va de subcontracte a subcontracte, cadasc\u00fa s'emporta el seu percentatge i al final el treballador cobra una mis\u00e9ria, amb uns horaris impossibles i sense possibilitat de protestar perqu\u00e8 en els temps que corren n'hi ha uns quants a la porta esperant les engrunes laborals. L'Ajuntament ha de tenir proves inapelables de que les empreses amb les que treballa no tracten aix\u00ed als seus empleats, seria una manera d'anar acabant amb la usura i la mis\u00e8ria.</p>", 
+            "commentable_id": 6942, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 20:25:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6656, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

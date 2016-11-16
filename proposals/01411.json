@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1925, 
+            "name": "X Simon", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1925, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1411", 
+        "conflictive": false, 
+        "created_at": "04/02/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1411, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Crear una l\u00ednia de bus que recorri la gran concentraci\u00f3 d' escoles de la zona alta, amb connexi\u00f3 amb les estacions de metro i FFCC m\u00e9s properes per evitar la inundaci\u00f3 de cotxes que hi ha cada mat\u00ed i cada tarda, davant la manca de transport p\u00fablic alternatiu per arribar-hi i la forta pujada que dificulta el seu acc\u00e8s caminant", 
+        "title": "Bus escolar a la zona de Pedralbes-Sarri\u00e0", 
+        "total_comments": 7, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 12, 
+        "url": "https://decidim.barcelona/pam/proposals/bus-escolar-a-la-zona-de-pedralbes-sarria", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2892", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2892, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Fomentar les pol\u00edtiques de millor accessibilitat al conjunt dels equipaments i programes culturals de la ciutat (pol\u00edtiques de preus i accessibilitat f\u00edsica i comunicativa) per facilitar-ne la gesti\u00f3 comunit\u00e0ria. A la vegada, dissenyar una programaci\u00f3 regular i estable i apropar propostes innovadores a tots els barris de la ciutat que tinguin en compte no nom\u00e9s l'exhibici\u00f3, sin\u00f3 tamb\u00e9 els processos de treball, les pr\u00e0ctiques col\u00b7laboratives, la recerca i la creaci\u00f3.", 
+        "title": "Foment del car\u00e0cter p\u00fablic, divers i col\u00b7lectiu de la cultura, garantint l\u2019acc\u00e9s i la participaci\u00f3 activa de la ciutadania en la producci\u00f3 i en la gesti\u00f3 dels processos culturals", 
+        "total_comments": 29, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 29, 
+        "total_positive_comments": 0, 
+        "total_votes": 8, 
+        "url": "https://decidim.barcelona/pam/proposals/foment-del-caracter-public-divers-i-col-lectiu-de-la-cultura-garantint-l-acces-i-la-participacio-activa-de-la-ciutadania-en-la-produccio-i-en-la-gestio-dels-processos-culturals", 
+        "votable": null, 
+        "voted": null
+    }
+}

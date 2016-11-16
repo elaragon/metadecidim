@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic d'acord i acabar tamb\u00e9 l'estaci\u00f3 de metro Ernest Lluch (L5). Des de fa 10 anys que esperem que aquesta estaci\u00f3 s\u2019acabi finalment despr\u00e9s de les mol\u00e8sties causades als ve\u00efns durant tants anys. Amb gaireb\u00e9 l\u2019estaci\u00f3 ja finalitzada (i amb una inversi\u00f3 ja feta de 50M d\u2019\u20ac) nom\u00e9s queda per acabar-la un 20% dels treballs per poder-la obrir.</p>", 
+            "commentable_id": 3629, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/03/2016 09:50:56", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3296, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/millorar-l-accessibilitat-als-locals-comercials-i-edificis\">https://decidim.barcelona/proposals/millorar-l-accessibilitat-als-locals-comercials-i-edificis</a></p>", 
+            "commentable_id": 3629, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 10:38:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14304, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3296", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/finalitzar-l-estacio-de-metro-ernest-lluch-l5\">https://decidim.barcelona/proposals/finalitzar-l-estacio-de-metro-ernest-lluch-l5</a></p>", 
+            "commentable_id": 3629, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/03/2016 09:51:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3297, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3296", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9661, 
+                "name": "Rosa Ma Canals Garcia", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic totalment d'acord ja que l'esfor\u00e7 \u00e9s actualment molt petit pels beneficis que es poden treure</p>", 
+            "commentable_id": 3629, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/03/2016 09:53:10", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3300, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

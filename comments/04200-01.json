@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10620, 
+                "name": "Anna Vinyoles ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hola,</p>\n\n<p>en una visita cultural hem sabut que les persones que varen impulsar en 1892 la primera sociedad feminista espa\u00f1ola, la Sociedad Aut\u00f3noma de Mujeres de Barcelona, no tenen carrer a la ciutat. Proposo aquests noms, que crec que la societat, en generals, els hi deu molt: Teresa Claramunt, \u00c1ngeles L\u00f3pez de Ayala y Am\u00e0lia Domingo.</p>\n\n<p>gr\u00e0cies,</p>\n\n<p>Anna</p>", 
+            "commentable_id": 4200, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/03/2016 22:53:49", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3768, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7440, 
+                "name": "Inma Vicente Molina", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La boca de metro Coll-Teixonera que d\u00f3na a Batet/Passeig Mare de D\u00e9u del Coll, est\u00e0 situada (segons el pl\u00e0nol municipal) a la Pla\u00e7a Margarida Fort. Per\u00f2 la pla\u00e7a no ha estat oficialment \"batejada\" ja que la placa amb el nom no existeix. Les obres de reurbanitzaci\u00f3 de la pla\u00e7a les van acabar, incl\u00fas amb unes escales mec\u00e0niques fins i tot, per\u00f2 la placa amb el nom de la Margarida, no est\u00e0 posada... </p>", 
+            "commentable_id": 4200, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 18:09:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7268, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

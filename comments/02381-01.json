@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7141, 
+                "name": "Reig Marina", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Fer que la gent doni \"per caritat\" no ser\u00e0 mai una manera de canviar el consum. S'ha de denunciar i fer campanyes de sensibilitzaci\u00f3 perqu\u00e8 la gent entengui que s\u00f3n les seves pautes de consum i la seva \"comoditat\" \u00e9s la que impedeix que tothom tingui per menjar. Una Renda B\u00e0sica Universal JA!</p>", 
+            "commentable_id": 2381, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/03/2016 21:54:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4627, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11613, 
+                "name": "Miren Izarra", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Crec que l'actual normativa ja \u00e9s prou \u00e0mplia. Fins i tot, la considero excessiva i crec convenient apostar per un tipus d'horaris que prioritzin el respecte al descans.</p>", 
+            "commentable_id": 3319, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 17:18:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4859, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11749, 
+                "name": "sergio marcovich", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hola,\n<br />Os env\u00edo otra propuesta a favor de la m\u00fasica y la cultura en locales de peque\u00f1o formato. Aqu\u00ed va el link:\n<br /><a href=\"http://bit.ly/1UwW6Lz\">http://bit.ly/1UwW6Lz</a></p>\n\n<p>Saludos\n</p>", 
+            "commentable_id": 3319, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 13:14:14", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10727, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4859", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7631, 
+                "name": "Ruben Moreno", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hola Miren, gracies pel teu comentari, \n<br />Vull fer-te saber que en cap cas aix\u00f2 va destinat a molestar als ve\u00efns, pero entenem que un lloc ben acondicionat no hauria de donar problemas, l'unic que volem es equiparar-nos en aquest sentit al nivell d'Europa, ya que tenim unas politiques molt dures en aquest sentit ( de les mes fortes d'europa). No ens oblidem que la cultura no es pot tallar.  Els decibelis estan molt pero que molt per sota dels ve\u00efns europeos.</p>", 
+            "commentable_id": 3319, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 18:39:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4875, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

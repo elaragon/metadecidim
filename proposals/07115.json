@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 15651, 
+            "name": "SaraH", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 15651, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7115", 
+        "conflictive": false, 
+        "created_at": "29/03/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7115, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "L'Eixample \u00e9s un dels barris amb menys espai verd  i que pateix m\u00e9s contaminaci\u00f3 atmosf\u00e8rica i ac\u00fastica de la ciutat. Caldria incrementar l'espai de verd urb\u00e0 impulsant mesures per revegetar interiors de pati d'illa, terrats i parets mitgeres, i treure cotxes dels carrers, eliminant carrils de circulaci\u00f3 per vehicles  en favor de carrils bici o bus", 
+        "title": "Millorar la qualitat de l'aire a l'Eixample", 
+        "total_comments": 6, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 6, 
+        "total_positive_comments": 0, 
+        "total_votes": 28, 
+        "url": "https://decidim.barcelona/pam/proposals/millorar-la-qualitat-de-l-aire-a-l-eixample", 
+        "votable": null, 
+        "voted": null
+    }
+}

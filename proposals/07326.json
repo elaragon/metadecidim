@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 16049, 
+            "name": "Maria Mestres ", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 16049, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7326", 
+        "conflictive": false, 
+        "created_at": "30/03/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7326, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Seria la continuaci\u00f3 natural de l'eix enric granados tuset que t\u00e9 doble sentit. Per tal de poder baixar al centre de la ciutat desde el barri de sant gervasi, anant per la cal\u00e7ada i seguint el codi vial sense tenir que anar pel carrer balmes o via augusta.  Es un tram curt que nom\u00e9s precisa eliminar els aparcaments.\r\n\r\n", 
+        "title": "carril bici en doble direcci\u00f3 al carrer alfons XII entre travessera de gr\u00e0cia i el carrer avenir", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/carril-bici-en-doble-direccio-al-carrer-alfons-xii-entre-travessera-de-gracia-i-el-carrer-avenir", 
+        "votable": null, 
+        "voted": null
+    }
+}

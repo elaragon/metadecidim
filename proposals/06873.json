@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 15331, 
+            "name": "Peregir", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 15331, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6873", 
+        "conflictive": false, 
+        "created_at": "26/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://jorpow.com/2015/05/18/me-he-comprado-un-coche-electrico-porque-me-salen-las-cuentas/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6873, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "La contaminaci\u00f3 causa moltes malalties.  Volem mesures valentes i efectives:\r\n-Fer publicitat de la rendibilitat econ\u00f2mica del cotxe el\u00e8ctric,  ja que consumeix 1\u20ac/100km.\r\n-Com Berl\u00edn, obligar als cotxes m\u00e9s contaminants a posar-se filtre (50\u20ac/u). \r\n-Ajudes al canvi de motos de 49cc per motos el\u00e8ctriques. \r\n", 
+        "title": "Contra la contaminaci\u00f3 ambiental i en favor dels vehicles el\u00e8ctrics ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/contra-la-contaminacio-ambiental-i-en-favor-dels-vehicles-electrics", 
+        "votable": null, 
+        "voted": null
+    }
+}

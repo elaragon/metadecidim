@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 18052, 
+            "name": "Consell de la Joventut de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 18052, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8477", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8477, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 4, 
+            "name": "Equitat de g\u00e8nere i diversitat sexual", 
+            "position": 4
+        }, 
+        "summary": "Garantir assessorament psicol\u00f2gic, si s'escau, als i les adolescents amb dubtes sobre la seva orientaci\u00f3 sexual i/o identitat de g\u00e8nere i els conflictes amb l'entorn que pugui generar; ha de ser gratu\u00eft, p\u00fablic i de f\u00e0cil acc\u00e9s. Realitzar estudis que revelin l'\u00edndex de LGTBf\u00f2bia i assetjament escolar mitjan\u00e7ant enquestes an\u00f2nimes a l'alumnat\r\n", 
+        "title": "Establir mesures d'atenci\u00f3 a la diversitat sexual i de g\u00e8nere, i prevenir i actuar davant la LGTBI-f\u00f2bia, especialment en l'adolesc\u00e8ncia i joventut. ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 24, 
+        "url": "https://decidim.barcelona/pam/proposals/establir-mesures-d-atencio-a-la-diversitat-sexual-i-de-genere-i-prevenir-i-actuar-davant-la-lgtbi-fobia-especialment-en-l-adolescencia-i-joventut", 
+        "votable": null, 
+        "voted": null
+    }
+}

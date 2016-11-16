@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 20299, 
+            "name": "Eix Comercial del Raval", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 20299, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9999", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "http://www.eixraval.com/media/file/noticias//80_Documento_Adjunto_1.pdf", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 9999, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "- Increment del baldeig als carrers m\u00e9s transitats, increment de freq\u00fc\u00e8ncies de pas, \r\n- Adequaci\u00f3 dels horaris a l\u2019horari de tancament de comer\u00e7os.\r\n- Reubicaci\u00f3 dels contenidors d\u2019escombrariers a diferents punts del barri.\r\n- Completar el desplegament de la recollida pneum\u00e0tica al Raval.\r\n", 
+        "title": "Valorar i impulsar noves formes i mesures que millorin els sistemes de recollida de residus i neteja dels espais p\u00fablics al Barri del Raval per tal de minimitzar les mol\u00e8sties als ve\u00efns i garantir-ne l'efic\u00e0cia.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/valorar-i-impulsar-noves-formes-i-mesures-que-millorin-els-sistemes-de-recollida-de-residus-i-neteja-dels-espais-publics-al-barri-del-raval-per-tal-de-minimitzar-les-molesties-als-veins-i-garantir-ne-l-eficacia", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2870, 
+                "name": "Xavier ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No s\u00f3lo eso. Adem\u00e1s, la concesi\u00f3n de una reserva de aparcamiento a personas con discapacidad deber\u00eda ir vinculada al nivel de ingresos. Es totalmente injusto que con cualquier renta dispongan de la reserva en el espacio p\u00fablico en detrimento de los otros poseedores de veh\u00edculos. </p>", 
+            "commentable_id": 1355, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 18:34:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 963, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 74, 
+                "name": "Gisela", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Afegir que cal controlar que no disposin ja d'una pla\u00e7a d'aparcament privada, a m\u00e9s a m\u00e9s de la placa al carrer, ja que se'ls duplica un servei en detriment d'altri.\n</p>", 
+            "commentable_id": 1355, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/02/2016 15:49:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1083, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1083", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 74, 
+                "name": "Gisela", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Una pla\u00e7a accessible, s'ent\u00e9n.\n</p>", 
+            "commentable_id": 1355, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/02/2016 15:54:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1084, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

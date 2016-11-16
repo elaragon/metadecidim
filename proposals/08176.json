@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8176", 
+        "conflictive": false, 
+        "created_at": "04/04/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8176, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 5, 
+            "name": "Cicles de vida ", 
+            "position": 5
+        }, 
+        "summary": "Alguns indrets identificats al barri de Poblesec on es podrien instal\u2022lar taules de ping-pong i barres d\u2019entrenament serien la pla\u00e7a Pere Franquesa, la pla\u00e7a Margarida Xirgu i el Parc de la Primavera. Tamb\u00e9 sobre el Calaix es podrien habilitar futurament espais de pr\u00e0ctica esportiva.", 
+        "title": "Habilitar espais p\u00fablics per al \u00fas juvenil, especialment per a la pr\u00e0ctica esportiva al carrer", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 6, 
+        "url": "https://decidim.barcelona/pam/proposals/habilitar-espais-publics-per-al-us-juvenil-especialment-per-a-la-practica-esportiva-al-carrer", 
+        "votable": null, 
+        "voted": null
+    }
+}

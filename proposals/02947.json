@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2947", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2947, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Guanyar espai per a les persones i fomentar la qualitat de l\u2019espai p\u00fablic i la mobilitat sostenible, amb actuacions a la Rambla, Via Laietana, pla\u00e7a d'Espanya, avinguda de la Reina Maria Cristina, avinguda del Paral\u00b7lel, passeig de Gr\u00e0cia, travessera de les Corts, avinguda del Pr\u00edncep d\u2019Ast\u00faries, Pi i Margall, pla\u00e7a de Catalunya, urbanitzaci\u00f3 de l\u2019avinguda de Madrid, passeig\u00a0de Josep Carner, pla\u00e7a de Margarida Xirgu, Crist\u00f3bal de Moura, Via Augusta, Sagrada Fam\u00edlia, Balmes, entorns del Mercat de Sant Antoni, passeig de la Zona Franca, avinguda de Roma, pla\u00e7a de Sant Miquel, pla\u00e7a de Joan Pelegr\u00ed, Pedraforca i Agudes.", 
+        "title": "Impuls d\u2019un espai p\u00fablic que prioritzi la vida quotidiana", 
+        "total_comments": 8, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 7, 
+        "total_positive_comments": 1, 
+        "total_votes": 41, 
+        "url": "https://decidim.barcelona/pam/proposals/impuls-d-un-espai-public-que-prioritzi-la-vida-quotidiana", 
+        "votable": null, 
+        "voted": null
+    }
+}

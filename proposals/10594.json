@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 23131, 
+            "name": "David Membrado", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 23131, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10594", 
+        "conflictive": false, 
+        "created_at": "09/04/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 10594, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 8, 
+            "name": "Migraci\u00f3, interculturalitat i discriminaci\u00f3 zero", 
+            "position": 8
+        }, 
+        "summary": "El que diferencia  un alberg juvenil d' altres establiments (hotel, apartaments, etc) es un tret fonamental dels albergs: son un espai de conviv\u00e8ncia entre gent jove i no tan jove que permet con\u00e9ixer persones d'altres pa\u00efsos, fer activitats conjuntes. Per aix\u00f2, crec que en edificis on no hi hagi ve\u00efns s\u00ed que s`haurien de permetre obrir-ne de nous. ", 
+        "title": "ELS ALBERGS TUR\u00cdSTICS A GR\u00c0CIA: Permetre crear-ne de nous, doncs son un espai de comunicaci\u00f3 i podrien ser un lloc de trobada entre joves catalans i d'arreu del m\u00f3n", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/els-albergs-turistics-a-gracia-permetre-crear-ne-de-nous-doncs-son-un-espai-de-comunicacio-i-podrien-ser-un-lloc-de-trobada-entre-joves-catalans-i-d-arreu-del-mon", 
+        "votable": null, 
+        "voted": null
+    }
+}

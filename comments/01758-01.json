@@ -1,0 +1,341 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4963, 
+                "name": "David Samaranch Rebull", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>M'encanta la idea. Seria una millora brutal per una enorme part de Barcelona. </p>", 
+            "commentable_id": 1758, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/02/2016 09:48:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1608, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5086, 
+                "name": "aamandarina", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hola, la meva opini\u00f3 \u00e9s que eliminar els xamfrans de Barcelona, seria un endarrediment.... tenim una trama \u00fanica, una trama envejada per moltes ciutats. Els xamfrans de l'eixample d\u00f3nen molt de dinamisme a la circulaci\u00f3. He viscut a Madrid uns anys i all\u00f2 \u00e9s un caos...per girar un cotxe a qualssevol carrer disminueix la velocitat de marxa i para al carril que va circulant i tots el cotxes que van darrere d'ell que volen seguir recte o girar... es paren. No tenen el marge que d\u00f3nen els xamfrans que nosaltres tenim la sort de disfrutar.\n<br />Crec que s\u00f3n molt valiossos i els tindriem de conservar.</p>", 
+            "commentable_id": 1758, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/02/2016 15:12:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1635, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 5, 
+            "total_likes": 1, 
+            "total_votes": 6
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5242, 
+                "name": "Alejandro Gim\u00e9nez Imirizaldu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Una idea magn\u00edfica i compatible amb una reducci\u00f3 general de l'espai del cotxe a favor del bus, de la bici i el vianant.  \n<br />Voreres m\u00e9s amples sisplau.\n<br />I res d'aparcar al carrer. El carrer no \u00e9s un dip\u00f2sit de cotxes.</p>", 
+            "commentable_id": 1758, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 14:52:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2717, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1635", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 94, 
+                "name": "Genis Barrera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Endarreriment seria no avan\u00e7ar en guanyar terreny al cotxe per donar-ho a vianant. \u00c9s una vergonya que el 70% de l'espai l'ocupi el vehicle motor, ja hi ha les \u00e0rees DUM per c\u00e0rrega i desc\u00e0rrega.</p>", 
+            "commentable_id": 1758, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/02/2016 17:04:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1638, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 4, 
+            "total_votes": 4
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1635/1638", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5086, 
+                "name": "aamandarina", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No em refereixo a parar per a carregar o descarregar, es m\u00e9s simple que aix\u00f2 nom\u00e9s pel fet de voler girar ja es frena i aix\u00f2 fa que tots el cotxes que van darrere ho tinguin de fer i la circulaci\u00f3 es fa lenta... tots anem per Barcelona  algun cop amb cotxe... tamb\u00e9 ens afecta a tots.   No es tracta de desder carrer per donar prioritat als cotxes per\u00f2 tampoc de desfer lo millor que tenim.\n<br />Estaria b\u00e9 anar amb bici a tot arreu per\u00f2 no tothom ho pot fer... ets massa gran, massa petit, tens 2 fills... tens de portar paquets... tens pares que voleu anar junts... fa fred,  plou.... no s\u00e9... no pots entrar a una botiga...  te la roben en menys de 5 minuts en deixar-la per exemple a la Diagonal cantonada carrer Gandesa, amb 2 candaus i cadena... li va passar al meu marit... \n<br />Ja hi ha carrers que tenen les puntes mes llargues i a part de possar-hi 2 bancs... no hi ha mes gent all\u00e0 ni es fa servir per res, son espais buits, no hi passa mes gent pel fet de que singuin mes amples... la gent \u00e9s   </p>", 
+            "commentable_id": 1758, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/02/2016 17:48:58", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1642, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 4, 
+            "total_likes": 1, 
+            "total_votes": 5
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1635/1638/1642", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5086, 
+                "name": "aamandarina", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La gent \u00e9s la mateixa no hi ha cap avantatge per\u00f2 s\u00ed per la circul.laci\u00f3 m\u00e9s fu\u00efda</p>", 
+            "commentable_id": 1758, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/02/2016 17:50:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1643, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 2, 
+            "total_likes": 0, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1635/1638/1642", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 94, 
+                "name": "Genis Barrera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>De fet un dels problemes de Barcelona s\u00f3n reservar aquests xamfrans per a la circulaci\u00f3, al no haver de fer el gir de 90 graus fa que no hagis de reduir la velocitat quan es gira, per tant, m\u00e9s probabilitats de no reaccionar a temps quan un vianant que est\u00e0 creuant el pas de vianants en verd. Massa v\u00edctimes provoca el cotxe i la moto a la ciutat.</p>\n\n<p>Barcelona t\u00e9 un problema amb la velocitat del cotxe, ampliar les aceres en aquests xamfrans faria que pacifiquessim una mica m\u00e9s la ciutat. Barcelona ha de deixar de ser una ciutat car-centric</p>", 
+            "commentable_id": 1758, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 12:01:31", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1832, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 4, 
+            "total_votes": 4
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1635", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6185, 
+                "name": "M.Mateu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tens ra\u00f3 en quant al gir de vehicles, de tota manera aprofitant el sentit \u00fanic de la trama, f\u00f3ra bo tamb\u00e9 pels vianants un pas de peatons alternatiu estil \"carril bici\" en el cas de que els cotxes no entrin girant al carrer en questi\u00f3. Si els cotxes es paren al sem\u00e0for... perqu\u00e9 caminar fins al pas cap enrera per creuar i despr\u00e9s tornar a pujar tot el xamfr\u00e0? diferent es quan poden girar... aquest sem\u00e0for nom\u00e9s es posaria \"verd\" quan el sentit del carrer a creuar ho permet\u00e9s. Estalviaria moltes passes.</p>", 
+            "commentable_id": 1758, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/02/2016 15:00:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2016, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1635", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6514, 
+                "name": "Oriol B", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>S'ha de redu\u00efr la velocitat de gir dels vehicles de motor, m\u00e9s encara ara que tenim cada cop m\u00e9s carrils bici. Sino, passen coses com aquesta: <a href=\"https://youtu.be/UbpomKJUUM0\">https://youtu.be/UbpomKJUUM0</a></p>", 
+            "commentable_id": 1758, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 14:19:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2711, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1635/1638/1642/1643", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5242, 
+                "name": "Alejandro Gim\u00e9nez Imirizaldu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00c9s que la circulaci\u00f3 No ha de ser m\u00e9s flu\u00efda. El cotxe te un efecte gas i si trei\u00e8ssim les voreres ocuparia tot el carrer fins a les portes de les cases. Els xamfrans s\u00f3n el reducte de la insisciplina i el lubricant que permet que l'autom\u00f2vil es bereni un espai que pertany al vianant.\n</p>", 
+            "commentable_id": 1758, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 14:48:22", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2716, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1970, 
+            "name": "red albert", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1970, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1641", 
+        "conflictive": false, 
+        "created_at": "09/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1641, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Revitalitzar el curs de l'antic Rec Comtal des dels Jardins del Rec (al costat de l'estaci\u00f3 de Renfe Sant Andreu Comtal) fins al l\u00edmit entre Vallbona i Montcada com un eix de passeig, esport i cultura relacionada amb el tema de l'aigua (cases-museu de l'aigua, trams visibles del rec, ...). Aix\u00f2 podria dinamitzar econ\u00f2micament els seus entorns", 
+        "title": "revitalitzar el curs del rec comtal com a eix tur\u00edstic i de passeig", 
+        "total_comments": 4, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 35, 
+        "url": "https://decidim.barcelona/pam/proposals/revitalitzar-el-curs-del-rec-comtal-com-a-eix-turistic-i-de-passeig", 
+        "votable": null, 
+        "voted": null
+    }
+}

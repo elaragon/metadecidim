@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 6372, 
+            "name": "AVV EL SANATORI", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 6372, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3225", 
+        "conflictive": false, 
+        "created_at": "22/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3225, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "No \u00e9s de rebut poder anar fins a Castelldefels o a S. Boi, o S. Feliu, o Montcada i fins i tot a Montgat, amb un bitllet de ZONA 1, i que per anar de Barcelona a Sant Cugat, Rub\u00ed, Cerdanyola, UAB o Ripollet, s\u2019hagi de pagar DUES ZONES.\r\nAquesta mesura facilitaria l\u2019\u00fas del transport p\u00fablic al Vall\u00e8s i disminuiria la contaminaci\u00f3 a l'entorn d BCN.", 
+        "title": "ZONA 1 de Barcelona fins a S. Cugat i Rub\u00ed, o fins a Cerdanyola, UAB i Ripollet.", 
+        "total_comments": 5, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 3, 
+        "total_votes": 52, 
+        "url": "https://decidim.barcelona/pam/proposals/zona-1-de-barcelona-fins-a-s-cugat-i-rubi-o-fins-a-cerdanyola-i-ripollet", 
+        "votable": null, 
+        "voted": null
+    }
+}

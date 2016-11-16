@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/augmentar-la-vigilancia-de-la-guardia-urbana\">https://decidim.barcelona/proposals/augmentar-la-vigilancia-de-la-guardia-urbana</a></p>", 
+            "commentable_id": 124, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 16:18:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14901, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/reforcament-de-la-gub-comunitaria-9c96a50e-6423-458a-bca8-4c236ca646b2\">https://decidim.barcelona/proposals/reforcament-de-la-gub-comunitaria-9c96a50e-6423-458a-bca8-4c236ca646b2</a></p>", 
+            "commentable_id": 124, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 19:13:56", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17567, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 2, 
+        "next_page": null, 
+        "prev_page": 1, 
+        "total_count": 22, 
+        "total_pages": 2
+    }
+}

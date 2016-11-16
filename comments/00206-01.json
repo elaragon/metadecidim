@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1010, 
+                "name": "catorvel", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A sagrada familia hi han poques places,  tindria que obrir l'estiu ja que els nens no van alcole i per moltes families seria una gran ajuda i el nen tindria una activitat de lleure garantida.  Els casals infantils ha de poder conviure amb les necessitats dels petits (0-3) i que puguin anar 2 o 3 vegades a la setmana amb un acompanyant.  Oferir mes places o fer mes casals als districtes, ampliar franja 0-4  i abaixar preus</p>", 
+            "commentable_id": 206, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 16:21:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 286, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

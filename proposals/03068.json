@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3068", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3068, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 6, 
+            "name": "Habitatge", 
+            "position": 6
+        }, 
+        "summary": "Impulsar l\u00ednies de subvenci\u00f3 i suport a la instal\u00b7laci\u00f3 d\u2019ascensors a les comunitats a Bar\u00f3 de Viver i el Congr\u00e9s els Indians, de manera que resolguin la manca d\u2019accessibilitat. Desenvolupar estrat\u00e8gies d\u2019acompanyament a les comunitats per garantir el compliment de l\u2019objectiu de la instal\u00b7laci\u00f3 dels ascensors.", 
+        "title": "L\u00ednies de subvenci\u00f3 a la instal\u00b7laci\u00f3 d'ascensors a Bar\u00f3 de Viver i el Congr\u00e9s i els Indians", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 12, 
+        "url": "https://decidim.barcelona/pam/proposals/linies-de-subvencio-a-la-instal-lacio-d-ascensors-a-baro-de-viver-i-el-congres-i-els-indians", 
+        "votable": null, 
+        "voted": null
+    }
+}

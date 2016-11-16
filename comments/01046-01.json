@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13908, 
+                "name": "Mariacn", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Me permito comentar lo siguiente: se habla mucho de acceso a la vivienda de alquiler, pero nosotros estamos viviendo el contacto con la burocracia municipal, o la delegada, para poder dejar un piso en alquiler mediante el ayuntamiento. Primero, nos sorprendi\u00f3 desagradablemente descubrir que la entidad encargada de la modalidad de cesi\u00f3n, es una empresa privada que tiene la gesti\u00f3n del asunto cedida por el ayuntamiento. Cost\u00f3 encontrar una cita conveniente para que vinieron y luego, nos hemos quedado 5 semanas sin noticias, tuvimos que llamar con insistencia varias veces, para recibir un trato flojo y poco convencente, con un intento de regateo indecente. Los de la mediaci\u00f3n fueron m\u00e1s dispuestos y activos, pero ninguna de las 2 entidades es tampoco de cualquier ayuda para poder hacer una \"mini-obra\" antes de alquilarlo, ni consejo, ni acceso a  empresas fiables y con precios controlados por ejemplo.  Creo que se deber\u00eda empezar a montar la casa por los cimientos, no por el techo....</p>", 
+            "commentable_id": 1046, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/03/2016 10:26:20", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5726, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/revertir-l-exclusio-residencial\">https://decidim.barcelona/proposals/revertir-l-exclusio-residencial</a></p>", 
+            "commentable_id": 1046, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 10:08:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 16467, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

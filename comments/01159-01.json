@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 887, 
+                "name": "H\u00e9ctor R. ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Crec que aquesta mesura hauria de ser una de les actuacions priorit\u00e0ries, perque sense energia no podrem fer funcionar la ciutat i tampoc podem deixar que la producci\u00f3, distribuci\u00f3 i subministrament energ\u00e8tics estiguin en mans d'oligopolis. </p>", 
+            "commentable_id": 1159, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 13:19:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 245, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2316, 
+                "name": "Pau Garc\u00eda", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es imprescindible un foment de l'auto-generaci\u00f3 individual impulsada pels municipis i que contrarresti les dificultats imposades per la coalici\u00f3 Estat+Oligopoli</p>", 
+            "commentable_id": 1159, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/02/2016 10:04:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1251, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2480, 
+                "name": "Albert99", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Entenc que tot all\u00f2 que tingui a veure amb l'autosufici\u00e8ncia, a partir de les renovables, hauria de ser prioritari. Crec que \u00e9s dif\u00edcil, per\u00f2 s'haurien de comen\u00e7ar a revisar els contractes de la ciutat amb els prove\u00efdors per  tal de transitar cap a nous prove\u00efdors que assegurin consum \"verd\" </p>", 
+            "commentable_id": 1159, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/02/2016 10:09:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1981, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1919, 
+            "name": "v\u00edctor herrera", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1919, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2628", 
+        "conflictive": false, 
+        "created_at": "13/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "EJODQZ", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2628, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Crear una targeta de transport a un preu asequible ( 6 euros/10 viatges ) per totes aquelles persones que viuen a Barcelona o a l'\u00e0rea metropolitana. Per fer sostenible la proposta caldr\u00eda augmentar el preu del billet senzill i la T-10 per les persones que venen a fer turisme, ser\u00eda una forma de redistribu\u00efr la riquesa.", 
+        "title": "TB-10. La targeta de transport per les persones que vieuen a Barcelona.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 72, 
+        "url": "https://decidim.barcelona/pam/proposals/tb-10-la-targeta-de-transport-per-les-persones-que-vieuen-a-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

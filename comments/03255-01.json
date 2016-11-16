@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12455, 
+                "name": "Juju", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p> D'acord amb el control de les orugues. Pero no estic d'acord que es faci amb m\u00e8todes convencionals, tipus insecticides, crec que ja tenim suficients subst\u00e0ncies t\u00f2xiques en aquesta ciutat. Millor fer-ho amb m\u00e8todes ecol\u00f2gics</p>", 
+            "commentable_id": 3255, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 10:06:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4961, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

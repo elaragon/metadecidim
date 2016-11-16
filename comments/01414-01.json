@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 369, 
+                "name": "Maclaren", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Dins d'una estrat\u00e8gia global d eremunicipalitzacio de serveis.</p>", 
+            "commentable_id": 1414, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 20:10:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 722, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 5, 
+            "total_votes": 5
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5185, 
+                "name": "Marino", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Por supuesto que  hay que remunicipalizar los servicios p\u00fablicos. No debemos consertir que los servicios a la sociedad sea un nicho de beneficios para unos pocos. Basta ya de mercantilizarlo todo. \n<br />A ver cuando empezamos a desmercantilizar nuestra sociedad. No todo es mercancias y los servicios p\u00fablicos NO LO SON.</p>", 
+            "commentable_id": 1414, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/03/2016 23:45:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4728, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 338, 
+            "name": "Laura Krauel", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 338, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1144", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.igualdadanimal.org/entretenimiento/zoos        http://www.vidasenjauladas.org/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1144, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "traslladar el zool\u00f2gic a l'\u00e0rea metropolitana de Barcelona perqu\u00e8 els animals puguin estar en r\u00e8gim de \"semillibertat\" i alliberar l'espai que ocupa actualment perqu\u00e8 s'obri el parc de la Ciutadella a altres barris que ara no tenen acc\u00e9s.", 
+        "title": "traslladar el zoo de barcelona", 
+        "total_comments": 4, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 120, 
+        "url": "https://decidim.barcelona/pam/proposals/traslladar-el-zoo-de-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

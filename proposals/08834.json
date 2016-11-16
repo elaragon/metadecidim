@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8834", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8834, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 12, 
+            "name": "Ocupaci\u00f3 de qualitat", 
+            "position": 4
+        }, 
+        "summary": "La formaci\u00f3 cont\u00ednua ha de permetre que la qualitat del servei ofert sigui m\u00e9s elevada per cada cop atraure a m\u00e9s turisme de qualitat, generant una certa estabilitat laboral lligada a un increment de remuneraci\u00f3, sempre que la formaci\u00f3 cont\u00ednua no nom\u00e9s es dugui a terme en directius i comandaments intermitjos sin\u00f3 que arribi tamb\u00e9 a altres perfils", 
+        "title": "Impulsar la formaci\u00f3 cont\u00ednua en el sector tur\u00edstic, per\u00f2 assegurant que aquesta arriba als perfils salarials m\u00e9s baixos", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/impulsar-la-formacio-continua-en-el-sector-turistic-pero-assegurant-que-aquesta-arriba-als-perfils-salarials-mes-baixos", 
+        "votable": null, 
+        "voted": null
+    }
+}

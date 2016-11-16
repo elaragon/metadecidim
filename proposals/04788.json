@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 244, 
+            "name": "elva", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 244, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4788", 
+        "conflictive": false, 
+        "created_at": "13/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4788, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "L'atenci\u00f3 sanitaria de  usu\u00e0ries i usuaris de la sanitat a Barcelona i les reclamacions o queixes que susciten, no tenen vies adequades per fer-les arribar a les administracions responsables. Atenen les demandes o necessitats de les persones,  aquesta oficina permetria detectar-les  i canalitzar-les per a la seva defensa i  resoluci\u00f3.", 
+        "title": "Observatori  i  Oficina d'atenci\u00f3 municipal  dels serveis de salut a Barcelona i \u00c0rea metropolitana", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 11, 
+        "url": "https://decidim.barcelona/pam/proposals/observatori-i-oficina-d-atencio-municipal-dels-serveis-de-salut-a-barcelona-i-area-metropolitana", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8331, 
+                "name": "Neus Fornells Cunillera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Sembla que s'ha equivocat de barri. No \u00e9s Ciutat Vella, sin\u00f3 el Guinard\u00f3, suposo.</p>", 
+            "commentable_id": 5701, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/03/2016 17:22:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5784, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 1, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4871, 
+                "name": "Adri\u00e0 C", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es poden conservar les naus de les cavallerises i la casa del masover de la finca Ravetllat Pla com a espais polivalents del barri. Aix\u00ed fer una xarxa d'equipaments a la Illa Torrent d'en Melis:\n<br /><a href=\"https://decidim.barcelona/proposals/rehabilitar-naus-industrials-de-finca-ravetllat-pla-per-a-us-public\">https://decidim.barcelona/proposals/rehabilitar-naus-industrials-de-finca-ravetllat-pla-per-a-us-public</a></p>", 
+            "commentable_id": 5701, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/03/2016 17:47:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6286, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/espais-per-a-la-vida-associativa\">https://decidim.barcelona/proposals/espais-per-a-la-vida-associativa</a></p>", 
+            "commentable_id": 5701, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 12:52:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12022, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

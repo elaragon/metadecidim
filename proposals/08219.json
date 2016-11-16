@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 18087, 
+            "name": "Associaci\u00f3 Comerciants Xavier Nogu\u00e9s", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 18087, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8219", 
+        "conflictive": false, 
+        "created_at": "04/04/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8219, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "El Bes\u00f3s i La Maresma tenen una poblaci\u00f3 consolidada dins de la seva diversitat i un teixit de Comer\u00e7 de Proximitat que est\u00e0 resistint la presi\u00f2 de la crisi econ\u00f2mica i els canvis de model de mercat actual, el que no t\u00e9 es ocupaci\u00f3. Una oficina d'orientaci\u00f3 i formaci\u00f3 per la ocupaci\u00f3  en el centre del barri dinamitzar\u00e0 l'economia del sector.", 
+        "title": "Creaci\u00f3 d'una Oficina d'Ocupaci\u00f3 Local a l'edifici del Cinema Pere IV del Bes\u00f3s ", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/creacio-d-una-oficina-d-ocupacio-local-a-l-edifici-de-l-antic-cinenema-pere-iv", 
+        "votable": null, 
+        "voted": null
+    }
+}

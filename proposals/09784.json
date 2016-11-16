@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9784", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9784, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 1, 
+            "name": "Just\u00edcia social", 
+            "position": 1
+        }, 
+        "summary": "La perspectiva comunit\u00e0ria hauria de ser l\u2019eix central dels serveis socials b\u00e0sics i universals. M\u00e9s interacci\u00f3, m\u00e9s portes obertes dels serveis socials cap enfora, refor\u00e7ar la figura del treballador social en el marc d\u2019aquest aspecte m\u00e9s comunitari", 
+        "title": "La perspectiva comunit\u00e0ria hauria de ser l\u2019eix central dels serveis socials b\u00e0sics i universals", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 3, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/la-perspectiva-comunitaria-hauria-de-ser-l-eix-central-dels-serveis-socials-basics-i-universals", 
+        "votable": null, 
+        "voted": null
+    }
+}

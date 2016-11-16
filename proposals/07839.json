@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-7839", 
+        "conflictive": false, 
+        "created_at": "01/04/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 7839, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "R\u00e0tios m\u00e9s baixes, professionals d'atenci\u00f3 infants amb NEE, enfortiment AMPAS i participaci\u00f3 de les fam\u00edlies, menjadors que respectin diferents creences en la confecci\u00f3 dels menus i necessitats aliment\u00e0ries, formaci\u00f3 en igualtat de g\u00e8nere i equitat i suport d'ex-alumnes referent al refor\u00e7 educatiu extraescolar a les biblioteques.", 
+        "title": "Pla educatiu singular per a totes les escoles del barri. El Raval \u00e9s un barri singular. Cal centres m\u00e9s dotats i capacitats per a poder atendre la diversitat i necessitats del barri", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-educatiu-singular-per-a-totes-les-escoles-del-barri-el-raval-es-un-barri-singular-cal-centres-mes-dotats-i-capacitats-per-a-poder-atendre-la-diversitat-i-necessitats-del-barri", 
+        "votable": null, 
+        "voted": null
+    }
+}

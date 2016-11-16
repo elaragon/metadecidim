@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5084", 
+        "conflictive": false, 
+        "created_at": "15/03/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 5084, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Tenir en compte el pla de mobilitat del pol\u00edgon ja aprovat en el mandat anterior. Establir un transport col.lectiu urb\u00e0 de proximitat (bus de barri). Establiment d'una taula de mobilitat, participaci\u00f3, concentraci\u00f3 del Pla  amb agents econ\u00f2mics, socials i resta d'operadors. Execuci\u00f3 del pla fomentant Ia mobilitat sostenible a peu i en bici.", 
+        "title": "Pla de mobilitat sotenible i participatiu per al pol\u00edgon industrial del Bon Pastor", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-de-mobilitat-sotenible-i-participatiu-per-al-poligon-industrial-del-bon-pastor", 
+        "votable": null, 
+        "voted": null
+    }
+}

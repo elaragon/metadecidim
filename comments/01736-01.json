@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1051, 
+                "name": "miguel giner bermejo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Portem anys esperant aquesta actuaci\u00f3, a vegades \u00e9s perill\u00f3s circular per aquests carrers</p>", 
+            "commentable_id": 1736, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/02/2016 15:26:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1525, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 4, 
+            "total_votes": 4
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7193, 
+                "name": "Jaime Rivera Rodriguez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tamb\u00e9 veig necessari fer transitable en cotxe la part incial del carrer Canovelles (actualment \u00fanicament  escales). Conectaria aix\u00ed, els carrers Olvan amb la parroquia del barri i amb el carrer elies pages. </p>", 
+            "commentable_id": 1736, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 09:52:56", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2667, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9357, 
+                "name": "nuria b.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aquests murs s\u00f3n molt necessaris. Actualment aquesta part de la ciutat sembla una favela perqu\u00e8 est\u00e0 molt abandonada per l'Ajuntament</p>", 
+            "commentable_id": 1736, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 12:25:13", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9161, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1525", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3029, 
+                "name": "nesquik conleche", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Molt d'acord amb en Miquel</p>", 
+            "commentable_id": 1736, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/02/2016 19:30:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2100, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1525/2100", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6604, 
+                "name": "irene mu\u00f1oz luque", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>molt perillosos</p>", 
+            "commentable_id": 1736, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/02/2016 20:04:13", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2107, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

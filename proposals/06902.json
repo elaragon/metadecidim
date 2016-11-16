@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 15385, 
+            "name": "RBG1981", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 15385, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6902", 
+        "conflictive": false, 
+        "created_at": "27/03/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6902, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Controlar l'ocupaci\u00f3 de vivendes al Barri Bes\u00f2s Mar amb tot el que aix\u00f2 comporta (incivisme, inseguretat...). Tornar els espais p\u00fablics a la gent del barri i no crear guettos, tornar a veure els parcs amb vida i no solitaris i destrossats. Promoure vivendes per als joves que s'han criat al barri i evitar que hagin de marxar d'ell.", 
+        "title": "Retornar el Barri Bes\u00f2s Mar als ve\u00efns", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 21, 
+        "url": "https://decidim.barcelona/pam/proposals/retornar-el-barri-besos-mar-als-veins", 
+        "votable": null, 
+        "voted": null
+    }
+}

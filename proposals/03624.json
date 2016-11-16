@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 9298, 
+            "name": "J. Alberto", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 9298, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3624", 
+        "conflictive": false, 
+        "created_at": "29/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3624, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Mostrar los tiempos de espera del bus en las paradas de metro (en and\u00e9n y en la tele del tren). As\u00ed se sabr\u00e1 si merece la pena bajar del metro en una parada para coger el bus, bajar en la siguiente para coger otro bus que llega antes, o si es mejor bajar en otra para ir andando despu\u00e9s. Sobre todo es \u00fatil para l\u00edneas con poca frecuencia.", 
+        "title": "Mejorar informaci\u00f3n de tiempos de espera en los trasbordos de metro y bus", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 14, 
+        "url": "https://decidim.barcelona/pam/proposals/mejorar-informacion-de-tiempos-de-espera-en-los-trasbordos-de-metro-y-bus", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2897", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2897, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Amb El Born Centre Cultural com a eix principal i amb la participaci\u00f3 dels equipaments municipals de mem\u00f2ria i hist\u00f2ria, desplegar un conjunt de pol\u00edtiques p\u00fabliques de la mem\u00f2ria en el territori-ciutat, i potenciar la participaci\u00f3 ciutadana organitzada (entitats de recerca local, memorialistes...) amb l\u2019objectiu de generar una recerca i reflexi\u00f3 cr\u00edtica sobre la mem\u00f2ria democr\u00e0tica contempor\u00e0nia.", 
+        "title": "Pla de mem\u00f2ria hist\u00f2rica", 
+        "total_comments": 15, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 15, 
+        "total_positive_comments": 0, 
+        "total_votes": 18, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-de-memoria-historica", 
+        "votable": null, 
+        "voted": null
+    }
+}

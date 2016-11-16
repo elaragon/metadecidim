@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 11926, 
+            "name": "John Stone", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 11926, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4783", 
+        "conflictive": false, 
+        "created_at": "13/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://tinyurl.com/jnhgpfq", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4783, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 8, 
+            "name": "Migraci\u00f3, interculturalitat i discriminaci\u00f3 zero", 
+            "position": 8
+        }, 
+        "summary": "Atesa la manca de suport per a la majoria de les lleng\u00fces d\u2019origen, proposem la seg\u00fcent iniciativa municipal: la creaci\u00f3 de casals ling\u00fc\u00edstics al centres c\u00edvics, amb recursos educatius i biblioteques infantils, mitjan\u00e7ant acords per cedir espais a associacions o federacions representatives del fet migratori.\r\n", 
+        "title": "Mesures en suport de les lleng\u00fces d'origen (IV)", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 27, 
+        "url": "https://decidim.barcelona/pam/proposals/mesures-en-suport-de-les-llengues-d-origen-iv", 
+        "votable": null, 
+        "voted": null
+    }
+}

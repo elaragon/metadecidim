@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 13247, 
+            "name": "VqleriaBCN", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 13247, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5456", 
+        "conflictive": false, 
+        "created_at": "17/03/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5456, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Debido a la falta de plazas escolares de infantil, que se evidencia cada a\u00f1o en la creaci\u00f3n de \"bolets\" en las escuelas del barrio, lo cual genera problemas en esas escuelas,  el barrio del Poblenou necesita con urgencia una nueva escuela para el curso que viene (2016-2017), preferiblemente en la l\u00ednea pedag\u00f3gica de escuelas como Fluvi\u00e0.", 
+        "title": "Creaci\u00f3n de una nueva escuela infantil, primaria e instituto en el Poblenou", 
+        "total_comments": 10, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 3, 
+        "total_positive_comments": 6, 
+        "total_votes": 42, 
+        "url": "https://decidim.barcelona/pam/proposals/creacion-de-una-nueva-escuela-infantil-primaria-e-instituto-en-el-poblenou", 
+        "votable": null, 
+        "voted": null
+    }
+}

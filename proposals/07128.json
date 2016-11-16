@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7128", 
+        "conflictive": false, 
+        "created_at": "29/03/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 7128, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Delimitar un \u00e0rea d\u2019esbarjo per a gossos al Parc de Sant Mart\u00ed, al Parc Central del Poblenou, a la Rambla Prim (a la zona encara no urbanitzada), al costat del camp de futbol de Sant Mart\u00ed de Proven\u00e7als (banda de muntanya, els dos triangles a la Gran Via), a Gl\u00f2ries i la Pla\u00e7a de la Palmera. Eliminar la zona a la pla\u00e7a de les Hero\u00efnes de Girona.", 
+        "title": "Reestructurar les \u00e0rees per a gossos al Districte de Sant Mart\u00ed ", 
+        "total_comments": 10, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 10, 
+        "total_positive_comments": 0, 
+        "total_votes": 5, 
+        "url": "https://decidim.barcelona/pam/proposals/reestructurar-les-arees-per-a-gossos-al-districte-de-sant-marti", 
+        "votable": null, 
+        "voted": null
+    }
+}

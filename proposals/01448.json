@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2135, 
+            "name": "Rosa Mateu", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2135, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1448", 
+        "conflictive": false, 
+        "created_at": "04/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://zooxxi.org/ca/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1448, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "El Zoo de BCN tal i com el coneixem ja no \u00e9s \u00e8tic i no correspon a la sensibilitat i reconeixement cientific actual. Hem d'avan\u00e7ar - ara ja urgentment - cap a una altra proposta de zoo. Sense animals empresonats. Que esdevingui una estrat\u00e8gia ambiental i d'orgull de ciutat. Un Zoo m\u00e9s ciutad\u00e0, m\u00e8s cient\u00edfic, m\u00e9s \u00e8tic i m\u00e9s educatiu i divertit. ", 
+        "title": "RECONVERTIM EL ZOO DE BARCELONA: ZOOXXI", 
+        "total_comments": 56, 
+        "total_negative_comments": 4, 
+        "total_neutral_comments": 12, 
+        "total_positive_comments": 34, 
+        "total_votes": 896, 
+        "url": "https://decidim.barcelona/pam/proposals/reconvertim-el-zoo-de-barcelona-zooxxi", 
+        "votable": null, 
+        "voted": null
+    }
+}

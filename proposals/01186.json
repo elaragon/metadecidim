@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 530, 
+            "name": "\u00c8lia", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 530, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1186", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1186, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Seria \u00fatil un web amb tots els esdeveniments relacionats amb la crian\u00e7a i educaci\u00f3 com a grups de lact\u00e0ncia, espais familiars, xerrades, tallers i activitats d'oci per a fam\u00edlies i infants. A Barcelona aix\u00f2 est\u00e0 molt dispers i es dif\u00edcil orientar-se, cercar informaci\u00f3, contactar-ne a les entitats responsables e inscriure's als serveis.", 
+        "title": "Web de recursos d'educaci\u00f3, crian\u00e7a i oci per a fam\u00edlies e infants", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 10, 
+        "url": "https://decidim.barcelona/pam/proposals/web-de-recursos-d-educacio-crianca-i-oci-per-a-families-e-infants", 
+        "votable": null, 
+        "voted": null
+    }
+}

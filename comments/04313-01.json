@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5483, 
+                "name": "Francesc Roma Millan", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta molt interessant a treballar conjuntament amb el CRP Centre de Recursos Pedag\u00f2gics i la direcci\u00f3 de serveis a les persones i al territori del Districte de Gr\u00e0cia</p>", 
+            "commentable_id": 4313, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 10:17:14", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4746, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 886, 
+                "name": "mariano", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Experi\u00e8ncies com aquesta ja es duen a terme, i a m\u00e9s d'innovaci\u00f3 pedag\u00f2gica es busca la construcci\u00f3 de comunitat i la cohesi\u00f3 social</p>\n\n<p><a href=\"https://sites.google.com/a/xtec.cat/aex/home\">https://sites.google.com/a/xtec.cat/aex/home</a></p>", 
+            "commentable_id": 4313, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/04/2016 17:16:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7603, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/projectes-escolars-amb-el-centre-de-recursos-pedagogics\">https://decidim.barcelona/proposals/projectes-escolars-amb-el-centre-de-recursos-pedagogics</a></p>", 
+            "commentable_id": 4313, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 10:38:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15216, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

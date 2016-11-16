@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10815", 
+        "conflictive": false, 
+        "created_at": "11/04/2016", 
+        "district": {
+            "id": 8, 
+            "name": "Nou Barris"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 10815, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Es considera que molta gent fa servir els carrers de Trinitat Nova per accedir a Barcelona i evitar la Meridiana si est\u00e0 col\u00b7lapsada. D'altra banda, molta gent tamb\u00e9 aprofita per aparcar el seu vehicle al barri i agafar des d'all\u00e0 el transport p\u00fablic, fent dif\u00edcil que la gent del barri pugui aparcar-hi", 
+        "title": "Reduir l'impacte del tr\u00e0nsit desviat de la Meridiana cap a Trinitat Nova", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/reduir-l-impacte-del-transit-desviat-de-la-meridiana-cap-a-trinitat-nova", 
+        "votable": null, 
+        "voted": null
+    }
+}

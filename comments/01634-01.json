@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11860, 
+                "name": "Nalberdi", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Les jarrdineres de Santjoanistes s\u00f3n desproporcionadament grans (i, a m\u00e9s, lletges). Fan nosa a vianants i a vehicles. Un desastre!</p>", 
+            "commentable_id": 1634, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/03/2016 17:09:34", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4609, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3770, 
+                "name": "MariaMA", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00daltimament, a m\u00e9s, les jardineres estan tortes. No s\u00e9 si perqu\u00e8 els vehicles els donen cops o perqu\u00e8 directament les aparten. En alguns trams ja no es pot ni passar b\u00e9 entre paret i jardinera.\n<br />Proposo que es canviin per arbrets finets amb l'espai de terra cobert pel t\u00edpic material por\u00f3s perqu\u00e8 tot estigui al mateix nivell que el carrer (sense forat on est\u00e0 la terra). I si no, per les pilones que, tot i que no s\u00f3n la meva soluci\u00f3 preferida estan fixades i deixen prou espai pels vianants.</p>", 
+            "commentable_id": 1634, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 12:33:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9168, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

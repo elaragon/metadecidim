@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2870, 
+            "name": "Xavier ", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2870, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1544", 
+        "conflictive": false, 
+        "created_at": "06/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1544, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Donat l'enorme impacte que tenen els gossos sobre l'estat i les actuacions de neteja sobre la via p\u00fablica, establir una taxa anual sobre la tinen\u00e7a de gossos (les persones amb pocs recursos en podrien estar exempts), que reverteixi directament sobre el pressuport de neteja i permeti incrementar la neteja dels carrers.  ", 
+        "title": "Taxa per tinen\u00e7a de gossos", 
+        "total_comments": 37, 
+        "total_negative_comments": 12, 
+        "total_neutral_comments": 5, 
+        "total_positive_comments": 4, 
+        "total_votes": 97, 
+        "url": "https://decidim.barcelona/pam/proposals/taxa-per-tinenca-de-gossos", 
+        "votable": null, 
+        "voted": null
+    }
+}

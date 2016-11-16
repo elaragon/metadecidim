@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 15446, 
+            "name": "gaetano987", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 15446, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7534", 
+        "conflictive": false, 
+        "created_at": "31/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://www.change.org/p/ajuntament-de-barcelona-propuesta-de-estudio-de-conversi%C3%B3n-del-zoo-de-barcelona?recruiter=65173419&utm_source=share_petition&utm_medium=copylink", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7534, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Proposta d'estudi de conversi\u00f3 del zoo de Barcelona\r\n\r\nProposem a l'Ajuntament que estudi\u00ef la possibilitat de conversi\u00f3 del zoo municipal per tal que, gr\u00e0cies als aven\u00e7os tecnol\u00f2gics, pugui adaptar-se als valors dels quals Barcelona vol ser icona.\r\nhttps://www.change.org/p/ajuntament-de-barcelona-propuesta-de-estudio-de-conversi%C3%B3n-del-zoo-de-b", 
+        "title": "Proposta d'estudi de conversi\u00f3 del zoo de Barcelona", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/proposta-d-estudi-de-conversio-del-zoo-de-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

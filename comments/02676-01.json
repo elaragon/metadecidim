@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5129, 
+                "name": "ManelBello", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Des de l'any 2008, en que es van instaurar les Areas Verdes als Barris de Sant Genis i Montbau, amb la denominaci\u00f3 d'Area Verda Vall d'Hebron, la afluencia de vehicles d'altres barris que alli aparcaban van copar i colapsar las zones del Barri del Parc de la Vall d'Hebron, mes pr\u00f3ximes a les parades de metro de Montbau i Mundet, sense que fins aquet moment s'agi aconseguit la implantaci\u00f3 del Area Verde, tan necesaria. </p>", 
+            "commentable_id": 2676, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 16:42:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1862, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 613, 
+                "name": "Josep M Armengou", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Les \u00e0rees verdes han d'arribar a tots els extrems de la ciutat que encara no les tenen.</p>", 
+            "commentable_id": 2676, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 15:44:34", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4544, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5135", 
+        "conflictive": false, 
+        "created_at": "15/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 5135, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Per exemple, en el nou tram sud de la L\u00ednia 9 el gap entre andana i vag\u00f3 no compleix amb les mides per ser accessible (\u00e9s m\u00e9s gran) i la botonera de l\u2019ascensor \u00e9s poc accessible per una persona amb poca mobilitat als bra\u00e7os.  ", 
+        "title": "Comprovar l\u2019accessibilitat i l\u2019adaptaci\u00f3 correcta dels elements b\u00e0sics del transport p\u00fablic: rampes entre andana i vag\u00f3, ascensors, etc. Evitar que les estacions noves o remodelades tinguin defectes de disseny que perjudiquin la mobilitat.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/comprovar-l-accessibilitat-i-l-adaptacio-correcta-dels-elements-basics-del-transport-public-rampes-entre-andana-i-vago-ascensors-etc-evitar-que-les-estacions-noves-o-remodelades-tinguin-defectes-de-disseny-que-perjudiquin-la-mobilitat", 
+        "votable": null, 
+        "voted": null
+    }
+}

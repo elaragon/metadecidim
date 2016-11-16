@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7190, 
+                "name": "alex.mady", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estoy de acuerdo porque as\u00ed se llevan a cabo medidas de inclusi\u00f3n social, igualdad, ocupaci\u00f3n y respecto por el medio ambiente. </p>", 
+            "commentable_id": 3211, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/02/2016 11:17:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2329, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5483, 
+                "name": "Francesc Roma Millan", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La reducci\u00f3 de residus i la recollida selectiva donen llocs de treball a col\u00b7lectius amb risc d'exclusi\u00f3 sempre que els generadors dels residus estiguem disposats a pagar-ne la seva gesti\u00f3.</p>", 
+            "commentable_id": 3211, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 11:03:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4766, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4766", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7113, 
+                "name": "monicaCevedio", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Este servicio puerta a puerta de recogida y reciclado de aceite vegetal es rentable econ\u00f3micamente y medioambientalmente, disminuye gastos en las incineradoras y sobre todo en las plantas potabilizadoras  de agua, lugares donde se limpia y se trata el agua hasta que est\u00e1 en condiciones adecuadas para el consumo humano.\n<br /> Por tanto, se podr\u00eda solicitar que  el Ayuntamiento y Aguas de Barcelona contribuyan econ\u00f3micamente para volver a tener este servicio en el barrio de Gracia, ya que luego se beneficiar\u00edan de \u00e9l.</p>", 
+            "commentable_id": 3211, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 19:17:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5109, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

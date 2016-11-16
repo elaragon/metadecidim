@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 19775, 
+                "name": "lamunne", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00c9s molt necessari! Resulta un greuge comparatiu respecte altres escoles bressol municipals, ja que el problema no \u00e9s nom\u00e9s durant la migdiada. Quan fa tanta calor al centre, i no es pot sortir al pati perqu\u00e8 fa massa sol, les activitats dins l'aula s\u00f3n inviables</p>", 
+            "commentable_id": 8833, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 12:36:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9179, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11860, 
+                "name": "Nalberdi", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aquesta bressol t\u00e9 les intal\u2022lacions antiquades, li cal un actualitzaci\u00f3, i l'aire pot ser un primer pas...</p>", 
+            "commentable_id": 8833, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 15:49:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9555, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/posar-en-funcionament-l-eb-l-univers-amb-gestio-publica\">https://decidim.barcelona/proposals/posar-en-funcionament-l-eb-l-univers-amb-gestio-publica</a></p>", 
+            "commentable_id": 8833, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 10:49:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15250, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

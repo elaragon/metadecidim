@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4859, 
+                "name": "M. Angels MV", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Visc a la Bordeta, zona on els darrers anys s'ha pacificat el transit, treient zones d'aparcament -ja deficitari- sense donar alternativa tant als veins com als visitants - cal tenir en compte que la majoria d'edificis del barri no disposen de parkings.  Des d'aquesta \"pacificaci\u00f3\" el barri ha perdut part delseu teixit comecial, reducci\u00f3 de vida a la zona, augment de la sensaci\u00f3 d' inseguretat.  I tamb\u00e9 ha dificultat la presencia del trasnport p\u00fablic en aquesta super illa - dins la Super Illa no hi ha Taxis, els autobusos 91 i 115 no funcionen el cap de setana ni festius, tampoc a les nits. </p>", 
+            "commentable_id": 651, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/02/2016 18:03:31", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1549, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12317, 
+                "name": "Valeria oyaga", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Podr\u00edan hacerse alguna calle peatonal, como la calle Hostafrancs.</p>", 
+            "commentable_id": 651, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 11:05:14", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5438, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7955, 
+                "name": "espernallac", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>la superilla d'Hostafrancs oblida completament la zona que queda entre Creu Coberta i Gran Via, i \u00e9s aquesta la que est\u00e0 especialment mancada d'actuacions</p>", 
+            "commentable_id": 651, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 16:21:49", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7433, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

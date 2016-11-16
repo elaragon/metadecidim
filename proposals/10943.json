@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10943", 
+        "conflictive": false, 
+        "created_at": "25/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 10943, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 6, 
+            "name": "Habitatge", 
+            "position": 6
+        }, 
+        "summary": "Aplicar totes les mesures previstes a la Llei de les 3R  i donar-les a con\u00e8ixer la potencialitat de la rehabilitaci\u00f3 energ\u00e8tica i el tipus d'intervencions que facilita la Llei de les 3R, especialment pel que fa a utilitzar escreixos d'edificabilitat per millorar les condicions energ\u00e8tiques dels habitatges.", 
+        "title": "Donar a con\u00e8ixer i aplicar les mesures previstes a la Llei de les 3R (Llei 8/2013 de 26 de juny, de rehabilitaci\u00f3, regeneraci\u00f3 i renovaci\u00f3 urbana)", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/donar-a-coneixer-i-aplicar-les-mesures-previstes-a-la-llei-de-les-3r-llei-8-2013-de-26-de-juny-de-rehabilitacio-regeneracio-i-renovacio-urbana", 
+        "votable": null, 
+        "voted": null
+    }
+}

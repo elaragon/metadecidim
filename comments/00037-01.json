@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10703, 
+                "name": "suport decidim.barcelona2", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda al Consell Sectorial de Cultura de Gr\u00e0cia: \"- Potenciar la transversalitat de les propostes culturals amb la creaci\u00f3 d\u2019una coordinaci\u00f3 que posi en contacte la cultura, l\u2019educaci\u00f3 i els diferents equipaments per tal d\u2019organitzar activitats conjuntament i facilitar la posada en com\u00fa d\u2019idees. \n<br />- Crear un cicle de cant coral i m\u00fasica esc\u00e8nica.\n<br />- Realitzar espectacles teatrals de petit format a les biblioteques per tal de fomentar la lectura d\u2019obres d\u2019autors i autores catalanes.\"\n</p>", 
+            "commentable_id": 37, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 14:06:34", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6757, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 873, 
+            "name": "Ernesto", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 873, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3857", 
+        "conflictive": false, 
+        "created_at": "04/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3857, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 12, 
+            "name": "Ocupaci\u00f3 de qualitat", 
+            "position": 4
+        }, 
+        "summary": "Es tractaria de dignificar la persona que rep les ajudes, revisar l'actual sistema d'ajuts, beques i subvencions. La contrapartida, treballs que benefici\u00efn a la comunitat, menjadors escolars, atencions a la tercera edat, serveis municipals. Les premisses: dignificaci\u00f3, integraci\u00f3 i repercussi\u00f3 dels beneficis a la societat.", 
+        "title": "Ajudes, beques i subvencions x treballs socials o que beneficiin a la comunitat.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 8, 
+        "url": "https://decidim.barcelona/pam/proposals/ajudes-beques-i-subvencions-x-treballs-socials-o-que-beneficiin-a-la-comunitat", 
+        "votable": null, 
+        "voted": null
+    }
+}

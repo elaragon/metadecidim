@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1401, 
+                "name": "Lena", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>hi cal tamb\u00e9 un carril bici.</p>", 
+            "commentable_id": 1523, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 10:22:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 888, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2694, 
+                "name": "Albert pf", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Convertim-lo en un veritable Passeig per la gent del barri, i no un circuit de curses per a cotxes i motos com \u00e9s ara. Hi passen pocs vehicles, per aix\u00f2 molts van a gran velocitat, sense radars ni controls. Deixem espai als ciclistes. Disminuim els perills dels vehicles que hi passen a alta velocitat i la exagerada contaminaci\u00f3 ac\u00fastica que generen. Donem salut al barri! La zona 30 al Passeig Maragall no generaria ni embussos ni retencions. Trigar sols un minut m\u00e9s per circular-la a canvi de la salut i el confort de tot un barri.</p>", 
+            "commentable_id": 1523, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/02/2016 00:46:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1013, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 613, 
+                "name": "Josep M Armengou", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Crec que no pertoca la zona 30 a Maragall. S\u00ed, en canvi, a 40 o 50 m\u00e0xim, i en conson\u00e0ncia amb la reducci\u00f3 de cotxes a tota la ciutat. Fonamental un carri bici a cal\u00e7ada</p>", 
+            "commentable_id": 1523, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 15:12:10", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4537, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16111, 
+                "name": "sergimasmejor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Millor treure el transit</p>", 
+            "commentable_id": 1523, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 13:21:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6970, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

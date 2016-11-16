@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1734, 
+                "name": "Cristina Palou Moreno", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Lo que deber\u00eda haber es un registro gen\u00e9tico de todos los perros, de forma que aunque no se cace al due\u00f1o en el momento, se pueda multar...\n<br />Yo tengo perro y detesto a los guarros que no lo recogen. A muchos de ellos los increpo y la mayor\u00eds lo recogen... pero algunos otros se marchan como si tal cosa</p>", 
+            "commentable_id": 1270, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/02/2016 18:41:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 465, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9821, 
+                "name": "marina puig", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>I pixats tamb\u00e9!! Tots amb el motxo!! o b\u00e9 que ho facin a casa...</p>", 
+            "commentable_id": 1270, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/03/2016 22:41:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3277, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 613, 
+                "name": "Josep M Armengou", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No \u00e9s operatiu ni possible, per raons \u00f2bvies. Els inc\u00edvics saben perfectament que ho s\u00f3n i com evitar ser vistos. Si els veiem la resta de ciutadans (no pot fer-ho la Gu\u00e0rdia Urbana), els hem d'instar a recollir la defecaci\u00f3 i a no pixar a parets i espais a l'al\u00e7ada de criatures.</p>", 
+            "commentable_id": 1270, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 13:50:31", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9385, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

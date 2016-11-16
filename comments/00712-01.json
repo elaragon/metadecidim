@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5046, 
+                "name": "Eva C-V Tremosa", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Nost\u00e0lgia del Sarri\u00e0 dels fusters i les botigues on et coneixen de tota la vida.  Que no acabin de desapar\u00e8ixer els quatre que queden. Defensem el nostre comer\u00e7!</p>", 
+            "commentable_id": 712, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/04/2016 11:38:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7573, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/mapeig-d-oficis-artesanals-o-historics\">https://decidim.barcelona/proposals/mapeig-d-oficis-artesanals-o-historics</a></p>", 
+            "commentable_id": 712, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/04/2016 16:22:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12979, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/promocio-i-difusio-dels-comercos-de-proximitat\">https://decidim.barcelona/proposals/promocio-i-difusio-dels-comercos-de-proximitat</a></p>", 
+            "commentable_id": 712, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/04/2016 16:28:21", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12986, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

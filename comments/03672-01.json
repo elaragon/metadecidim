@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6185, 
+                "name": "M.Mateu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Suposo que amb el DNI ja bastaria, oi? El que cal es la voluntat d'implantar-ho!</p>", 
+            "commentable_id": 3672, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/03/2016 16:30:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3195, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9517, 
+                "name": "bcnmarinero", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Podr\u00eda ser el DNI o podria ser una targeta que a la vegada fos carnet de biblioteca, carnet del Bicing si fos abonat...</p>", 
+            "commentable_id": 3672, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/03/2016 17:27:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3211, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9821, 
+                "name": "marina puig", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>I es podrien arribar a integrar serveis fins i tot comuns amb altres administracions. Per exemple, una persona discapacitada (p.ex. amb el 33% i que t\u00e9 dtes), que en aquesta targeta tb const\u00e9s, aix\u00ed com la targeta rosa dels jubilats, i que s'hi puguin integrar els comer\u00e7os. P.ex. si s\u00f3c soci d'un cinema, doncs que el mateix carnet serveixi (amb algun tipus de xip...no se, hi ha maneres per fer-ho). o que es pugues fins i tot implantar als smarphones que d'aqu\u00ed a res ho farem tot a trav\u00e9s d'ells, i ja es podria expandir a les targetes de transport, entre altres.</p>", 
+            "commentable_id": 3672, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/03/2016 20:50:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3238, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8875, 
+                "name": "Rafael001", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hi estic d'acord, per\u00f2 el que cal de veritat \u00e9s que les condicions (topalls) per a poder gaudir dels beneficis d'\u00e9sser barcelon\u00ed siguin molt menys restrictives, no com ara ho s\u00f3n, per exemple, les del transport urb\u00e0 en comparaci\u00f3 a les de fa cinc anys.  </p>", 
+            "commentable_id": 3672, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/03/2016 08:48:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3293, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

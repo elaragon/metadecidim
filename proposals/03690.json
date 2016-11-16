@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3690", 
+        "conflictive": false, 
+        "created_at": "01/03/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 3690, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 4, 
+            "name": "Equitat de g\u00e8nere i diversitat sexual", 
+            "position": 4
+        }, 
+        "summary": "Continuar implementant un projecte singular de g\u00e8nere al Centre C\u00edvic Sagrada Fam\u00edlia, i  impulsar que en tots els Centres C\u00edvics incorporin la perspectiva de g\u00e8nere i les bones pr\u00e0ctiques. En aquest sentit, tamb\u00e9 tenir en compte les especificitats de les dones, \u00e9s a dir, vetllar perqu\u00e8 hi hagi serveis per a les dones per a que puguin fer activitat", 
+        "title": "Continuar implementant un projecte singular de g\u00e8nere al Centre C\u00edvic Sagrada Fam\u00edlia, aix\u00ed com tamb\u00e9 impulsar que en tots els Centres C\u00edvics incorporin la perspectiva de g\u00e8nere.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 14, 
+        "url": "https://decidim.barcelona/pam/proposals/continuar-implementant-un-projecte-singular-de-genere-al-centre-civic-sagrada-familia-aixi-com-tambe-impulsar-que-en-tots-els-centres-civics-incorporin-la-perspectiva-de-genere", 
+        "votable": null, 
+        "voted": null
+    }
+}

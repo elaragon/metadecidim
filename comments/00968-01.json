@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1970, 
+                "name": "red albert", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>D'acord. I promoure tamb\u00e9 nous models d'habitatges (cesions d'\u00fas, cooperatives de gent jove, de gent gran, ... amb zones compartides i models escandinaus en la l\u00ednia de \"Sostre C\u00edvic\" i similars) aix\u00ed com promoure tamb\u00e9 la construcci\u00f3 pendent d'equipaments per part de les diferents Administracions (i no nom\u00e9s l'Ajuntament) empla\u00e7ant-les i insistint-les</p>", 
+            "commentable_id": 968, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 13:43:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 803, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2208, 
+                "name": "Maribel can 70", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalmente d'acord .Promoure habitatges  (cesiones d'\u00fas, cooperativas de gente gran....amb zones compartidos i modelos de Sostre civic i similars)sido con altres equipaments al serveii de les persones</p>", 
+            "commentable_id": 968, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 20:02:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 989, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

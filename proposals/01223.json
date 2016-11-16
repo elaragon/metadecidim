@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 810, 
+            "name": "Joan Busquet", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 810, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1223", 
+        "conflictive": false, 
+        "created_at": "02/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1223, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 21, 
+            "name": "Defensa i protecci\u00f3 dels Drets Humans", 
+            "position": 9
+        }, 
+        "summary": "Facilitar la constituci\u00f3 de plataformes d\u2019informaci\u00f3 ciutadana als barris de la ciutat perqu\u00e8 els col\u00b7lectius ve\u00efnals i les organitzacions c\u00edviques que vulgin compartir informacions i fer-les p\u00fabliques a trav\u00e9s de les xarxes socials i dels diferents mitjans i formats al seu abast comptin amb l\u2019assessorament i els recursos municipals.", 
+        "title": "Garantir a la ciutadania el dret a la informaci\u00f3 i la comunicaci\u00f3. ", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 21, 
+        "url": "https://decidim.barcelona/pam/proposals/garantir-a-la-ciutadania-el-dret-a-la-informacio-i-la-comunicacio", 
+        "votable": null, 
+        "voted": null
+    }
+}

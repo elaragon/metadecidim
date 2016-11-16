@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 14120, 
+            "name": "Darth Vader", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 14120, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6026", 
+        "conflictive": false, 
+        "created_at": "19/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://ca.wikipedia.org/wiki/Estrella_de_la_Mort", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6026, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 12, 
+            "name": "Ocupaci\u00f3 de qualitat", 
+            "position": 4
+        }, 
+        "summary": "L'Estrella de la Mort (veure foto http://bit.ly/1MgRlVd) \u00e9s ficci\u00f3 en aquests moments per\u00f2 no t\u00e9 perqu\u00e8 ser-ho en el futur.\r\nLa ciutat de Barcelona \u00e9s un referent a nivell mundial, un projecte d'aquesta natura mostraria arreu l'esperit emprenedor i d'autosuperaci\u00f3 de la ciutat a m\u00e9s de crear llocs de treball altament qualificats a la ciutat.", 
+        "title": "Construcci\u00f3 de la primera Estrella de la Mort completament funcional", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/construccio-de-la-primera-estrella-de-la-mort-completament-funcional", 
+        "votable": null, 
+        "voted": null
+    }
+}

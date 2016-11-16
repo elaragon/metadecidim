@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8697, 
+                "name": "Jaume Artigues Vidal", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>totalment d'acord... S'hauran de fer uns quants canvis de direcci\u00f3 per\u00f2 es perfectament possible.</p>", 
+            "commentable_id": 1673, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/03/2016 22:59:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4721, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4127, 
+                "name": "Vilaseca Miro David", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es podria fer la Via Laietana nom\u00e9s de baixada, amb menys carrils i peatonalitzar Jonqueres. Seria una bona manera d'arreglar el problema. En paral.lel, es podrien sincronitzar millor els sem\u00e0fors de Passeig Picasso i Arc de Triomf, com a alternativa de pujada pels cotxes, fent una mica m\u00e9s de volta, per\u00f2 factible.</p>", 
+            "commentable_id": 1673, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/04/2016 23:56:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7638, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17808, 
+                "name": "susana abella", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>S\u00f3c treballadora del Teatre Borr\u00e0s, i l'\u00falltim tram del carrer dona a la paret lateral de la platea del Teatre. Aix\u00f2 fa que durant les funci\u00f3ns escoltem molt el tr\u00e0nsit, ja que al fer pujada, el conductor ha de pr\u00e8mer m\u00e9s l'accelerador en aquell tram, amb el conseq\u00fcent augment de la velocitat, del soroll i de la contaminaci\u00f3,  per no parlar de quan passa un autob\u00fas o una ambul\u00e0ncia. Es bastant molest pels l'espectadors i pels actors que hi estan actuant. La soluci\u00f3 seria fer la Via Laietana de doble sentit amb nom\u00e9s un carril fins a la Pl. Urquinaona, ampliar les aceres, i fer Jonqueres peatonal. Els que vivim o treballem en aquell carrer ho agrairiem molt.   </p>", 
+            "commentable_id": 1673, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/04/2016 14:12:01", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7760, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

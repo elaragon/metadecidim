@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2895", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2895, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Crear una programaci\u00f3 regular i estable que ofereixi propostes innovadores a tots els barris de la ciutat, que prevegin no nom\u00e9s l'exhibici\u00f3, sin\u00f3 tamb\u00e9 els processos de treball, les pr\u00e0ctiques col\u00b7laboratives, la recerca i la creaci\u00f3.", 
+        "title": "Pla de foment de la cultura de proximitat, la descentralitzaci\u00f3 i el reequilibri territorial que desplegui programes espec\u00edfics de suport al comer\u00e7 cultural de proximitat", 
+        "total_comments": 9, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 9, 
+        "total_positive_comments": 0, 
+        "total_votes": 13, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-de-foment-de-la-cultura-de-proximitat-la-descentralitzacio-i-el-reequilibri-territorial-que-desplegui-programes-especifics-de-suport-al-comerc-cultural-de-proximitat", 
+        "votable": null, 
+        "voted": null
+    }
+}

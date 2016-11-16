@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13962, 
+                "name": "AGUICAT", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": false
+            }, 
+            "body": "<p>Roma, Flor\u00e8ncia etc ja les cobren.</p>", 
+            "commentable_id": 7565, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 23:35:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8145, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

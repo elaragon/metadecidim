@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 21570, 
+                "name": "Jordi Callej\u00f3n", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d\u00b4acord, aquesta pista ha de tornar a gestionar-la el barri, oberta i per tots, al igual que un parc, s\u00b4obre de dia i es tanca de nit.\n<br />Us public com havia sigut sempre.</p>", 
+            "commentable_id": 4257, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 16:08:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11086, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

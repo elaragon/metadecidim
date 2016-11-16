@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 23, 
+            "name": "thaisita", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 23, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1568", 
+        "conflictive": false, 
+        "created_at": "07/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1568, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Que Barcelona sigui coneguda al m\u00f3n sencer per ser una ciutat music friendly, er m\u00e9s tolerants als espais p\u00fablics  (sense permisos)  i  dotar als  espais on hi ha espectacles en directe d' una regulaci\u00f3 especial, on no no m\u00e8s el criteri dels veins sigui qui tingui m\u00e9s import\u00e0ncia.", 
+        "title": "M\u00e9s m\u00fasica a la ciutat: al exterior/als carrers i dintre dels bars", 
+        "total_comments": 5, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 35, 
+        "url": "https://decidim.barcelona/pam/proposals/mes-musica-a-la-ciutat-al-exterior-als-carrers-i-dintre-dels-bars", 
+        "votable": null, 
+        "voted": null
+    }
+}

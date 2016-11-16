@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 21570, 
+                "name": "Jordi Callej\u00f3n", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aquest casal de joves podria estar ubicat al estil del nou que es far\u00e0 a Ca l\u00b4Isidret, un equipament que es cmpossi de casal de joves, casal d\u00b4avis, habitatges assistits i habitatge per a joves.\n<br />4 necessitats solventades en una. Amb una al\u00e7ada no superior a dos plantes i l ubicaci\u00f3 al triangle entre avinguda diagonal, carrer llull i Selva de mar, triangle municipal que serveix per a  aparcament de cotxes.</p>", 
+            "commentable_id": 4253, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 15:41:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11015, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8213", 
+        "conflictive": false, 
+        "created_at": "04/04/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8213, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Les multes c\u00edviques consisteixen en que les conseq\u00fc\u00e8ncies dels actes inc\u00edvics siguin a trav\u00e9s de treball comunitari (i no multes diner\u00e0ries) com a reeducaci\u00f3 i no com a c\u00e0stig. Tamb\u00e9 fer difusi\u00f3 que aquestes multes c\u00edviques s'aplicaran en els casos i en les conductes corresp", 
+        "title": "Pres\u00e8ncia d'agents c\u00edvics en horaris d'oci i aplicaci\u00f3 de multes c\u00edviques. ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/presencia-d-agents-civics-en-horaris-d-oci-i-aplicacio-de-multes-civiques", 
+        "votable": null, 
+        "voted": null
+    }
+}

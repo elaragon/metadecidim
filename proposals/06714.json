@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6714", 
+        "conflictive": false, 
+        "created_at": "24/03/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 6714, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Recuperar la Torre del Moro per acollir un centre de divulgaci\u00f3 de dels elements\r\npatrimonials de l\u2019aigua. Realitzar itineraris de la transmissi\u00f3 del coneixement de \r\nl\u2019aigua: Les mines de Can Trevi, aq\u00fceductes, basses, mines, pous, dip\u00f2sits...).", 
+        "title": "Espai d\u2019interpretaci\u00f3 de l\u2019aigua a la Torre del Moro Alt", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 6, 
+        "url": "https://decidim.barcelona/pam/proposals/espai-d-interpretacio-de-l-aigua-a-la-torre-del-moro-alt", 
+        "votable": null, 
+        "voted": null
+    }
+}

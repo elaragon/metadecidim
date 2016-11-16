@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8061, 
+            "name": "Se\u00f1or Gris", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 8061, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3387", 
+        "conflictive": false, 
+        "created_at": "24/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://www.facebook.com/groups/1713216155579605/?fref=ts", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3387, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 13, 
+            "name": "Turisme sostenible", 
+            "position": 5
+        }, 
+        "summary": "La vivienda ha de ser digna y por ende ha de estar fuera del mercado. La vivienda es un bien de primera necesidad, b\u00e1sico y esencial. El \"negocio\" de los pisos tur\u00edsticos tira por tierra las anteriores premisas. La especulaci\u00f3n, la inseguridad y las humillantes molestias a las que los vecinos se ven sometidos, los expulsa. Los barrios desaparecen. ", 
+        "title": "Abolici\u00f3n de todos los pisos tur\u00edsticos.", 
+        "total_comments": 41, 
+        "total_negative_comments": 6, 
+        "total_neutral_comments": 3, 
+        "total_positive_comments": 15, 
+        "total_votes": 87, 
+        "url": "https://decidim.barcelona/pam/proposals/abolicion-de-todos-los-pisos-turisticos", 
+        "votable": null, 
+        "voted": null
+    }
+}

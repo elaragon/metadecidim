@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4230", 
+        "conflictive": false, 
+        "created_at": "07/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 4230, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Equiparar la condici\u00f3 d\u2019aquestes persones amb el servei que existeix per a la gent gran. Sovint les places existeixen en llars de resid\u00e8ncia de fundacions i entitats per\u00f2 no poden oferir-les perqu\u00e8 no poden assumir la despesa si la pla\u00e7a no est\u00e0 permanentment ocupada. Utilitzar equipaments ja existents que per manca de subvenci\u00f3 no estan funcionant", 
+        "title": "Crear places d\u2019urg\u00e8ncia o serveis domiciliaris d\u2019urg\u00e8ncia per evitar que  les persones que necessiten atenci\u00f3 es quedin soles quan es donen situacions imprevistes.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 17, 
+        "url": "https://decidim.barcelona/pam/proposals/crear-places-d-urgencia-o-serveis-domiciliaris-d-urgencia-per-evitar-que-en-situacions-imprevistes-les-persones-que-necessiten-atencio-es-quedin-soles", 
+        "votable": null, 
+        "voted": null
+    }
+}

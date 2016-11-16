@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8920", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8920, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 17, 
+            "name": "Energia i canvi clim\u00e0tic", 
+            "position": 5
+        }, 
+        "summary": "\u00adConvindria una pedagogia energ\u00e8tica i assessoria a les comunitats de ve\u00efns. Posar a disposici\u00f3 eines pel coneixement del consum energ\u00e8tic (per exemple eina \"calculadora cost vehicle Vs. temps de treball\" de autocost.org) per tal d\u2019empoderar a la ciutadania i sector empresarial. Cultura i conscienciaci\u00f3 dels recursos locals.\r\n", 
+        "title": "Assessorar i empoderar en aspectes energ\u00e8tics als ve\u00efns i ve\u00efnes", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/assessorar-i-empoderar-en-aspectes-energetics-als-veins-i-veines", 
+        "votable": null, 
+        "voted": null
+    }
+}

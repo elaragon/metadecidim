@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6739, 
+                "name": "Salvador Barrau V.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Evidentment s\u00f3n dos serveis diferents per\u00f2, complementaris, els quals s'han d'ampliar. Recordar que les tecnologies avancen i la fibra \u00f2ptica ajudaria a crear un circuit de control amb aparells adients des del control del CAP m\u00e8dic,(o empresa publica o concertada) solament s'ha de crear aquest concepte amb  noves tecnologies pel benestar dels malats i de la gent gran. Seria com el \"radars\" al moment, i m\u00e9s efica\u00e7os. Caldria no obstant un protocol legals de privacitat.</p>", 
+            "commentable_id": 3161, 
+            "commentable_type": "Proposal", 
+            "created_at": "19/02/2016 12:46:34", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2145, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9464, 
+                "name": "MariaC. L\u00f3pez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Les necessitats d'atenci\u00f3 domicili\u00e0ria poden  ser diverses: sanit\u00e0ries (cures), ajuda per les activitat de la vida di\u00e0ria (alimentaci\u00f3, higiene), solitud (voluntariat)</p>", 
+            "commentable_id": 3161, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/02/2016 21:23:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3100, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 23324, 
+                "name": "Lola Port", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>S'hauria de restringir l'acc\u00e9s en cotxe d'alguna manera, o dirigir-los nom\u00e9s pels carrers m\u00e9s amples des de i cap a rondes, el que no hauria de passar s\u00f3n els col\u00b7lapses que hi ha tots els dissabtes especialment per les tardes, s'hauria de regular l'acc\u00e9s, si la GuB no ho pot assumir se li pot demanar al propi centre comercial, com una part dels serveis de seguretat privada.\n<br />Tamb\u00e9 es podrien posar elements en cal\u00e7ada per evitar que els cotxes que circulen pel carrer Palomar baixin a gran velocitat posant en perill als peatons.</p>", 
+            "commentable_id": 1542, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 20:12:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12634, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

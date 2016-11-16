@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 3717, 
+            "name": "Salvador Pastor Blasco", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 3717, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5155", 
+        "conflictive": false, 
+        "created_at": "15/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5155, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "negociar  y consensuar con la familia bala\u00f1\u00e1 y darle el permiso , para que  este equipamiento,sea un multiuso,donde durante todo el a\u00f1o,haya una pista y tobojan de hielo y nieve.con espacio donde se pudean hacer actos c\u00edvicos culturales,musicales etc. y en la parte interior,al igual que est\u00e1 el museo taurino,en los espacios libres, los souvenirs ", 
+        "title": "reconventir equipamiento privado de la plaza de toros monumental", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/reconventir-equipamiento-privado-de-la-plaza-de-toros-monumental", 
+        "votable": null, 
+        "voted": null
+    }
+}

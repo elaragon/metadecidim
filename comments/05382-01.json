@@ -1,0 +1,209 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13084, 
+                "name": "cbl", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>M'agraden m\u00e9s els tramvies normals, a peu de carrer.</p>", 
+            "commentable_id": 5382, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 19:21:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5320, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13765, 
+                "name": "mam", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ja tenim models de tramvies bonics a Barcelona que fins i tot els turistes els fan moltes fotos, no necessitem model futuristes de ci\u00e8ncia-ficci\u00f3, a m\u00e9s el necessitem ja, per tant un tramvia dels que ja existeixen, no hem d'esperar a que s'inventi, es vagin fent proves sense diners per investigaci\u00f3, i axi\u00ed van passant anys i anys i nosaltres sense transport p\u00fablic adequat.</p>", 
+            "commentable_id": 5382, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 20:30:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5659, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14496, 
+                "name": "lily", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Una idea magn\u00edfica. S'han d'estudiar totes les propostes.</p>", 
+            "commentable_id": 5382, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 15:55:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6160, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "5320", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13028, 
+                "name": "Poropo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A mi m'agradaria tenir  els dos trams de tramvia connectats i que no hi hagi m\u00e9s tr\u00e1fic ni dificultats a la Diagonal .</p>", 
+            "commentable_id": 5382, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 17:16:56", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5601, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "5659", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13028, 
+                "name": "Poropo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Per\u00f2 la idea no \u00e9s que aquest tramvia fos una atracci\u00f3 tur\u00edstica, ha de ser el projecte m\u00e9s funcional possible i una de les contres que t\u00e9 la proposta del tramvia cl\u00e0ssic \u00e9s que afectaria el tr\u00e0fic de vehicles donant m\u00e9s congesti\u00f3 i problemes de tr\u00e0nsit que l'actual. Igual que es gasten diners en fer estudis de viabilitat per una xarxa de bus el\u00e8ctric, tram subterrani i altres alternatives al tram aquesta crec que s'hauria de mirar.</p>", 
+            "commentable_id": 5382, 
+            "commentable_type": "Proposal", 
+            "created_at": "23/03/2016 20:34:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6418, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "6160", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13028, 
+                "name": "Poropo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Merci! Encara que fos denegada m'agradaria que la proposta fos escoltada i estudiada :)\n</p>", 
+            "commentable_id": 5382, 
+            "commentable_type": "Proposal", 
+            "created_at": "23/03/2016 20:28:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6417, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

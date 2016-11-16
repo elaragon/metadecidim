@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3949", 
+        "conflictive": false, 
+        "created_at": "04/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 3949, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": " Per exemple la parada de metro d\u2019Urquinaona encara no \u00e9s accessible.\r\nTamb\u00e9 caldria revisar el disseny i ubicaci\u00f3 de les parades del bus ja que de vegades hi ha mobiliari urb\u00e0 que impedeix o dificulta l\u2019acc\u00e9s.\r\nEn aquesta mateixa l\u00ednia instal\u2022lar plataformes all\u00e0 on sigui necessari per facilitar l\u2019acc\u00e9s als busos", 
+        "title": "Garantir l\u2019accessibilitat al transport p\u00fablic.", 
+        "total_comments": 4, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 1, 
+        "total_votes": 11, 
+        "url": "https://decidim.barcelona/pam/proposals/garantir-l-accessibilitat-al-transport-public", 
+        "votable": null, 
+        "voted": null
+    }
+}

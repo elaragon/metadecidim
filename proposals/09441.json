@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9441", 
+        "conflictive": false, 
+        "created_at": "07/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9441, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 8, 
+            "name": "Migraci\u00f3, interculturalitat i discriminaci\u00f3 zero", 
+            "position": 8
+        }, 
+        "summary": "Aquest col\u00b7lectiu requereix d'una atenci\u00f3 especialitzada per part de l'Ajuntament, en coordinaci\u00f3 amb serveis socials.", 
+        "title": "Impulsar actuacions espec\u00edfiques adre\u00e7ades a la poblaci\u00f3 gitana de l'est, coordinant l'actuaci\u00f3 dels serveis socials, EAIA i SISPA", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/impulsar-actuacions-especifiques-adrecades-a-la-poblacio-gitana-de-l-est-coordinant-l-actuacio-dels-serveis-socials-eaia-i-sispa", 
+        "votable": null, 
+        "voted": null
+    }
+}

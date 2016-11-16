@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4971, 
+                "name": "ECOM", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": true
+            }, 
+            "body": "<p>Us expliquem, m\u00e9s \u00e0mpliament, la nostra proposta:\n<br />-\tDisposar d\u2019una borsa actualitzada d\u2019habitatges accessibles p\u00fablics i privats, tant de compra com de lloguer\n<br />-\tCrear un sistema \u00e0gil de permuta entre pisos inaccessibles a accessibles.</p>", 
+            "commentable_id": 1773, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 10:53:26", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7340, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

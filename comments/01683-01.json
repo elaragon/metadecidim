@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1696, 
+                "name": "ventura", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es una medida a mi entender urgente no es soportable des del punt de vista ambiental est\u00e8tic saludable etc.</p>", 
+            "commentable_id": 1683, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/02/2016 19:51:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1574, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 405, 
+                "name": "San tito", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ja existeix una normativa que especifica tot aix\u00f2...  Un altre cosa es que les autoritats ho permetin i no ho vigilin.\n<br />De qualsevol manera es denunciable l'instal.laci\u00f3 d'un aparell en un pat\u00ed interior m\u00e9s encara si molesta... Afagir\u00e9 que abans de ser instal.lat l'aire condicionat, el propietari del pis ha d'informar i demanar perm\u00eds a la comunitat de ve\u00efns i  arribar a un acord amb el 100% dels ve\u00efns.</p>", 
+            "commentable_id": 1683, 
+            "commentable_type": "Proposal", 
+            "created_at": "23/02/2016 14:09:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2465, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2465", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8218, 
+                "name": "maga", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>pero a vegades molesten els aparells de just la finca del costat...</p>", 
+            "commentable_id": 1683, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 01:08:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4062, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

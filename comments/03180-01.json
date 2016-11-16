@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7470, 
+                "name": "Arnau Montserrat", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No \u00e9s una decisi\u00f3 exclusiva de la ciutat, per\u00f2 el pes de l'Ajuntament de Barcelona en el consorci que goberna el parc \u00e9s suficient per redefinir el proc\u00e9s i garantir per fi una protecci\u00f3 s\u00f2lida i ampliada per Collserola. Si fins ara ha estat fonamental per l'equilibri ecol\u00f2gic de la ciutat, en un futur proper de previsible augment de les temperatures i descens de la pluviometria degut al canvi clim\u00e0tic, ho ser\u00e0 encara m\u00e9s.</p>", 
+            "commentable_id": 3180, 
+            "commentable_type": "Proposal", 
+            "created_at": "23/02/2016 10:39:37", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2442, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

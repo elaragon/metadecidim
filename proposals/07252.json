@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7252", 
+        "conflictive": false, 
+        "created_at": "29/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/meetings/escola-pia-sant-antoni", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 7252, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "A la cita presencial de l'Escola Pia Sant Antoni es va proposar crear un p\u00e0rquing de bicicletes tancat a dins l'escola per tal de no deixar-les al carrer on sovint les roben o destrossen. Els alumnes que vulguin deixar la bicicleta en aquest p\u00e0rquing podrien tenir un carnet i aix\u00ed assegurar un cert control de persones que deixen la bicicleta. ", 
+        "title": "Creaci\u00f3 de p\u00e0rquings de bicicletes a les escoles  ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/creacio-de-parquings-de-bicicletes-a-les-escoles", 
+        "votable": null, 
+        "voted": null
+    }
+}

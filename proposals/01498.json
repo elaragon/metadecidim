@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 85, 
+            "name": "kerouack", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 85, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1498", 
+        "conflictive": false, 
+        "created_at": "05/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1498, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "El metro funciona hasta las 12 en d\u00eda de diario, lo cual implica dejar la actividad que est\u00e9s realizando a las 23:30 para no perder el \u00faltimo metro. Teniendo en cuenta las costumbres de los ciudadanos y la cantidad de actividades que se realizan en esos horarios, creo que lo l\u00f3gico es que hubiera metro al menos hasta la 01:00 .\r\n", 
+        "title": "Ampliar el horario de metro en d\u00edas de diario", 
+        "total_comments": 4, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 3, 
+        "total_positive_comments": 1, 
+        "total_votes": 114, 
+        "url": "https://decidim.barcelona/pam/proposals/ampliar-el-horario-de-metro-en-dias-de-diario", 
+        "votable": null, 
+        "voted": null
+    }
+}

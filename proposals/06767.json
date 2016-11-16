@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 12009, 
+            "name": "Associacio Catalana per la Defensa de la Sanitat P\u00fablica", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 12009, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6767", 
+        "conflictive": false, 
+        "created_at": "24/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6767, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 26, 
+            "name": "Govern transparent  i rendici\u00f3 de comptes", 
+            "position": 1
+        }, 
+        "summary": "Recollida de les reclamacions i difusi\u00f3 de les mateixes entre els participants en el Consell de Salut del Dsitricte, incloent els representants de les associacions de ve\u00efns per el seu estudi i valoraci\u00f3", 
+        "title": "Valoraci\u00f3 de les reclamacions als centres anitaris del districte en els Consells de Salut", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/valoracio-de-les-reclamacions-als-centres-anitaris-del-districte-en-els-consells-de-salut", 
+        "votable": null, 
+        "voted": null
+    }
+}

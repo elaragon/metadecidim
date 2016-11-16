@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6658, 
+                "name": "Angel H", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El que haurien de connectar es la linia de metro de Trinitat nova amb Trinitat vella.</p>", 
+            "commentable_id": 811, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/02/2016 08:46:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2304, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5159, 
+                "name": "lucinio", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Y al barrio de Vallbona </p>", 
+            "commentable_id": 811, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 00:20:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2644, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5159, 
+                "name": "lucinio", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Trinitat Nova y Trinitat Vella ten\u00eda que estar conectada con muchos m\u00e1s pasos de peatones en la meridiana, pacificando la zona. </p>", 
+            "commentable_id": 811, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/02/2016 21:09:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3097, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12048, 
+                "name": "Perot", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tot el que sigui visibilitzar la Trinitat Vella i Nova ... t\u00e9 ra\u00f3 de ser... Sembla que el par\u00e0metres de la quinta forca encara funcionen en el segle XXI.</p>", 
+            "commentable_id": 811, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/03/2016 23:32:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4726, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

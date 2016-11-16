@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-929", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 929, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "S\u2019establir\u00e0 una l\u00ednia de subvencions per ambientalitzar els establiments i la gesti\u00f3 dels comer\u00e7os: estalvi d\u2019energia, efici\u00e8ncia energ\u00e8tica, prevenci\u00f3 de residus, millora de la recollida selectiva, reducci\u00f3 del consum d\u2019aigua, reducci\u00f3 de la contaminaci\u00f3, mobilitat sostenible, etc\u00e8tera.", 
+        "title": "Modernitzaci\u00f3 ecol\u00f2gica del comer\u00e7", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 37, 
+        "url": "https://decidim.barcelona/pam/proposals/modernitzacio-ecologica-del-comerc", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,242 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": true, 
+                "hidden": false, 
+                "id": 7164, 
+                "name": null, 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acrod, pero tot aix\u00f2 ha de venir juntament amb la creaci\u00f3 de la infraestructura necesaria per carregar tots aquests vehicles</p>", 
+            "commentable_id": 1591, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/02/2016 09:19:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2308, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 4, 
+            "total_votes": 4
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8202, 
+                "name": "Alex Murphy", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Prohibir prohibir prohibir, al final crearem una societat que estar\u00e0 tot prohibit com \u00e8poques dictatorials.  \u00c9s millor impulsar, crear, educar... </p>", 
+            "commentable_id": 1591, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/02/2016 09:13:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2935, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 2, 
+            "total_likes": 1, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10282, 
+                "name": "V\u00edctor GC", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Una altra proposta relacionada que va en aquesta l\u00ednia de dirigir-nos cap a una mobilitat el\u00e9ctrica es aquesta. \u00c9s el futur si volem una Barcelona neta de contaminaci\u00f3.</p>\n\n<p><a href=\"https://decidim.barcelona/proposals/xarxa-de-punts-de-recarrega-per-a-vehicles-electrics-i-foment-del-seu-us\">https://decidim.barcelona/proposals/xarxa-de-punts-de-recarrega-per-a-vehicles-electrics-i-foment-del-seu-us</a></p>", 
+            "commentable_id": 1591, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/03/2016 12:57:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3715, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3026, 
+                "name": "Imma V.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Victor, estic d'acord en tots els punts.</p>", 
+            "commentable_id": 1591, 
+            "commentable_type": "Proposal", 
+            "created_at": "19/03/2016 06:03:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5857, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2308", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10282, 
+                "name": "V\u00edctor GC", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Doncs aqu\u00ed tens una proposta en aquesta l\u00ednia: <a href=\"https://decidim.barcelona/proposals/xarxa-de-punts-de-recarrega-per-a-vehicles-electrics-i-foment-del-seu-us\">https://decidim.barcelona/proposals/xarxa-de-punts-de-recarrega-per-a-vehicles-electrics-i-foment-del-seu-us</a></p>", 
+            "commentable_id": 1591, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/03/2016 13:02:26", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3716, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2935", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic d'acord amb vost\u00e8 amb els valors d'educar, impulsar, etc\u00e8tera, i tamb\u00e9 en les no prohibicions!, per\u00f2 en aquest cas concret, lamentablement, per la salut de tots, haur\u00edem de prendre decisions valentes com la meva proposta per tal de reduir dr\u00e0sticament la pol\u00b7luci\u00f3 de la ciutat.</p>", 
+            "commentable_id": 1591, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/02/2016 07:48:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3029, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 5, 
+            "total_votes": 5
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2935", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3026, 
+                "name": "Imma V.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ning\u00fa no ha dit res de prohibir</p>", 
+            "commentable_id": 1591, 
+            "commentable_type": "Proposal", 
+            "created_at": "19/03/2016 06:06:14", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5858, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1781, 
+            "name": "Sara Coe", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1781, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1359", 
+        "conflictive": false, 
+        "created_at": "03/02/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "https://www.youtube.com/watch?v=lNbN7ViPAac", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1359, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Al claustre de la Catedral de Barcelona hi viuen 13 oques en condicions que no cumpleixen ni els minims establerts per a les aus de consum. Una ciutat amiga dels animals com Barcelona hauria de ser capa\u00e7 d'actualitzar aquesta tradici\u00f3 a favor del benestar d'aquestes oques. (veure video adjunt)", 
+        "title": "Jubilar les oques de la Catedral", 
+        "total_comments": 4, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 33, 
+        "url": "https://decidim.barcelona/pam/proposals/jubilar-les-oques-de-la-catedral", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9415, 
+                "name": "Jaume Brunet Papiol", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ple suport a la iniciativa de pacificar els carrers del Camp d'en Grassot i Gr\u00e0cia Nova i oferir als ve\u00efns nous espais de conviv\u00e8ncia.\n<br /><a href=\"https://www.facebook.com/CampGrassotGraciaNovaPatrimoniHistoria\">https://www.facebook.com/CampGrassotGraciaNovaPatrimoniHistoria</a></p>", 
+            "commentable_id": 3013, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/02/2016 19:03:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3081, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7482, 
+                "name": "mar", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Podrieu sumar-hi una superilla a La Salut!</p>", 
+            "commentable_id": 3013, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 22:23:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5360, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13406, 
+                "name": "ignasitort", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En principi, d'acord. Ja que \u00e9s l'ajuntament el que porta a terme aquesta iniciativa , podr\u00edeu indicar on veure un pl\u00e0nol de la superilla prevista al Grassot? </p>", 
+            "commentable_id": 3013, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 11:27:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5446, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

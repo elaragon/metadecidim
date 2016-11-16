@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8834, 
+            "name": "Xavier MG", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 8834, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4893", 
+        "conflictive": false, 
+        "created_at": "14/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://ajuntament.barcelona.cat/hisenda/ca/explicaci%C3%B3-de-les-multes-de-conviv%C3%A8ncia", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4893, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Si un hum\u00e0 orina o defeca a la via p\u00fablica ha ser sancionat amb 300\u20ac (1500\u20ac si \u00e9s a un monument!). Si volem que els animals tinguin els mateixos drets que les persones, que tamb\u00e9 tingun les mateixes obligacions! Adequem llocs per a que els gossos fac\u00edn pip\u00eds i multem als que ho facin al carrer. Ja est\u00e0 b\u00e9 de tenir la ciutat bruta!", 
+        "title": "Barcelona: Ciutat neta. Eliminem els pip\u00eds i les caques dels gossos del carrer.", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 18, 
+        "url": "https://decidim.barcelona/pam/proposals/barcelona-ciutat-neta-eliminem-els-pipis-i-les-caques-dels-gossos-del-carrer", 
+        "votable": null, 
+        "voted": null
+    }
+}

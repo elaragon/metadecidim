@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": true, 
+            "hidden": false, 
+            "id": 5546, 
+            "name": null, 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 5546, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3209", 
+        "conflictive": false, 
+        "created_at": "21/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3209, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Cada cop hi ha m\u00e9s gossos de races perilloses, que en teoria per poder-los passejar \u00e9s necessari que portin morri\u00f3 i que vagin lligats curt. Doncs aix\u00f2 no es veu mai. Aquest gossos van sense lligar i sense res. Per aix\u00f2 demano que s'augmentin les sancions i que la policia realment vigili i sancioni. \u00c9s un tema per la seguretat de nens, gossets...", 
+        "title": "Control vertader de gossos de races perilloses", 
+        "total_comments": 20, 
+        "total_negative_comments": 3, 
+        "total_neutral_comments": 3, 
+        "total_positive_comments": 4, 
+        "total_votes": 48, 
+        "url": "https://decidim.barcelona/pam/proposals/control-vertader-de-gossos-de-races-perilloses", 
+        "votable": null, 
+        "voted": null
+    }
+}

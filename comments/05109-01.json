@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12489, 
+                "name": "Vall de Can Masdeu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A aquest enlla\u00e7 podeu trobar el document amb la proposta \"desenvolupada\", densenvolupada entre cometes perqu\u00e8 volem madurar-la i fer-la cr\u00e9ixer conjuntament amb el texiti social de Nou Barris i Horta que promou l'economia solid\u00e0ria i la sobirania aliment\u00e0ria al districte: <a href=\"http://www.canmasdeu.net/ens-dones-suport-proposta-de-la-vall-per-lhospital-abandonat-de-sant-llatzer/\">http://www.canmasdeu.net/ens-dones-suport-proposta-de-la-vall-per-lhospital-abandonat-de-sant-llatzer/</a></p>", 
+            "commentable_id": 5109, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 21:40:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5683, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 467, 
+                "name": "\u00c1urea", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hem d'aprofitar que tenim aquesta \u00e0rea de boscos i natura per a oxigenar-nos i per a que els nens aprenguin el respecte i la passi\u00f3 per l'ecologia.\n<br />La propostad'un  Centre d'Informaci\u00f3 de Collserola i d'un Centre de recerca i formaci\u00f3 en Agroecologia, Permacultura i Sobirania Aliment\u00e0ria per a promoure la agroecologia dins de Barcelona \u00e9s factible i un valor afegit a una ciutat alienada pel turisme massiu i per la capitalitzaci\u00f3 del s\u00f3l urb\u00e0.\n<br />Protegim i aprenem de la terra, des de Barcelona mateix!</p>", 
+            "commentable_id": 5109, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 12:25:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6956, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16261, 
+                "name": "Nereo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tant de bo un dia poguem produir als voltants de Barcelona i en la propia ciutat la majoria d'aliments, plantes medicinals i altres recursos que consumim en sistemes agroecologics de proximitat. Crec que projectes com aquest s\u00f3n b\u00e1sics per a arribar-hi. For\u00e7a i molts \u00e1nims! Calen m\u00e9s suports!!</p>", 
+            "commentable_id": 5109, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 23:18:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7101, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

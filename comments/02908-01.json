@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1572, 
+                "name": "Merc\u00e8", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Per tal que Barcelona pugui ser una ciutat sostenible i amb futut, \u00e9s fornamental que es disposi d'un  projecte amb criteris d\u2019ecologia industrial i d\u2019economia circular. Amb producci\u00f3 de petita escala . I amb indicadors quantificables d'objectius a curst i mig termini, per tal d'evaluar-ne l'evoluci\u00f3.</p>", 
+            "commentable_id": 2908, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/03/2016 12:37:14", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3442, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9939, 
+                "name": "Joan Maroto", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Instaurar vincles amb els Ateneus de Fabricaci\u00f3 (prototipatge, recerca i experimentaci\u00f3 amb eines de fabricaci\u00f3 digital) i Barcelona Activa</p>", 
+            "commentable_id": 2908, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 10:51:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4763, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/bids-apeus\">https://decidim.barcelona/proposals/bids-apeus</a></p>", 
+            "commentable_id": 2908, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 15:49:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9554, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/una-fabrica-autogestionada-a-cada-barri\">https://decidim.barcelona/proposals/una-fabrica-autogestionada-a-cada-barri</a></p>", 
+            "commentable_id": 2908, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 17:22:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9781, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/millorar-els-poligons-industrials-per-tal-d-atreure-noves-empreses\">https://decidim.barcelona/proposals/millorar-els-poligons-industrials-per-tal-d-atreure-noves-empreses</a></p>", 
+            "commentable_id": 2908, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 12:44:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11972, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 5, 
+        "total_pages": 1
+    }
+}

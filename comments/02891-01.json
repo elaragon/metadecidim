@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/canvi-d-usos-de-l-estacio-de-franca-en-un-futur-immediat-espai-multicultural-i-arts-esceniques\">https://decidim.barcelona/proposals/canvi-d-usos-de-l-estacio-de-franca-en-un-futur-immediat-espai-multicultural-i-arts-esceniques</a></p>", 
+            "commentable_id": 2891, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 12:17:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10606, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/vinculacio-dels-grans-equipaments-amb-els-centres-culturals-territorials\">https://decidim.barcelona/proposals/vinculacio-dels-grans-equipaments-amb-els-centres-culturals-territorials</a></p>", 
+            "commentable_id": 2891, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 13:01:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10703, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/pla-transversal-de-politiques-d-innovacio-i-proximitat\">https://decidim.barcelona/proposals/pla-transversal-de-politiques-d-innovacio-i-proximitat</a></p>", 
+            "commentable_id": 2891, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 14:34:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10947, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/montjuic-suport-a-la-cultura-i-a-l-esport\">https://decidim.barcelona/proposals/montjuic-suport-a-la-cultura-i-a-l-esport</a></p>", 
+            "commentable_id": 2891, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 09:45:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14198, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

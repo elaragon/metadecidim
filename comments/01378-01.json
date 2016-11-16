@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2496, 
+                "name": "rux", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aquests espais s'ha de veure com han de ser per tal d'evitar sostraccions ja que al no estar les bicicletes en un espai visible, faciliten l'actuaci\u00f3 dels lladres. Ho dic per experi\u00e8ncia ja que totes les bicicletes que m'han robat estaven lligades en un espai com\u00fa de l'edifici (no visible per les persones alienes a l'edifici)</p>", 
+            "commentable_id": 1378, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 14:47:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 816, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

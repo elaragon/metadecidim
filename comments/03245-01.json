@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7879, 
+                "name": "Marta C", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>M'agradaria puntualitzar certs punts:\n<br />1.No falten \"pipi-cans\", falten zones d'esbarjo per a les nostres mascotes ja que amb l'espai que contem \u00e9s inapropiat. \n<br />2. El fet que hi hagi pipi per tot arreu \u00e9s inevitable. Els gossos no fan pip\u00ed on els hi diuen i quan els hi diuen, per tant, una zona exclusiva per fer pip\u00ed no serviria de res. Evidentment, s'han d'educar a les mascotes perqu\u00e8 no pixin en certs llocs.\n<br />3. Em sembla perfecte que els cuidadors que no recullen les defecacions tinguin una sanci\u00f3, el que crec que \u00e9s una tonteria s\u00f3n les campanyes d'educaci\u00f3. Qui hi aniria? Qui ho pagaria? Obtindr\u00edem resultats?\n<br />4. S\u00f3c propiet\u00e0ria d'un gos i anava sovint a l'Av.Mistral. Sempre recullo i demano a la gent coneguda que ho faci tamb\u00e9. La meva mascota no borda. Tot i aix\u00ed, he hagut de deixar de portar el meu gos all\u00e0 perqu\u00e8 alguns ve\u00efns els posen ver\u00ed i ja han intoxicat a uns quants. Ara diga'm, si us plau, qui mereix realment les campanyes d'educaci\u00f3.</p>", 
+            "commentable_id": 3245, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/02/2016 09:37:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2533, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 3, 
+            "total_votes": 4
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2533", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 581, 
+                "name": "CarmeG", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Evidentment la gent que ha posat ver\u00ed es mereix no una campanya d\u00b4educaci\u00f3 sin\u00f3 expulsar-lo de la nostra ciutat on en teoria som gent c\u00edvica... indignant tot plegat...</p>", 
+            "commentable_id": 3245, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/02/2016 17:55:56", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2590, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 285, 
+                "name": "Hector", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>ei la gente de FP , si esos que en menos de un 5% hab\u00e9is ocupado cargos p\u00fablicos pese a ser la mayor\u00eda de la poblaci\u00f3n, con normas como \u00e9sta ya directamente queremos que sea imposible lo que el clasismo ya hace evidente</p>", 
+            "commentable_id": 2711, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/03/2016 13:36:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3721, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

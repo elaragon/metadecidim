@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 19757, 
+                "name": "Anna G", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Perqu\u00e8 el 90% els gossos que veig al metro ja no porten morri\u00f3 com els primers dies? Quan trigarem en veure\u00b4ls deslligats? I en trobar tifes a les andanes? </p>", 
+            "commentable_id": 8569, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 00:07:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11528, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 20407, 
+                "name": "fs", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00c9s freq\u00fcent veure al metro gossos grans sense morri\u00f3 i en hores punta estirats al mig del pas dificultant la mobilitat, i a m\u00e9s a m\u00e9s a sense pagar bitllet. Seria millor no permetre l'acc\u00e9s dels gossos al transport p\u00fablic, amb excepci\u00f3 nom\u00e9s dels gossos guia o semblants.</p>", 
+            "commentable_id": 8569, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 17:38:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12567, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

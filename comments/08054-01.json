@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9267, 
+                "name": "Suport Ciutat Vella", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals?search=derogar&amp;order=random&amp;random_seed=-0.30075025863491844\">https://decidim.barcelona/proposals?search=derogar&amp;order=random&amp;random_seed=-0.30075025863491844</a></p>", 
+            "commentable_id": 8054, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/04/2016 11:55:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7708, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9267, 
+                "name": "Suport Ciutat Vella", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/derogacio-inmediata-de-l-ordenanca-del-civisme\">https://decidim.barcelona/proposals/derogacio-inmediata-de-l-ordenanca-del-civisme</a></p>", 
+            "commentable_id": 8054, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/04/2016 11:56:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7709, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9267, 
+                "name": "Suport Ciutat Vella", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/facilitar-l-us-de-l-espai-public-per-part-de-la-ciutadania\">https://decidim.barcelona/proposals/facilitar-l-us-de-l-espai-public-per-part-de-la-ciutadania</a></p>", 
+            "commentable_id": 8054, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/04/2016 11:56:22", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7710, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9267, 
+                "name": "Suport Ciutat Vella", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/impulsar-la-cultura-del-pacte-en-temes-relacionars-amb-l-espai-public\">https://decidim.barcelona/proposals/impulsar-la-cultura-del-pacte-en-temes-relacionars-amb-l-espai-public</a></p>", 
+            "commentable_id": 8054, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/04/2016 11:56:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7711, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

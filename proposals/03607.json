@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 9160, 
+            "name": "Ignasi Flores", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 9160, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3607", 
+        "conflictive": false, 
+        "created_at": "28/02/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3607, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 6, 
+            "name": "Habitatge", 
+            "position": 6
+        }, 
+        "summary": "Impulsar projectes d\u2019habitatge comunitaris (cohousing) existents i de nous, en el districte de Sant Andreu, mitjan\u00e7ant per exemple, la cessi\u00f3 d\u2019\u00fas d\u2019espai p\u00fablic, que promoguin el bon ve\u00efnatge com a eina que redueixi l\u2019exclusi\u00f3 social. Aquests projectes representen una alternativa al model lloguer-compra ja utilitzats a altres pa\u00efsos europeus.", 
+        "title": "Impuls a l'habitatge comunitari / cohousing al Districte de  Sant Andreu", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 3, 
+        "total_votes": 33, 
+        "url": "https://decidim.barcelona/pam/proposals/impuls-a-l-habitatge-comunitari-cohousing-al-districte-de-sant-andreu", 
+        "votable": null, 
+        "voted": null
+    }
+}

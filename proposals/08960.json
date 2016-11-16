@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 19609, 
+            "name": "AMPAs Escoles Auro i Diputaci\u00f3", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 19609, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8960", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8960, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Ampliar les voreres davant les escoles incorporant l\u2019amplada del carril d\u2019aparcament i traslladar els elements fixos (quioscs) a les cantonades a fi de disposar de m\u00e9s superf\u00edcie per a la canalla i fam\u00edlies. Instal\u2022lar baranes per impedir el pas dels nens a la cal\u00e7ada i pacificar el tr\u00e0nsit rodat en l'entorn. Proposta de les AMPAs Aur\u00f3 i Diputaci\u00f3", 
+        "title": "Millora de l\u2019entorn de les Escoles P\u00fabliques Aur\u00f3 i Diputaci\u00f3", 
+        "total_comments": 19, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 17, 
+        "total_votes": 166, 
+        "url": "https://decidim.barcelona/pam/proposals/millora-de-l-entorn-de-les-escoles-publiques-auro-i-diputacio", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5661, 
+                "name": "Mariano Serrano Sancho", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Des del comen\u00e7ament  de la campanya de Barcelona.Decidim, mentre demanem la protecci\u00f3 del nostre patrimoni, ja han desaparegut dues cases antigues al nucli vell d\u2019Horta. Una al c. Baixada de la Combinaci\u00f3 i na altra, aquesta mateixa setmana, al carrer dels Consorts Sans Bernet. Aix\u00f2 a Sant Andreu no pot passar. El Casc Antic de Sant Andreu te aprovat un Pla Especial de Protecci\u00f3 del Patrimoni Arquitect\u00f2nic que impedeix aquestes actuacions.</p>", 
+            "commentable_id": 1749, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 22:10:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7300, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

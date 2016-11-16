@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 609, 
+            "name": "Can 70 anna", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 609, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4198", 
+        "conflictive": false, 
+        "created_at": "06/03/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4198, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 5, 
+            "name": "Cicles de vida ", 
+            "position": 5
+        }, 
+        "summary": "Nou model de cohabitatge per a gent gran amb espais comuns i tamb\u00e9 \u00edntims on viure confortablement els darrers anys. Gesti\u00f3 de cooperativa integral amb personal especialitzat en \u00e0mbits assistencial i sanitari. En espai cedit en model de cessi\u00f3 d'\u00fas. \u00c9s la resposta a l'envelliment de la poblaci\u00f3. Un equipament integrat en el teixit social.", 
+        "title": "Crear una llar per a gent gran tipus cooperativa integral en espai cedit per l'Ajuntament", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 9, 
+        "url": "https://decidim.barcelona/pam/proposals/crear-una-llar-per-a-gent-gran-tipus-cooperativa-integral-en-espai-cedit-per-l-ajuntament-cb7785f2-80f9-430b-b38f-47aed2f18339", 
+        "votable": null, 
+        "voted": null
+    }
+}

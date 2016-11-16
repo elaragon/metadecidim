@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 613, 
+                "name": "Josep M Armengou", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A favor, amb condicions: la primera \u00e9s que essent privada, se li ha d'exigir immediatament tot el que dicta la llei. No es fa, que jo s\u00e0piga. D'entrada, el manteniment en bon \u00fas dels extraordinaris jardins, que poden incendiar-se molt f\u00e0cilment. Si no ho fan , es pot fer per requeriment judicial, passant-los les costes. Si pot ser d'\u00fas p\u00fablic, millor, per\u00f2 cal primer exhaurir el que dic.</p>", 
+            "commentable_id": 3491, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 15:43:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4543, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

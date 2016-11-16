@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1609, 
+            "name": "David Bravo Bordas", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1609, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1515", 
+        "conflictive": false, 
+        "created_at": "05/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.revistadiagonal.com/articles/ciutats/cobrir-la-ronda-amb-habitatge/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1515, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Amb molt poc cost p\u00fablic, Barcelona podria tenir 35.000 habitatges socials, un metro circumval\u00b7lar i lliurar-se de la barrera de la Ronda. Es tracta de fer-hi passar un tramvia i cobrir-la de cases entre mitgeres. Menys vehicle privat i m\u00e9s habitatge p\u00fablic.", 
+        "title": "Cobrir la Ronda amb habitatge (s\u00ed, amb habitatge)", 
+        "total_comments": 12, 
+        "total_negative_comments": 2, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 22, 
+        "url": "https://decidim.barcelona/pam/proposals/cobrir-la-ronda-amb-habitatge-si-amb-habitatge", 
+        "votable": null, 
+        "voted": null
+    }
+}

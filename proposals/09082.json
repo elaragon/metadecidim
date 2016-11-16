@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9082", 
+        "conflictive": false, 
+        "created_at": "07/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/meetings/casal-sant-josep-de-calassanc-una-barcelona-diversa-que-asseguri-el-bon-viure", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9082, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 1, 
+            "name": "Just\u00edcia social", 
+            "position": 1
+        }, 
+        "summary": "Els infants i joves del Casal Sant Josep de Calassan\u00e7 van estar debatent diverses propostes per millorar les condicions de vida dels ciutadans i ciutadanes de Barcelona. Entre aquestes van proposar revertir pressupost municipal en la visibilitzaci\u00f3 de barris estigmatitzats o oblidats i dotar als equipaments i als serveis ja existents de qualitat. ", 
+        "title": "Visibilitzar els barris oblidats i millorar els seus serveis i equipaments", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/visibilitzar-els-barris-oblidats-i-millorar-els-seus-serveis-i-equipaments", 
+        "votable": null, 
+        "voted": null
+    }
+}

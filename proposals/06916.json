@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 6575, 
+            "name": "PericoPerez", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 6575, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6916", 
+        "conflictive": false, 
+        "created_at": "28/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://twitter.com/PericoPrez1/status/649297809301209088", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6916, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "La distribuci\u00f3n de las estaciones del bicing en los barrios altos de Barcelona es SANGRANTE. Barrios como Pedralbes, Sarri\u00e1 y Sant Gervasi tienen estaciones de bicing a m\u00e1s de 100 metros de altura y rodeadas de pendientes de menos del 4%. Resto de barrios, con zonas m\u00e1s bajas y pendientes menores no tienen servicio. \u00bfPOR QU\u00c9?", 
+        "title": "Distribuci\u00f3n justa del bicing YA en los barrios altos de Barcelona", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/distribucion-justa-del-bicing-ya-en-los-barrios-altos-de-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

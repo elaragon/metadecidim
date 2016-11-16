@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4856, 
+            "name": "Sant Mart\u00ed Eix Comercial", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 4856, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1739", 
+        "conflictive": false, 
+        "created_at": "11/02/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "Tenim proyectes fets per anteriors administracions.", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1739, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Des l'associaci\u00f3 de comerciants venim reclamant la dignificaci\u00f3 dels nostres barris. Una millora en l'urbanisme comercial seria transformar el carrer Cant\u00e0bria-Pont del Treball en un boulevard (carrer amb voreres amples) per tal de dignificar el comer\u00e7 de proximitat i la qualitat de vida dels ciutadans d'aquest eix que uneix Sant Marti i la Verneda", 
+        "title": "Boulevard Cant\u00e0bria", 
+        "total_comments": 5, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 3, 
+        "total_votes": 12, 
+        "url": "https://decidim.barcelona/pam/proposals/boulevard-cantabria", 
+        "votable": null, 
+        "voted": null
+    }
+}

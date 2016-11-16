@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9283, 
+                "name": "eixampledelibera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Les subvencions en efici\u00e8ncia energ\u00e8tica han d\u2019anar acompanyades d\u2019algun tipus de seguiment / control de la gesti\u00f3 i manteniment (i sancionar si cal). Incloure revisions peri\u00f2diques del bon funcionament dels equipaments instal\u00b7lats</p>", 
+            "commentable_id": 7238, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 16:51:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6822, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

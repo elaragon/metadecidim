@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4871, 
+                "name": "Adri\u00e0 C", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hi ha unes naus industrials i casa del masover dins dels jardins de Can Pla i Armengol que estan en molt bon estat, tenen valor hist\u00f2ric i podrien servir (amb poc pressupost) per a equipaments que el barri necessita.\n<br />El vial de servei fins a Cartagena es bona idea per\u00f2 es t\u00e9 que idear de tal manera que el parc no quedi molt fraccionat.</p>", 
+            "commentable_id": 3486, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/02/2016 13:11:31", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2963, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2963", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8331, 
+                "name": "Neus Fornells Cunillera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El vial de servei fins a Cartagena est\u00e0 contemplat en el planejament vigent. Inicialment havia de ser un vial m\u00e9s de tr\u00e0nsit, i enlla\u00e7ava el carrer Vars\u00f2via amb Josep Ciurana. Finalment es va conseguir que un\u00eds Vars\u00f2via amb Ni\u00e7a, i que nom\u00e9s fos per a \u00fas de serveis i peatonal. Quan es faci hem d'estar atents a que sigui aix\u00ed. No fracciona el parc, i camins n'hi ha d'haver. \u00c9s la meva opini\u00f3. </p>", 
+            "commentable_id": 3486, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/02/2016 14:08:10", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3054, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

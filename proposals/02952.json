@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2952", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2952, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Completar la xarxa de carrils bici que estableix el Pla de mobilitat urbana i ampliar-la per aconseguir, entre altres,  promoure l'\u00fas de la bicicleta a la ciutat i garantir la connectivitat de la xarxa actual. Ampliar la cobertura de la xarxa actual de bicicletes. Millorar la connexi\u00f3 dels carrils bici que uneixen Barcelona amb els diferents municipis metropolitans, i minimitzar conflictes amb la resta de mitjans.", 
+        "title": "Promoci\u00f3 de l'\u00fas de la bicicleta, i millora i ampliaci\u00f3 dels carrils bici", 
+        "total_comments": 80, 
+        "total_negative_comments": 2, 
+        "total_neutral_comments": 63, 
+        "total_positive_comments": 12, 
+        "total_votes": 325, 
+        "url": "https://decidim.barcelona/pam/proposals/promocio-de-l-us-de-la-bicicleta-i-millora-i-ampliacio-dels-carrils-bici", 
+        "votable": null, 
+        "voted": null
+    }
+}

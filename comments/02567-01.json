@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10023, 
+                "name": "Sheila", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00c9s un esc\u00e0ndol: sembla que existeixi la imposici\u00f3 de rehabilitar fa\u00e7anes que, en ocasions, s\u00f3n incloses en un cat\u00e0leg de forma arbitr\u00e0ria. A m\u00e9s, si la fa\u00e7ana disposava d'un seguit de s\u00edmbols o dissenys, aquests han de ser degudament reprodu\u00efts...\u00bfQuins s\u00f3n els problemes que aquest fet ocasiona? A) A Barcelona, el nombre d\u2019empreses que realitzen aquest treball \u00e9s redu\u00eft...B) El cost del projecte i de l\u2019obra pot ser dif\u00edcilment assumible per part de la comunitat de ve\u00efns i ve\u00efnes; i cal considerar que l\u2019aportaci\u00f3 econ\u00f2mica que realitza l\u2019ajuntament s\u2019atorga via subvenci\u00f3 (discrecional, no garantida) i \u00e9s clarament insuficient. C) En el nostre cas particular, el projecte ha estat aprovat sense que s\u2019hagin reparat les finestres de la fa\u00e7ana; fred i humitat s\u00f3n una constant. Altrament, em pregunto, \u00bfno \u00e9s m\u00e9s important millorar l\u2019efici\u00e8ncia dels edificis i la seva accessibilitat? AL\u00b7LUCINANT QUE ES SANCIONI A PENSIONISTES PER AQUEST MOTIU!!</p>", 
+            "commentable_id": 2567, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/03/2016 15:42:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3466, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

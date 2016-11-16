@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 423, 
+            "name": "Rosa", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 423, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1200", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.traficantes.net/libros/el-lado-oscuro-de-google", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1200, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 20, 
+            "name": "Administraci\u00f3  intel\u00b7ligent i inclusiva", 
+            "position": 4
+        }, 
+        "summary": "La privacitat \u00e9s important. Avui en dia hi ha moltes eines d'estadistes que no depenen de Google per funcionar.  Per qu\u00e8 utilitzar una eina com Google Analitics en aquesta web? Com diu un amic, \"si el servei no et coste diners, el producte ets tu\". Empreses com Facebook, Google o Twitter trauen diners de la venda de les nostres dades", 
+        "title": "Web i Google: Eina d'estad\u00edstiques que no cedeixi les dades d'usuaris a Google", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 8, 
+        "url": "https://decidim.barcelona/pam/proposals/web-fer-una-eina-d-estadistiques-que-no-cedeixi-les-dades-d-usuaris-a-google", 
+        "votable": null, 
+        "voted": null
+    }
+}

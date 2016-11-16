@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4741", 
+        "conflictive": false, 
+        "created_at": "12/03/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 4741, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "A l\u2019altura de la Piscina Municipal, actualment, aquest cam\u00ed no est\u00e0 il\u00b7luminat ni asfaltat. Est\u00e0 molt amagat i \u00e9s perill\u00f3s (s\u2019han trobat xeringues i van intentar violar una noia aqu\u00ed).", 
+        "title": "Pavimentaci\u00f3, neteja i il\u00b7luminaci\u00f3 del cam\u00ed de sorra que va des de Parc de la Trinitat a Via de B\u00e0rcino", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/pavimentacio-neteja-i-il-luminacio-del-cami-de-sorra-que-va-des-de-parc-de-la-trinitat-a-via-de-barcino", 
+        "votable": null, 
+        "voted": null
+    }
+}

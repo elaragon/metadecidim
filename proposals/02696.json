@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 5667, 
+            "name": "CBG", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 5667, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2696", 
+        "conflictive": false, 
+        "created_at": "15/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2696, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Els solars en des\u00fas repartits per l'espai urb\u00e0 poden donar vida als carrers reconvertint-los en canxes de b\u00e0squet i altres esports com v\u00f2lei o pistes per aprendre a patinar (encara que sigui de manera provisional fins a l'edificaci\u00f3 definitiva del solar).  Fins ara,  alguns solars s'han reconvertit en parcs per gossos o canxes de petanca.", 
+        "title": "Crear canxes de b\u00e0squet i altres esports als solars en des\u00fas", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 35, 
+        "url": "https://decidim.barcelona/pam/proposals/crear-canxes-de-basquet-i-altres-esports-als-solars-en-desus", 
+        "votable": null, 
+        "voted": null
+    }
+}

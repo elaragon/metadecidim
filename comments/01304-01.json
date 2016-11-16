@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3812, 
+                "name": "libove", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ja es molt dif\u00edcil per als conductors llegir tot la senyalitzaci\u00f3. Per aix\u00f2, tant que estic d'acord amb l'idea de senyalitzar millor als conductors del deure de NO invadir els carrils bici a girar, tinc dubtes fortes que escriure en els carrils ens serviria b\u00e9.</p>", 
+            "commentable_id": 1304, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/02/2016 10:41:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1263, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 179, 
+                "name": "Susanna", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Pintura de la que no rellisca!</p>", 
+            "commentable_id": 1304, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/02/2016 20:09:10", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1356, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

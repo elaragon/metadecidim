@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9991", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9991, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Desenvolupar un projecte per apropar aquests espais i la pr\u00e0ctica cultural no nom\u00e9s a l\u2019\u00e0mbit de l\u2019educaci\u00f3 formal (escoles, instituts) sin\u00f3 tamb\u00e9 en l\u2019\u00e0mbit de l'educaci\u00f3 no reglada (casals, caus, etc.).", 
+        "title": "Fomentar la connexi\u00f3 entre els espais de creaci\u00f3 cultural i a educaci\u00f3 formal i no formal. ", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/fomentar-la-connexio-entre-els-espais-de-creacio-cultural-i-a-educacio-formal-i-no-formal", 
+        "votable": null, 
+        "voted": null
+    }
+}

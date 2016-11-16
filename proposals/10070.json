@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10070", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 10070, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 1, 
+            "name": "Just\u00edcia social", 
+            "position": 1
+        }, 
+        "summary": "Potenciar una oferta cultural i esportiva assequible als barris m\u00e9s desafavorits i garantir ajudes o beques a les fam\u00edlies segons la seva renda per tal que els infants puguin participar d\u2019aquestes activitats. Una opci\u00f3  per reduir-ne el cost es posar a disposici\u00f3 d\u2019aquestes activitats l\u2019espai p\u00fablic, patis de les escoles, centres c\u00edvics, casals de ", 
+        "title": "Potenciar una oferta cultural i esportiva assequible als barris m\u00e9s desafavorits", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/potenciar-una-oferta-cultural-i-esportiva-assequible-als-barris-mes-desafavorits", 
+        "votable": null, 
+        "voted": null
+    }
+}

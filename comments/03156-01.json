@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7470, 
+                "name": "Arnau Montserrat", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aquesta proposta caldria desenvolupar-la, no? No s'ent\u00e9n gaire. En tot cas, aquestes son les propostes per fomentar la sobirania alimentaria als municipis. A Barcelona cal comen\u00e7ar per reorientar la pol\u00edtica comercial de Mercabarna. <a href=\"http://www.economiasolidaria.org/files/CARTA_PER_UNA_SOBIRANIA_ALIMENTARIA.pdf\">http://www.economiasolidaria.org/files/CARTA_PER_UNA_SOBIRANIA_ALIMENTARIA.pdf</a></p>", 
+            "commentable_id": 3156, 
+            "commentable_type": "Proposal", 
+            "created_at": "23/02/2016 11:22:01", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2454, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2454", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 887, 
+                "name": "H\u00e9ctor R. ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Molt\u00edssimes gr\u00e0cies per la info. Ajuda molt a entendre qu\u00e8 \u00e9s el que s'est\u00e0 proposant. \n</p>", 
+            "commentable_id": 3156, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/03/2016 12:36:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3157, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

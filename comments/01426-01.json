@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2431, 
+                "name": "lls", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Encara hi ha estacions on no hi ha ascensors! </p>", 
+            "commentable_id": 1426, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 10:20:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 779, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 181, 
+                "name": "crismon", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Donar accesibilitat a estacio P\u00e7a. Sants igual que fer-ho amb el transbord cap a la linia 1 tamb\u00e9 p\u00e7a de Sants.</p>", 
+            "commentable_id": 1426, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/02/2016 10:04:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1130, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic d'acord i acabar tamb\u00e9 l'estaci\u00f3 de metro Ernest Lluch (L5). Des de fa 10 anys que esperem que aquesta estaci\u00f3 s\u2019acabi finalment despr\u00e9s de les mol\u00e8sties causades als ve\u00efns durant tants anys. Amb gaireb\u00e9 l\u2019estaci\u00f3 ja finalitzada (i amb una inversi\u00f3 ja feta de 50M d\u2019\u20ac) nom\u00e9s queda per acabar-la un 20% dels treballs per poder-la obrir.</p>", 
+            "commentable_id": 1426, 
+            "commentable_type": "Proposal", 
+            "created_at": "23/02/2016 22:23:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2509, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els infants de l\u2019esplai Abat Cassi\u00e0 van estar debatent diferents millores pel medi ambient de la ciutat. Van proposar millorar els accessos al metro, hi han moltes escales i, malgrat hi hagi ascensors, de vegades es dif\u00edcil per les persones amb problemes de mobilitat accedir-hi. </p>", 
+            "commentable_id": 1426, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 11:01:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9115, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2509", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/finalitzar-l-estacio-de-metro-ernest-lluch-l5\">https://decidim.barcelona/proposals/finalitzar-l-estacio-de-metro-ernest-lluch-l5</a></p>", 
+            "commentable_id": 1426, 
+            "commentable_type": "Proposal", 
+            "created_at": "23/02/2016 22:23:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2510, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

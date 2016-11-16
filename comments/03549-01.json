@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/fixar-un-limit-de-temps-per-prohibir-la-circulacio-de-vehicles-contaminants\">https://decidim.barcelona/proposals/fixar-un-limit-de-temps-per-prohibir-la-circulacio-de-vehicles-contaminants</a></p>", 
+            "commentable_id": 3549, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/02/2016 15:15:01", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2828, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9100, 
+                "name": "Pau Ocean", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El problema de congestio de transit milloraria molt si es perseguis mes els aparcaments en doble filera. Multes de 1000\u20ac i veureu com el transit millora moltissim. Menys contaminacio, menys estres, mes salut.......i nomes ho pagarien qui crea aquest malestar. Facil oi?</p>", 
+            "commentable_id": 3549, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/02/2016 14:58:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2978, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6514, 
+                "name": "Oriol B", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No entenc aquesta proposta. Vol dir que hem d'advertir que existeix com a problema i s'ha de limitar? Vol dir que hem d'advertir que \u00e9s  important i no s'ha de limitar?</p>", 
+            "commentable_id": 3549, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 16:51:58", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11160, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

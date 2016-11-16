@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 483, 
+            "name": "Dani Est\u00e9vez", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 483, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3766", 
+        "conflictive": false, 
+        "created_at": "02/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://w110.bcn.cat/portal/site/MediAmbient/menuitem.37ea1e76b6660e13e9c5e9c5a2ef8a0c/?vgnextrefresh=1&vgnextoid=303179583ad1a210VgnVCM10000074fea8c0RCRD&vgnextchannel=303179583ad1a210VgnVCM10000074fea8c0RCRD&lang=es_ES", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3766, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Seg\u00fan la web los parques de la ciudad se cierran a las 19h de Noviembre a Marzo y a las 21h el resto del a\u00f1o. Por qu\u00e9?\r\nCerrar tan pronto hace imposible disfrutar de los parques con los ni\u00f1os ya que las 19h es una hora bastante normal de volver a casa en muchos trabajos.\r\nAcaso con luz artificial no se pueden usar los columpios?", 
+        "title": "Unificar el horario invierno/verano de cierres de parques ", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 14, 
+        "url": "https://decidim.barcelona/pam/proposals/unificar-el-horario-invierno-verano-de-cierres-de-parques", 
+        "votable": null, 
+        "voted": null
+    }
+}

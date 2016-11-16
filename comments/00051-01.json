@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10797, 
+                "name": "MAJ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Cada vegada \u00e9s m\u00e9s dif\u00edcil per les cooperatives seguir pagant els lloguers que es demanen a Gr\u00e0cia (alguns d'ells ruinosos),  ja fa anys que han passat a ser mercaderia especulativa ... i se'ns fa dif\u00edcil la superviv\u00e8ncia! </p>", 
+            "commentable_id": 51, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/03/2016 23:13:01", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3882, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/fomentar-el-cooperativisme-de-consum-521af4dd-88ee-4e96-aab7-c4d40deb26f8\">https://decidim.barcelona/proposals/fomentar-el-cooperativisme-de-consum-521af4dd-88ee-4e96-aab7-c4d40deb26f8</a></p>", 
+            "commentable_id": 51, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/04/2016 10:58:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 13429, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/formacio-sobre-cooperativisme-a-l-escola-instituts\">https://decidim.barcelona/proposals/formacio-sobre-cooperativisme-a-l-escola-instituts</a></p>", 
+            "commentable_id": 51, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/04/2016 11:00:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 13437, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

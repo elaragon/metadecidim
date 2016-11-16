@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 12038, 
+            "name": "elsoldaluz", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 12038, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10566", 
+        "conflictive": false, 
+        "created_at": "09/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 10566, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 26, 
+            "name": "Govern transparent  i rendici\u00f3 de comptes", 
+            "position": 1
+        }, 
+        "summary": "Elaborar anualment estad\u00edstica sanitaria que reculli,   l' activitat i recursos  de todos els centes* y serveis de salut mental, un estudi epidemiologic que consideri la perspectiva de genere, edat (min. 5 tramos), etiolog\u00eda y distribuci\u00f3 geogafica (barris o eaps)\r\n*Incluye atenci\u00f3n primaria, media y larga estancia, geriatria y programes especifics.", 
+        "title": "Estad\u00edstica sanitaria salut mental per millorar la planificaci\u00f3", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/estadistica-sanitaria-salut-mental-per-millorar-la-planificacio", 
+        "votable": null, 
+        "voted": null
+    }
+}

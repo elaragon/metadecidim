@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 44, 
+            "name": "David LH", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 44, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1319", 
+        "conflictive": false, 
+        "created_at": "03/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1319, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "La ronda litoral a su paso por Port Vell crea un corte que separa el barro G\u00f3tico del puerto. Se podr\u00eda hacer una cobertura peatonal que permitiera caminar a lo largo de todo el Paseo colon hacia el puerto y que limitar\u00eda la contaminaci\u00f3n en esta zona l\u00fadica de la ciudad, permitiendo m\u00e1s verde y desplaza el carril bici a esta zona con menos tr\u00e1fico", 
+        "title": "Cubrir Ronda litoral a su paso por el Port Vell y conectar centro con el puerto", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 22, 
+        "url": "https://decidim.barcelona/pam/proposals/cubrir-ronda-litoral-a-su-paso-por-el-port-vell-y-conectar-centro-con-el-puerto", 
+        "votable": null, 
+        "voted": null
+    }
+}

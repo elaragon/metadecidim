@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1159, 
+            "name": "manut\u00edn", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1159, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1497", 
+        "conflictive": false, 
+        "created_at": "05/02/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1497, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "La calle Font de la Mulassa tiene una pendiente desorbitada y subiendo en el tramo final existen una escaleras que son frecuentadas por gente mayor y se\u00f1oras con con carritos de beb\u00e9. El acceso a las viviendas por parte de los servicios de emergencia est\u00e1 muy limitado. Creo necesario mecanizar el paso, muy concurrido para coger el autob\u00fas 24.", 
+        "title": "Construcci\u00f3n de escaleras mec\u00e1nicas en la calle Font de la Mulassa.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 33, 
+        "url": "https://decidim.barcelona/pam/proposals/construccion-de-escaleras-mecanicas-en-la-calle-font-de-la-mulassa", 
+        "votable": null, 
+        "voted": null
+    }
+}

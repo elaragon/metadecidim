@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-920", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 920, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Adaptar el cos de la Gu\u00e0rdia Urbana de Barcelona, GUB (funcions, organitzaci\u00f3 i recursos), a les noves necessitats en mat\u00e8ria de conviv\u00e8ncia i seguretat per millorar la valoraci\u00f3 de la conviv\u00e8ncia als barris per part de la ciutadania.", 
+        "title": "Adaptar la Gu\u00e0rdia Urbana a les noves necessitats", 
+        "total_comments": 18, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 15, 
+        "total_positive_comments": 2, 
+        "total_votes": 43, 
+        "url": "https://decidim.barcelona/pam/proposals/adaptar-la-guardia-urbana-a-les-noves-necessitats", 
+        "votable": null, 
+        "voted": null
+    }
+}

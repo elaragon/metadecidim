@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2933", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2933, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 12, 
+            "name": "Ocupaci\u00f3 de qualitat", 
+            "position": 4
+        }, 
+        "summary": "Ajudes per millorar les habilitats a les persones en situaci\u00f3 d\u2019atur de llarga durada perqu\u00e8 puguin incrementar les possibilitats d'inserir-se al mercat laboral. El conjunt de persones que porten m\u00e9s de dos anys sense feina representa un 27% del total d\u2019aturats de Barcelona, segons dades d\u2019agost del 2015. D\u2019aquestes, m\u00e9s del 80% s\u00f3n majors de 45 anys.", 
+        "title": "Pla de xoc contra l'atur de molt llarga durada", 
+        "total_comments": 7, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 5, 
+        "total_positive_comments": 2, 
+        "total_votes": 32, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-de-xoc-contra-l-atur-de-molt-llarga-durada", 
+        "votable": null, 
+        "voted": null
+    }
+}

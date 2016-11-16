@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 21322, 
+                "name": "Nmm", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00c9s molt important tenir un acc\u00e8s d'escola digne on els nostres alumnes i fills puguin entrar i sortir a l'escola amb seguretat i tranquil\u00b7litat. I que les fam\u00edlies puguin gaudir del mateix en l'acomiadament i recepci\u00f3 dels seus fills. Cal que l'Ajuntament pensi en una opci\u00f3 \u00f2ptima com per exemple fer m\u00e9s gran la vorera, ja que no \u00e9s una vorera on giren els vehicles i ja existeixen altres tres voreres amb diferents tipus de serveis, zona verda, zona blava i c\u00e0rrega i desc\u00e0rrega.</p>", 
+            "commentable_id": 7167, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 12:08:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10582, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15714, 
+                "name": "Arnau Cabeza Garrido", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es una proposta amb un cost molt raonable que permetria incrementar la seguretat de la sortida de l'escola., i guanyar un petit espai per \u00fas p\u00fablic</p>", 
+            "commentable_id": 7167, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 15:59:37", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11063, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15839, 
+                "name": "Montse GB", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A veure si tenim sort i ens fan cas.\n</p>", 
+            "commentable_id": 7167, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 22:14:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11469, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/estudiar-la-possibilitat-d-elaborar-el-pla-d-usos-de-sant-antoni-amb-participacio-veinal\">https://decidim.barcelona/proposals/estudiar-la-possibilitat-d-elaborar-el-pla-d-usos-de-sant-antoni-amb-participacio-veinal</a></p>", 
+            "commentable_id": 7167, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 12:33:47", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 18114, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 3, 
+        "next_page": null, 
+        "prev_page": 2, 
+        "total_count": 44, 
+        "total_pages": 3
+    }
+}

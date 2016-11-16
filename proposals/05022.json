@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 12382, 
+            "name": "Arnau Amill", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 12382, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5022", 
+        "conflictive": false, 
+        "created_at": "14/03/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5022, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Actualment el sem\u00e0for existent al carrer Berenguer de Palou davant el n\u00famero 32 degut a que la funci\u00f3 del sem\u00e0for ja la fa el que hi ha m\u00e9s endavant i provoca que els ve\u00efns sentim el soroll provocat pels cotxes a l'arrecar de parat als dos sem\u00e0fors separats per menys de 10 metres. Aix\u00f2 milloraria substituin el sem\u00e0for del carrer pacific per un ceda", 
+        "title": "Eliminaci\u00f3 sem\u00e0for de Berenguer de Palou 32 per superflu", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/eliminacio-semafor-de-berenguer-de-palou-32-per-superflu", 
+        "votable": null, 
+        "voted": null
+    }
+}

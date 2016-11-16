@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4862, 
+            "name": "Josep Alberjon Fumanal", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4862, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3192", 
+        "conflictive": false, 
+        "created_at": "20/02/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3192, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Adonar-se i posar soluci\u00f3 al deficitari servei de manteniment de les zones verdes interiors del barri de la Trinitat Vella: Panterre de Pe\u00f1iscola amb Finestrelles, peu de l'olivera del Centre C\u00edvic, panterres metro i biblioteca, heura escala mec\u00e0nica Vinya Llarga...", 
+        "title": "Augmentar el manteniment de les zones verdes de l'interior del barri  de Trinitat Vella", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 18, 
+        "url": "https://decidim.barcelona/pam/proposals/augmentar-el-manteniment-de-les-zones-verdes-de-l-interior-del-barri-de-trinitat-vella", 
+        "votable": null, 
+        "voted": null
+    }
+}

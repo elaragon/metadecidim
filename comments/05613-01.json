@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10703, 
+                "name": "suport decidim.barcelona2", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda al Consell de Salut de Nou Barris: \"Millorar la senyalitzaci\u00f3 i l\u2019acc\u00e9s a la zona d\u2019entrades i sortides de les ambul\u00e0ncies del CAP Chafarinas (actualment els cotxes aparquen davant, inutilitzant el pas).\"</p>", 
+            "commentable_id": 5613, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 18:44:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5633, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9055, 
+                "name": "Esther F.G", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Revisar la xarxa de busos barri per accedir-hi exemple bus 132, 11</p>", 
+            "commentable_id": 5613, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 16:36:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6814, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

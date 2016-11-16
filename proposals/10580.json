@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 550, 
+            "name": "Coordinadora d'Entitats del Poblenou", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 550, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10580", 
+        "conflictive": false, 
+        "created_at": "09/04/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "https://drive.google.com/file/d/0By9Ymy8DVu9AZXZYWi1jNUFHZjQ/view?usp=sharing", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 10580, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 19, 
+            "name": "Acci\u00f3 comunit\u00e0ria", 
+            "position": 3
+        }, 
+        "summary": "Les Entitats del Poblenou hem creat un dec\u00e0leg de propostes sobre la Participaci\u00f3 i l\u2019Associacionisme, en el marc participatiu de la Coordinadora d'Entitats del Poblenou. Volem que l'Ajuntament de Barcelona i en especial el Districte de Sant Mart\u00ed, les accepti com a seves, els hi doni suport i les introdueixi al Pla Municipal 2016-2019.", 
+        "title": "Donar suport a les propostes de les Entitats del Poblenou sobre la Participaci\u00f3 i l\u2019Associacionisme ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 6, 
+        "url": "https://decidim.barcelona/pam/proposals/donar-suport-a-les-propostes-sobre-la-participacio-i-l-associacionisme-de-les-entitats-del-poblenou", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4053, 
+            "name": "exeivia", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4053, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6134", 
+        "conflictive": false, 
+        "created_at": "21/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6134, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "L'Ajuntament de Barcelona ha de defensar la construcci\u00f3 de la L9 en la mesura que \u00e9s una pol\u00edtica de foment de la mobilitat p\u00fablica i sostenible a la ciutat i ha de defensar la construcci\u00f3 d'aquesta parada com a pilar central de la pacificaci\u00f3 del barri de la Salut i de l'impuls d'una mobilitat tur\u00edstica sostenible (acc\u00e9s Park G\u00fcell)", 
+        "title": "Defensar l'estaci\u00f3 \"Muntanya\" de la L9 al barri de la Salut", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/recuperar-i-defensar-el-projecte-de-la-estacio-muntanya-de-la-l9-al-barri-de-la-salut", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5519, 
+                "name": "teresa cambra", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>ESPECIALMENT EL TROS DE PUJADA DE L'\u00daLTIM TRAM DEL CARRER CARTAGENA. NOM\u00c9S EST\u00c0 COBERT PER LA L\u00cdNIA DE BUS H6. ANIRIA B\u00c9 QUE ALGUN ALTRE BUS , ESPECIALMENT UN BUS DE BARRI FES LA PUJADA. </p>", 
+            "commentable_id": 1643, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 16:52:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1864, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16644, 
+                "name": "Anna Oliva", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Intensificar la freq\u00fc\u00e8ncia de pas a l'hora de les entrades dels nens a les escoles. Aix\u00f2 facilitaria l'acc\u00e9s a determinats punts del districte en transport p\u00fablic, com per exemple, el 117 a la zona d'escoles de Font d'en Fargues</p>", 
+            "commentable_id": 1643, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 09:26:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7330, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

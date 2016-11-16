@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14975, 
+                "name": "N\u00faria Juhera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord. En alguns carrers \u00e9s impossible caminar per la vorera.</p>", 
+            "commentable_id": 6723, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/03/2016 10:11:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6439, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13987, 
+                "name": "Jose Pertega Aguiar", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Molt d'acord! Al Viaducte de Vallcarca hi ha un punt , davant del Consulat (a l'altra vorera) que gaireb\u00e9 no es pot passar, i menys sortir de casa sense xocar amb la gent! Els cotxets de criatures no poden passar, els invidents s'hi donen cops... \u00c9s  incre\u00efble que la gu\u00e0rdia urbana (que passa per davant sovint) no hagi pres mai mesures!</p>", 
+            "commentable_id": 6723, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 11:20:58", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6940, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

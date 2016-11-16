@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 244, 
+            "name": "elva", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 244, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1149", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1149, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 4, 
+            "name": "Equitat de g\u00e8nere i diversitat sexual", 
+            "position": 4
+        }, 
+        "summary": "\r\nConvivim amb aquestes persones als nostres barris, destinades al comerc i  turisme sexual.\r\nBarcelona ha de formar part de la xarxa de ciutats contra la trata i el tr\u00e0fic de persones amb finalitat d'explotaci\u00f3 sexual i aplicar pol\u00edtiques europeas de prevenci\u00f3 i protecci\u00f3n de les v\u00edctimes", 
+        "title": "Municipi lliure de Tr\u00e0fic de dones i menors amb finalitat d'explotaci\u00f3 sexual", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 55, 
+        "url": "https://decidim.barcelona/pam/proposals/municipi-lliure-de-trafic-de-dones-i-menors-amb-finalitat-d-explotacio-sexual", 
+        "votable": null, 
+        "voted": null
+    }
+}

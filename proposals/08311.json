@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 18421, 
+            "name": "Lourdes Le\u00f3n", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 18421, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8311", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8311, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Al barri de Gr\u00e0cia \u00e9s vergony\u00f3s la quantitat de femtes de gos que un vianant es pot trobar.\r\nPotser es podria regalar a les persones que tenen gossos algun tipus de bosseta ben dissenyada per facilitar la tasca de recollida de la femta.\r\nAmb l'orina tamb\u00e9 caldria fer alguna cosa.\r\n", 
+        "title": "Sancionar els responsables de gossos que no netejen les femtes i obligar a netejar l'orina amb algun producte.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 20, 
+        "url": "https://decidim.barcelona/pam/proposals/sancionar-els-responsables-de-gossos-que-no-netejen-les-femtes-i-obligar-a-netejar-l-orina-amb-algun-producte", 
+        "votable": null, 
+        "voted": null
+    }
+}

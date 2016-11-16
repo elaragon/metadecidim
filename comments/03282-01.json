@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9025, 
+                "name": "Jos\u00e9", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Supongo que estas dos calles de circulaci\u00f3n r\u00e1pida podr\u00edan ayudar a que la gente de los barrios del norte de Barcelona que bajan en coche a la zona del centro o playas pudiera volver m\u00e1s r\u00e1pido a sus casas. Aun as\u00ed no tengo claro que en una ciudad tan estirada en direcci\u00f3n este-oeste como es Barcelona, la existencia de v\u00edas r\u00e1pidas norte-sur tenga el mismo sentido/necesidad que las que van este-oeste.</p>", 
+            "commentable_id": 3282, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/03/2016 00:02:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3601, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

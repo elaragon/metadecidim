@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 94, 
+                "name": "Genis Barrera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00c9s molt necessari en el cas de la Vila Ol\u00edmpica perqu\u00e8 hi ha aut\u00e8ntiques autopistes urbanes.</p>", 
+            "commentable_id": 577, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/02/2016 15:37:47", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 91, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1310, 
+                "name": "Olga Marcos", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Una de les zones on es podria crear una superilla \u00e9s el carrer Enamorats, tant al barri del Clot com al de Sagrada Fam\u00edlia. T\u00e9 al voltant carrers com Arag\u00f3 i Val\u00e8ncia molt transitades per cotxes que entren i surten de la ciutat i per autocars que van i venen al temple de la Sagrada Fam\u00edlia. El carrer no t\u00e9 circulaci\u00f3 de cotxes, nom\u00e9s dels ve\u00efns i ve\u00efnes i \u00e9s podria fer de vianants sense problemes.</p>", 
+            "commentable_id": 577, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 18:08:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 954, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1310, 
+                "name": "Olga Marcos", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals?search=enamorats\">https://decidim.barcelona/proposals?search=enamorats</a></p>", 
+            "commentable_id": 577, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 18:54:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 970, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

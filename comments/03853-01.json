@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10285, 
+                "name": "Montserrat Forcadas", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No estic a favor perqu\u00e8 \u00e9s massa gen\u00e9ric. Molts cops hi ha un ve\u00ed que de forma reiterada truca a la gu\u00e0rdia urbana per a tot. Hi ha un ingent nombre de ve\u00efns que els hi moltesta tot. Una cosa \u00e9s  un bar i una altra s\u00f3n tres nens jugant al carrer.  Un ve\u00ed es pot carregar la festa d'un carrer senser. Tindr\u00eda que fer-se votacions. Que es que es queixen tingu\u00e9ssin una contrapartida de signatures de la gent que no li molesta.</p>", 
+            "commentable_id": 3853, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/03/2016 12:33:13", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3539, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3539", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 873, 
+                "name": "Ernesto", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aquesta proposta incideix nom\u00e9s en les mol\u00e8sties als HABITATGES. \u00c9s la Gu\u00e0rdia Urbana o els serveis municipal qui ha de valorar. Si un ve\u00ed truca sense motiu es pot detectar. La idea es pot desenvolupar amb  molts matisos com funciona a d'altres pa\u00efsos. I a m\u00e9s no procedeix cap votaci\u00f3, la normativa municipal ja regula les mol\u00e8sties per soroll i sempre referit als HABITATGES.</p>", 
+            "commentable_id": 3853, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/03/2016 12:47:01", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3542, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

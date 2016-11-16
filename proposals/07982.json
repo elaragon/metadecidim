@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-7982", 
+        "conflictive": false, 
+        "created_at": "04/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/meetings/escola-els-arcs-una-barcelona-mes-humana-i-en-transicio-ecologica-urbanisme-per-als-barris", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 7982, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "A la cita presencial que va tenir lloc a l'Escola Els arcs de Barcelona, on van tractar l'eix \"Una Barcelona m\u00e9s humana i en transici\u00f3 ecol\u00f2gica\" en mat\u00e8ria d'urbanisme, els estudiants van proposar construir m\u00e9s ambulatoris d\u2019atenci\u00f3 prim\u00e0ria i p\u00fablics, sobretot als barris on hi ha menys. ", 
+        "title": "M\u00e9s ambulatoris d'atenci\u00f3 prim\u00e0ria p\u00fablics ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/mes-ambulatoris-d-atencio-primaria-publics", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 13290, 
+            "name": "procomuns.net", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 13290, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5864", 
+        "conflictive": false, 
+        "created_at": "18/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://procomuns.net/ca/politiques/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5864, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 26, 
+            "name": "Govern transparent  i rendici\u00f3 de comptes", 
+            "position": 1
+        }, 
+        "summary": "Llic\u00e8ncies Creative Commons sense cap restricci\u00f3 derivada d\u2019aquests o pel que fa a la reutilitzaci\u00f3 del contingut. Aquest horitz\u00f3 pot generar una tend\u00e8ncia en qu\u00e8 materials divulgatius, plans d\u2019empresa i altres formats de publicaci\u00f3 ajudin a normalitzar les pr\u00e0ctiques obertes en el dia a dia.", 
+        "title": "Canviar com opera internament l\u2019Ajuntament en alguns fronts vinculats al procom\u00fa: fomentar la generaci\u00f3 de documents municipals en temes econ\u00f2mics que continguin llic\u00e8ncies Creative Commons de forma visible i explicativa", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 6, 
+        "url": "https://decidim.barcelona/pam/proposals/canviar-com-opera-internament-l-ajuntament-en-alguns-fronts-vinculats-al-procomu-fomentar-la-generacio-de-documents-municipals-en-temes-economics-que-continguin-llicencies-creative-commons-de-forma-visible-i-explicativa", 
+        "votable": null, 
+        "voted": null
+    }
+}

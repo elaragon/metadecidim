@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9932", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9932, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 24, 
+            "name": "Un nou lideratge p\u00fablic", 
+            "position": 3
+        }, 
+        "summary": "Treure de l\u2019IBI l\u2019import de la recollida de residus i implantar una taxa de recollida de residus, tenint en compte els habitants de l\u2019habitatge i la renda familiar per fer-ho m\u00e9s just. Implementar tamb\u00e9 reduccions per fer vermicompostatge i autocompostatge casol\u00e0.", 
+        "title": "Repensar les taxes de la gesti\u00f3 de residus", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/repensar-les-taxes-de-la-gestio-de-residus", 
+        "votable": null, 
+        "voted": null
+    }
+}

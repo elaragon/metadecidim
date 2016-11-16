@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 94, 
+                "name": "Genis Barrera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Com a habitual de #bicibcn crec que les avantatges que donen les proteccions s\u00f3n molt m\u00e9s que les desavantatges, ja no concevo un carril bici que no sigui segregat f\u00edsicament encara que sigui amb armadillo</p>", 
+            "commentable_id": 1446, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 15:39:10", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 635, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2241, 
+                "name": "Mikelbcn73", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>retirar-les suposa que com al carril bici Diputaci\u00f3 les motos l'envaeixin de forma sistem\u00e0tica</p>", 
+            "commentable_id": 1446, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 17:14:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 674, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3026, 
+                "name": "Imma V.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Potser caldria substituir aquestes proteccions per d'altres millors.  Hi ha gent gran que  no s'adona que hi s\u00f3n fins que les trepitja i cau a terra. </p>", 
+            "commentable_id": 1446, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 08:12:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1795, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1795", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6514, 
+                "name": "Oriol B", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El problema aleshores no \u00e9s el separador, sino que la gent que creua per on no toca.</p>", 
+            "commentable_id": 1446, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/02/2016 13:04:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2799, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

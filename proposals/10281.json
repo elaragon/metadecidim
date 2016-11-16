@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 22501, 
+            "name": "Labascu", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 22501, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10281", 
+        "conflictive": false, 
+        "created_at": "09/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 10281, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 1, 
+            "name": "Just\u00edcia social", 
+            "position": 1
+        }, 
+        "summary": "Les ajudes socials sempre recauen a les mateixes franjes o mateixos varems sent aix\u00ed que fam\u00edlies que ni cobren molt per\u00f2 sobrepassen els varems mai reben cap ajuda tot i que si es va sumant despeses tamb\u00e9 en necessitarien. \u00c9s per aix\u00f2 que proposo que les ajudes puguin repartir-se per m\u00e9s fam\u00edlies a diferent escala segons ingressos.", 
+        "title": "Millores en ajuts socials en varems intermitjos", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/millores-en-ajuts-socials-en-varems-intermitjos", 
+        "votable": null, 
+        "voted": null
+    }
+}

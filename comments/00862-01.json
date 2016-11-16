@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 838, 
+                "name": "Vict\u00f2ria Barcel\u00f3 Roca", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Revertir la tend\u00e8ncia a treure l'alfabetitzaci\u00f3 de persones adultes de les Escoles P\u00fabliques. Cal integrar l'alfabetitzaci\u00f3 en totes les Escoles d'Educaci\u00f3 de Persones Adultes. No es pot deixar aquest segment de l'educaci\u00f3 en mans d'ONG i de persones volunt\u00e0ries</p>", 
+            "commentable_id": 862, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 12:06:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 221, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

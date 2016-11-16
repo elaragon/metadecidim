@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2051, 
+            "name": "Martin Petts", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2051, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1436", 
+        "conflictive": false, 
+        "created_at": "04/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1436, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Si un veh\u00edculo tiene un nivel de ruido mucho m\u00e1s alto que un coche normal, no se debe conducirlo despu\u00e9s de las 12 de la noche. Es un problema sobre todo causado por las motos, que a veces est\u00e1n manipulados para tener m\u00e1s potencia o son aptos para el campo, no la ciudad donde la gente intenta dormir por las noches. ", 
+        "title": "Restringir el uso de los veh\u00edculos ruidosos por las noches", 
+        "total_comments": 8, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 4, 
+        "total_votes": 69, 
+        "url": "https://decidim.barcelona/pam/proposals/restringir-el-uso-de-los-vehiculos-ruidosos-por-las-noches", 
+        "votable": null, 
+        "voted": null
+    }
+}

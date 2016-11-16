@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9848", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9848, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Amb banda rugosa marcar el l\u00edmit de la zona per on poden passar vehicles (per persones invidents) sense diferenciar el paviment, jugant amb l'arbrat i jardineres amb plantes i flors per donar-li una imatge m\u00e9s \"amable\". Nom\u00e9s acc\u00e9s als ve\u00efns amb p\u00e0rquing i c\u00e0rrega i desc\u00e0rrega", 
+        "title": "Plataforma \u00fanica amb indicacions al paviment del l\u00edmit per on poden circular els vehicles pel Carrer Gran de Sant Andreu", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/plataforma-unica-amb-indicacions-al-paviment-del-limit-per-on-poden-circular-els-vehicles-pel-carrer-gran-de-sant-andreu", 
+        "votable": null, 
+        "voted": null
+    }
+}

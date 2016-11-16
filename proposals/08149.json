@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8149", 
+        "conflictive": false, 
+        "created_at": "04/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/meetings/escola-betania-patmos-una-barcelona-mes-humana-i-en-transicio-ecologica-3r-eso-c", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8149, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "A la cita presencial de l\u2019Escola Bet\u00e0nia- Patmos, els estudiants de 3r d\u2019ESO C van estar debatent diverses propostes per millorar el medi ambient de la ciutat, entre aquestes van proposar que al carrer hi haguessin m\u00e0quines que dispensessin bosses gratu\u00eftes per tal de recollir els excrements dels gossos.", 
+        "title": "M\u00e0quines dispensadores de bosses gratu\u00eftes pels excrements dels gossos", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/maquines-dispensadores-de-bosses-gratuites-pels-excrements-dels-gossos", 
+        "votable": null, 
+        "voted": null
+    }
+}

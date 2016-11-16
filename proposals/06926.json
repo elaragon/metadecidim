@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10965, 
+            "name": "Jorge Damont ", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 10965, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6926", 
+        "conflictive": false, 
+        "created_at": "28/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.urevo.lu/en/home.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6926, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Con la uni\u00f3n de la Red de Tranv\u00eda, no se ha planteado dar ese servicio con la  Red de Buses articulados- biarticulados el cual tendr\u00eda un coste mucho menor y mas beneficios en movilidad ya que las diferentes lineas no se suprimir\u00edan (6, 7, 33, 34,..) como esta planteado ante el proyecto del Tranv\u00eda, sorprende solo un estudio de la D30 (7 recortada)", 
+        "title": "Estudio de una RED de BRT (NXB) para la Diagonal como opci\u00f3n mas econ\u00f3mica, viable y con mayor volumen de pasaje, ante la propuesta de uni\u00f3n de tranv\u00edas.   ", 
+        "total_comments": 9, 
+        "total_negative_comments": 2, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 3, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/estudio-de-una-red-de-brt-nxb-para-la-diagonal-como-opcion-mas-economica-viable-y-con-mayor-volumen-de-pasaje-ante-la-propuesta-de-union-de-tranvias", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 6285, 
+            "name": "Associacio de Ve\u00efns i Ve\u00efnes Coll-Vallcarca", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 6285, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3982", 
+        "conflictive": false, 
+        "created_at": "04/03/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3982, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Les terres terciaries del Coll, estan ubicades a l'esquena de l'abside de la parr\u00f2quia Mare de D\u00e9u del Coll, darrera l'abside, costat Bes\u00f3s.\r\nAquestes terres estan protegides i no es poden tocar per ser patrimoni geol\u00f2gic de Barcelona. D'igual manera ens trobem en l' Avda. Republica Argentina, una part protegida amb xarxes d'acer.", 
+        "title": "Terres terciaries en el barri del Coll impedeixen l'urbanisme dels Tres Turons", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 3, 
+        "total_votes": 5, 
+        "url": "https://decidim.barcelona/pam/proposals/terres-terciaries-en-el-barri-del-coll-impedeixen-l-urbanisme-dels-tres-turons", 
+        "votable": null, 
+        "voted": null
+    }
+}

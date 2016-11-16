@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 12249, 
+            "name": "jose2715", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 12249, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5392", 
+        "conflictive": false, 
+        "created_at": "16/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.qualitatdelaire.cat/estacio/cerca/0/52/11.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5392, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "La calidad del aire de barcelona tendr\u00eda que ser una de las m\u00e1ximas prioridades.  Valores como el di\u00f3xido de nitrogeno superan los valores permitidos por la UE.  los responsables municipales tienen como prioridad m\u00e1xima que NO respiremos aire envenenado. \r\n", 
+        "title": "Aire limpio", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 19, 
+        "url": "https://decidim.barcelona/pam/proposals/aire-limpio", 
+        "votable": null, 
+        "voted": null
+    }
+}

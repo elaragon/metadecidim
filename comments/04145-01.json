@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11606, 
+                "name": "JOSAN GARCIA MU\u00d1OZ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Antes de ello se deber\u00eda crear carril bici al estilo del paralelo. Recordemos que en el paseo de la zona franca no se cambia una baldosa de las aceras desde 1.992 ( Juegos Ol\u00edmpicos ) es vergonzoso, est\u00e1n llenas de motos lado monta\u00f1a,  solo se preocupan de tirar el dinero en la Fira. </p>", 
+            "commentable_id": 4145, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 11:56:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4485, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/problemas-para-salir-del-barrio\">https://decidim.barcelona/proposals/problemas-para-salir-del-barrio</a></p>", 
+            "commentable_id": 4145, 
+            "commentable_type": "Proposal", 
+            "created_at": "19/04/2016 11:00:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 18667, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

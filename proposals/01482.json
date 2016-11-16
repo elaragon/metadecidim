@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2359, 
+            "name": "Mentalila MenTalila", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2359, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1482", 
+        "conflictive": false, 
+        "created_at": "04/02/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "http://www.barcelona.cat/resources/hu/parcs-i-jardins/ParcsIFRAMEES/w110.bcn.cat/portal/site/MediAmbient/menuitem.0d4d06202ea41e13e9c5e9c5a2ef8a0c/index15bf.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1482, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "En muchas ciudades del mundo, por ejem. New  York o Lisboa, etc., tienen espacios con mesas y sillas para que las personas  que quieran reunirse y hacer cosas conjuntamente; como jugar a las cartas, estudiar, tomar un caf\u00e9, hacer nuevas amistades, compartiendo las mesas. Ser\u00eda una buena manera de humanizar la ciudad. Parque Joan Mir\u00f3", 
+        "title": "Mesas y sillas gratuitas  en los parques y entornos de grandes dimensiones.", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 64, 
+        "url": "https://decidim.barcelona/pam/proposals/mesas-y-sillas-gratuitas-en-los-parques-y-entornos-de-grandes-dimensiones", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9810", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/meetings/ies-alzina-una-barcelona-diversa-que-asseguri-el-bon-viure", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9810, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Els estudiants que assisteixen a l'aula de refor\u00e7 escolar de l'IES Alzina van proposar dotar de revistes, diaris o qualsevol altre entreteniment les sales d\u2019espera del CAP i d\u2019urg\u00e8ncies, aix\u00ed com a les habitacions dels hospitals per fer m\u00e9s confortable l\u2019estada. ", 
+        "title": "Dotar de revistes, diaris o llibres les sales d'espera dels equipaments sanitaris", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/dotar-de-revistes-diaris-o-llibres-les-sales-d-espera-dels-equipaments-sanitaris", 
+        "votable": null, 
+        "voted": null
+    }
+}

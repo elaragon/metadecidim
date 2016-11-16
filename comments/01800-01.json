@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4971, 
+                "name": "ECOM", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": true
+            }, 
+            "body": "<p>Us expliquem, m\u00e9s \u00e0mpliament, la nostra proposta:\n<br />-\tAmpliar el transport especial porta a porta a fi que arribi a mol\u00actes m\u00e9s persones amb discapacitat de la ciutat. Millorar la seva gesti\u00f3 i assegurar que el servei es continu\u00ef realitzant mitjan\u00e7ant taxis i no amb altres vehicles (com ambul\u00e0ncies) com ha passat en alguns altres municipis.</p>", 
+            "commentable_id": 1800, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 11:06:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7350, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 821, 
+            "name": "Susanna Segovia", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 821, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3238", 
+        "conflictive": false, 
+        "created_at": "22/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3238, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "La tramitaci\u00f3 de la t12 \u00e9s lenta i cara. En cas de p\u00e8rdua - freq\u00fcent amb menors- triguen 1 mes en enviar la nova i mentrestant el menor ha de pagar el transport p\u00fablic (que deixa de ser gratu\u00eft). Cal que el tr\u00e0mit de primera emissi\u00f3 sigui gratu\u00eft i el de duplicat m\u00e9s econ\u00f2mic. I que durant la tramitaci\u00f3 es pugui viatjar gratis amb un justificant", 
+        "title": "una T12 m\u00e9s justa i eficient", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 13, 
+        "url": "https://decidim.barcelona/pam/proposals/una-t12-mes-justa-i-eficient", 
+        "votable": null, 
+        "voted": null
+    }
+}

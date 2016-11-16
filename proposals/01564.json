@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 369, 
+            "name": "Maclaren", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 369, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1564", 
+        "conflictive": false, 
+        "created_at": "07/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1564, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "El desenvolupament tecnol\u00f2gic i normatiu en l'\u00e0mbit de l'esport ha estat paral\u00b7lel a la progressiva reducci\u00f3 dels serveis t\u00e8cnics  fins a la desaparici\u00f3 del Departament d'Obres de l'IBE l'ultim mandat . Un nou Centre Municipal pot assumir el repte, en temes de paviments, enllumenat, tecnologia de l'aigua, comuns a altres serveis municipals.       ", 
+        "title": "Tecnologia de l'esport i municipi", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/tecnologia-de-l-esport-i-municipi", 
+        "votable": null, 
+        "voted": null
+    }
+}

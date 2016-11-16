@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Actualment la Pla\u00e7a de les Gl\u00f2ries est\u00e0 en obres i es convertir\u00e0 en un gran parc. Per + info: <a href=\"http://ajuntament.barcelona.cat/glories/conc/canopia-urbana/\">http://ajuntament.barcelona.cat/glories/conc/canopia-urbana/</a></p>", 
+            "commentable_id": 5110, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 11:52:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4987, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

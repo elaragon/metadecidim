@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4971, 
+                "name": "ECOM", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": true
+            }, 
+            "body": "<p>Us expliquem, m\u00e9s \u00e0mpliament, la nostra proposta:\n<br />-\tPromoure que tots els agents que gestionen serveis i/o espais d\u2019\u00fas p\u00fablic a la ciutat (tant de titularitat p\u00fablica com privada) aportin informaci\u00f3 del grau d\u2019accessibilitat dels mateixos, tant a les seves webs com a trav\u00e9s de les seves diferents vies de contacte i informaci\u00f3.  </p>", 
+            "commentable_id": 1770, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 11:59:34", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7359, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/ampliar-el-programa-de-vida-independent\">https://decidim.barcelona/proposals/ampliar-el-programa-de-vida-independent</a></p>", 
+            "commentable_id": 1770, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 13:28:14", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8494, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/pla-d-accessibilitat-universal\">https://decidim.barcelona/proposals/pla-d-accessibilitat-universal</a></p>", 
+            "commentable_id": 1770, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 13:28:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8496, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

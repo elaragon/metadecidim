@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 15605, 
+            "name": "JordiR", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 15605, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6988", 
+        "conflictive": false, 
+        "created_at": "29/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.lavanguardia.com/vangdata/20151014/54437208728/mejores-paises-mundo-morir-dignamente.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6988, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Garantir l\u2019atenci\u00f3 sanit\u00e0ria especialitzada en cures pal\u00b7liatives a tothom que pateixi un proc\u00e9s de malaltia avan\u00e7ada (siguin adults, gent gran o nens), all\u00e0 on sigui el lloc escollit per afrontar el final de vida (hospital o domicili). Garantir un tracte digne (habitacions individuals, bona atenci\u00f3, recursos suficients, etc.) fins l'\u00faltim moment. ", 
+        "title": "Barcelona: ciutat ideal per viure\u2026 i per morir", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/barcelona-ciutat-ideal-per-viure-i-per-morir", 
+        "votable": null, 
+        "voted": null
+    }
+}

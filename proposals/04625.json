@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 11301, 
+            "name": "Karles23", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 11301, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4625", 
+        "conflictive": false, 
+        "created_at": "10/03/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "https://goo.gl/maps/xsAsYBGNDkE2", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4625, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Just davant del Carrer Gran de Sant Andreu 446 cantoanda Balira, hi ha un pas de vianants on els vehicles quan surten del sem\u00e0for de Gran de Sant Andreu amb Palomar en verd venen molt de pressa i creuar \u00e9s for\u00e7a perillos, ja que no s'aturen, i sobretot per qu\u00e8 \u00e9s un dels camins naturals per anar l'escola Sagrada Fam\u00edlia i hi passen for\u00e7a nens.", 
+        "title": "Sem\u00e0for per a vianants al Carrer Gran de Sant Andreu 446", 
+        "total_comments": 5, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 5, 
+        "total_positive_comments": 0, 
+        "total_votes": 16, 
+        "url": "https://decidim.barcelona/pam/proposals/semafor-al-carrer-gran-de-sant-andreu-446", 
+        "votable": null, 
+        "voted": null
+    }
+}

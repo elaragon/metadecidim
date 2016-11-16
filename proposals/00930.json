@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-930", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 930, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "Mantenir la promoci\u00f3 de la xarxa de mercats municipals com un eix vertebrador del comer\u00e7 de la ciutat, en el context del Pla estrat\u00e8gic de Mercats de Barcelona 2015-2025. Estrat\u00e8gia basada en quatre elements: renovaci\u00f3, manteniment, integraci\u00f3 amb el teixit comercial i mercat verd.", 
+        "title": "Pla estrat\u00e8gic de Mercats 2015-2025", 
+        "total_comments": 31, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 30, 
+        "total_positive_comments": 1, 
+        "total_votes": 14, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-estrategic-de-mercats-2015-2025", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8503, 
+                "name": "Jose Antonio Miranda", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es una propuesta fundamental para mejorar la relaci\u00f3n entre los ciudadano y la administraci\u00f3n, y para que, entre todos, mejoremos nuestros barrios.</p>", 
+            "commentable_id": 7286, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 18:03:00", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7035, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12971, 
+                "name": "Manel Mart\u00ednez Mart\u00ednez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si es a modo de informaci\u00f3n me parece fatal, otra cosa ser\u00eda que antes de que se hiciese cualquier actuaci\u00f3n la administraci\u00f3n llamase a las AA.VV. para junto con ellas analizasen que mejoras hacen falta en sus barrios. Eso si ser\u00eda dar participaci\u00f3n a las AA.VV.</p>", 
+            "commentable_id": 7286, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 19:55:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7078, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/revisio-de-la-normativa-per-a-una-participacio-ciutadana-plural-i-eficac\">https://decidim.barcelona/proposals/revisio-de-la-normativa-per-a-una-participacio-ciutadana-plural-i-eficac</a></p>", 
+            "commentable_id": 7286, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 11:36:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10497, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

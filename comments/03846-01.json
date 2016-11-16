@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10285, 
+                "name": "Montserrat Forcadas", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p> \u00c9s tasca de l'ajuntament fomentar la instal.laci\u00f3 de comer\u00e7, empreses i hotels? HOTELS??? EMPRESES?? Be, comer\u00e7 s\u00ed. Petit comer\u00e7 i molt. Comer\u00e7 proper. \n<br />Aix\u00f3 \u00e9s un comentari per a debatre. No s\u00f3c de Nou Barris i respecto la proposta. </p>", 
+            "commentable_id": 3846, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/03/2016 12:42:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3541, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3541", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10201, 
+                "name": "Roger  Majoral", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic d acord que no \u00e9s l Ajuntament qui ha de muntar comer\u00e7os ni empreses. Per\u00f2 Torre Bar\u00f3 \u00e9s un barri molt apartat, quasi sense comer\u00e7 ni vida al carrer. I si hi ha una mica de comer\u00e7 , empresa equipaments i incl\u00fas hotels, pot ajudar a dignificar el barri. </p>", 
+            "commentable_id": 3846, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/03/2016 13:54:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3549, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3541", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5196, 
+                "name": "enriqueta", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Jo crec que al barri de Torre Baro un hotel tipus IBIS , hotels que estan en les fora del centre que s\u00f3n mes barats seria un \u00e8xit. Donaria treball a la zona i coneixement del lloc.</p>", 
+            "commentable_id": 3846, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/03/2016 15:45:00", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3560, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

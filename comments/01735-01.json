@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4966, 
+                "name": "Mireia G de la Puente", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es una vergonya com esta el barri... Y els mossos fan poc . S'hauria de fer un pla de neteja.... \n<br /> Som avui en dia un suburbi ric en drogues, atracaments, i ja no estem tranquilis ni dintre de casa la gent d'aqui que pot marxa corrents i els de fora son el amos de tot.\n</p>", 
+            "commentable_id": 1735, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/02/2016 10:12:20", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1611, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 2, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 613, 
+                "name": "Josep M Armengou", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>D'acord amb qui expressa el problema, per\u00f2 entenc que haur\u00edem de resoldre'l sense tancar-lo.</p>", 
+            "commentable_id": 1735, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 14:56:26", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4532, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

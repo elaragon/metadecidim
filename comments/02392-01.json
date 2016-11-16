@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 579, 
+                "name": "Josep Mompin Poblet", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hay el viandante que va por una acera, un paseo o un jard\u00edn, tiene que mirar de reojo que las bicis o los monopatines no te lleven por delante. Los hay que van a toda velocidad, esquivando personas y animales de compa\u00f1\u00eda. Y no les llames la atenci\u00f3n porque te insultan. Falta polic\u00eda de barrio.\n</p>", 
+            "commentable_id": 2392, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 11:35:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1825, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1825", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13835, 
+                "name": "Albert C.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic totalment d'acord amb la teva opini\u00f3 Josep, pero sembla que l'Ajuntament o el qui hi haurien de posar-hi remei, deuen anar sempre en cotxe.</p>", 
+            "commentable_id": 2392, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 18:07:26", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6194, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

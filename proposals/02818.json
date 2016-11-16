@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 79, 
+            "name": "Andreu", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 79, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2818", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://queeslahomeopatia.com/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2818, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Vivim en una societat molt cr\u00e8dula amb tot all\u00f2 que les pseudoci\u00e8ncies ens presenten com a miracul\u00f3s. Enlloc de basar-nos ens resultats cient\u00edfics ens basem en \"a ell li funciona\". L'homeopatia, que es basa en conceptes totalment acient\u00edfics) ven sucre a preu d'or en llocs on tendim a confiar,  les farm\u00e0cies. ", 
+        "title": "Fomentar l'eliminaci\u00f3 de les pseudoci\u00e8ncies de les farm\u00e0cies (Homeopatia et al)", 
+        "total_comments": 5, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 8, 
+        "url": "https://decidim.barcelona/pam/proposals/fomentar-l-eliminacio-de-les-pseudociencies-de-les-farmacies-homeopatia-et-al", 
+        "votable": null, 
+        "voted": null
+    }
+}

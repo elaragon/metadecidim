@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 7205, 
+            "name": "Associaci\u00f3 de Ve\u00efns i Amics del Passatge Ali\u00f3, 12 baixos", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 7205, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3276", 
+        "conflictive": false, 
+        "created_at": "23/02/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3276, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "9) El 2010 l\u2019escultura de la font de la Caputxeta Vermella es va treure de la seva peanya per procedir a la seva restauraci\u00f3.  L\u2019empresa encarregada del treball en l\u2019operaci\u00f3 va trencar i desfigurar un cant\u00f3 de la base de pedra. Demanem que es restauri correctament tota la font, i que quan es tornin a fer restauracions i neteges es facin amb cura.", 
+        "title": "Remodelaci\u00f3 i restauraci\u00f3 de la pastilla central del Passeig de Sant Joan de Travessera de Gr\u00e0cia a Diagonal (9) ", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/remodelacio-i-restauracio-de-la-pastilla-central-del-passeig-de-sant-joan-de-travessera-de-gracia-a-diagonal-9", 
+        "votable": null, 
+        "voted": null
+    }
+}

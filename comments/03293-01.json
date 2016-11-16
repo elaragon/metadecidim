@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8103, 
+                "name": "Dani Verd", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No creo que la actuaci\u00f3n a realizar se base en golpe de cartera, es como decir a base de garrote\n<br />Hay muchas actitudes incivicas que se pueden solucionar proporcionando infraestructuras publicas, como seria el caso de los orines en la calle proporcionando ba\u00f1os p\u00fablicos,  es solo un ejemplo dentro de muchos m\u00e1s.</p>", 
+            "commentable_id": 3293, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/02/2016 18:58:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2604, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/extensio-dels-agents-civics-a-tota-la-ciutat\">https://decidim.barcelona/proposals/extensio-dels-agents-civics-a-tota-la-ciutat</a></p>", 
+            "commentable_id": 3293, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 12:06:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14485, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2604", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 405, 
+                "name": "San tito", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Dani Verd, estoy de tu parte que existen muchas actitudes inc\u00edvicas que se pueden solucionar con nuevas infraestructuras, pero hay otras muchas que si no es a golpe de multa la gente hace lo que le viene en gana aunque genere molestias a sus vecinos.\n<br />Te pongo un ejemplo: Una persona pasea a su perrito por la acera. El perro deja un \"regalito\" y el propietario tiene dos opciones, o bien ser civico y seguir la normativa vigente y la recoja, o bien pasar de todo y dejar semejante regalito en la acera.\n<br />Esta claro que se pueden poner miles de pipi-cans m\u00e1s, pero crees que as\u00ed evitaremos que esa persona siga dejando a su animal defecar en la v\u00eda p\u00fablica sin recogerlo...?\n<br />El que es inc\u00edvico es inc\u00edvico y yo digo que lo pague.\n<br />Saludos</p>", 
+            "commentable_id": 3293, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 10:47:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2679, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2604/2679", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8103, 
+                "name": "Dani Verd", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Bueno es un punto de vista, pero yo considero que es tan incivico el que deja las deposiciones de su animal en la v\u00eda publica como el ciudadano que lo ve y no le dice nada. Yo creo que el cambio surge mediante la voluntad de todos, no con m\u00e1s represi\u00f3n policial, ya que acaba convirti\u00e9ndose no en un medio de cambio sino en una forma de recaudaci\u00f3n econ\u00f3mica. </p>", 
+            "commentable_id": 3293, 
+            "commentable_type": "Proposal", 
+            "created_at": "27/02/2016 05:20:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2887, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

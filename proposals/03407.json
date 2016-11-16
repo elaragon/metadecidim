@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8207, 
+            "name": "Arxiu Hist\u00f2ric del Poblenou", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 8207, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3407", 
+        "conflictive": false, 
+        "created_at": "25/02/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3407, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Malgrat que el conjunt de la Torre de les Aig\u00fces i la Casa de les V\u00e0lvules s'ha obert al p\u00fablic al mar\u00e7 de 2014, resta la dotaci\u00f3 de la Casa de V\u00e0lvules, conforme a un projecte d'adequaci\u00f3 com equipament municipal i seu de l'Arxiu Hist\u00f2ric del Poblenou: climatitzaci\u00f3, enllumenat, etc. Aix\u00ed es disposar\u00e0 d'un espai de dinamitzaci\u00f3 en el territori.", 
+        "title": "Adequaci\u00f3 de la Casa de les V\u00e0lvules com equipament", 
+        "total_comments": 16, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 15, 
+        "total_votes": 94, 
+        "url": "https://decidim.barcelona/pam/proposals/adequacio-de-la-casa-de-les-valvules-com-equipament", 
+        "votable": null, 
+        "voted": null
+    }
+}

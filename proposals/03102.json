@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3102", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3102, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Reforma integral del pont del carrer de Santander per unir de forma digna, efectiva i segura la Via Trajana i el districte de Sant Mart\u00ed amb Sant Andreu i Sant Adri\u00e0. Estudiar una actuaci\u00f3 d'obertura de la Via Trajana a la zona de la Verneda Alta i La Pau a partir de l'eix de l'antic solar de la Coca-Cola. Acompanyar aquestes grans actuacions de mobilitat i acc\u00e9s amb altres de m\u00e9s puntuals, com la reforma de la zona de petanca de Trajana, la creaci\u00f3 d\u2019horts urbans i la millora de l'oferta d'equipaments p\u00fablics: locals municipals d'\u00fas social i associatiu m\u00e9s c\u00e8ntrics i millor aprofitament dels usos del casal del Drac.", 
+        "title": "Obertura de la Via Trajana: pont Santander i solar Coca-Cola", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 22, 
+        "url": "https://decidim.barcelona/pam/proposals/obertura-de-la-via-trajana-pont-santander-i-solar-coca-cola", 
+        "votable": null, 
+        "voted": null
+    }
+}

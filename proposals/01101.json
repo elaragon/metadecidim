@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 73, 
+            "name": "OriolC", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 73, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1101", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1101, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 20, 
+            "name": "Administraci\u00f3  intel\u00b7ligent i inclusiva", 
+            "position": 4
+        }, 
+        "summary": "Prohibir aquells anuncis o publicitats amb contingut sexista a la ciutat de Barcelona: mupis al carrer, publicitat al Bus, al Metro, cartells a les faroles, etc.", 
+        "title": "Prohibir la publicitat sexista a Barcelona", 
+        "total_comments": 16, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 3, 
+        "total_positive_comments": 5, 
+        "total_votes": 532, 
+        "url": "https://decidim.barcelona/pam/proposals/prohibir-la-publicitat-sexista-a-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

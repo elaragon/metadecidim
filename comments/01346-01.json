@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2089, 
+                "name": "Gerard Rovira Corbera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Les rambles i la zona aquesta, fa pena. No nom\u00e9s regular el comer\u00e7 sin\u00f3 totes les rambles.\n<br />All\u00e0 va tothom menys la gent de Barcelona. No pots passejar tranquil per la de carteristes que hi han (que la policia ja els coneix), preus totalment inflats (en part s'ent\u00e9n, per\u00f2 es descabellat), pots trobar els pitjors restaurants de tota Barcelona, souvenirs sense cap tipus de regulaci\u00f3 de preus i compinchats entre ells ja que es van trucant.\n<br />Per les nits ja ni sembla Barcelona, tot de prostitutes que inclus intenten robar, venedors de cerveza i menjar pel carrer, mes carteristes i guardia urbana que no actua contra aquesta gent.\n</p>", 
+            "commentable_id": 1346, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 16:02:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 644, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

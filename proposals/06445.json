@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8921, 
+            "name": "casa lila", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 8921, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6445", 
+        "conflictive": false, 
+        "created_at": "22/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6445, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "En las nuevas l\u00edneas de autob\u00fas (V y H) las distancias entre paradas son escandalosamente largas. No est\u00e1n pensadas para el ciudadano sino para reducir costes. \u00a1En algunas l\u00edneas la distancia entre paradas alcanza los 1200 metros!  Y distancias de 600 m son habituales. El proyecto inicial de la red ortogonal indicaba 300/400 m entre paradas!", 
+        "title": "Reducir la distancia entre paradas de las nuevas l\u00edneas de autob\u00fas V y H", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/reducir-la-distancia-entre-paradas-de-las-nuevas-lineas-de-autobus-v-y-h", 
+        "votable": null, 
+        "voted": null
+    }
+}

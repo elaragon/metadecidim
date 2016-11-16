@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5187, 
+                "name": "VILLARRASA", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>uN BARRI SENSE VORERES ES UN PERILL PELS VEINS  QUAN CAMINEM PEL CARRER</p>", 
+            "commentable_id": 2621, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/02/2016 23:15:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1676, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2072, 
+                "name": "ekin", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En Torre Baro hay muy pocas aceras, que urbanicen todas las calzadas. Para que el ciudadano pueda disfrutar de su barrio. </p>", 
+            "commentable_id": 2621, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/02/2016 10:01:14", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1688, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5322, 
+                "name": "Irene V", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es una necesidad construir las aceras. Un paseo por la mayor\u00eda de calles comporta un peligro que no permite disfrutar del entorno natural, los peatones tenemos que compartir la v\u00eda con los veh\u00edculos, sin ninguna seguridad, alertados constantemente porque puede venir un coche o lo que es peor, el autob\u00fas. El peligro se incrementa cuando se pasea con perro/os o/y ni\u00f1o/os. Tambi\u00e9n, la ausencia de aceras, en algunas paradas del autob\u00fas, obliga a esperarlo de pie en la misma v\u00eda. Adem\u00e1s, el IBI que recauda el Ayuntamiento es desproporcional a los servicios que recibimos. Rogamos que este problema de seguridad vial se solucione con celeridad, la situaci\u00f3n lo requiere. Gracias.</p>", 
+            "commentable_id": 2621, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/02/2016 11:44:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1751, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

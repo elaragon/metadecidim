@@ -1,0 +1,209 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1010, 
+                "name": "catorvel", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si finalment el Cinema Niza no es pot comprar proposo buscar alternatives. Els Jardins de la Industria es un parc amb moltes possibilitats pels metres quadrats que te i es podria fer una LUDOTECA MEDIOAMBIENTAL   d'entrada lliure com la del Parc Ciutadella amb una caseta prefabricada ecol\u00f3gica i un exterior dinamitzat amb activitats. Es trist no tenir llocs de lleure de qualitat amb la teva familia...</p>", 
+            "commentable_id": 9245, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 15:31:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9544, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1028, 
+                "name": "Elisabet", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Imprescindible perqu\u00e8 els nens no es vegin obligats a quedar-se a casa.</p>", 
+            "commentable_id": 9245, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 17:44:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9823, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1316, 
+                "name": "Gema Farreny", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Un barri tant familiar com \u00e9s el de la Sagrada Fam\u00edlia ha de gaudir d'un espai on els petits i les seves fam\u00edlies passin bones estones tot relacionant-se amb d'altres i aprenent a repectar el medi ambient jugant. </p>", 
+            "commentable_id": 9245, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 23:00:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10130, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/espai-familiar-la-quitxalla-de-sagrada-familia\">https://decidim.barcelona/proposals/espai-familiar-la-quitxalla-de-sagrada-familia</a></p>", 
+            "commentable_id": 9245, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 13:07:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14610, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "9823", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1010, 
+                "name": "catorvel", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Dret al lleure com a dret fonamental.  Parc Industria esta degradat i en general es un barri sense zones verdes i espais per nens i nenes. </p>", 
+            "commentable_id": 9245, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 15:09:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10986, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "9823/10986", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 23785, 
+                "name": " cristinaglezz", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'accord. </p>", 
+            "commentable_id": 9245, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/04/2016 10:00:47", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12814, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

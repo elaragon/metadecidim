@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 15381, 
+            "name": "Xnet", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 15381, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 5, 
+            "name": "Just\u00edcia global"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6897", 
+        "conflictive": false, 
+        "created_at": "27/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://xnet-x.net/ca/decaleg-proteccio-denunciants-alertadors/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6897, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 5, 
+            "id": 28, 
+            "name": "Just\u00edcia global", 
+            "position": 1
+        }, 
+        "summary": "Hem de pressionar pel desenvolupament de legislacions espec\u00edfiques que protegeixin la tasca dels alertadors/whistleblowers, ciutadans que, davant de casos d\u2019abusos o corrupci\u00f3, decideixen actuar, sovint de manera an\u00f2nima, revelant  informaci\u00f3 a l\u2019opini\u00f3 p\u00fablica per denunciar-ho.", 
+        "title": "Prendre mesures per a la protecci\u00f3 dels Whistleblowers/Alertadors que denuncien la corrupci\u00f3 institucional i abusos corporatius", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 16, 
+        "url": "https://decidim.barcelona/pam/proposals/implementacio-de-llicencies-d-estandars-i-software-lliures-a-l-administracio", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13768, 
+                "name": "N\u00faria Oriol", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els vein i veines de la zona que anem amb motocicletes o amb vehicle hem de donar una volat impressionant. Si vols anar de la pla\u00e7a font castellana fins a la pla\u00e7a del nen de la rutlla, has de baixa gaire b\u00e9 fins al carrer vinyals i despr\u00e9s tornar a pujar a la Verge de Montserrar i girar a l'esauerre fins a la pla\u00e7a del nen de la rutlla. Contaminaci\u00f3 a tuti ple .</p>", 
+            "commentable_id": 5634, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/03/2016 09:59:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5723, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13859, 
+                "name": "Alba Oriol Mumbr\u00fa", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d\u00b4acord amb al proposta,i ja que per una cantonada hem de donar una volta de 1 km aproximadament.</p>", 
+            "commentable_id": 5634, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/03/2016 11:05:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5734, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 20384, 
+                "name": "Armand Frade AVC Lesseps i 2000 firmes des del 2006", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Visc aGr\u00e0cia a l'entorn de 3 places p\u00fabliques pero mancan espais de trobada i fer petar la xerrada i amb \"bon rotllo\", amb una P\u00e8rgola i que es f\u00e1cil de fer: un entramat de fustes, unes plantes d'emparrar per fer ombra, uns bancs per asseure a descansar, jugar a l'SCRABBLE, llegir el diari o llibres(ji ha bones llibreries al barri), etc.i aix\u00f3 no es molt car de fer.Vull dir que s'aprofiti tot l'espai interior per optimitza al m\u00e1xim i mdificar si cal l'espai interior.Que no pasi com a l'Espai Jove La Fontana amb un sostre molt alt y am\u00e9s va sortir molt cara tal com es va fer\"dit pels constructors.Gracies. </p>", 
+            "commentable_id": 8567, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 11:04:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11712, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

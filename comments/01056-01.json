@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4440, 
+                "name": "Carlos Lecha Junoy", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Haviam si de una vegada,es fan els projectes que estan aturats a Magoria desde fa molts anys.I que els diferentes governs de la ciutat han deixat al calaix</p>", 
+            "commentable_id": 1056, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/02/2016 14:57:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1426, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9725, 
+                "name": "MP", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Visc a Poble Nou, el recinte de petanca tancat amb balles, s'ha creat un lloc ideal per deixar anar els gossos. El fan servir de pipi can.</p>", 
+            "commentable_id": 1056, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/03/2016 16:03:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3184, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1426", 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 115, 
+                "name": "PETANCA SANTS ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": true
+            }, 
+            "body": "<p>Totalment d'acord,  sembla ser que ara aquests terrenys s\u00f3n cedits a l'ajuntament i per fi tindrem una zona d'equipaments  amb instal\u00b7lacions de petanca dignes per un  barri com Sants. .</p>", 
+            "commentable_id": 1056, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/02/2016 08:36:56", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1493, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

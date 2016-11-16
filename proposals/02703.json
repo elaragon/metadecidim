@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 179, 
+            "name": "Susanna", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 179, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2703", 
+        "conflictive": false, 
+        "created_at": "16/02/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2703, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Despr\u00e9s de d'anys d'acollir diferents generacions i obert als ve\u00efns del barri, cal trobar una soluci\u00f3 i no enderrocar l'edifici. Un pla urban\u00edstic que ens construeix un calaix vergony\u00f3s no pot, a m\u00e9s, ser el responsable d'enderrocar un s\u00edmbol com Can Vies. ", 
+        "title": "Can Vies pel Barri, NO a l'enderrocament", 
+        "total_comments": 10, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 7, 
+        "total_votes": 119, 
+        "url": "https://decidim.barcelona/pam/proposals/can-vies-pel-barri-no-a-l-enderrocament", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 285, 
+            "name": "Hector", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 285, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4386", 
+        "conflictive": false, 
+        "created_at": "08/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4386, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 6, 
+            "name": "Habitatge", 
+            "position": 6
+        }, 
+        "summary": "Bancs no paguen o paguen tard les quotes.\r\nEnguany 2 administradors han fugit amb els diners de les comunitats i s\u00f3n un degoteig continuat cada any.\r\nApartaments tur\u00edstics suposen problemes greus de conviv\u00e8ncia ja que l'inquil\u00ed nom\u00e9s est\u00e0 all\u00e0 pocs dies.\r\nPoc incentiu a la millora\r\nY la cultura les ha convertit en un espai de conflicte perp\u00e8tuu", 
+        "title": "Campanya de suport i dignificaci\u00f3 a les comunitats de ve\u00efnes", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 6, 
+        "url": "https://decidim.barcelona/pam/proposals/campanya-de-suport-i-dignificacio-a-les-comunitats-de-veines", 
+        "votable": null, 
+        "voted": null
+    }
+}

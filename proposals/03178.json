@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 6584, 
+            "name": "Col\u00b7lectiu Agudells", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 6584, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3178", 
+        "conflictive": false, 
+        "created_at": "19/02/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3178, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Restauraci\u00f3 del palau del Laberint, catalogat com a patrimoni Nacional Catal\u00e0. Fa 45 anys que es p\u00fablic i no s\u2019ha fet res per mantenir la seva integritat tot i comptar amb elements medievals singulars com la torre Subirana, amb una sala anular bovejada i una pseudo-capella bovejada. No massa estudiat aquest conjunt esta en perill de desapar\u00e8ixer", 
+        "title": "Restauraci\u00f3  i us p\u00fablic del Palau dels jardins del Laberint d\u2019Horta.", 
+        "total_comments": 9, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 8, 
+        "total_positive_comments": 1, 
+        "total_votes": 105, 
+        "url": "https://decidim.barcelona/pam/proposals/restauracio-i-us-public-del-palau-dels-jardins-del-laberint-d-horta", 
+        "votable": null, 
+        "voted": null
+    }
+}

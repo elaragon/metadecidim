@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3554, 
+                "name": "MontseC", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No entenc que nom\u00e9s es demani el certificat de pensions, per aconseguir la targeta rosa. Si est\u00e0s vivint de les rendes de la teva fam\u00edlia, amb un edifici senser de pisos de lloguer, per\u00f2 tan sols tens una pensi\u00f3 de viudetat m\u00ednima (perqu\u00e8 no has treballat i per tant no has cotitzat; resulta que pots tenir la targeta gratu\u00efta, fins i tot. com sempre els treballadors legals, som qui tenim que pagar-ho tot.</p>", 
+            "commentable_id": 2603, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/02/2016 18:11:00", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1649, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 579, 
+                "name": "Josep Mompin Poblet", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Yo acabo de proponer que la tarjeta T4 sea renovable, sin tener en cuenta la pensi\u00f3n que se recibe. Los que hemos cotizado durante 35 a\u00f1os o m\u00e1s, y seguimos pagando impuestos,merecemos un  detalle del ayuntamiento.\n</p>", 
+            "commentable_id": 2603, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 11:27:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1823, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10023, 
+                "name": "Sheila", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El problema de que els treballadors/es legals ho paguem sempre tot \u00e9s que ens preocupa pensar que el dia de dem\u00e0 no hi hagi per a nosaltres. Si cal revisar criteris per tal de donar resposta a les necessitats existents, que no es faci \u201ca la baixa\u201d...i protegim a les persones que, en la nostra societat, reconeixem com a m\u00e9s vulnerables. </p>", 
+            "commentable_id": 2603, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/03/2016 15:26:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3463, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/targeta-rosa\">https://decidim.barcelona/proposals/targeta-rosa</a></p>", 
+            "commentable_id": 2603, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 13:42:13", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10826, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

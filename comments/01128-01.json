@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1136, 
+                "name": "Manuel Alvarez Sol", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Que en el servicio de pediatr\u00eda haya pediatras, no m\u00e9dicos de familia reconvertidos.</p>", 
+            "commentable_id": 1128, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 19:19:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 331, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1970, 
+                "name": "red albert", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En la l\u00ednia d'altres propostes de revertir les retallades sanit\u00e0ries cal fer un esfor\u00e7 per reobrir els serveis d'urg\u00e8ncies (tots els dies de l'any i a totes hores) i de pediatria</p>", 
+            "commentable_id": 1128, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 13:39:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 801, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7075, 
+                "name": "Sole Moreno Ma\u00edz", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estoy de acuerdo, me parece una gran propuesta.</p>", 
+            "commentable_id": 1128, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/02/2016 15:06:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2276, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2276", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 245, 
+                "name": "Judit", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Muchas gracias. Hace a\u00f1os q lo necesita, espero q pronto se decidan, aunq sea poco a poco.</p>", 
+            "commentable_id": 1128, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/02/2016 21:31:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2299, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

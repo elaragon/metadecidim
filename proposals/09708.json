@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9708", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9708, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Els programes educatius adre\u00e7ats als centres educatius han de ser concebuts de forma conjunta i col\u00b7laborativa entre els equipaments culturals i educatius. S\u2019han de pensar com a projectes pilot que fomentin la innovaci\u00f3 pedag\u00f2gica a les escoles i instituts i que en el cas de ser satisfactoris puguin tenir continu\u00eftat i estendre\u2019s a altres centres. ", 
+        "title": "Dissenyar els programes educatius promoguts des dels equipaments culturals com a propostes d\u2019innovaci\u00f3 pedag\u00f2gica als centres educatius", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/dissenyar-els-programes-educatius-promoguts-des-dels-equipaments-culturals-com-a-propostes-d-innovacio-pedagogica-als-centres-educatius", 
+        "votable": null, 
+        "voted": null
+    }
+}

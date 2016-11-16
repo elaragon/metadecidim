@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 315, 
+                "name": "annagmacias", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A Vilapicina  no hi ha cap!</p>", 
+            "commentable_id": 1033, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/02/2016 15:39:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 92, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6845, 
+                "name": "Luis E. Romance Mart\u00ednez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A la guineueta tampoc!!\n</p>", 
+            "commentable_id": 1033, 
+            "commentable_type": "Proposal", 
+            "created_at": "19/02/2016 20:32:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2194, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9055, 
+                "name": "Esther F.G", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es podria negociar amb la Generalitat la devoluci\u00f3 del espai cotxeres per fer una escola bressol en aquest espai, juntament i mitjan\u00e7ant la possibilitat de fons europeus de cultura la construcci\u00f3 de una espai d'art art\u00edstiques (m\u00fasica per projecta Voces, arts esc\u00e8niques i pl\u00e0stiques que dones  la possibilitat d'oferir als infants adolescents i joves, espais de socialitzaci\u00f3 i integraci\u00f3 a traves del foment de la cultura.</p>", 
+            "commentable_id": 1033, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/03/2016 16:07:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3657, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

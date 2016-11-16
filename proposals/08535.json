@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 3797, 
+            "name": "Yamila Jerez Novara", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 3797, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8535", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8535, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "Mejorar la accesibilidad de la ruta diaria a las dos escuelas que se encuentran en montjuic, desde el Poble Sec, con varios tramos de escaleras mec\u00e1nicas, tal como existen de acceso al Palacio desde plaza Espa\u00f1a. Poble Sec vive de espaldas a Montjuic ya que es muy dif\u00edcil su acceso  a pie para gente mayor y familias con ni\u00f1os peque\u00f1os en carritos.", 
+        "title": "Accessibilitat amb diversos trams d'escales mec\u00e0niques a les escoles 3 Pins i de Bosc de Montjuic", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/accessibilitat-amb-diversos-trams-d-escales-mecaniques-a-les-escoles-3-pins-i-de-bosc-de-montjuic", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8697, 
+            "name": "Jaume Artigues Vidal", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 8697, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4416", 
+        "conflictive": false, 
+        "created_at": "09/03/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4416, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Es sobradament conegut el maltractament del Patrimoni a Ciutat Vella a causa de les pressions especulatives i el turisme. La declaraci\u00f3 de Conjunt urban\u00edstic protegit pel Cat\u00e0leg del Patrimoni de la ciutat, com ho est\u00e0 la part central de l'Eixample, permetria constituir una Comissi\u00f3 de Patrimoni,  i evitar enderrocaments indiscriminats.", 
+        "title": "Declarar conjunt urban\u00edstic protegit tot l'\u00e0mbit de Ciutat Vella", 
+        "total_comments": 9, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 7, 
+        "total_positive_comments": 2, 
+        "total_votes": 53, 
+        "url": "https://decidim.barcelona/pam/proposals/declarar-conjunt-urbanistic-protegit-tot-l-ambit-de-ciutat-vella", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4187", 
+        "conflictive": false, 
+        "created_at": "06/03/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 4187, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 19, 
+            "name": "Acci\u00f3 comunit\u00e0ria", 
+            "position": 3
+        }, 
+        "summary": "Els Esplais es troben amb moltes trabes (com per exemple el temps d'antelaci\u00f3) a l'hora de sol\u00b7licitar l'organitzaci\u00f3 d'un event a un espai p\u00fablic. S'hauria de prioritzar les sol\u00b7licituds d'entitats sense \u00e0nim de lucre, aix\u00ed com tamb\u00e9 facilitar la ubicaci\u00f3 i organitzaci\u00f3 d'events als llocs m\u00e9s visibles i transitats per tal de recolzar la seva feina", 
+        "title": "Facilitar l'organitzaci\u00f3 d'actes a l'espai p\u00fablic per visibilitzar les entitats juvenils del Districte de Sants-Montju\u00efc.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 8, 
+        "url": "https://decidim.barcelona/pam/proposals/facilitar-l-organitzacio-d-actes-a-l-espai-public-per-visibilitzar-les-entitats-juvenils-del-districte-de-sants-montjuic", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 11236, 
+            "name": "Toni Caparr\u00f3s", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 11236, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4681", 
+        "conflictive": false, 
+        "created_at": "11/03/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "http://www.ara.cat/premium/societat/saturacio-Boqueria-Lampliacio-xarxa-setembre_0_1167483322.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4681, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 13, 
+            "name": "Turisme sostenible", 
+            "position": 5
+        }, 
+        "summary": "Son els mateixos paradistes els que han demanat la regulaci\u00f3 del flux de turistes que desvirtua la activitat original del mercat: la compra de queviures; per passejar, fer fotos i en el millor dels casos comprar un suc.\r\nPerdem els barcelonins al no poder comprar degut a la saturaci\u00f3 i perden els paradistes al disminuir la compra mitjana.", 
+        "title": "Regular els turistes a Santa Caterina davant l'obertura del dos nous mega-hotels (Francesc Camb\u00f3 i Rec Comtal)", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 20, 
+        "url": "https://decidim.barcelona/pam/proposals/regular-els-turistes-a-santa-caterina-davant-l-obertura-del-dos-nous-mega-hotels-francesc-cambo-i-rec-comtal", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 18511, 
+            "name": "amendoza", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 18511, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8353", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.amb.cat/es/web/territori/gestio-i-organitzacio/numamb/detall/-/articlenumamb/article-311---zona-industrial/992030/11656?_ArticleNUMAMBSearchListPortlet_WAR_AMBSearchPortletportlet_pageNum=1&_ArticleNUMAMBSearchListPortlet_WAR_AMBSearchPortletportlet_format=&_ArticleNUMAMBSearchListPortlet_WAR_AMBSearchPortletportlet_seccio=normes-urbanistiques-del-pla-general-metropolita.nnuu-titol-iv-capitol-iii-seccio5&_ArticleNUMAMBSearchListPortlet_WAR_AMBSearchPortletportlet_lang=ca_ES&_ArticleNUMAMBSearchListPortlet_WAR_AMBSearchPortletportlet_detailBackURL=%2Fweb%2Fterritori%2Fgestio-i-organitzacio%2Fnumamb%2Fllistat", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8353, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 8, 
+            "name": "Migraci\u00f3, interculturalitat i discriminaci\u00f3 zero", 
+            "position": 8
+        }, 
+        "summary": "Aprobaci\u00f3n de un plan especial para la ubicaci\u00f3n de centros de culto de nueva creaci\u00f3n en las periferias de las zonas industriales. La base juridica: Decreto 94/2010 Centros de culto, Articulo 311 del NUMAMB. Es una NECESIDAD garantizar la convivencia en los barrios y el derecho a la libertad Religiosa. Varios municipios de Catalu\u00f1a lo han aprobado", 
+        "title": "Plan especial para la ubicaci\u00f3n de Centros de culto", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/plan-especial-para-la-ubicacion-de-centros-de-culto", 
+        "votable": null, 
+        "voted": null
+    }
+}

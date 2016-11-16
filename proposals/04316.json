@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4316", 
+        "conflictive": false, 
+        "created_at": "08/03/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 4316, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 5, 
+            "name": "Cicles de vida ", 
+            "position": 5
+        }, 
+        "summary": "Destinar locals de la Pla\u00e7a Matem\u00e0ticas per a que els joves cre\u00efn un espai d'\u00fas propi i autogestionat amb el recolzament de l'\u00e0rea de joventut del districte. ", 
+        "title": "Proporcionar Locals per \u00fas dels joves, Plaza Matem\u00e1ticas (La Marina - Zona Franca)", 
+        "total_comments": 2, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 8, 
+        "url": "https://decidim.barcelona/pam/proposals/proporcionar-locals-per-us-dels-joves-plaza-matematicas-la-marina-zona-franca", 
+        "votable": null, 
+        "voted": null
+    }
+}

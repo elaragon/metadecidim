@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 15404, 
+            "name": "Udols, Associaci\u00f3 pel Benestar del Gos Urb\u00e0", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 15404, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7653", 
+        "conflictive": false, 
+        "created_at": "31/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7653, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Les mesures sobre conducci\u00f3 de gossos no preveuen zones de lliure circulaci\u00f3 a Parcs Urbans\r\nLes hores de major aflu\u00e8ncia de gossos no coincideixen amb les d'altres d'usuaris i creiem que els tancats generen din\u00e0miques inadequades\r\nM\u00e9s que inversions en grans infraestructures cal una ordenaci\u00f3 de l'us que s'ha fet des de sempre dels nostres parcs ", 
+        "title": "Espais per a gossos d'us compartit en franges hor\u00e0ries tamb\u00e9 als Parcs de Barcelona", 
+        "total_comments": 6, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 3, 
+        "total_votes": 15, 
+        "url": "https://decidim.barcelona/pam/proposals/espais-per-a-gossos-d-us-compartit-en-franges-horaries-tambe-als-parcs-de-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

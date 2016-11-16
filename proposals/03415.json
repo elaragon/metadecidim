@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8280, 
+            "name": "ReRi", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 8280, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3415", 
+        "conflictive": false, 
+        "created_at": "25/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://goo.gl/TggO1m", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3415, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "A Barcelona existeix un sistema d'esclavitud modern: les pr\u00e0ctiques no remunerades de formaci\u00f3 professional. Cal un debat per dignificar les condicions de treball de milers de persones i promoure la seva inserci\u00f3 laboral. M\u00e9s informaci\u00f3:\r\n\r\n- www.facebook.com/practiquesfpremunerades - practiquesfpremunerades@gmail.com -", 
+        "title": "Mesures concretes per dignificar les condicions de vida dels i les estudiants-treballadors de formaci\u00f3 professional", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 28, 
+        "url": "https://decidim.barcelona/pam/proposals/mesures-concretes-per-dignificar-les-condicions-de-vida-dels-i-les-estudiants-treballadors-de-formacio-professional", 
+        "votable": null, 
+        "voted": null
+    }
+}

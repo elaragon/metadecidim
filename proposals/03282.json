@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2699, 
+            "name": "Zury Asse", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2699, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3282", 
+        "conflictive": false, 
+        "created_at": "23/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3282, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Todos agradecemos mucho la existencia de calles r\u00e1pidas con sem\u00e1foros sicronizados como Arag\u00f3 o Gran V\u00eda y hasta cierto punto Balmes y Muntaner. Pero en direcci\u00f3n mar a monta\u00f1a no parece haber ninguna. Creo que si hubieran al menos dos acelerar\u00eda considerablemente el tr\u00e1nsito por la ciudad y reducir\u00eda contaminaci\u00f3n y frustraci\u00f3n.", 
+        "title": "Una o dos calles r\u00e1pidas de mar a monta\u00f1a", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 14, 
+        "url": "https://decidim.barcelona/pam/proposals/una-o-dos-calles-rapidas-de-mar-a-montana", 
+        "votable": null, 
+        "voted": null
+    }
+}

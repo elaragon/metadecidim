@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 285, 
+            "name": "Hector", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 285, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2637", 
+        "conflictive": false, 
+        "created_at": "13/02/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2637, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "Desenvolupar el pla amb un a la Clota com a espai central de Horta-G nord sobre els vehicles urbans el\u00e8ctrics amb la finalitat de\r\n\r\n1.- que el barri tingui un centre de promoci\u00f3 econ\u00f2mica i de feina a partir de noves tecnologies (en aquests barris les oportunitats s\u00f3n molt escases)\r\n\r\n2.- promoci\u00f3 del vehicle sostenible urb\u00e0", 
+        "title": "Ateneu de fabricaci\u00f3-vehicles el\u00e9ctrics", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 34, 
+        "url": "https://decidim.barcelona/pam/proposals/ateneu-de-fabricacio-vehicles-electrics", 
+        "votable": null, 
+        "voted": null
+    }
+}

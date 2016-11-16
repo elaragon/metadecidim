@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 343, 
+            "name": "Miky Arag\u00f3n", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 343, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3323", 
+        "conflictive": false, 
+        "created_at": "23/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://w110.bcn.cat/portal/site/PortalBressol/menuitem.d894dc63ba605bb454a354a3a2ef8a0c/?vgnextoid=dd0d3014c46f6210VgnVCM10000074fea8c0RCRD&vgnextchannel=dd0d3014c46f6210VgnVCM10000074fea8c0RCRD&lang=ca_ES", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3323, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Ampliar les places i els centres on es fa el projecte \"Ja Tenim un Fill\" de suport a les fam\u00edlies que poden participar amb la seva criatura des de les darreres setmanes de la gestaci\u00f3 fins als primers 8 mesos de vida de l'infant.", 
+        "title": "Ampliar el projecte Ja Tenim un fill", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 6, 
+        "url": "https://decidim.barcelona/pam/proposals/ampliar-el-projecte-ja-tenim-un-fill", 
+        "votable": null, 
+        "voted": null
+    }
+}

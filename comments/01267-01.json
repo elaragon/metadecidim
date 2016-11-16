@@ -1,0 +1,242 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1173, 
+                "name": "Emilio_Lopez1985", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Diculpa pero estic en contra. Per mi un gos pigall ho entenc hi aix\u00f2 si que ho  defenc pero el que dius no ja que el metro  hi ha espai limitat sobre tot a les hores punta.</p>", 
+            "commentable_id": 1267, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 19:57:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 348, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 581, 
+                "name": "CarmeG", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment a favor!! </p>", 
+            "commentable_id": 1267, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 22:39:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 363, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1654, 
+                "name": "Jaume Villalba Gomis", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic dACORD</p>", 
+            "commentable_id": 1267, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 17:05:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 667, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1320, 
+                "name": "Aurora MF", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No hi estic d'acord. </p>", 
+            "commentable_id": 1267, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/03/2016 23:29:58", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6348, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "348", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1056, 
+                "name": "N\u00faria.90", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No se q es un gos pigall. Jo parlo dels autobusos de TMB, q puguin anar lligats amb murrio igual q al metro i tram.</p>", 
+            "commentable_id": 1267, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/02/2016 17:17:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 445, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 2, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "348/445", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1056, 
+                "name": "N\u00faria.90", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ok. Els gossos dels cegs vols dir.</p>", 
+            "commentable_id": 1267, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/02/2016 17:22:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 448, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "348/445/448", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1173, 
+                "name": "Emilio_Lopez1985", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Clar dona.</p>", 
+            "commentable_id": 1267, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 21:27:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 726, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

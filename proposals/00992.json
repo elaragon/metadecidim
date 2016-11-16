@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-992", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 992, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 17, 
+            "name": "Energia i canvi clim\u00e0tic", 
+            "position": 5
+        }, 
+        "summary": "Avan\u00e7ar cap a una gesti\u00f3 sostenible i racional de l\u2019aigua incidint en l\u2019estalvi d\u2019aigua potable, la seva optimitzaci\u00f3 i la substituci\u00f3 per recursos h\u00eddrics alternatius (aigua fre\u00e0tica, depurada, etc\u00e8tera).", 
+        "title": "Pla de recursos h\u00eddrics alternatius i extensi\u00f3 de la xarxa d\u2019aig\u00fces fre\u00e0tiques", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 1, 
+        "total_votes": 70, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-de-recursos-hidrics-alternatius-i-extensio-de-la-xarxa-d-aigues-freatiques", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10023, 
+                "name": "Sheila", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>...penso que els efectius ja han incrementat en nombre, o en visibilitat, m\u00e9s que suficient en els darrers anys. Potser el problema no estigui en el nombre d\u00b4efectius, sin\u00f3  en la seva efectivitat...  </p>", 
+            "commentable_id": 3743, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/03/2016 19:48:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3381, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9911, 
+                "name": "Elena Lopez Estebanez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>pienso que ya hay bastantes dispositivos de la guardia urbana. Hay que dirigir la mirada y la acci\u00f3n a fomentar los valores c\u00edvicos de la ciudadania</p>", 
+            "commentable_id": 3743, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/03/2016 22:57:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3392, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10285, 
+                "name": "Montserrat Forcadas", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Sumo un contra. D'acurd amb la Sheila.</p>", 
+            "commentable_id": 3743, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/03/2016 12:59:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3546, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13749, 
+                "name": "Elvaira", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Doncs jo crec que haurien de patrullar m\u00e9s pels carrers per informar de les accions inc\u00edviques a aquells que no saben llegir els cartells o es fan l'orni. Jo m'hi trobo diariament amb aquest problema davant de casa.</p>", 
+            "commentable_id": 3743, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 19:40:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5640, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3381", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10285, 
+                "name": "Montserrat Forcadas", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Perfecte el teu comentari... </p>", 
+            "commentable_id": 3743, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/03/2016 12:57:21", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3545, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

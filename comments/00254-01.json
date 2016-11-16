@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9022, 
+                "name": "Cl\u00e0udia Vidiella", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Cal buidar aquest espai IMEDIATAMENT, \u00e9s una vergonya com a pres\u00f3 i que encara no s'hagi buidat</p>", 
+            "commentable_id": 254, 
+            "commentable_type": "Proposal", 
+            "created_at": "27/02/2016 23:36:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2928, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15601, 
+                "name": "OlgaV", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Cada Gobern mareja la perdiu i no fa res. Promeses abans de les eleccions, reunions, plans, m\u00e9s plans i m\u00e9s promeses. Qui ser\u00e0 el pol\u00edtic honrat que faci quelcom?, que a part de plans, processos participatius i promeses... faci d'una vegada alguna cosa. No s'ha de ser molt intel\u00b7ligent per saber que al barri de l'esquerra de l'Eixample li falten moltes coses, resid\u00e8ncies per la gent gran, centres c\u00edvics amb bones instal\u00b7lacions, algun projecte il\u00b7lusionant cultural de projecci\u00f3.. etc. Vost\u00e8s que saben els equipaments que hi ha a aquesta zona, que tenen tota la informaci\u00f3, suposo que poden fer un parell de propostes, o simplement recollir totes les que s'han fet fins ara (per\u00f2 que ho facin rapidet, els ve\u00efns ja estem farts). Simplement s'ha de voler. Fa uns 45 anys que estic al barri, els meus pares quan van comprar el pis ja els hi van dir que traurien la Model. Per\u00f2 all\u00e0 la tenim, feta un f\u00e0stic i deixada. ESPEREM ACTUACIONS JA!!!</p>", 
+            "commentable_id": 254, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 10:29:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6697, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

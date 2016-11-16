@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 7589, 
+            "name": "ALEJANDRO PALMA", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 7589, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3315", 
+        "conflictive": false, 
+        "created_at": "23/02/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3315, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Voldria incidir hi en la nesesitat de fer les Superilles, \r\nAmb aquesta acctuacio intervenim directament en ambits com , contaminacioi (ambiental i sonora), reduccio del transit, increment de espais per la convivencia social,milllora de la qualitat de vida.\r\ntenin en conte els pocs recursos que farian falta per dur a terme aquesta proposta", 
+        "title": "Superilles", 
+        "total_comments": 4, 
+        "total_negative_comments": 2, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 43, 
+        "url": "https://decidim.barcelona/pam/proposals/superilles-5b52b5d7-a26e-487a-b7de-bbf848bd8f09", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1009, 
+            "name": "Tomas Calvo Pobla", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1009, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1257", 
+        "conflictive": false, 
+        "created_at": "02/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://opcionbio.es/blog/wp-content/uploads/2013/09/green-rooftop-city-ok.jpg", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1257, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Barcelona podria canviar el color gris (dels terrats sense cap utilitat) per un saludable color verd. Els beneficis que aquesta iniciativa comportaria son tant a nivell ecol\u00f3gic i estetic, com econ\u00f3mic i de salud p\u00fablica! Vos animo a que us informeu sobre aquesta idea que ja esta comen\u00e7ant a sorgir en altres ciutats del mon!", 
+        "title": "Terrats verds - Cobertes verdes", 
+        "total_comments": 15, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 12, 
+        "total_votes": 614, 
+        "url": "https://decidim.barcelona/pam/proposals/terrats-verds", 
+        "votable": null, 
+        "voted": null
+    }
+}

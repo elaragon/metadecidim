@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 7272, 
+            "name": "Miquel Angel Rodr\u00edguez Arias", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 7272, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3247", 
+        "conflictive": false, 
+        "created_at": "22/02/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "https://www.dropbox.com/s/qb4b2u0cn8lihzf/Carta%20oberta%20-%20Passat%2C%20present%20i%20futur%20de%20la%20Ciutadella.pdf?dl=0", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3247, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "La situaci\u00f3 actual d\u2019aband\u00f3 del Parc de la Ciutade \u00e9s insostenible. Resulta inajornable definir de manera constructiva qu\u00e8 i com volem que sigui aquest espai urb\u00e0 que te tot el potencial per transmutar-se en un dels centres an\u00edmics d\u2019una ciutat que es veu i es vol l\u00edder global de com han de ser les ciutats futures. ", 
+        "title": "Pla per a la promoci\u00f3, preservaci\u00f3 i desenvolupament de la hist\u00f2ria, el patrimoni,  l'entorn natural i les institucions  del Parc de la Ciutadella", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 20, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-per-a-la-promocio-preservacio-i-desenvolupament-de-la-historia-el-patrimoni-l-entorn-natural-i-les-institucions-del-parc-de-la-ciutadella", 
+        "votable": null, 
+        "voted": null
+    }
+}

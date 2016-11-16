@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 15091, 
+            "name": "smoutrille", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 15091, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6789", 
+        "conflictive": false, 
+        "created_at": "25/03/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6789, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 17, 
+            "name": "Energia i canvi clim\u00e0tic", 
+            "position": 5
+        }, 
+        "summary": "Reorganizar las horas y organizaci\u00f3n de recogida de basura: vivo en la calle Asturies: a las 12, recogida de basuras de org\u00e1nico,  a las 4  recogida de la otra, limpieza de la calle con un cami\u00f3n que emite un pitido....  \u00bfC\u00f3mo dormir en estas condiciones? A Gr\u00e0cia,  prou soroll!  Pero no s\u00f3lo de la gente,  sino de los servicios p\u00fablicos!  ", 
+        "title": "Menos ruido al momento de recoger basuras y limpiar calle ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 15, 
+        "url": "https://decidim.barcelona/pam/proposals/menos-ruido-al-momento-de-recoger-basuras-y-limpiar-calle", 
+        "votable": null, 
+        "voted": null
+    }
+}

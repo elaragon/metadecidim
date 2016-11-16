@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6327", 
+        "conflictive": false, 
+        "created_at": "21/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 6327, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "Pla espec\u00edfic pel decreixement dels establiment lligats a la restauraci\u00f3 i degustaci\u00f3. No adjudicaci\u00f3 de cap llicencia nova i no adjudicaci\u00f3 de les llicencies que es donin de baixa i avan\u00e7ar per un decreixement d\u2019aquests tipus d\u2019establiment, i paral\u2022lelament  fer un pla d\u2019activaci\u00f3 i promoci\u00f3 d\u2019altres activitat econ\u00f2miques", 
+        "title": "Pla espec\u00edfic pel decreixement dels establiment lligats a la restauraci\u00f3 i degustaci\u00f3", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 5, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-especific-pel-decreixement-dels-establiment-lligats-a-la-restauracio-i-degustacio", 
+        "votable": null, 
+        "voted": null
+    }
+}

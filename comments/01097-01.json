@@ -1,0 +1,341 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 77, 
+                "name": "J\u00falia", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>m'agrada la proposta. A molts gimnassos municipals ja s'hi ha implementat la piscina amb aigua salada. Despr\u00e9s de provar-la \u00e9s una molt bona millora tant pels usuaris com per als treballadors </p>", 
+            "commentable_id": 1097, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/02/2016 12:07:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 21, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 19, 
+                "name": "evhack", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Existen alternativas sostenibles al cloro?</p>", 
+            "commentable_id": 1097, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/02/2016 13:29:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 48, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1674, 
+                "name": "Clara Valverde", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Buena iniciativa. Trabajemos para quitar todos los t\u00f3xicos de nuestra ciudad!</p>", 
+            "commentable_id": 1097, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/02/2016 18:15:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 453, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1751, 
+                "name": "SusannaL", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tot el meu recol\u00e7ament al sistema d'aigua salada + ultravioletes. A m\u00e9s, l'aigua salada \u00e9s bona pel cos i la pell. Respecte al oz\u00f2, les persones amb sensibilitat qu\u00edmica m\u00faltiple com jo podem tenir reaccions greus, jo ho he provat.</p>", 
+            "commentable_id": 1097, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/02/2016 19:36:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 480, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5868, 
+                "name": "Anna Maria", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Compleament d'acord i m\u00e9s per les persones que tenen sensibilitat  qu\u00edmica.</p>", 
+            "commentable_id": 1097, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/02/2016 23:31:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2878, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14608, 
+                "name": "nvalero", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Per tal de complir amb la normativa higienicosanitaria de piscines (en concret el Decret 95/2000 i el Reial Decret 742/2013) s'ha de mantenir un desinfectant residual i ni l'ultravioleta ni l'oz\u00f3 tenen efecte residual.</p>", 
+            "commentable_id": 1097, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/03/2016 10:06:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6228, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "21", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 364, 
+                "name": "Nurieta M", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tamb\u00e9 es pot posar oz\u00f3.</p>", 
+            "commentable_id": 1097, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/02/2016 16:17:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 101, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 1, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "48", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 73, 
+                "name": "OriolC", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Segons diu la J\u00falia, l'aigua salada.</p>", 
+            "commentable_id": 1097, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/02/2016 14:02:31", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 66, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "48", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 44, 
+                "name": "David LH", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si, a la piscina cubierta de la Barceloneta lo han hecho el a\u00f1o pasado, han cambiado a agua salada combinada con desinfecci\u00f3n por ultravioleta y no s\u00e9 si algo m\u00e1s. habr\u00eda que estudiarlo bien pero me parece una buena idea.</p>", 
+            "commentable_id": 1097, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/02/2016 10:54:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 406, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "480", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7672, 
+                "name": "lascore", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El que t\u00e9 de bo l'UV \u00e9s que elimina els microorganismes per\u00f2 no rom\u00e0n a l'aigua despr\u00e9s de la seva aplicaci\u00f3, mentre que el clor i l'oz\u00f3 si. En les poscines tractades amb oz\u00f3 s'utilitzen sistemes per retirar l'oz\u00f3 que no ha reaccionat, per\u00f2 s\u00f3n cars i s'ha de confiar en que funcionin.</p>", 
+            "commentable_id": 1097, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 23:18:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4927, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 6, 
+        "total_pages": 1
+    }
+}

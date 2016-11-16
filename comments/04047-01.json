@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10449, 
+                "name": "CarmenCascajosa", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00bfMe dicen que el Ajuntament solo tiene competencia sobre el Hospital del Mar? Pero igualmente puede hacerse una campa\u00f1a general. Estos ni\u00f1os y estos padres est\u00e1n en situaci\u00f3n vulnerable. Est\u00e1 claro que es dif\u00edcil encontrar el equilibrios, pero habr\u00eda que revisar bien los protocolos hospitalarios y su cumplimiento. Y sobre todo concienciar para que los padres sepan que pueden reclamar sus derechos como acompa\u00f1antes!</p>", 
+            "commentable_id": 4047, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 09:40:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9051, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

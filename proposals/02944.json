@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2944", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2944, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "El Pla de manteniment integral de l'espai p\u00fablic preveu la realitzaci\u00f3 d'actuacions coordinades de regeneraci\u00f3 urbana, en coordinaci\u00f3 amb els districtes, com ara l\u2019enllumenat, la pavimentaci\u00f3, el mobiliari, el soterrament de les l\u00ednies el\u00e8ctriques, la senyalitzaci\u00f3 horitzontal i vertical, les instal\u00b7lacions semaf\u00f2riques i el manteniment de les estructures vials i els t\u00fanels.", 
+        "title": "Actuacions de manteniment i millora de l\u2019espai p\u00fablic", 
+        "total_comments": 28, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 28, 
+        "total_positive_comments": 0, 
+        "total_votes": 13, 
+        "url": "https://decidim.barcelona/pam/proposals/actuacions-de-manteniment-i-millora-de-l-espai-public", 
+        "votable": null, 
+        "voted": null
+    }
+}

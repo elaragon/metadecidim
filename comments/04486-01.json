@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15599, 
+                "name": "Paseante", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No veo la necesidad de m\u00e1s vigilantes, la Guardia Urbana debe dedicarse prioritariamente al control de ruidos y horarios nocturnos pero para eso es necesario que haya guardias suficientes por las noches, cosa que no ocurre actualmente. \u00bfCu\u00e1ntos urbanos hay por la noche?</p>", 
+            "commentable_id": 4486, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 22:17:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6863, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

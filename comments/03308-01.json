@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9055, 
+                "name": "Esther F.G", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aquesta proposta que englobi tots els barris de Barcelona</p>", 
+            "commentable_id": 3308, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/02/2016 09:53:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2942, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9369, 
+                "name": "M\u00c0ngels Pe\u00f1a", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>MOLT IMPORTANT!!! Que no es permeti la privatitzaci\u00f3 del servei de menjador a favor del benefici de les grans empreses i en detriment de la qualitat del menjar dels nens. AIX\u00d2 NO \u00c9S UN NEGOCI!!!!</p>", 
+            "commentable_id": 3308, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/04/2016 12:11:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7720, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

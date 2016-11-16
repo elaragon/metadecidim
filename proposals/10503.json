@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4041, 
+            "name": "Jordi Reyn\u00e9s Garc\u00e9s", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4041, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10503", 
+        "conflictive": false, 
+        "created_at": "09/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 10503, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Crec que haurien de pagar un impost com paguem tots. La T-12 tamb\u00e9 es paga inicialment.\r\nEl tema d'un sol vag\u00f3 del metro, \u00e9s perqu\u00e8 moltes persones pateixen al\u00e8rgies i aix\u00ed seria m\u00e9s compatible i equitatiu.", 
+        "title": "Que els gossos paguin un impost per utilitzar el transport p\u00fablic i que nom\u00e9s puguin estar en un sol vag\u00f3 del metro.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/que-els-gossos-paguin-un-impost-per-utilitzar-el-transport-public-i-que-nomes-puguin-estar-en-un-sol-vago-del-metro", 
+        "votable": null, 
+        "voted": null
+    }
+}

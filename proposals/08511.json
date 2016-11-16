@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 18052, 
+            "name": "Consell de la Joventut de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 18052, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8511", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8511, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 19, 
+            "name": "Acci\u00f3 comunit\u00e0ria", 
+            "position": 3
+        }, 
+        "summary": "La gesti\u00f3 dels equipaments juvenils ha de potenciar al m\u00e0xim la participaci\u00f3 dels i les joves, apostar per a models de gesti\u00f3 c\u00edvica o autogesti\u00f3. Els usos i serveis han de ser definits pel jovent del territori. Els col\u00b7lectius que fan un \u00fas regular de l'espai han de tenir clau per a facilitar-hi l'acc\u00e9s. Horari d'obertura adaptat a seves necessit\r\n", 
+        "title": "Garantir que la gesti\u00f3 dels Equipaments Juvenils facilita i satisf\u00e0 les necessitats de les entitats juvenils del territori", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 15, 
+        "url": "https://decidim.barcelona/pam/proposals/garantir-que-la-gestio-dels-equipaments-juvenils-facilita-i-satisfa-les-necessitats-de-les-entitats-juvenils-del-territori", 
+        "votable": null, 
+        "voted": null
+    }
+}

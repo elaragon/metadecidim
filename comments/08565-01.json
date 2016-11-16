@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 19998, 
+                "name": "Observatori de Vallcarca", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Promoure la cultura popular urbana (POP) des de l'autoorganitzaci\u00f3 ve\u00efnal.</p>\n\n<p>El desenvolupament d'aquest barris durant el segle vint est\u00e0 fortament marcat per les ind\u00fastries culturals vinculades a l'oci i l'entreteniment (Editorial Bruguera, Discos Belter, estudis Balet i Blay, cine Mahon)) i que han configurat el que avui en dia forma part dels referents culturals de les classes populars. Arts sovint considerades menors com el cinema, el c\u00f2mic i les m\u00fasiques d'arrel popular (rock, rumba, flamenc, etc...) , han esdevingut el canal d'expressi\u00f3 per una cultura local amb referents globals.</p>\n\n<p>Tot i l'origen empresarial d'aquestes ind\u00fastries, avui en dia la seva creaci\u00f3 \u00e9s desenvolupa des de l'autogesti\u00f3 i l'autoaprenentatge col\u00b7lectiu, i gr\u00e0cies a les noves tecnologies, s\u00f3n assequibles a gran part de la ciutadania.</p>\n\n<p>Inclou expressions com el c\u00f2mic, la il\u00b7lustraci\u00f3, la literatura, la m\u00fasica, el teatre, el circ, l'animaci\u00f3, el t\u00e8xtil, els jocs de taula, etc.</p>", 
+            "commentable_id": 8565, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 10:43:13", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9091, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1208, 
+            "name": "Jebimetal", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1208, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1288", 
+        "conflictive": false, 
+        "created_at": "02/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1288, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Vagi per davant: Els gossos s\u00f3n animals genials i alguns dels seus propietaris tamb\u00e9. Malauradament, la majoria de propietaris no tenen respecte per l'espai com\u00fa quan treuen a passejar els seus gossos i permeten que aquests orinin a qualsevol farola, pilona, cantonada, banc, sortint, al ben mig de la vorera... NO \u00e9s inevitable. \r\n", 
+        "title": "Crear campanya de conscienciaci\u00f3 sobre els orins dels gossos", 
+        "total_comments": 21, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 5, 
+        "total_votes": 92, 
+        "url": "https://decidim.barcelona/pam/proposals/crear-campanya-de-conscienciacio-sobre-els-orins-dels-gossos", 
+        "votable": null, 
+        "voted": null
+    }
+}

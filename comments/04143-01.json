@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12132, 
+                "name": "Jaume Ferrer", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El problema de posar aquests testos grans per plantar una arbre \u00e9s que redueix molt la vorera. Si dispos\u00e9ssim de voreres m\u00e9s amples ho veuria perfecte.  Ara no s\u00e9 si compensa.</p>", 
+            "commentable_id": 4143, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 14:13:37", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5035, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "5035", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 894, 
+                "name": "Pere Marin\u00e9", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hola Jaume, jo parlo del carrer pujades entre ciutat de Granada i Roc Boronat, en aquesta zona la vorera en prou ampla, i a part ara ja hi ha una part ocupada per terrasses, bancs, quioscos, etc .... per tant, penso que no seria un problema, a part, tampoc han de ser enormes, sols per que creixi un arbre petit, amb 1 m2 hi ha m\u00e9s que de sobra.</p>", 
+            "commentable_id": 4143, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 14:19:10", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5036, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

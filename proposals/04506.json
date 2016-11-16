@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 11214, 
+            "name": "ABD Associaci\u00f3 Benestar i Desenvolupament", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 11214, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4506", 
+        "conflictive": false, 
+        "created_at": "09/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4506, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 5, 
+            "name": "Cicles de vida ", 
+            "position": 5
+        }, 
+        "summary": "Si l'embar\u00e0s adolescent \u00e9s ja una situaci\u00f3 d'especial atenci\u00f3, la situaci\u00f3 s'agreuja especialment quan la mare o la fam\u00edlia es troba en un context de vulnerabilitat social. Manquen programes especialitzats d'acompanyament social, educatiu, psicol\u00f2gic i sanitari que assegurin que els infants i les joves puguin crear espais de seguretat i creixement.", 
+        "title": "Programes de suport a les joves adolescents embarassades ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 20, 
+        "url": "https://decidim.barcelona/pam/proposals/programes-de-suport-a-les-joves-adolescents-embarassades", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4871, 
+            "name": "Adri\u00e0 C", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4871, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4520", 
+        "conflictive": false, 
+        "created_at": "09/03/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4520, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "S'haurien de conservar les naus industrials i la casa del masover de la  finca Ravetllat Pla. L'ajuntament els podria cedir per projectes d'emprenedor\u00eda en la economia social o per a activitats p\u00fabliques. Estan en molt bon estat i la seva adequaci\u00f3 seria molt econ\u00f2mica. Aportaria molta vitalitat al bell mig del barri del Guinard\u00f3", 
+        "title": "Rehabilitar naus industrials de finca Ravetllat Pla per a \u00fas p\u00fablic", 
+        "total_comments": 5, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 2, 
+        "total_votes": 28, 
+        "url": "https://decidim.barcelona/pam/proposals/rehabilitar-naus-industrials-de-finca-ravetllat-pla-per-a-us-public", 
+        "votable": null, 
+        "voted": null
+    }
+}

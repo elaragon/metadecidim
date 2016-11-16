@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9505", 
+        "conflictive": false, 
+        "created_at": "07/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9505, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Per exemple, treballar la informaci\u00f3 sobre alimentaci\u00f3 saludable en l\u2019elaboraci\u00f3 de men\u00fas escolars, oferir informaci\u00f3 i orientaci\u00f3 sobre vacunes; fomentar l\u2019acc\u00e9s a la informaci\u00f3 en l\u2019\u00e0mbit de salut i sanitat a trav\u00e9s de les TIC i posar a disposici\u00f3 de la ciutadania informaci\u00f3 sobre els recursos en salut mental.", 
+        "title": "Oferir m\u00e9s informaci\u00f3 sobre salut i sanitat a la ciutadania. ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/oferir-mes-informacio-sobre-salut-i-sanitat-a-la-ciutadania", 
+        "votable": null, 
+        "voted": null
+    }
+}

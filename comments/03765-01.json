@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10023, 
+                "name": "Sheila", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Revisem que succeeix amb la pr\u00e0ctica del skate, o amb la utilitzaci\u00f3 d\u2019alguns vehicles...regulaci\u00f3 insuficient, massificaci\u00f3 i poc civisme, en alguns casos. La soluci\u00f3 passaria per aprendre d'algunes d\u2019aquestes experi\u00e8ncies per no haver d\u2019inc\u00f3rrer en els mateixos errors, per\u00f2 certament no hauria de passar per prohibir. I \u00e9s clar, les solucions de conviv\u00e8ncia, de moment no existeixen i molt menys s\u2019apliquen...i, sin\u00f3, que els hi demanin als ve\u00efns i les ve\u00efnes de la Barceloneta; per citar un territori en el qual es concentren v\u00e0ries d\u2019aquestes problem\u00e0tiques, i que en podria sumar encara una m\u00e9s. </p>", 
+            "commentable_id": 3765, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/03/2016 19:26:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3378, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

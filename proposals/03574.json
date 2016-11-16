@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8845, 
+            "name": "Fabiana ", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 8845, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3574", 
+        "conflictive": false, 
+        "created_at": "27/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3574, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Les motos no han de poder pujar a les voreres, ni per aparcar ni per travessar-les. Les voreres s\u00f3n espais per als vianants, on caminen nens, gent gran i animals, que s\u00f3n especialment fr\u00e0gils. Com vam permetre que els motoristes comencessin a pujar? Ara \u00e9s habitual i molt perill\u00f2s. S'han fet places per motos als carrers i xamfrans. Ja n'hi ha prou!", 
+        "title": "Fora motos de les voreres", 
+        "total_comments": 10, 
+        "total_negative_comments": 2, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 5, 
+        "total_votes": 37, 
+        "url": "https://decidim.barcelona/pam/proposals/fora-motos-de-les-voreres", 
+        "votable": null, 
+        "voted": null
+    }
+}

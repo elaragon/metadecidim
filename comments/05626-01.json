@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9055, 
+                "name": "Esther F.G", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En el debat tamb\u00e9 es va demanar la creaci\u00f3 de un nou PADES . El districte nom\u00e9s en te un per tota la poblaci\u00f3. El banc solidari de material es tindria que donar a con\u00e8ixer tamb\u00e9 a tots els centres de Salut.</p>", 
+            "commentable_id": 5626, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 15:55:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6801, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

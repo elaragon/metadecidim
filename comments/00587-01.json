@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 94, 
+                "name": "Genis Barrera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Nom\u00e9s a favor si \u00e9s obrir-lo a vianant i peat\u00f3. Al motoritzat no s'hauria d'obrir.</p>", 
+            "commentable_id": 587, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/02/2016 15:32:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 87, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5133, 
+                "name": "Josep Meri", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00c9s important l'obertura dels carrers Crist\u00f2fol de Moura i Marroc per contribuir a dignificar la zona i aconseguir descongestionar els carrers de l'entorn.</p>", 
+            "commentable_id": 587, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/02/2016 18:23:01", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1653, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

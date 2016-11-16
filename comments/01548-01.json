@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4561, 
+                "name": "Paco", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No permitir que las bicicletas circulen por las aceras. Varias veces he estado a apunto de ser atropellado o recibir un fuerte golpe por alguna de las bicicletas que circulan por la acera\n<br />y he visto que a otras personas tambi\u00e9n vivido una situaci\u00f3n similar. </p>", 
+            "commentable_id": 1548, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/02/2016 20:26:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1464, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1464", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2881, 
+                "name": "Stephane Neckebrock", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Efectivamente. Es uno de los motivos por el cual las bicis circulan por la acera.  Mejor ser\u00e1 la convivencia si cada tiene su espacio. Ocurre tambi\u00e9n que los pestones bajen en el caril bici y no miren si pasan bicis. No todo se puede tampoco regular ya que muchas veces  es cuesti\u00f3n de civismo y respecto.  </p>", 
+            "commentable_id": 1548, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 14:30:34", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5241, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

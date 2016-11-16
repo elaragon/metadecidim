@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12179, 
+                "name": "suport.decidim1", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en la cita presencial: Consell de Salut de Sant Andreu. \"Accions de millora de la salut relacional d\u2019adolescents i a adults joves com a mecanisme de prevenci\u00f3. Crear espais de trobada on compartir experi\u00e8ncies i activitats de foment de vida saludable.\"</p>", 
+            "commentable_id": 6252, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 13:37:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6108, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

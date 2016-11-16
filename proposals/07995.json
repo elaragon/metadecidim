@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-7995", 
+        "conflictive": false, 
+        "created_at": "04/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/meetings/escola-betania-patmos-una-barcelona-mes-humana-i-en-transicio-ecologica", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 7995, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 1, 
+            "name": "Just\u00edcia social", 
+            "position": 1
+        }, 
+        "summary": "Al debat que va tenir lloc a l\u2019Escola Bet\u00e0nia \u2013 Patmos, els estudiants de 3r d\u2019ESO B van proposar millorar els mobiliari i instal\u2022lacions p\u00fabliques del barri. Els estudiants han detectat desigualtats en aquest aspecte entre els diferents barris de Barcelona i consideren que s\u2019ha d\u2019acabar, fent les reformes necess\u00e0ries als barris m\u00e9s deteriorats.", 
+        "title": "Millora de les instal\u00b7lacions p\u00fabliques dels barris deteriorats", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/millora-de-les-instal-lacions-publiques-dels-barris-deteriorats", 
+        "votable": null, 
+        "voted": null
+    }
+}

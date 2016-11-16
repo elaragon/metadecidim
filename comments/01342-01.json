@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 181, 
+                "name": "crismon", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Actualment hi ha gran mancan\u00e7a i tan sols algunes places per discapacitat intelectual. Falten places per temes de trastorns del desnvolupament que poden tenir autonomia i tan sols els hi cal certa supervisi\u00f3 que no te per  que ser di\u00e0ria</p>", 
+            "commentable_id": 1342, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/02/2016 17:18:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 447, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

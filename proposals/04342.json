@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4342", 
+        "conflictive": false, 
+        "created_at": "08/03/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 4342, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Aquest tram de carrer correspon al nivell baix dels dos en qu\u00e8 es divideix Sant Fructu\u00f3s des de Santa Dorotea fins a Ind\u00edbil. Nom\u00e9s t\u00e9 una vorera a la part de les edificacions d'habitatges. La vorera \u00e9s massa estreta i el paviment molt lliscant degut al seu desgast, fet que ha provocat nombrosos accidents de vianants, especialment els dies de pluja", 
+        "title": "Ampliar i renovar la vorera del C/ Sant Fructu\u00f3s entre C/ Santa Dorotea i C/ Sant Paul\u00ed de Nola", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 5, 
+        "url": "https://decidim.barcelona/pam/proposals/ampliar-i-renovar-la-vorera-del-c-sant-fructuos-entre-c-santa-dorotea-i-c-sant-pauli-de-nola", 
+        "votable": null, 
+        "voted": null
+    }
+}

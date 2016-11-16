@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16024, 
+                "name": "Edurnea", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>I no sol aix\u00f2, quan abans teniem una freq\u00fcencia d entre 2 i 5 minuts ara molts dies passa dels 10. Des d aquesta mesura estic reconsiderant tornar a agafar el cotxe per la cantitat de temps que perdo. \n</p>", 
+            "commentable_id": 4492, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 09:08:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6904, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 20112, 
+                "name": "Antomo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Entre Poble Sec/ sant Antoni y la Barceloneta, y viceversa, viajando con un beb\u00e9 ya es imposible moverse en trasporte p\u00fablico, por recorrido, cantidad de usuarios y frecuencia... \u00bfEstoy obligada a considerar el coche?</p>", 
+            "commentable_id": 4492, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 15:06:26", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9529, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2874, 
+                "name": "Marina Ros", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Recuperar els interiors d'illa jo creia q era bona idea fins que no ho vius en la pr\u00f2pia pell, b\u00e9 m\u00e9s aviat , en les teves pr\u00f2pies o\u00efdes. Ha desaparegut aquell silenci tan encantador d sortir a la terrassa i desconectar de tot. Els interiors d'illa es converteixen en espais plens d soroll i disbauxa que ning\u00fa controla. Tot el dia fins al vespre ple d crits, xivarri, cops d pilota, m\u00fasica i festes infantils!! \n<br />Ha reduit el nivell i la qualitat d vida d tots els ve\u00efns els quals farem una queixa formal. Ja q no hi ha cap ent q vigili aquests espais p\u00fablics.</p>", 
+            "commentable_id": 1220, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 19:15:20", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 981, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/espais-interiors-de-les-illes-mes-amables-verds\">https://decidim.barcelona/proposals/espais-interiors-de-les-illes-mes-amables-verds</a></p>", 
+            "commentable_id": 1220, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 16:29:10", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14914, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/mes-espais-enjardinats\">https://decidim.barcelona/proposals/mes-espais-enjardinats</a></p>", 
+            "commentable_id": 1220, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 16:37:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14929, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

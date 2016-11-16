@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9227, 
+                "name": "hejal", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Enderrocar un edifici de 65 anys per afavorir un supermercat \u00e9s un error, ja tenim prou oferta comercial al barri, i si lo que es preten \u00e9s un aparcament subterrani llavors es va perdre una oportunitat quan es va remodelar la pla\u00e7a eivissa.</p>", 
+            "commentable_id": 383, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/02/2016 07:37:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3028, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/activar-un-pla-de-proteccionisme-dels-mercats-artesanals\">https://decidim.barcelona/proposals/activar-un-pla-de-proteccionisme-dels-mercats-artesanals</a></p>", 
+            "commentable_id": 383, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/04/2016 17:05:00", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 13049, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3028", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8218, 
+                "name": "maga", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Trobo que tens ra\u00f3. </p>", 
+            "commentable_id": 383, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 08:32:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4077, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

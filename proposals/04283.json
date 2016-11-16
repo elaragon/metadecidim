@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10634, 
+            "name": "JoanAG", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 10634, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4283", 
+        "conflictive": false, 
+        "created_at": "07/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4283, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 5, 
+            "name": "Cicles de vida ", 
+            "position": 5
+        }, 
+        "summary": "Els mitjans de comunicaci\u00f3, i m\u00e9s els d'\u00e0mbit p\u00fablic han de donar a con\u00e8ixer el nom i l'edat de totes aquelles persones que han patit o han estat v\u00edctimes de  viol\u00e8ncia de g\u00e8nere, LGBT, racisme i altres delictes d'odi. Han de condemnar tot tipus de viol\u00e8ncia.\r\nLes v\u00edctimes no han de caure mai en l'oblit, no s\u00f3n les culpables.", 
+        "title": "Que BTV not\u00edcies informi sobre qualsevol tipus de viol\u00e8ncia, com a acte terrorista.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 9, 
+        "url": "https://decidim.barcelona/pam/proposals/que-btv-noticies-informi-sobre-qualsevol-tipus-de-violencia-com-a-acte-terrorista", 
+        "votable": null, 
+        "voted": null
+    }
+}

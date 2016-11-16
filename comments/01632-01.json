@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12688, 
+                "name": "Jaume Mestres i Capitan", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00bfCon el Ayuntamiento de perro-flautas de Barcelona? IMPOSIBLE</p>", 
+            "commentable_id": 1632, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/03/2016 20:56:30", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5817, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "5817", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10285, 
+                "name": "Montserrat Forcadas", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Per qu\u00e8? Per qu\u00e8? Per qu\u00e8?  No penseu ni en la proposta. Sols us limiteu a desqualificar. No doneu arguments interessants o intel\u00b7ligents. Sols us limieu a insultar.  Per qu\u00e8 us costa tant fer un debat? Sols us limiteu a bombardejar... </p>", 
+            "commentable_id": 1632, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/03/2016 12:12:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6248, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

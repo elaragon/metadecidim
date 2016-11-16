@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6187, 
+                "name": "Carme Martin", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>totalment d'acord, per anar de sant quint\u00ed a la Puigverd s'ha de donar tota la volta\n</p>", 
+            "commentable_id": 5449, 
+            "commentable_type": "Proposal", 
+            "created_at": "20/03/2016 12:52:10", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5970, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13220, 
+                "name": "J.L.Peralta", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Nota: Encara que el actual pla ,preveu la apertura de una \"rambla interior \" que creua del Carrer Trobador - Sant Quinti a Llorens i Barba -Cartagena ,aquesta proposta segueix separant Guinardo de  Sagrada familia ( Avda Gaudi) </p>", 
+            "commentable_id": 5449, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/03/2016 10:33:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6490, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17766, 
+                "name": "Francis", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>I m\u00e9s tenint en compte que ja s'hi podia passar abans de la posada en marxa del Nou Hospital i sobretot de la \"turistificaci\u00f3\" del recinte vell. Volem recuperar-ho!</p>", 
+            "commentable_id": 5449, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/04/2016 12:28:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7730, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

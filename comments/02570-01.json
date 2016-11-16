@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13136, 
+                "name": "Jesus Garcia", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Las diferencias comienzan cuando no hay Justicia\n<br />Cuando grupos organizados ejercen Abuso de Poder y act\u00faan de forma mafiosa\n<br />Ejemplos: la mafia rusa que denunciaba Itziar Gonzales Ex-Regidora de Ciutat Vella, que controlan las Ramblas, el mal paso de convertir las Ramblas de los p\u00e1jaros en las ramblas de los suvenires; o como contaba una due\u00f1a de local con litigio por  incumplimiento de contrato con presunta mafia Paquitani, que no cumple sentencia, y que se puede permitir amenazar con asesinar a la due\u00f1a, con total impunidad, ...\n<br />Las mordidas a los t\u00e9cnicos son la regla, por los caos descubiertos y los que todav\u00eda no se han descubierto, desde el Gravat, que sembr\u00f3 el  p\u00e1nico, es como si una inmunidad les protegiese, o la presunta corrupci\u00f3n de sus superiores, ...\n<br />\u00bfdemasiada persecuci\u00f3n hacia quienes pagan impuestos, malviven para poder prosperar, sin tener que meterse a pol\u00edticos?\n</p>", 
+            "commentable_id": 2570, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 11:16:14", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6082, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

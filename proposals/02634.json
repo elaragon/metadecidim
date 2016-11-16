@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 5276, 
+            "name": "Parking Riera de Tena 44", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 5276, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2634", 
+        "conflictive": false, 
+        "created_at": "13/02/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2634, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "En el barri de La Bordeta-Sants s'acusa un d\u00e8ficit greu de places d'aparcament. Aquest fet s'agreujar\u00e0 arran de l'expropiaci\u00f3 del P\u00e0rking de Riera de Tena 44, fet que comportar\u00e0 grans dificultats en la circulaci\u00f3 i la mobilitat de vehicles , augmentant l'ocupaci\u00f3 en les zones colindants, incapaces d'absorbir la nova demanda.", 
+        "title": "D\u00e8ficit de places d'aparcament al Barri de Sants-La Bordeta - NO a l'expropiaci\u00f3", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 8, 
+        "url": "https://decidim.barcelona/pam/proposals/deficit-de-places-d-aparcament-al-barri-de-sants-la-bordeta-no-a-l-expropiacio", 
+        "votable": null, 
+        "voted": null
+    }
+}

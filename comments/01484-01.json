@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1970, 
+                "name": "red albert", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>M\u00e9s que els diners p\u00fablics no serveixin per finan\u00e7ar el turisme sanitari, que no serveixin per finan\u00e7ar el turisme sanitari a empreses privades. Que vinguin infants sahrau\u00eds a Barcelona a fer-se revisions m\u00e8diques i revisions de la vista cada estiu jo ho veig b\u00e9 (no s\u00e9 si aix\u00f2 ho podr\u00edem considerar turisme sanitari) per\u00f2 que amb diners p\u00fablics financem que vinguin \"jeques\" \u00e0rabs a fer-se operacions d'allargament de penis a cl\u00edniques privades ja no em sembla tan b\u00e9...</p>", 
+            "commentable_id": 1484, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 08:05:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 750, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "750", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9821, 
+                "name": "marina puig", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord!! El que passa que s'est\u00e0 utilitzant mitj\u00e0 p\u00fablic pels millonetis. \u00c9s la tri-xarxa: hospitalshttps://decidim.barcelona/proposals/controlar-el-turisme-sanitaricl\u00edniques p\u00fabliques i privades + hotels + botigues high level del pss de gracia i diagonal. Entre ellos se lo guisan y se lo comen...Aconsello veure el programa \"Se busca paciente millonario\" de la Sexta i dp comparar-lo amb el de Valor Afegit on el propi gerent de Sant Joan de D\u00e9u ven la moto de que com no hi ha finan\u00e7ament p\u00fablic \u00e9s necessari aquests ingressos dels millonetis....sense comentaris. I la pr\u00f2pia Generalitat te aquest enlla\u00e7: <a href=\"http://act.gencat.cat/408/turismo-medico/?lang=es\">http://act.gencat.cat/408/turismo-medico/?lang=es</a> , ja se que es tracta de compet\u00e8ncies de la Generalitat. Salut \u00e9s de CAt\u00f2ma, per\u00f2 com la majoria de les q\u00fcestions passen per Bcn: hotels, botigues i localitzaci\u00f3 dels hospitals p\u00fablics, alguna cosa se'n deu poder fer...</p>", 
+            "commentable_id": 1484, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 18:47:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6196, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

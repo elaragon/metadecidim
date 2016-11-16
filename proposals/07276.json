@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 11002, 
+            "name": "C\u00e9sar Ochoa", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 11002, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7276", 
+        "conflictive": false, 
+        "created_at": "29/03/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7276, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "En l'actualitat, per fer despla\u00e7aments a la platja des del Poblenou amb bici cal o b\u00e9 anar fins a Bac de Roda o b\u00e9 fer servir el lateral de la Rambla del Poblenou (senda compartida amb prefer\u00e8ncia per als peatons).\r\nFer del carril dret del c Bilbao (on hi ha sortida metro) un carril 30 destinat a \u00fas de bici permetria despla\u00e7ament r\u00e0pid a platja.", 
+        "title": "Fer del carril dret (almenys) del carrer Bilbao carril 30", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/fer-del-carril-dret-almenys-del-carrer-bilbao-carril-30", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 6766, 
+            "name": "Jordi R.", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 6766, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3168", 
+        "conflictive": false, 
+        "created_at": "19/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3168, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Demano que el nou ajuntament tingui el valor de fer complir les ordenances sobre la tinen\u00e7a d'animals i no es vengui per un grapat de vots. Vull parcs amb gespa on els nens puguin jugar o estirar-se a llegir un llibre sense perill de quedar plens de merda de gos. On es penalitzi els amos dels gossos que els deixen entrar als jocs infantils.", 
+        "title": "Primer les persones. Despr\u00e9s els gossos.", 
+        "total_comments": 12, 
+        "total_negative_comments": 3, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 4, 
+        "total_votes": 90, 
+        "url": "https://decidim.barcelona/pam/proposals/primer-les-persones-despres-els-gossos", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6213, 
+                "name": "Jordi Art\u00e9s Puy", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tamb\u00e9 val la pena fer el que proposen guifi.net i Associaci\u00f3 Xarxa Oberta que proposen mitjan\u00e7ant normativa a les ordenances municipals, s'exigeixi cablejar una manguera de fibra \u00f2ptica en totes les accions urbanes, i que dels diferents feixos que inclou, cadascun amb molt\u00edssima capacitat, se'n reservi un per a \u00fas propi de les infraestructures municipals i un per a \u00fas que respecti la filosofia de comuns. I la resta de feixos es podran gestionar privadament per diferents empreses de telecomunicaci\u00f3. Aix\u00ed s'eviten les xarxes redundants en localitzacions m\u00e9s rendibles per la iniciativa privada i es garantitza la cobertura i capacitat de comercialitzaci\u00f3 a trav\u00e9s de diferents empreses encara que nom\u00e9s hi hagi una sola rasa de cablejat.\n<br />(M\u00e9s informaci\u00f3 a <a href=\"http://guifi.net/\">http://guifi.net/</a> i <a href=\"http://exo.cat/\">http://exo.cat/</a>)</p>", 
+            "commentable_id": 405, 
+            "commentable_type": "Proposal", 
+            "created_at": "20/02/2016 21:01:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2232, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10979, 
+                "name": "Albert Garc\u00eda", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Xarxa el\u00e9ctrica i de telefon\u00eda. Treure tots els Pals y postes de les voreres.</p>", 
+            "commentable_id": 405, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 10:14:26", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6695, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16493, 
+                "name": "Marta75", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Al Carrer Tenerife caldria soterrar aeris tant de pals com els grapats en fa\u00e7ana de telefonia, enllumenat i el\u00e8ctric que volen per tot. Fixeu-vos especialment en les pieruetes dels cables del num 41 i 39</p>", 
+            "commentable_id": 405, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 17:19:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7241, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2232", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6213, 
+                "name": "Jordi Art\u00e9s Puy", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>M\u00e9s dades disponibles sobre les xarxes de telecomunicaci\u00f3 amb la filosofia de comuns: v\u00eddeo (<a href=\"https://youtu.be/kjbKM6zFATk\">https://youtu.be/kjbKM6zFATk</a>) i presentaci\u00f3 (<a href=\"http://sobtec.cat/docs/guifi.net.pdf\">http://sobtec.cat/docs/guifi.net.pdf</a>) de la xerrada de Guifi.net al primer congr\u00e9s de sobirania tecnol\u00f2gica [<a href=\"http://sobtec.cat/recull.html\">http://sobtec.cat/recull.html</a>].</p>", 
+            "commentable_id": 405, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/02/2016 21:37:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2629, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

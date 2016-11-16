@@ -1,0 +1,341 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3026, 
+                "name": "Imma V.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Bona pensada. </p>", 
+            "commentable_id": 2552, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/02/2016 10:42:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1694, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10615, 
+                "name": "Inmacl", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord, jo vaig demanar el mateix!!! <a href=\"https://decidim.barcelona/proposals/reforma-de-la-pagina-la-web-del-ajuntament-para-que-sea-mas-facil-navegar\">https://decidim.barcelona/proposals/reforma-de-la-pagina-la-web-del-ajuntament-para-que-sea-mas-facil-navegar</a>\n</p>", 
+            "commentable_id": 2552, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/03/2016 08:55:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4682, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16753, 
+                "name": "Laurahf", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Des que s'ha canviat, \u00e9s molt complicat trobar les coses, fins i tot el mapa de la ciutat!</p>", 
+            "commentable_id": 2552, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 12:27:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10638, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/combatre-la-mala-practica-de-les-administracions-i-la-corrupcio-en-l-ambit-de-politiques-tecnologiques-i-de-coneixement-valoracio-de-les-aplicacions-digitals-segons-criteris-de-privacitat-sostenibilitat-i-autonomia-tecnologica\">https://decidim.barcelona/proposals/combatre-la-mala-practica-de-les-administracions-i-la-corrupcio-en-l-ambit-de-politiques-tecnologiques-i-de-coneixement-valoracio-de-les-aplicacions-digitals-segons-criteris-de-privacitat-sostenibilitat-i-autonomia-tecnologica</a></p>", 
+            "commentable_id": 2552, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/04/2016 17:08:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 13055, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/millorar-la-informacio-i-accessibilitat-de-les-webs-de-l-ajuntament\">https://decidim.barcelona/proposals/millorar-la-informacio-i-accessibilitat-de-les-webs-de-l-ajuntament</a></p>", 
+            "commentable_id": 2552, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/04/2016 17:08:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 13057, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/reforma-de-la-pagina-la-web-del-ajuntament-para-que-sea-mas-facil-navegar\">https://decidim.barcelona/proposals/reforma-de-la-pagina-la-web-del-ajuntament-para-que-sea-mas-facil-navegar</a></p>", 
+            "commentable_id": 2552, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/04/2016 17:09:00", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 13059, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/apps-para-winphone-tambien\">https://decidim.barcelona/proposals/apps-para-winphone-tambien</a></p>", 
+            "commentable_id": 2552, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/04/2016 17:09:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 13060, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/app-per-tramits-municipals\">https://decidim.barcelona/proposals/app-per-tramits-municipals</a></p>", 
+            "commentable_id": 2552, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/04/2016 17:09:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 13062, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/millorar-la-funcionalitat-de-la-pagina-web\">https://decidim.barcelona/proposals/millorar-la-funcionalitat-de-la-pagina-web</a></p>", 
+            "commentable_id": 2552, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/04/2016 17:09:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 13064, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/carpeta-ciutadana\">https://decidim.barcelona/proposals/carpeta-ciutadana</a></p>", 
+            "commentable_id": 2552, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/04/2016 17:10:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 13065, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 10, 
+        "total_pages": 1
+    }
+}

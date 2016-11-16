@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 164, 
+                "name": "J. Gabriel Gallart", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aquestes mesures es podrien completar amb passos elevats (plataformes \u00faniques) al carrer de l'Espanya Industrial, a la pla\u00e7a de Sants i davant del mercat d'Hostafrancs.\n<br />La reducci\u00f3 de la velocitat a 30 km /h facilitaria la circulaci\u00f3 de les bicicletes i milloraria la seguretat vi\u00e0ria dels vianants.</p>", 
+            "commentable_id": 4530, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 19:22:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4267, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

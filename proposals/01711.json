@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4574, 
+            "name": "Associaci\u00f3 de Ve\u00efnes i Ve\u00efns de Can Bar\u00f3 ", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4574, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1711", 
+        "conflictive": false, 
+        "created_at": "10/02/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "7.- Pla d'accessibilitat del barri. Mobilitat. 1.\tDotar d\u2019escales mec\u00e0niques i les infraestructures necess\u00e0ries d\u2019acord a les caracter\u00edstiques orogr\u00e0fiques del barri. Per exem. a passatge del Dip\u00f2sit  2.\tEquipar amb marquesines les parades a Lab\u00e8rnia al final del bus 86 i minib\u00fas 119. 3.\tProjectar connexi\u00f3 del carrer Francesc Alegre amb el carrer Josep Serrano. 4.\tFer seguiment acurat de les prestacions del transport p\u00fablic per tal de millorar el servei optimitzant els itineraris, ampliant el servei. \tNo hi ha Bus de Barri 114 els diumenges i festius.", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1711, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": ".\r\n1.\tDotar d\u2019escales mec\u00e0niques i les infraestructures necess\u00e0ries d\u2019acord a les caracter\u00edstiques orogr\u00e0fiques del barri. Per exem. a passatge del Dip\u00f2sit \r\n", 
+        "title": " Pla d'accessibilitat del barri. Mobilitat", 
+        "total_comments": 8, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 4, 
+        "total_positive_comments": 3, 
+        "total_votes": 19, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-d-accessibilitat-del-barri-mobilitat", 
+        "votable": null, 
+        "voted": null
+    }
+}

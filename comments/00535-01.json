@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12179, 
+                "name": "suport.decidim1", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en la cita presencial: Salut P\u00fablica i Qualitat Ambiental. \"Identificar i fer mapeig dels edificis i llocs amb amiant i promoure Pla de substituci\u00f3 de l\u2019amiant en els edificis. Al districte de Sant Mart\u00ed hi ha zones particulars: Rambla Prim, Gl\u00f2ries, Gran Via, Taulat, zona Maresme (cases baixes, f\u00e0brica).</p>", 
+            "commentable_id": 535, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/03/2016 12:56:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5758, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/ajudes-a-la-rehabilitacion\">https://decidim.barcelona/proposals/ajudes-a-la-rehabilitacion</a></p>", 
+            "commentable_id": 535, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 10:31:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 16522, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/hacer-frente-a-los-nuevos-problemas-de-nuestros-barrios-y-su-gente\">https://decidim.barcelona/proposals/hacer-frente-a-los-nuevos-problemas-de-nuestros-barrios-y-su-gente</a></p>", 
+            "commentable_id": 535, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 10:35:22", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 16532, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/rehabilitacio-dels-habitatges-amb-aluminosi-i-apuntalats\">https://decidim.barcelona/proposals/rehabilitacio-dels-habitatges-amb-aluminosi-i-apuntalats</a></p>", 
+            "commentable_id": 535, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 18:01:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17402, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

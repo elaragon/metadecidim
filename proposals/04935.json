@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4935", 
+        "conflictive": false, 
+        "created_at": "14/03/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 4935, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "A dem\u00e9s, revisi\u00f3 rotativa d\u2019escoles per arranjaments grans (pintar parets, renovaci\u00f3 infraestructures, millores per l\u2019envelliment, entre d\u2019altres).", 
+        "title": "Establir un calendari fix de manteniment de les escoles i instituts i no nom\u00e9s en casos d\u2019urg\u00e8ncia com ara, per garantir un manteniment adequat de les instal\u00b7lacions escolars.  ", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 1, 
+        "total_votes": 35, 
+        "url": "https://decidim.barcelona/pam/proposals/establir-un-calendari-fix-de-manteniment-de-les-escoles-i-instituts", 
+        "votable": null, 
+        "voted": null
+    }
+}

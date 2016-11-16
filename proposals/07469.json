@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 15475, 
+            "name": "Jordi G.", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 15475, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7469", 
+        "conflictive": false, 
+        "created_at": "30/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7469, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Com es fa en alguns pa\u00efsos avan\u00e7ats, quan s' identifiqui l'autor d'una pintada/graffiti a un espai p\u00fablic (parets, establiments, etc.) s'hauria d'obligar a la persona a netejar-ho amb alg\u00fa de l'ajuntament ajudant/supervisant i, a m\u00e9s a m\u00e9s, posar-li una multa per pagar les despesses dels productes de neteja i altres. Drets i deures. Prou bonisme.", 
+        "title": "Fer netejar pintades/graffitis i multar a l'autor", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/fer-netejar-pintades-graffitis-i-multar-a-l-autor", 
+        "votable": null, 
+        "voted": null
+    }
+}

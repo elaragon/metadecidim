@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 9448, 
+            "name": "mangels", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 9448, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3668", 
+        "conflictive": false, 
+        "created_at": "29/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3668, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 13, 
+            "name": "Turisme sostenible", 
+            "position": 5
+        }, 
+        "summary": "Penso que Barcelona i el turisme van junts i aix\u00ed ser\u00e0. Per aix\u00f2, em sembla que estaria b\u00e9 que els ve\u00efns tingu\u00e9ssim m\u00e9s informaci\u00f3 sobre el turisme a la ciutat, impactes positius i negatius del turisme al nostre barri. Igualment, cal comen\u00e7ar a parlar als nens sobre el que \u00e9s el turisme responsable, per tal d'educar-los amb uns valors de respecte.", 
+        "title": "El turisme, m\u00e9s informaci\u00f3 als ve\u00efns i tamb\u00e9 a les escoles", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/el-turisme-mes-informacio-als-veins-i-tambe-a-les-escoles", 
+        "votable": null, 
+        "voted": null
+    }
+}

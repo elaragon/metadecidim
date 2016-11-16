@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 9921, 
+            "name": "Angel Docampo", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 9921, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3724", 
+        "conflictive": false, 
+        "created_at": "02/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://coinnovacio.bcn.cat/go/proposalDetailsAction.action?idProposal=922", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3724, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Ser\u00eda  semblant a tornar a lo que es feia aqu\u00ed amb els envasos de vidre per\u00f2 amb envasos de vidre i pl\u00e0stic, retornant 0,25\u20ac per env\u00e0s als punts de canvi.\r\nPodeu veure la proposta sencera detallada aqu\u00ed: http://coinnovacio.bcn.cat/go/proposalDetailsAction.action?idProposal=922", 
+        "title": "Reciclatge d'ampolles remunerat com a Alemanya", 
+        "total_comments": 5, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 5, 
+        "total_votes": 123, 
+        "url": "https://decidim.barcelona/pam/proposals/reciclatge-d-ampolles-remunerat-com-a-alemanya", 
+        "votable": null, 
+        "voted": null
+    }
+}

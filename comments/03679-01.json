@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1932, 
+                "name": " J. Morrus Serinya", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es cert, es un comentari, i estic  d\u00b4acord amb la proposta de benua, pero a m\u00e9s, no estaria malament  que es pogues comprovar que la ra\u00f3 de tanta deixalla va m\u00e9s enll\u00e0 del conegut \"s\u00edndrome de Di\u00f3genes\" si les persones busquen  aixipluc i amb cuatre canyes ho consigueixen, es feina per a Serveis Socials, pero si no,\n<br /> cal intervenir amb altres departaments;  i perque no el de Comer\u00e7, o el de Sanitat,  i fins i tot el de Riscos Ambientals?</p>", 
+            "commentable_id": 3679, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/03/2016 23:08:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3286, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11290, 
+                "name": "Grup d'Estudis Coll Vallcarca", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": false
+            }, 
+            "body": "<p>Aix\u00f2 es va demanar en el Consell del barri del Coll, crec que es hora de dir les coses com son. El que hi ha muntat en aquests solars, sobretot al del Passeig Mare de D\u00e9u del Coll, no \u00e9s un habitat per persones sense recursos. Es tracta d'un negoci clandest\u00ed i explotaci\u00f3 de persones, suposadament ,  hi ha un cap que \u00e9s el que porta el negoci i cada dia a les 14 h els recollidors de  ferralla i els \"pidolaires\" ubicats a Av. Rep\u00fablica Argentina porten el que han recollit. L'any passat va haver un incendi per tenir la llum enganxada que va ennegrir tot el barri  i aqu\u00ed no passa res.  Aix\u00f2 si els comerciants del barri i establiments tots amb llicencia i sota vigil\u00e0ncia de no alterar el m\u00ednim les ordenances.\n<br />  </p>", 
+            "commentable_id": 3679, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 13:38:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4808, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/solar-ocupats\">https://decidim.barcelona/proposals/solar-ocupats</a></p>", 
+            "commentable_id": 3679, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 11:44:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 16670, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3286", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7229, 
+                "name": "benua", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Desitjem que l'Ajuntament \tactu\u00ef amb voluntarisme, fent intervenir els departaments necessaris, per el benefici de tots.</p>", 
+            "commentable_id": 3679, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/03/2016 15:17:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3338, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1696, 
+                "name": "ventura", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No el puc entendre fins i tot a pobles no gaire grans estan soterrats els contenedors, per tant no deu esser una q\u00fcesti\u00f3 de pressupost</p>", 
+            "commentable_id": 1153, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/02/2016 18:45:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 469, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10566, 
+                "name": "Isa6000", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Pues si es un problema de presupuesto, es un sistema m\u00e1s caro de instalaci\u00f3n y mucho m\u00e1s caro en cuanto al mantenimiento. Adem\u00e1s no solucionan el problema de olores y suciedad. En la Rambla de Poblenou con Gran V\u00eda hay varios contenedores soterrados siempre rodeados de residuos que no entran y por problemas de mantenimiento. Que los tengan en algunos pueblos peque\u00f1os no quiere decir que sean baratos, las decisiones econ\u00f3micas de la administraciones por desgracia no siempre son racionales.</p>", 
+            "commentable_id": 1153, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/03/2016 22:57:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3770, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

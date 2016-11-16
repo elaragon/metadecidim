@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 16996, 
+            "name": "AMPA Escola Pit-Roig", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 16996, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8533", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8533, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "\u00c9s una obertura a l\u2019espai verd de la ciutat, per\u00f2 la higiene hauria de millorar. Hi ha brut\u00edcia, moltes caques de gos i molts gossos sense lligar. Els nens/es de les escoles dels voltants voldrien aprofitar m\u00e9s aquest parc, com E. Pit-Roig, E.B. Tres Turons, E Guinard\u00f3, E. \u00c0ngels Garriga, E. Arc Iris, E. del Mar, IES Goia i E.B. Mare Teresa. ", 
+        "title": "Parc del Guinard\u00f3 / Parc del Nen de la Rutlla", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 44, 
+        "url": "https://decidim.barcelona/pam/proposals/parc-del-guinardo-parc-del-nen-de-la-rutlla", 
+        "votable": null, 
+        "voted": null
+    }
+}

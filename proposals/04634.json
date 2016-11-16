@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 512, 
+            "name": "Solidaritat Catalana per la Independ\u00e8ncia", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 512, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4634", 
+        "conflictive": false, 
+        "created_at": "10/03/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4634, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 26, 
+            "name": "Govern transparent  i rendici\u00f3 de comptes", 
+            "position": 1
+        }, 
+        "summary": "Abans,com a m\u00ednim,les actes de les Audi\u00e8ncies P\u00fabliques es podien consultar i descarregar.Igualment les dels Plenaris.Ara ni aix\u00f2,per tant reclamem que les actes de tots els \u00f2rgans de participaci\u00f3 ciutadana es facin p\u00fabliques via web o correu electr\u00f2nic als ve\u00efns que ho demanin.", 
+        "title": "Publicaci\u00f3 i enviament als ve\u00efns de les actes dels \u00f2rgans de participaci\u00f3.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 12, 
+        "url": "https://decidim.barcelona/pam/proposals/publicacio-i-enviament-als-veins-de-les-actes-dels-organs-de-participacio", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 579, 
+                "name": "Josep Mompin Poblet", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Lo vengo pidiendo insistentemente al ayuntamiento de mi barrio (Les Corts). En Av. Josep Tarradellas hay 5 zonas de recreo para ni\u00f1os y CERO para perros. Y somos muchos los que tenemos animal de compa\u00f1\u00eda. Con estas zonas ganar\u00edamos todos: animales, propietarios y la gente a la que no le gustan los perros.\n</p>", 
+            "commentable_id": 1708, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 12:07:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1834, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

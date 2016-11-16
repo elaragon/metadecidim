@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8331, 
+                "name": "Neus Fornells Cunillera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El que cal fer al Tur\u00f3 de la Rovira (Tres Turons) \u00e9s executar el planejament aprovat i fer un parc compacte, allotjant als seus habitants actuals en nous habitatges al voltant del parc. A m\u00e9s d'estar la majoria d'edificacions en disconformitat amb els plans de Barcelona des de principis del segle XX, (no ho va dictar en Franco)moltes il\u00b7legalment, sense pagar llic\u00e8ncia d'obres, nom\u00e9s faltaria que ara se'n fes una reserva privada pels seus cotxes... </p>", 
+            "commentable_id": 5714, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 13:27:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8000, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

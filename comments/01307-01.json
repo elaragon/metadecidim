@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1767, 
+                "name": "nluine", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>i \u00e9s molt frequent trovar-ne: taxis, furgonetes d'entrega, furgonetes de mudan\u00e7a, etc\u2026.i fa molta rabia veure que la policia no fa r\u00e9s!!!</p>", 
+            "commentable_id": 1307, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/02/2016 19:21:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 477, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 164, 
+                "name": "J. Gabriel Gallart", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Trobo una proposta molt encertada i que ajudaria a molts dels que tenen por d'agafar la bici la perdesin</p>", 
+            "commentable_id": 1307, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 16:12:34", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 941, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3812, 
+                "name": "libove", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aquest idea tamb\u00e9 ha de aplicar-se als cru\u00eflles com les de Diagonal on molts cotxes s'aturen en el carril bici, intentant de fer girades, bloquejant les bicis de continuar per el seu carril i posant en perill les bicis per deure de canviar trajecte (freq\u00fcentment on hi ha tr\u00e0fic movent i/o altres impediments).</p>", 
+            "commentable_id": 1307, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/02/2016 10:37:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1261, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "477", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2496, 
+                "name": "rux", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>i \u00e9s que fins i tot, molts cops es tracta de vehicles de l'ajuntament: urbana, bicing, ...</p>", 
+            "commentable_id": 1307, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 14:35:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 813, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

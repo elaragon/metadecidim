@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 11124, 
+            "name": "habellan", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 11124, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4448", 
+        "conflictive": false, 
+        "created_at": "09/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://www.change.org/p/ajuntament-de-barcelona-apliquen-la-normativa-de-contaminaci%C3%B3n-ac%C3%BAstica-a-los-repartidores-de-butano/reasons_for_signing", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4448, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "No considero propio de una ciudad \"moderna\" y \"sostenible\" que el reparto de las bombonas de butano se realice a golpe de martillazo en la propia bombona. Seg\u00fan las instrucciones de uso de las agencias distribuidoras no se pueden golpear los recipientes del gas por razones obvias de seguridad. Este reparto es propio de lugares subdesarrollados.", 
+        "title": "Distribuci\u00f3n racional y segura del butano", 
+        "total_comments": 6, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 6, 
+        "total_votes": 42, 
+        "url": "https://decidim.barcelona/pam/proposals/distribucion-racional-y-segura-del-butano", 
+        "votable": null, 
+        "voted": null
+    }
+}

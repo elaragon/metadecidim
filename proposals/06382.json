@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10965, 
+            "name": "Jorge Damont ", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 10965, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6382", 
+        "conflictive": false, 
+        "created_at": "22/03/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6382, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Con la creaci\u00f3n de la NXB se acortan, unificaran, modificaran y en muchos casos se suprimen recorridos de las lineas convencionales lo que impide una buena conectividad entre los diversos distritos y ciudades de la \u00c1rea Metropolitana.\r\nLo l\u00f3gico seria unificar recorridos de lineas y no suprimirlos: Ej 20+37, 40+41, 50+51, 19+66, 54+62, 13+42, 22+47", 
+        "title": "No a la supresi\u00f3n de las lineas convencionales de Sant Marti( ampliable a todo bcn)", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/no-a-la-supresion-de-las-lineas-convencionales-de-sant-marti-ampliable-a-todo-bcn", 
+        "votable": null, 
+        "voted": null
+    }
+}

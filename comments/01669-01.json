@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2449, 
+                "name": "Pablo Ramos Garcia", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Sostre C\u00edvic no \u00e9s autor d'aquesta proposta, nom\u00e9s un exemple de cooperativa amb les que l'ajuntament podria desenvolupar sinergies per tal de desenvolupar la xarxa, degut a la seva expertesa en el tema.</p>", 
+            "commentable_id": 1669, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/02/2016 17:42:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1537, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

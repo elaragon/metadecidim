@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 179, 
+                "name": "Susanna", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es tractaria de facilitar i incentivar des dels CAPs la pr\u00e0ctica esportiva dirigida als pacients que ho requereixin. Aix\u00f2 implicaria un \u00fas per la  salut dels nostres centres esportius, de forma responsable i dirigida. L'esport a aporta millores en la qualitat de vida, ajuda a la socialitzaci\u00f3 i \u00e9s una eina de \"cura\" o prevenci\u00f3. Incentivar ajudant econ\u00f2micament i dirigint l'activitat millorarem la salut, reduirem complicacions i medicacions i podem ajudar a equilibrar aquestes difer\u00e8ncies d'esperan\u00e7a de vida tant \u00e0mplies entre els nostres districtes. \u00c9s evident que per una persona de poder adquisitiu alt i amb una qualitat de vida raonable li pot resultar molt m\u00e9s f\u00e0cil pagar-se un preparador f\u00edsic i anar al gimn\u00e0s que altres ve\u00efns/veines que tenen dificultats econ\u00f2miques tant per pagar els centres com per trobar el temps per dedicar-se a ells mateixos (nets, nebots, fills i \"dependents\" al seu c\u00e0rrec). Aquesta eina ha existit.</p>", 
+            "commentable_id": 4561, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 08:54:58", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10179, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

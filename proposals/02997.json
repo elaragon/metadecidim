@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2997", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2997, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Impulsar la implicaci\u00f3 d\u2019entitats i col\u00b7lectius d\u2019usuaris i de treballadors de la sanitat p\u00fablica per garantir l\u2019acc\u00e9s a la salut del ve\u00efnat. Incloure el CAP Manso en la xarxa de treball que hi ha al barri de Sant Antoni.", 
+        "title": "Dur a terme accions conjuntes entre els diversos CAP, i desenvolupar els projectes d'accions de salut comunit\u00e0ria", 
+        "total_comments": 12, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 5, 
+        "total_positive_comments": 7, 
+        "total_votes": 15, 
+        "url": "https://decidim.barcelona/pam/proposals/dur-a-terme-accions-conjuntes-entre-els-diversos-cap-i-desenvolupar-els-projectes-d-accions-de-salut-comunitaria", 
+        "votable": null, 
+        "voted": null
+    }
+}

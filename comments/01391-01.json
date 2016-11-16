@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 369, 
+                "name": "Maclaren", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Sempre que sigui dintre d'una estrat\u00e8gia global de mobilitat sotenible, canvi de model economic cap la indutralitzaci\u00f3 i desenvolupament tecnol\u00f3gic de base local. </p>", 
+            "commentable_id": 1391, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 15:49:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 936, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 85, 
+                "name": "kerouack", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La mejor manera de hacer esto es hacer que haya siti oen la calle donde poder aparcar la bici, por ejemplo en Lesseps y m\u00e1s abajo hasta fontana, y todo a la derecha hasta joanic todos los aparcamientos de bicis estan siempre llenisimos, resultando muy incomodo estar media hora buscando sitio donde dejarla. Sin embargo aparcamientos de motos hay muchos y gigantescos.</p>", 
+            "commentable_id": 1391, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/03/2016 09:15:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3896, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 2, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3026, 
+                "name": "Imma V.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Penso que no cal subvencionar ning\u00fa per  comprar una bicicleta. Qualsevol usuari del bicing pot invertir en una bicicleta enlloc de pagar l'import de la tarifa anual. No cal que sigui nova de trinca, hi ha preus assequibles en bicis de segona m\u00e0.  Acabo de veure el web <a href=\"https://www.bicing.cat/\">https://www.bicing.cat/</a> i he vist que el preu de la tarifa ha baixat, i que els usuaris tenen punts i premis, tot plegat  em sembla un bon incentiu per fer-ne \u00fas del servei. No entenc perqu\u00e8 cal subvencionar la compra d'una bicicleta.</p>", 
+            "commentable_id": 1391, 
+            "commentable_type": "Proposal", 
+            "created_at": "19/03/2016 06:08:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5859, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

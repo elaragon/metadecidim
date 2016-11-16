@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10384, 
+            "name": "AMPA Escola Miralletes", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 10384, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3979", 
+        "conflictive": false, 
+        "created_at": "04/03/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "https://www.google.es/maps/place/Jardins+de+Can+Miralletes/@41.414003,2.179041,3a,75y,90t/data=!3m8!1e2!3m6!1s117231835!2e1!3e10!6s%2F%2Flh6.googleusercontent.com%2Fproxy%2Fb_aS5Y8akKrmgx6AIF8uPOFGBZiLhMLGgvTpsLFfi0ytFfwGaol0FxryWPfzbRJN3T-j9qoq3i3W01rSpsfHeghMr1QMw20%3Dw203-h135!7i4608!8i3072!4m2!3m1!1s0x12a4a2d133d73103:0xf00fae11f514120!6m1!1e1?hl=ca", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3979, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Al Parc de Miralletes del barri del Camp de l'Arpa hi ha habilitada una \u00e0rea per gossos, gran i ben equipada (font, papereres, bancs per seure) Des de l'AMPA de l'Escola Miralletes voldr\u00edem demanar que es replanteg\u00e9s la seva ubicaci\u00f3 dins el parc, ja que la cuina de l'escola i el pati de l'Institut Mois\u00e8s Broggi estan enganxats a aquesta \u00e0rea. ", 
+        "title": "Reubicaci\u00f3 de l'\u00e0rea per a gossos del Parc de Can Miralletes", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 31, 
+        "url": "https://decidim.barcelona/pam/proposals/reubicacio-de-l-area-per-a-gossos-del-parc-de-can-miralletes", 
+        "votable": null, 
+        "voted": null
+    }
+}

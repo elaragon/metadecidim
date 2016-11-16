@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8137", 
+        "conflictive": false, 
+        "created_at": "04/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8137, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Crear espais de participaci\u00f3 en tots els centres sanitaris on els ciutadans  puguin donar la seva opini\u00f3 sobre com s\u2019estan fent les coses i facilitar la seva participaci\u00f3 en la planificaci\u00f3 dels serveis.\r\n\r\nhttps://decidim.barcelona/proposals/potenciar-els-consells-de-salut \r\n", 
+        "title": "Creaci\u00f3 de consells de participaci\u00f3 ciutadana, consells de salut a les ABS i potenciar entitats ja existents (consell de pacients):", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/creacio-de-consells-de-participacio-ciutadana-consells-de-salut-a-les-abs-i-potenciar-entitats-ja-existents-consell-de-pacients", 
+        "votable": null, 
+        "voted": null
+    }
+}

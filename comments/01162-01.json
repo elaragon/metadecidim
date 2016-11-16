@@ -1,0 +1,209 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1970, 
+                "name": "red albert", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Potser caldria concretar una mica m\u00e9s la proposta. Globalment (i sobretot a determinades \u00e0reees de la ciutat) puc ser-hi d'acord. Tamb\u00e9 \u00e9s cert, per\u00f2, que a d'altres zones (com podrien ser els districtes de Nou Barris o Sant Andreu) el ve\u00efnat tamb\u00e9 voldria gaudir dels profits econ\u00f2mics del turisme i un cert fluxe de turistes afavoriria la identitat i l'orgull dels seus barris, per tant, decreixement a algunes zones s\u00ed per\u00f2 no a tot arreu. Potser \u00e9s millor parlar de regulaci\u00f3 o de sostenibilitat que no pas de decreixement com a concepte global</p>", 
+            "commentable_id": 1162, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/02/2016 11:35:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1267, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14490, 
+                "name": "Maria  LP", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Redistribuci\u00f3 enlloc de prohibici\u00f3. Prefer\u00e8ncia per residents/empadronats com a titulars per l\u2019atorgament de llic\u00e8ncies HUT, per ser els que tenen vincles  forts amb la seva ciutat (admiraci\u00f3 i estima), voluntat de respectar  a tothom i millora de la conviv\u00e8ncia entre els ve\u00efns. En els barris que ja estan saturats, optar per redistribuir el nombre de llicencies HUT entre el  major nombre possible de fam\u00edlies/joves/jubilats,  sense incrementar-ne el nombre de noves llic\u00e8ncies. Fomentar la modalitat \u201cshared\u201d d\u2019allotjament compartit entre turista i resident en casa dels amfitrions, especialment per allotjar joves turistes, per tal de reduir els problemes de civisme, millorar la conviv\u00e8ncia ve\u00efnal, redistribuir la riquesa entre la poblaci\u00f3,  complir amb  les directives europees i alhora mantenir l\u2019esperit de ciutat amable amb els forans. Atorgar m\u00e0xim de 2 llicencies HUT per persona/titular de propietat per evitar empreses acumulin per explotaci\u00f3 a gran escala.</p>", 
+            "commentable_id": 1162, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 15:17:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6153, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3827, 
+                "name": "suport decidim.barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "moderator", 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/decreixement-turistic-reduccio-d-horaris-alternatives-economiques-als-negocis-turistics\">https://decidim.barcelona/proposals/decreixement-turistic-reduccio-d-horaris-alternatives-economiques-als-negocis-turistics</a></p>", 
+            "commentable_id": 1162, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 14:12:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7190, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1267", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4871, 
+                "name": "Adri\u00e0 C", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Podries concretar una mica m\u00e9s qu\u00e8 s\u00f3n \"els profits econ\u00f2mics del turisme\"?</p>", 
+            "commentable_id": 1162, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/02/2016 13:20:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2965, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1267/2965", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1970, 
+                "name": "red albert", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Molt bona pregunta. No \u00e9s gens f\u00e0cil, per\u00f2 si baixem arran de carrer potser \u00e9s m\u00e9s f\u00e0cil de respondre. Els petits comer\u00e7os de la zona o els paradistes del mercat de la Guineueta segur que es posarien molt contents si hi hagu\u00e8s un cert fluxe de turistes pels seus voltants (quan parlo d'un cert fluxe parlo d'un fluxe assumible, integrador, no massificat ni gentrificador). Aix\u00f2 podria ajudar a redistribuir tamb\u00e9 els \"famosos\" beneficis del turisme, sempre que d'alguna manera es pugui regular d'alguna manera aquest fluxe i evitem exemples horribles com el de la banda baixa de la Rambla del Poble Nou. No \u00e9s gens f\u00e0cil, per\u00f2 qui va dir que havia de ser f\u00e0cil? </p>", 
+            "commentable_id": 1162, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/02/2016 20:38:27", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3001, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1267/2965/3001", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4871, 
+                "name": "Adri\u00e0 C", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Espero que es pugui aconseguir com dius. Per\u00f2 no oblidem mai que en el cas del turisme hi ha una part de la poblaci\u00f3 que t\u00e9 beneficis (comerciants i tot el sector) i un part que t\u00e9 perdues (increment de preus, desviaci\u00f3 de inversions...)</p>", 
+            "commentable_id": 1162, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/02/2016 10:20:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3034, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

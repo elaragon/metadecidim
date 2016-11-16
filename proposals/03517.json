@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8133, 
+            "name": "Associaci\u00f3 de Ve\u00efns i Ve\u00efnes Joan Maragall Guinard\u00f3", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 8133, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3517", 
+        "conflictive": false, 
+        "created_at": "26/02/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3517, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Fer una actuaci\u00f3 integral per que les persones amb mobilitat redu\u00efda puguin fer us d'aquest mitja de transport. Escales mec\u00e0niques i ascensors als accessos i andanes i eliminar o reconduir tots els recorreguts dels passadissos amb graons.", 
+        "title": "GUINARD\u00d3 \u2013 Fer accessible l\u2019Estaci\u00f3 Maragall/Els Quinze, l\u00ednies 4 i 5.", 
+        "total_comments": 8, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 6, 
+        "total_votes": 88, 
+        "url": "https://decidim.barcelona/pam/proposals/guinardo-fer-accessible-l-estacio-maragall-els-quinze-linies-4-i-5", 
+        "votable": null, 
+        "voted": null
+    }
+}

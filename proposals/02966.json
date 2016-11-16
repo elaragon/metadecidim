@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2966", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2966, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 4, 
+            "name": "Equitat de g\u00e8nere i diversitat sexual", 
+            "position": 4
+        }, 
+        "summary": "Elaborar un programa contra l\u2019educaci\u00f3 discriminat\u00f2ria en els \u00e0mbits sexual, de l\u2019homof\u00f2bia i de la transf\u00f2bia que inclogui el professorat, les AMPA i els t\u00e8cnics de les diverses administracions, en coordinaci\u00f3 amb la Regidoria de Cicle de la Vida, Feminismes i LGTBI.", 
+        "title": "Programes de coeducaci\u00f3, educaci\u00f3 no sexista i contra l\u2019homof\u00f2bia i la transf\u00f2bia a les escoles bressol i centres educatius del Districte.", 
+        "total_comments": 5, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 4, 
+        "total_positive_comments": 1, 
+        "total_votes": 29, 
+        "url": "https://decidim.barcelona/pam/proposals/programes-de-coeducacio-educacio-no-sexista-i-contra-l-homofobia-i-la-transfobia-a-les-escoles-bressol-i-centres-educatius-del-districte", 
+        "votable": null, 
+        "voted": null
+    }
+}

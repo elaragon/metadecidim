@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 13084, 
+            "name": "cbl", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 13084, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5652", 
+        "conflictive": false, 
+        "created_at": "17/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5652, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Les actuals parades del transport p\u00fablic al tram refolrmat de la Diagonal s\u00f3n un desastre, petites (estretes), inc\u00f2modes, amb els arbres pel mig, han eliminat tamb\u00e9 alguna parada i ara estan m\u00e9s separades. El carril bici \u00e9s correcte per\u00f2 si es treuen els cotxes del lateral es pot despla\u00e7ar una mica el carril bici per ampliar les parades.", 
+        "title": "Eliminar els cotxes del lateral de la Diagonal i millorar les parades del transport p\u00fablic", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 13, 
+        "url": "https://decidim.barcelona/pam/proposals/eliminar-els-cotxes-del-lateral-de-la-diagonal-i-millorar-les-parades-del-transport-public", 
+        "votable": null, 
+        "voted": null
+    }
+}

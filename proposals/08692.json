@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8692", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8692, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Ampliant el n\u00famero d\u2019espais infantils d\u2019atenci\u00f3 als 0-3 anys aix\u00ed com els serveis que ja estan provats i valorats com s\u00f3n els Espais Familiars i el Programa \u201cJa tenim un fill\u201d.", 
+        "title": "Diversificar l\u2019oferta educativa adre\u00e7ada a la petita inf\u00e0ncia ", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/diversificar-l-oferta-educativa-adrecada-a-la-petita-infancia-5b6a3a52-5dd0-488f-9b54-2dcacf4efaf9", 
+        "votable": null, 
+        "voted": null
+    }
+}

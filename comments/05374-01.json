@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6766, 
+                "name": "Jordi R.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Penso que passaria coma tants i tants llocs: ens gastar\u00edem una pasta en fet el pipican i despr\u00e9s tots els gossos estarien corrent per fora. Tot aix\u00f2 perqu\u00e8 la gu\u00e0rdia urbana no posa multes, perqu\u00e8 el pol\u00edtic de torn (del color que sigui) no li diu que les posi. I al final tot \u00e9s per un grapat de vots perqu\u00e8 \u00e9s un col\u00b7lectiu que , no s\u00e9 perqu\u00e8 , t\u00e9 molta for\u00e7a. Tant de bo fent un pipican s'acab\u00e9s el problema. A tot aix\u00f2 gossos perillosos sense lligar ni morri\u00f3, pudor de pixats arreu i vinga invertir diners de tots en netejar carrers , repintar fanals oxidats per la base...</p>", 
+            "commentable_id": 5374, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 19:07:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7277, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

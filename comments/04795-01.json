@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16420, 
+                "name": "shm4", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No \u00e9s estrany no tenir plaques amb el nom ja que tampoc tenim pla\u00e7a. \u00c9s un insult als ve\u00efns dir que s'ha fet una pla\u00e7a... on son els espais d'estada?</p>", 
+            "commentable_id": 4795, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 01:59:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8174, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "8174", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7440, 
+                "name": "Inma Vicente Molina", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00c9s cert que no \u00e9s massa ample, per\u00f2 hi ha un petit espai amb un parell de bancs. El que s\u00ed s'hauria d'ordenar i controlar \u00e9s l'espai als costats de l'ascensor del metro: sempre est\u00e0 ocupat amb motos i cotxes.</p>", 
+            "commentable_id": 4795, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 11:27:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8309, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

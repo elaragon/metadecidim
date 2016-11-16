@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7229, 
+                "name": "benua", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Les llambordes fan tota la personalitat de la pla\u00e7a Mons. Aprenem a condu\u00efr amb seny.\n<br />Recordem que entrem a una zona limitada a 30.</p>", 
+            "commentable_id": 6476, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 14:25:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7196, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/vallcarca-nou-model-urba\">https://decidim.barcelona/proposals/vallcarca-nou-model-urba</a></p>", 
+            "commentable_id": 6476, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 13:23:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14685, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "7196", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14777, 
+                "name": "Jordi Capilla", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Gr\u00e0cies per el comentari. Tota la personalitat que vulgui donar-li. Heu pensat a part en un grup de persones veines que circulen en cadira de rodes el\u00e8ctricas. Gr\u00e0cies per fer la ciutat de les persones.</p>", 
+            "commentable_id": 6476, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 15:24:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7206, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "7196/7206", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7229, 
+                "name": "benua", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Esperant que aquest projecte cumpli amb les problem\u00e0tiques de la pla\u00e7a:\n<br /><a href=\"https://decidim.barcelona/proposals/reurbanitzacio-placa-mons\">https://decidim.barcelona/proposals/reurbanitzacio-placa-mons</a>\n</p>", 
+            "commentable_id": 6476, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 09:01:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7325, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

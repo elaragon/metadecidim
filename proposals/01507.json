@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 369, 
+            "name": "Maclaren", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 369, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1507", 
+        "conflictive": false, 
+        "created_at": "05/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1507, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 20, 
+            "name": "Administraci\u00f3  intel\u00b7ligent i inclusiva", 
+            "position": 4
+        }, 
+        "summary": "Amb l'objectiu de millorar i estendre l\u00fas del programari, dintre i fora de l'estructura municipal, plataforma de consulta i suport on-line i telef\u00f2nic finan\u00e7ada en part per les trucades, i en part per les empreses del software, amb gesti\u00f3 municipal i treballadors del sector, especialment joves; parcialment deslocalitzada (des de domicilis).  ", 
+        "title": "Crear la Plataforma Municipal de suport a l'usuari d'inform\u00e0tica", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 11, 
+        "url": "https://decidim.barcelona/pam/proposals/crear-la-plataforma-municipal-de-suport-a-l-usuari-d-informatica", 
+        "votable": null, 
+        "voted": null
+    }
+}

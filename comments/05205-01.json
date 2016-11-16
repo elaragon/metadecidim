@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12179, 
+                "name": "suport.decidim1", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en la cita presencial: una altra economia \u00e9s possible als barris de La Marina i Poble Sec? \"Facilitar la creaci\u00f3 d\u2019empreses d\u2019economia social a partir de les experi\u00e8ncies existents a altres barris.\tRecon\u00e8ixer les iniciatives que ja existeixen als barris i  des d\u2019un coneixement m\u00e9s proper dels reptes i necessitats, cercar conjuntament les respostes i recursos adequats, per exemple amb un banc de microprojectes singulars\u201d.\t\n</p>", 
+            "commentable_id": 5205, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 10:57:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5197, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12179, 
+                "name": "suport.decidim1", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en la cita presencial: una altra economia \u00e9s possible als barris de La Marina i Poble Sec? \"\tFacilitar l\u2019acc\u00e9s a la formaci\u00f3 i vincular-la amb nous filons d\u2019ocupaci\u00f3, com l\u2019escola d\u2019oficis i escola d\u2019adults.\"</p>", 
+            "commentable_id": 5205, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 12:11:27", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5221, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

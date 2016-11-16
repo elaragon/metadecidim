@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12666, 
+                "name": "Llu\u00eds Rogent", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>S'hauira de potenciar els barris de ciutat Vella com a dest\u00ed de la ciutadania de Barcelona, no dels turistes. Actualment est\u00e0 massa saturat de turistes i la ess\u00e8ncia dels barris s'est\u00e0 perdent de forma dram\u00e0tica</p>", 
+            "commentable_id": 4403, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 18:42:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5101, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 2, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 96, 
+                "name": "Mart\u00ed", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aquesta proposta \u00e9s surrealista. El que s'hauria de fer \u00e9s justament el contrari, deixar de potenciar Ciutat Vella com a parc tem\u00e0tic i garantir els drets (sobretot a l'habitatge) dels ve\u00efns i ve\u00efnes que hi vivim.</p>", 
+            "commentable_id": 4403, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 13:11:13", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7170, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 238, 
+                "name": "MMS", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>M\u00e9s encara?? No cal.. destinem menys recursos al turisme que ja prou ens coneixen.</p>", 
+            "commentable_id": 4403, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/04/2016 11:53:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7707, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "5101", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14522, 
+                "name": "Imon Brull ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No tenim prou turistes ja?</p>", 
+            "commentable_id": 4403, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 22:25:21", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6215, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

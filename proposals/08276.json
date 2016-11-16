@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8276", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/meetings/escola-sant-ramon-nonat-una-barcelona-mes-humana-i-en-transicio-ecologica-4rt-eso-a", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8276, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Al debat que va tenir lloc a l\u2019Escola Sant Ram\u00f3n Nonat, els estudiants de 4rt ESO A van proposar ampliar el t\u00edtol de la T-12 fins als 18 anys, donat que la majoria de joves es mouen en transport p\u00fablic i encara no treballen. ", 
+        "title": "Targetes transport p\u00fablic: Allargar la T-12 fins la T-18", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 3, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/targetes-transport-public-allargar-la-t-12-fins-la-t-18", 
+        "votable": null, 
+        "voted": null
+    }
+}

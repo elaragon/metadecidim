@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10282, 
+            "name": "V\u00edctor GC", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 10282, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4306", 
+        "conflictive": false, 
+        "created_at": "08/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://www1.diba.cat/uliep/pdf/36525.pdf", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4306, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 18, 
+            "name": "Participaci\u00f3 ciutadana", 
+            "position": 2
+        }, 
+        "summary": "Decidim Barcelona hauria d'esdevenir un espai de proposici\u00f3 i decisi\u00f3 ciutadana amb consultes reals i en gran mesura vinculants. Les propostes que tinguessin un m\u00ednim recolzament p\u00fablic (un percentatge del cens actiu de la plataforma) haurien de sotmetre's a consulta ciutadana. S'agruparien en quatre jornades participatives l'any,  com a Su\u00efssa.", 
+        "title": "Transformar Decidim Barcelona en la plataforma municipal d'iniciatives populars fent que les propostes que rebin prou suport esdevinguin consultes ciutadanes", 
+        "total_comments": 12, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 4, 
+        "total_votes": 75, 
+        "url": "https://decidim.barcelona/pam/proposals/convertir-decidim-barcelona-en-la-plataforma-municipal-d-iniciatives-populars-fent-que-les-propostes-que-rebin-prou-suport-esdevinguin-consultes-ciutadanes", 
+        "votable": null, 
+        "voted": null
+    }
+}

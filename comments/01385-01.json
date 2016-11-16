@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 179, 
+                "name": "Susanna", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No hi estic d'acord. Com a vehicle tenim una normativa a seguir. Som un vehicle molt vulnerable i hem de ser concient que complir les normes ens protegeixen. De fet hauriem de ser m\u0117s curosos per no fomenrtar antipaties. Pel nostre b\u00e9 hem de respectar els sem\u00e5fors, passos de vianants, dirreccions i girs. No se que millora aquesta proposta. De fet crec que hauriem de comen\u00e7ar a generalitzar l'\u00fas del casc.</p>", 
+            "commentable_id": 1385, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/02/2016 20:06:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1355, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 22289, 
+                "name": "Castellarnau", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els ciclistes, quan circulen per la vorera, hi hagi o no carril bici, han de ser conscients que s\u00f3n a l'espai natural del vianant, i per tant no han d'esperar que sigui el vianant el que vigili, sin\u00f3 que han d'anticipar-se a qualsevol moviment dels vianants que puguin comportar una col\u00b7lisi\u00f3. Cosa que de moment, en la majoria de caos, no fan.</p>", 
+            "commentable_id": 1385, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 22:05:14", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11460, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 12038, 
+            "name": "elsoldaluz", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 12038, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7316", 
+        "conflictive": false, 
+        "created_at": "30/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7316, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Nomes hi ha 721 places per tota la ciutat, comptant amb les d'inserci\u00f3 social i les que serveixen directament a resid\u00e8ncies. Els CSMA nom\u00e9s acullen un 10% de l'elevat percenatge que acut als metges de fam\u00edlia i l'unica soluci\u00f3 peraquest,permanca de temps, \u00e9s la medicalitzaci\u00f3 massiva. \u00c9s un perill a llarg termini per la persona.", 
+        "title": "Crear centres de dia de salut mental municipals de salut mental que facilitin l'acc\u00e8s a psicoter\u00e0pies espec\u00edfiques a persones amb trastorn mental lleu", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 5, 
+        "url": "https://decidim.barcelona/pam/proposals/crear-centres-de-dia-de-salut-mental-municipals-de-salut-mental-que-facilitin-l-acces-a-psicoterapies-especifiques-a-persones-amb-trastorn-mental-lleu", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8726, 
+                "name": "TOM\u00c0S", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Amb el pla reforcem la democracia</p>", 
+            "commentable_id": 859, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/02/2016 16:31:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2842, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3827, 
+                "name": "suport decidim.barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "moderator", 
+                "verified_organization": null
+            }, 
+            "body": "<p>\"Fomentar l\u2019educaci\u00f3 que ensenya el respecte per a tothom, sense idees partidistes i discriminat\u00f2ries de cap concepte cap a la gent gran\"\n<br />Proposta debatuda en la cita presencial, Debat de les persones grans en el proc\u00e9s participatiu d\u2019elaboraci\u00f3 del PAM 2015 -2016 </p>", 
+            "commentable_id": 859, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 18:12:34", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5089, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10703, 
+                "name": "suport decidim.barcelona2", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda al Consell de Salut de Sants - Montjuic: \"Promoure el civisme de la gent, especialment els joves i els infants. Per exemple, promovent i mantenint els camins escolars existents (senyalitzaci\u00f3, xarxa de comer\u00e7os amics, etc.). Amb campanyes de sensibilitzaci\u00f3 c\u00edviques a les escoles. Promoci\u00f3 de les conductes i normes de conviv\u00e8ncia. Campanyes per l\u2019\u00fas responsables de la medicaci\u00f3, etc.</p>", 
+            "commentable_id": 859, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 10:23:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5186, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

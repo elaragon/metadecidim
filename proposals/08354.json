@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 18207, 
+            "name": "Rakel M. A", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 18207, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8354", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8354, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 6, 
+            "name": "Habitatge", 
+            "position": 6
+        }, 
+        "summary": "Equipament *Quir\u00f2. Admissi\u00f3 de mascotes en el nou equipament d'habitatges per la gent gran i jove. \u00c9s trist la idea de desfer-se del que para ells \u00e9s la seva fam\u00edlia (gos, gat, h\u00e0mster..etc) per l'ingr\u00e9s a una resid\u00e8ncia o habitatge p\u00fablic. Per aix\u00f2 demano l'admissi\u00f3 de mascotes en aquest futur projecte d'habitatges i espai. ", 
+        "title": "Futur Equipament Qur\u00f2.. Admisi\u00f3 d'animals de compa\u00f1\u00eda a les vivendes.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 7, 
+        "url": "https://decidim.barcelona/pam/proposals/futur-equipament-quro-admisio-d-animals-de-compania-a-les-vivendes", 
+        "votable": null, 
+        "voted": null
+    }
+}

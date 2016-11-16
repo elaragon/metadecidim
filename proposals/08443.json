@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 18052, 
+            "name": "Consell de la Joventut de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 18052, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8443", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8443, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 5, 
+            "name": "Cicles de vida ", 
+            "position": 5
+        }, 
+        "summary": "Mantenir les subvencions per a l'arranjament i l'adequaci\u00f3 de locals de Barcelona destinats a activitats d'educaci\u00f3 en el lleure\r\nAnalitzar i cercar solucions a la problem\u00e0tica d'espais que pateixen alguns agrupaments escoltes i centres d'esplai\r\n", 
+        "title": "Garantir que les entitats d'associacionisme educatiu puguin disposar d'un espai adequat a les seves necessitats", 
+        "total_comments": 5, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 4, 
+        "total_positive_comments": 1, 
+        "total_votes": 17, 
+        "url": "https://decidim.barcelona/pam/proposals/garantir-que-les-entitats-d-associacionisme-educatiu-puguin-disposar-d-un-espai-adequat-a-les-seves-necessitats", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2872", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2872, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Afrontar les desigualtats per ra\u00f3 de territori, g\u00e8nere, classe social, origen i orientaci\u00f3 sexual en la probabilitat de tenir bona salut, endegant accions sanit\u00e0ries i de salut p\u00fablica, i una estrat\u00e8gia transversal que defineixi noves accions de totes les \u00e0rees. L\u2019Observatori d'Impactes en Salut i Qualitat de Vida de les Pol\u00edtiques Municipals far\u00e0 el seguiment i avaluar\u00e0 els impactes d\u2019aquestes accions.", 
+        "title": "Pla d\u2019acci\u00f3 conjunta per a la reducci\u00f3 de desigualtats socials en salut", 
+        "total_comments": 11, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 4, 
+        "total_positive_comments": 7, 
+        "total_votes": 13, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-d-accio-conjunta-per-a-la-reduccio-de-desigualtats-socials-en-salut", 
+        "votable": null, 
+        "voted": null
+    }
+}

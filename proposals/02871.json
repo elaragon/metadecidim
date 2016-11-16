@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2871", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2871, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Conjunt de mesures per millorar la sanitat p\u00fablica a la ciutat, facilitar l\u2019acc\u00e9s a l\u2019empadronament i a la targeta sanit\u00e0ria a tota la poblaci\u00f3 resident, aturar les privatitzacions, posar fi a la prestaci\u00f3 de serveis p\u00fablics en centres privats lucratius, augmentar la transpar\u00e8ncia i la presa de decisi\u00f3 compartida en els \u00f2rgans de decisi\u00f3 sanit\u00e0ria, i prioritzar inversions en el Pla d'equipaments sanitaris 2016-2023.", 
+        "title": "Estrat\u00e8gia per garantir una sanitat p\u00fablica, universal i de qualitat", 
+        "total_comments": 63, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 54, 
+        "total_positive_comments": 9, 
+        "total_votes": 32, 
+        "url": "https://decidim.barcelona/pam/proposals/estrategia-per-garantir-una-sanitat-publica-universal-i-de-qualitat", 
+        "votable": null, 
+        "voted": null
+    }
+}

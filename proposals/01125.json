@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 164, 
+            "name": "J. Gabriel Gallart", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 164, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1125", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://abeljulien.blogspot.com.es/2015/04/com-no-ha-de-ser-una-caixa-niu-per.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1125, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "A la ciutat hi ha moltes esp\u00e8cies d'ocells. Una manera d'assegurar-ne la seva superviv\u00e8ncia \u00e9s la instal\u00b7laci\u00f3 de caixes niu, especialment per aus de petites dimensions: mallarengues, pit-roigs, gafarrons, tallarols, mosquiters... Aix\u00f2 ens asseguraria guanyar biodiversitat", 
+        "title": "Instal\u00b7lar als parcs de la ciutat caixes niu per ocells ", 
+        "total_comments": 5, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 4, 
+        "total_votes": 58, 
+        "url": "https://decidim.barcelona/pam/proposals/instal-lar-als-parcs-de-la-ciutat-caixes-niu-per-ocells", 
+        "votable": null, 
+        "voted": null
+    }
+}

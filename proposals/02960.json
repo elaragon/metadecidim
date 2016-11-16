@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 5, 
+            "name": "Just\u00edcia global"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2960", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2960, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 5, 
+            "id": 28, 
+            "name": "Just\u00edcia global", 
+            "position": 1
+        }, 
+        "summary": "Refor\u00e7ar la implicaci\u00f3 de Barcelona en la projecci\u00f3 internacional de la seva \u00e0rea metropolitana, des de la perspectiva de la seva responsabilitat en la posada en marxa de l\u2019Agenda 2030 per garantir entorns inclusius, segurs, resilients i sostenibles per a la seva ciutadania. Una aproximaci\u00f3 inclusiva a la consolidaci\u00f3 d\u2019\u00e0rees metropolitanes sostenibles nom\u00e9s \u00e9s possible compartint experi\u00e8ncies internacionals en pol\u00edtiques metropolitanes integrades d\u2019habitatge assequible, de promoci\u00f3 de serveis socials i culturals, de garantia d\u2019entorns saludables i d\u2019infraestructures que prioritzin poblacions vulnerables.", 
+        "title": "Enfortir la pol\u00edtica de cooperaci\u00f3 de tota la regi\u00f3 metropolitana de Barcelona", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 15, 
+        "url": "https://decidim.barcelona/pam/proposals/enfortir-la-politica-de-cooperacio-de-tota-la-regio-metropolitana-de-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

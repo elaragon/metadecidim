@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2886", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2886, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 21, 
+            "name": "Defensa i protecci\u00f3 dels Drets Humans", 
+            "position": 9
+        }, 
+        "summary": "Es donar\u00e0 suport t\u00e8cnic i organitzatiu a comunitats religioses que no es beneficien d\u2019acords amb l\u2019Estat espanyol per garantir la igualtat en l\u2019exercici del dret a la llibertat religiosa.", 
+        "title": "Promoci\u00f3 de l'Oficina d'Afers Religiosos i suport a les comunitats religioses que tenen menys recursos", 
+        "total_comments": 4, 
+        "total_negative_comments": 3, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 8, 
+        "url": "https://decidim.barcelona/pam/proposals/promocio-de-l-oficina-d-afers-religiosos-i-suport-a-les-comunitats-religioses-que-tenen-menys-recursos", 
+        "votable": null, 
+        "voted": null
+    }
+}

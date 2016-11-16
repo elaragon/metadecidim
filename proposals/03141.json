@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 6658, 
+            "name": "Angel H", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 6658, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3141", 
+        "conflictive": false, 
+        "created_at": "19/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3141, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Substituci\u00f3 progressiva de les bombetes actuals que donen una llum color taronja a la ciutat i un aspecte degradant per les noves LED amb m\u00e9s efici\u00e8ncia energetica amb una tonalitat blanca i natural deixant les antigues nom\u00e9s per il\u00b7luminar les vies r\u00e0pides (carrer Arag\u00f3, av.Meridiana, Granvia etc..) .\r\nEn especial pel meu barri Trinitat Nova.  ", 
+        "title": "Il\u00b7luminaci\u00f3 LED a tots els barris", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 17, 
+        "url": "https://decidim.barcelona/pam/proposals/il-luminacio-led-a-tots-els-barris", 
+        "votable": null, 
+        "voted": null
+    }
+}

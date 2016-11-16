@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4574, 
+            "name": "Associaci\u00f3 de Ve\u00efnes i Ve\u00efns de Can Bar\u00f3 ", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4574, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1718", 
+        "conflictive": false, 
+        "created_at": "10/02/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": ".  1.\tCasal Gent Gran p\u00fablic. 2.\tRefor\u00e7ament de l\u00ednees de Bus al Park G\u00fcell. 3.\tModificaci\u00f3 de tra\u00e7at del Bus de Barri 114. 4.\tPista de Skate 5.\tCentre de dia p\u00fablic de proximitat. 6.\tAparcament a Ramiro de Maeztu al barranc de Vista Park. Projecte aprovat. 7.\tEscola bressol. Es pot ubicar als terrenys del CEIP Pirineu. 8.\tPoliesportiu cobert a l'espai Industries Mu\u00f1oz. 9.\tReobrir el CEIP p\u00fablic Pirineu. 10.\tVolem en el barri Serveis Socials i atenci\u00f3 a les persones. 11.\tArranjament i adaptaci\u00f3 del Casal de Barri Pirineu. 12.\tAconseguir punts d'informaci\u00f3 ve\u00efnal al carrer.  13.\tM\u00e9s Gu\u00e0rdia de proximitat i m\u00e9s fermesa amb els temes de drogues i el vandalisme. 14.\tFer operatius els Consells de Barri si es segueixen fent.", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1718, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Equipaments i serveis per a les persones. Participaci\u00f3", 
+        "title": "Necessitats del barri CAN BAR\u00d3", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 16, 
+        "url": "https://decidim.barcelona/pam/proposals/necessitats-del-barri-can-baro", 
+        "votable": null, 
+        "voted": null
+    }
+}

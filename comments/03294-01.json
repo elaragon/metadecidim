@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12688, 
+                "name": "Jaume Mestres i Capitan", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Los manteros otro cancer de Barcelona, la soluci\u00f3n repatriarlos a sus pa\u00edses de origen </p>", 
+            "commentable_id": 3294, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 20:41:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5131, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>50 infants i adolescents han participat a la cita presencial que ha tingut lloc a la rambla de Santa M\u00f2nica. Aquests han fet diverses propostes per millorar aquest espai. Entre aquestes han proposat regular les condicions dels manters. </p>", 
+            "commentable_id": 3294, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 20:11:10", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12632, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

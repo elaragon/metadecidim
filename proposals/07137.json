@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7137", 
+        "conflictive": false, 
+        "created_at": "29/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 7137, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 18, 
+            "name": "Participaci\u00f3 ciutadana", 
+            "position": 2
+        }, 
+        "summary": "Es constata la dificultat en pensar indicadors de valoraci\u00f3 i impacte quan no es sap de quina manera un projecte transformar\u00e0 la realitat, ni cap a on. Es per aix\u00f2 que es prefereix poder explicar processos amb una descripci\u00f3 oberta, afavorint la narraci\u00f3 del context i la experi\u00e8ncia. I sobre tot tenir en compte que l\u2019error \u00e9s v\u00e0lid. ", 
+        "title": "Establir indicadors d\u2019avaluaci\u00f3 que ajudin a explicar els processos, no nom\u00e9s quantitatius justificatius de cara a l\u2019administraci\u00f3.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/establir-indicadors-d-avaluacio-que-ajudin-a-explicar-els-processos-no-nomes-quantitatius-justificatius-de-cara-a-l-administracio", 
+        "votable": null, 
+        "voted": null
+    }
+}

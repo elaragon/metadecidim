@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9674", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9674, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 4, 
+            "name": "Equitat de g\u00e8nere i diversitat sexual", 
+            "position": 4
+        }, 
+        "summary": "Donar aquest visibilitat des dels equipaments municipals que acullin entitats de proximitat als mateixos amb l\u2019objectiu de donar-les a con\u00e8ixer a les dones del barri. Fer-ho aix\u00ed en els diferents barris mostrant aix\u00ed el conjunt de totes les Entitats de dones presents al nostre territori. Possibilitat de fer-ho coincidir anualment amb el 8 de mar\u00e7. ", 
+        "title": "Proposta de convocat\u00f2ria d\u2019 un seguit de Jornades d\u2019Entitats de dones dels diferents barris presents en el Districte, com la Fira d\u2019Entitats.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/proposta-de-convocatoria-d-un-seguit-de-jornades-d-entitats-de-dones-dels-diferents-barris-presents-en-el-districte-com-la-fira-d-entitats", 
+        "votable": null, 
+        "voted": null
+    }
+}

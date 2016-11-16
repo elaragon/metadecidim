@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10721, 
+                "name": "Ravaletes", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aix\u00ed mateix, i dintre d'aquesta proposta s'hauria de revisar i controlar els baixos on es viu de manera fraudulenta i amb condicions infrahumanes i multa als propietaris i llogaters que rellogant els baixos per tal d'evitar aquests abusos </p>", 
+            "commentable_id": 2979, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 11:46:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4134, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 827, 
+                "name": "Marga", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es poden fer estudis senzills, per valorar quins negocis calen als barris per poder impulsar el comer\u00e7 de proximitat amb la maxima diversitat.\n</p>", 
+            "commentable_id": 2979, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 13:01:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6570, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

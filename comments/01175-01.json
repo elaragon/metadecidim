@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1244, 
+                "name": "pacobcn33", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Sin duda es una autopista dentro de la ciudad. Desde Fabra i Puig hasta el puente de sarajevo es una barrera que separa barrios enteros. Deberia ser cubierta o soterrada esa parte como minimo.</p>", 
+            "commentable_id": 1175, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 21:27:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 356, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2072, 
+                "name": "ekin", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No solo hasta el puente de Sarajevo, tambi\u00e9n hasta los barrios de Torre Baro, Vallbona y Ciutat meridiana, que hay llegado a quitar paso de peatones para ir  de Ciutat meridiana a Vallbona, eso si tenemos y carril Bus VAO muy ecol\u00f3gico, no pasa ni Cristo. </p>", 
+            "commentable_id": 1175, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 09:12:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 761, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5718, 
+                "name": "kerstin", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A m\u00e9s d'autopista urbana, \u00e9s una veritable barrera entre els barris o entre zones d'un mateix barri. Convertir-la en una rambla seria una manera de pacificar-la i humanitzar-la, i disminuiria la contaminaci\u00f3 de l'aire i ac\u00fastica.</p>", 
+            "commentable_id": 1175, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/02/2016 11:05:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1918, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9264, 
+                "name": "suportdecidim.santandreu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/mes-arbres-i-mes-coses-per-a-la-gent-gran-a-l-avinguda-meridiana\">https://decidim.barcelona/proposals/mes-arbres-i-mes-coses-per-a-la-gent-gran-a-l-avinguda-meridiana</a></p>", 
+            "commentable_id": 1175, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 10:11:55", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11585, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "356", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2072, 
+                "name": "ekin", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No solo hasta el puente de Sarajevo, tambi\u00e9n hasta los barrios de Torre Baro, Vallbona y Ciutat meridiana, que hay llegado a quitar paso de peatones para ir  de Ciutat meridiana a Vallbona, eso si tenemos y carril Bus VAO muy ecol\u00f3gico, no pasa ni Cristo. </p>", 
+            "commentable_id": 1175, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 09:12:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 760, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

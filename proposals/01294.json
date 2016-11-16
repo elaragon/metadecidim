@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1261, 
+            "name": "Daniel #NoalTTIP", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1261, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1294", 
+        "conflictive": false, 
+        "created_at": "02/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://16gadzooks.tumblr.com/image/138561636643", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1294, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Des de fa 3 o 4 anys un fong ha malm\u00e9s els cactus de aquests dos parcs, que jo s\u00e0piga, potser d'altres llocs, i la veritat \u00e9s que donen molta pena.  Encara que soc conscient de que hi ha problemes m\u00e9s importants a la ciutat i al m\u00f3n, passejar per aquests llocs emblematics rodejat de fauna malmesa no es gens reconfortant per l'esperit. Solucions!", 
+        "title": "Curar els cactus del Parc G\u00fcell i el Parc del Guinard\u00f3 (i potser m\u00e9s)", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 20, 
+        "url": "https://decidim.barcelona/pam/proposals/curar-els-cactus-del-parc-guell-i-el-parc-del-guinardo-i-potser-mes", 
+        "votable": null, 
+        "voted": null
+    }
+}

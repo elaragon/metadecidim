@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 792, 
+                "name": "Jordi Quintana", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>I evitar la derivaci\u00f3 d'atenci\u00f3 especialitzada a centres privats com el Sagrat Cor en oftalmologia, cirurgia, dermatologia, etc.</p>", 
+            "commentable_id": 2362, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/02/2016 17:35:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2585, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9161, 
+                "name": "TERESA MU\u00d1OZ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A favor,   posar serveis d'atenci\u00f3 sanit\u00e0ria , exemple meteges especialistes, per evitar despla\u00e7aments de les persones grans.  Donar espai a serveis comunitaris relacionats amb salut: aules d'educaci\u00f3 sanit\u00e0ria, ubicar hotel d'entitats, que estiguessin les associacions de malalts, per estar a prop de les persones i dels profesionals.</p>", 
+            "commentable_id": 2362, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 12:11:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6086, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15445, 
+                "name": "Mar\u00eda Jos\u00e9 vidal rivera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Solament son unes especialitats  com oftalmologia cirug\u00eda...las que es derivan la resta est\u00e1n a Manso i m,agradar\u00eda que els EAP de Manso fos sin els que tinguesin la opcio de mantenir el model actual o no .El tracte del pacient per els especialistes  yo Soc un d,els cobran o no de la Sanitat p\u00fablica es sempre sense distinci\u00f3...va ser la sanitat p\u00fablica la que ens va acomiadar despres de contractes interins...de setmanes..de dies ...i seguim cre\u00eden en una Sanitat igualitaria,eficaz,compasiva....</p>", 
+            "commentable_id": 2362, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 07:43:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6686, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

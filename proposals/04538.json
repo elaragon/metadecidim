@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10945, 
+            "name": "INSTITUT BARCELONA-CONGR\u00c9S", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 10945, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4538", 
+        "conflictive": false, 
+        "created_at": "09/03/2016", 
+        "district": {
+            "id": 8, 
+            "name": "Nou Barris"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4538, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Intervenci\u00f3 del CSMIJ (Centres de salut mental infantojuvenil) en els centres amb adscripci\u00f3 zonificada  amb un model d'atenci\u00f3 m\u00e9s directe i creaci\u00f3 d'una comissi\u00f3 de salut escolar en cada centre (semblant a la comissi\u00f3 social) amb un representant d'aquest servei.", 
+        "title": "Intervenci\u00f3 del CSMIJ  i adscripci\u00f3 zonificada en els centres educatius i creaci\u00f3 d'una comissi\u00f3 de salut escolar en cada centre amb un representant d'aquest servei", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 9, 
+        "url": "https://decidim.barcelona/pam/proposals/intervencio-del-csmij-i-adscripcio-zonificada-en-els-centres-educatius-i-creacio-d-una-comissio-de-salut-escolar-en-cada-centre-amb-un-representant-d-aquest-servei", 
+        "votable": null, 
+        "voted": null
+    }
+}

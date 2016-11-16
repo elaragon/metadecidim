@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2727, 
+            "name": "Miriam AT", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2727, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1525", 
+        "conflictive": false, 
+        "created_at": "06/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1525, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Embarassada de 8 mesos, una bici va sortir del carril bici, em va atropellar i de poc em mata. Crec que \u00e9s responsabilitat de l'Ajuntament fer complir uns m\u00ednims de seguretat vi\u00e0ria. Que un vehicle posi en perill la seguretat del vianant per la vorera, hauria de mirar-se m\u00e9s que posar multes a l'hora.Volem una ciutat per a la gent o per a vehicles?", 
+        "title": "No m\u00e9s atropellaments de bicicletes. Seguretat per al vianant en voreres ja!!", 
+        "total_comments": 12, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 6, 
+        "total_votes": 49, 
+        "url": "https://decidim.barcelona/pam/proposals/no-mes-atropellaments-de-bicicletes-seguretat-per-al-vianant-en-voreres-ja", 
+        "votable": null, 
+        "voted": null
+    }
+}

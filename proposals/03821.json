@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 276, 
+            "name": "Xavier Duacastilla Soler", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 276, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3821", 
+        "conflictive": false, 
+        "created_at": "03/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3821, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 18, 
+            "name": "Participaci\u00f3 ciutadana", 
+            "position": 2
+        }, 
+        "summary": "Volem mes representaci\u00f3 directa de les persones amb mobilitat redu\u00efda i/o diversitat funcional dins del Institut Municipal per a persones amb Discapacitat (IMD) per a poder participar en decisi\u00f3ns que ens pertoquen directament i no haver d'esperar a que les obres estiguin fetes i ja sigui massa tart com ha pas\u00e0t en metro que arriba a aeroport...", 
+        "title": "Participaci\u00f3 directa de les persones amb mobilitat redu\u00efda i/o diversitat funcional dins del IMD", 
+        "total_comments": 4, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 11, 
+        "url": "https://decidim.barcelona/pam/proposals/participacio-directa-de-les-persones-amb-mobilitat-reduida-i-o-diversitat-funcional-dins-del-imd", 
+        "votable": null, 
+        "voted": null
+    }
+}

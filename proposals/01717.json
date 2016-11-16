@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4574, 
+            "name": "Associaci\u00f3 de Ve\u00efnes i Ve\u00efns de Can Bar\u00f3 ", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4574, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1717", 
+        "conflictive": false, 
+        "created_at": "10/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": " 1.\tConcloure definitivament el plantejament urban\u00edstic i el projecte de parc mixta. 2.\tRecuperaci\u00f3 del poblat iber del Tur\u00f3 de la Rovira fent-lo accessible i did\u00e0ctic. 3.\tRe aprofitament de les aig\u00fces fre\u00e0tiques que recorren el Tur\u00f3 de la Rovira per l'auto abastiment de les especies vegetals i animals.. 4.\tArranjament de la Pedrera Petita. Pista d'eskate. Zona d'esbarjo per gossos.", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1717, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Concloure definitivament el plantejament urban\u00edstic i el projecte de parc mixta", 
+        "title": "Parc dels Tres Turons CAN BAR\u00d3", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 1, 
+        "total_votes": 7, 
+        "url": "https://decidim.barcelona/pam/proposals/parc-dels-tres-turons-can-baro", 
+        "votable": null, 
+        "voted": null
+    }
+}

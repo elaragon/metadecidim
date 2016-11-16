@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 579, 
+            "name": "Josep Mompin Poblet", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 579, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2671", 
+        "conflictive": false, 
+        "created_at": "15/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2671, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Que la desgraciada muerte de Muriel Casals, atropellada por un ciclista, sirva de revulsivo para que, de una vez por todas, se ponga freno a las bicis y patines que corren como locos por aceras, paseos y jardines, sorteando a viandantes y mascotas. Soy ciclista, pero hay que acabar con los inc\u00edvicos. La Av. Josep Tarradellas est\u00e1 llena de ellos.", 
+        "title": "PASEAR TRANQUILOS POR ACERAS, PASEOS Y PARQUES SIN BICIS NI PATINES", 
+        "total_comments": 13, 
+        "total_negative_comments": 7, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 4, 
+        "total_votes": 49, 
+        "url": "https://decidim.barcelona/pam/proposals/pasear-tranquilos-por-aceras-paseos-y-parques-sin-bicis-ni-patines", 
+        "votable": null, 
+        "voted": null
+    }
+}

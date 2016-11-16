@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2069, 
+            "name": "Pamiesp", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2069, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1439", 
+        "conflictive": false, 
+        "created_at": "04/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1439, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Els ciclistes sovint es queixen, i moltes vegades amb ra\u00f3, que no tenen els espais adients per la seva circulaci\u00f3, per\u00f2 tamb\u00e9 \u00e9s veritat que molt\u00edssims usuaris de la bicicleta no respecten gaireb\u00e9 mai les normes de conviv\u00e8ncia m\u00e9s elementals amb els vianant i cotxes. S'hauria de posar especial cura en controlar que aix\u00f2 no pass\u00e9s.", 
+        "title": "Controlar m\u00e9s i millor el tr\u00e0nsit de bicicletes", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 44, 
+        "url": "https://decidim.barcelona/pam/proposals/controlar-mes-i-millor-el-transit-de-bicicletes", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2562, 
+                "name": "rosajacobo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Bona tarda,</p>\n\n<p>Jo crec que aquesta proposta no \u00e9s gens procedent, Sants Montju\u00efc ja t\u00e9 7 escoles de m\u00fasica autoritzades per la Generalitat, entre elles una de superior, a part de moltes acad\u00e8mies i centres c\u00edvics que ofereixen classes.</p>\n\n<p>Que es gastin els diners de tots en edificar i mantenir una escola quan l'oferta ja \u00e9s tan \u00e0mplia no em sembla b\u00e9, seria millor invertir els diners que costaria el projecte en crear beques per poder estudiar a les escoles que ja existeixen al barri.\n</p>", 
+            "commentable_id": 1397, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 17:37:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 837, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 369, 
+                "name": "Maclaren", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si l'educaci\u00f3 es un servei p\u00fablic, els centres base han de ser p\u00fablics, i no lucrar els privats.</p>", 
+            "commentable_id": 1397, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 15:45:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 933, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7955, 
+                "name": "espernallac", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>a mi em sembla molt b\u00e9 la proposta. Altres barris poden gaudir d'escoles municipals amb gran \u00e8xit, i que a la vegada no comporten l'oblit dels centres privats o acad\u00e8mies. Al nostre districte seria un guany important que a m\u00e9s ajudaria a millorar el nivell d'educaci\u00f3 cultural de la poblaci\u00f3.</p>", 
+            "commentable_id": 1397, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 10:57:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7949, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/adquirir-o-adaptar-espais-per-l-esport-a-l-aire-lliure\">https://decidim.barcelona/proposals/adquirir-o-adaptar-espais-per-l-esport-a-l-aire-lliure</a></p>", 
+            "commentable_id": 222, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 11:13:58", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17803, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\n<a href=\"https://decidim.barcelona/proposals/itineraris-saludables-per-a-passejar-dins-l-eixample-6f647d99-483c-49fc-b212-0610886115d4\">https://decidim.barcelona/proposals/itineraris-saludables-per-a-passejar-dins-l-eixample-6f647d99-483c-49fc-b212-0610886115d4</a></p>", 
+            "commentable_id": 222, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 11:14:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17804, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/lavabos-i-arbres-a-l-escola-industrial-a-l-espai-on-les-persones-grans-juguen-a-la-petanca\">https://decidim.barcelona/proposals/lavabos-i-arbres-a-l-escola-industrial-a-l-espai-on-les-persones-grans-juguen-a-la-petanca</a></p>", 
+            "commentable_id": 222, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 11:14:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17805, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/espacio-deportivo-cubierto-en-antiguo-eixample\">https://decidim.barcelona/proposals/espacio-deportivo-cubierto-en-antiguo-eixample</a></p>", 
+            "commentable_id": 222, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 11:14:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17806, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17741, 
+                "name": "Suport General3 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/mobilitat-sostenible\">https://decidim.barcelona/proposals/mobilitat-sostenible</a></p>", 
+            "commentable_id": 262, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 14:57:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 18250, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17741, 
+                "name": "Suport General3 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/mobilitat-sostenible-bd75f75a-73a8-4678-bc6a-02c3ef7dbf6f\">https://decidim.barcelona/proposals/mobilitat-sostenible-bd75f75a-73a8-4678-bc6a-02c3ef7dbf6f</a></p>", 
+            "commentable_id": 262, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 14:58:10", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 18251, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17741, 
+                "name": "Suport General3 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/actuacions-en-l-ambit-de-la-mobilitat-sostenible-56ea59ae-1f2e-40f9-9126-f1c2c8afa514\">https://decidim.barcelona/proposals/actuacions-en-l-ambit-de-la-mobilitat-sostenible-56ea59ae-1f2e-40f9-9126-f1c2c8afa514</a></p>", 
+            "commentable_id": 262, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 14:59:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 18252, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 4, 
+        "next_page": null, 
+        "prev_page": 3, 
+        "total_count": 63, 
+        "total_pages": 4
+    }
+}

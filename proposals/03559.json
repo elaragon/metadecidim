@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8699, 
+            "name": "Silvi", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 8699, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3559", 
+        "conflictive": false, 
+        "created_at": "26/02/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3559, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 6, 
+            "name": "Habitatge", 
+            "position": 6
+        }, 
+        "summary": "Des de fa uns anys s'ha posat de moda el nostre barri i es imposible acc\u00e9sit a un pos de compra o lloguer,  i la gent del barri de tota la vida t\u00e9 que marxar fora.\r\n\r\nNo \u00e9s fan promocions d'habitatges i  les que es fan van entre 240 i 285.000\u20ac,  una vergonya que aix\u00f2 li diguin peu social. \r\nI d'aix\u00f2 es responsable qui ho permet l'Ajuntament de Bcn.", 
+        "title": "Impulsar la promoci\u00f3 d\u2019habitatge p\u00fablic al poblenou a preus asequibles.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 33, 
+        "url": "https://decidim.barcelona/pam/proposals/impulsar-la-promocio-d-habitatge-public-al-poblenou-a-preus-asequibles", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 512, 
+            "name": "Solidaritat Catalana per la Independ\u00e8ncia", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 512, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3596", 
+        "conflictive": false, 
+        "created_at": "28/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3596, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Per representar una dinastia,la borb\u00f2nica,que va atemptar contra els drets de Catalunya i que va abolir les seves institucions,que va perseguir el catal\u00e0 i que va ser reinstaurada pel dictador Franco reclamem que l'Ajuntament declari Felip VI persona *non grata* com a representant d'aquesta dinastia mon\u00e0rquica totalit\u00e0ria.", 
+        "title": "Felip VI,persona \"non grata\" a Barcelona.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 18, 
+        "url": "https://decidim.barcelona/pam/proposals/felip-vi-persona-non-grata-a-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1638, 
+                "name": "Marga Arregui", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Com a membre d'una entitat del cultura popular del Poble Sec i de la coord. d'entitats recolzo aquesta proposta per que fa molt de temps que no ens sentim prou recolzats.</p>", 
+            "commentable_id": 7813, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 16:27:55", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7435, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 18497, 
+                "name": "asociaci\u00f3n pluricultural Klokliklo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": false
+            }, 
+            "body": "<p>Como presidente de una asociaci\u00f3n cultural de Poble Sec, apoyo esta iniciativa, necesitamos este cambio </p>", 
+            "commentable_id": 7813, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 14:27:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8017, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "7435", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11749, 
+                "name": "sergio marcovich", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Yo tambi\u00e9n he firmado. No soy del barrio pero he le\u00eddo el manifiesto y conozco algunos de los locales, se que est\u00e1n haciendo un buen trabajo y ojal\u00e1 tengan futuro y respaldo legal. De paso, invito a firmar esta propuesta ( <a href=\"http://bit.ly/1Y6gRxi\">http://bit.ly/1Y6gRxi</a> ) que tiene el fin de ofrecerle m\u00e1s derechos y respaldo a las entidades culturales. Gracias....</p>", 
+            "commentable_id": 7813, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/04/2016 18:19:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7522, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

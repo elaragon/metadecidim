@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 216, 
+            "name": "Dani", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 216, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1118", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1118, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Posar fi a la discriminaci\u00f3 que sofrim els ve\u00efns del barri de La Marina respecte a el transport p\u00fablic i acabar, d'una vegada per totes, la L10 del Metro.  A m\u00e9s d'un benefici pels ve\u00efns, ho ser\u00e0 per la gran quantitat de treballadors que cada dia van al Pol\u00edgon de la Zona Franca", 
+        "title": "Acabar la L10 de Metro pels Barris de la Marina", 
+        "total_comments": 17, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 12, 
+        "total_positive_comments": 4, 
+        "total_votes": 302, 
+        "url": "https://decidim.barcelona/pam/proposals/acabar-la-l10-de-metro-pels-barris-de-la-marina", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2072, 
+                "name": "ekin", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Pero los n\u00fameros no hablan;   (Torre baro marquesinas nuevas en las paradas del autob\u00fas, pues esas marquesinas al ponerlas ya est\u00e1n vandalizadas, y el ayuntamiento las pones) ( frecuencia del metro L11  fin de semana   14 minutos todo el d\u00eda), y asi muchos ejemplos, y los n\u00fameros no hablan de esto.</p>", 
+            "commentable_id": 1367, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 12:33:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 601, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1401, 
+                "name": "Lena", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Sergio, entonces en que consiste es tu propuesta en concreto? Que harias?</p>", 
+            "commentable_id": 1367, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/02/2016 10:23:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1059, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1059", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2052, 
+                "name": "JordiBVG", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Muy f\u00e1cil, aumentar los impuestos a los ricos y revertirlos en los pobres</p>", 
+            "commentable_id": 1367, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/02/2016 17:15:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1948, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1059/1948", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16011, 
+                "name": "SilviaRC", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>claro, y la mitad de Barcelona trabajando para la otra mitad. Los ricos ya est\u00e1n pagando m\u00e1s impuestos que los pobres.  Un negocio en Eixample paga m\u00e1s impuestos que por ejemplo en Vallbona. Lo \u00fanico que consigues as\u00ed es que el dinero se vaya a otros sitios.</p>", 
+            "commentable_id": 1367, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 08:27:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6895, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

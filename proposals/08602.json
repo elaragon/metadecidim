@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8602", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8602, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 18, 
+            "name": "Participaci\u00f3 ciutadana", 
+            "position": 2
+        }, 
+        "summary": "Fer expl\u00edcit el Comprom\u00eds d\u2019acompanyament i retorn en els processos participatius que es promoguin. Tenir molt en compte com es desenvolupen els processos de participaci\u00f3 ciutadana i acompanyar a les persones i col\u2022lectius participants al llarg de tot el proc\u00e9s. Deixar clars els objectius i fer una devoluci\u00f3 dels resultats.", 
+        "title": "Comprom\u00eds d\u2019acompanyament i retorn en els processos participatius que es promoguin.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/compromis-d-acompanyament-i-retorn-en-els-processos-participatius-que-es-promoguin", 
+        "votable": null, 
+        "voted": null
+    }
+}

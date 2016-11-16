@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 588, 
+                "name": "dmendez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La mesura hauria d'impedir l'aparcament de motos a les voreres. Les voreres haurien de ser d'\u00fas exclusiu per als vianants i tenir vetat el seu \u00fas per part dels vehicles motoritzats. L'\u00fas d'aquest espai per part de les motocicletes, a part de reduir l'espai per al vianant i escopir fum a qui es troba assegut a un banc o terrassa, produeix situacions de risc en l'\u00fanic espai on el vianant hauria de poder caminar 100% segur.</p>", 
+            "commentable_id": 7673, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 23:16:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7310, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

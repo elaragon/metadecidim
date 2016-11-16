@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 250, 
+            "name": "Daniel LR", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 250, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1168", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1168, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "El barri del Poble Sec s'est\u00e0 convertint en un focus important d'oci nocturn, tant per a la gent local com per a turistes. En diverses ocasions aix\u00f2 comporta un nivell de soroll inacceptable. La gent es reuneix al parc davant del carrer Palaud\u00e0ries i Piquer i beuen i xerren en veu alta, entre les 23 i les 3h. Aquest fet s'est\u00e9n per la zona.", 
+        "title": "Incrementar la vigil\u00e0ncia nocturna al Passeig de Montju\u00efc", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 1, 
+        "total_votes": 44, 
+        "url": "https://decidim.barcelona/pam/proposals/incrementar-la-vigilancia-nocturna-al-passeig-de-montjuic", 
+        "votable": null, 
+        "voted": null
+    }
+}

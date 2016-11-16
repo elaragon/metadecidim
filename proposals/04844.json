@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 12145, 
+            "name": "miquel mart\u00ed", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 12145, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4844", 
+        "conflictive": false, 
+        "created_at": "14/03/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4844, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Totes les zones verdes de la ciutat son utilitzades per els gossos, fent maltb\u00e9 tota la gespa.\r\nA les senyals ning\u00fa els hi fa cas. Tots pagem la jardineria i la disfruten els gossos, no hi ha dret.\r\nCrec que els senyals tindrien que ser m\u00e9s evidents o reservar d'alguna manera els parterres.\r\nNo cal fer zones per els gossos, ja les tenen totes.", 
+        "title": "Educar els amos de gossos", 
+        "total_comments": 8, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 5, 
+        "total_positive_comments": 2, 
+        "total_votes": 23, 
+        "url": "https://decidim.barcelona/pam/proposals/educar-els-amos-de-gossos", 
+        "votable": null, 
+        "voted": null
+    }
+}

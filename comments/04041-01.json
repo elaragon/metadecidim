@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10493, 
+                "name": "Urkiux", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Especialment a moltes voreres estretes hi casos escandalosos a Barcelona. En aquests casos s'haurien prohibir totalment les terrasses. Volem les nostres voreres per caminar! </p>", 
+            "commentable_id": 4041, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/03/2016 21:18:26", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3687, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11105, 
+                "name": "Mendieta ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ser\u00eda interesante que los comercios tengan una tarifa de terrazas m\u00e1s alto y un aforo  limitado. La se\u00f1alizaci\u00f3n deber\u00eda estar acompa\u00f1ando las terrazas para dar facilidad al cliente al tomar su decisi\u00f3n. Tambi\u00e9n hacer que los establecimientos a cambio, tengan un plan de ambientaci\u00f3n de locales para que no se perjudiquen  por temas de: el clima, los olores, ventilaci\u00f3n, contaminaci\u00f3n, ergonom\u00eda, etc</p>", 
+            "commentable_id": 4041, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 13:03:47", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4156, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

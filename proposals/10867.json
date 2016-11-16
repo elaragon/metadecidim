@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10867", 
+        "conflictive": false, 
+        "created_at": "16/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/meetings/necessitat-de-les-associacions-de-persones-malaltes-i-familiars", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 10867, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Refor\u00e7ar a les entitats en el seu paper d\u2019acompanyament. Donar a con\u00e8ixer les entitats als serveis p\u00fablics, que els especialistes facin \u201cprescripci\u00f3\u201d social a les entitats (necessitat per manca de continu\u00eftat assistencial).", 
+        "title": "La Sanitat a Barcelona: Recon\u00e8ixer a les entitats de persones afectades i familiars.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/la-sanitat-a-barcelona-reconeixer-a-les-entitats-de-persones-afectades-i-familiars", 
+        "votable": null, 
+        "voted": null
+    }
+}

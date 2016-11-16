@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 13768, 
+            "name": "N\u00faria Oriol", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 13768, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5813", 
+        "conflictive": false, 
+        "created_at": "18/03/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "Escales autom\u00e0tiques carrer G\u00e8nova (\u00faltim tram)", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5813, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Hi ha molts ve\u00efns i ve\u00efnes , grans, petits, velletes i vellets, mares i pares amb cotxets i gent amb mobilitat redu\u00efda, que despr\u00e9s de pujat tot el carrer G\u00e8nova , han de pujar les escales per accedir els n\u00fameros del 30 cap endevant. Moltes vegades vec un senyor gran amb parkinson que em fa patir que algun dia caigui escales avall.", 
+        "title": "Escales autom\u00e0tiques a l'\u00faltim tram del carrer G\u00e8nova on ara hi ha escales normals.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 13, 
+        "url": "https://decidim.barcelona/pam/proposals/escales-automatiques-a-l-ultim-tram-del-carrer-genova-on-ara-hi-ha-escales-normals", 
+        "votable": null, 
+        "voted": null
+    }
+}

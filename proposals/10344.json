@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 22682, 
+            "name": "nudactivitat", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 22682, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10344", 
+        "conflictive": false, 
+        "created_at": "09/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://sites.google.com/site/addancom/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 10344, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "L'associaci\u00f3 ADDAN proposa que desaparegui la platja \"nudista\", perqu\u00e8 \u00e9s una discriminaci\u00f3 que prohibeix de mantenir la nuesa a la resta del litoral. La nuesa \u00e9s l'estat natural de les persones, ni una acci\u00f3 ni una conducta. All\u00f2 que realment \u00e9s un acte o una conducta \u00e9s cobrir el cos. Com a Matar\u00f3 volem totes les platges realment lliures.", 
+        "title": "No volem platges (guetos) per discriminar ning\u00fa per ra\u00f3 de sexe, ra\u00e7a o convicci\u00f3, com passa amb la \"nudista\" de la Mar Bella.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/no-volem-platges-guetos-per-discriminar-ningu-per-rao-de-sexe-raca-o-conviccio-com-passa-amb-la-nudista-de-la-mar-bella", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17073, 
+                "name": "Rosa Ramos", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>I encara \u00e9s molt pitjor a partir dels 50. Som invisibles per a les empreses.   Estem preparats, tenim experi\u00e8ncia i sabem i podem treballar. Per qu\u00e8 ning\u00fa ens d\u00f3na l'oportunitat de demostrar que som competents i que podem aportar i sumar?   L'oferta p\u00fablica hauria de fer discriminaci\u00f3 positiva i destinar places per les persones d'aquest perfil.</p>", 
+            "commentable_id": 7808, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/04/2016 13:27:37", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7510, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

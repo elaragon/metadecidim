@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8665, 
+                "name": "Joan Mandret", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Sento dir-ho per\u00f2 el mercat com a tal ja no \u00e9s l'equipament que busca l'habitant de Barcelona. Es busquen grans supermercats amb facilitats d'aparcament,  que incorporin guarderies de curta estada gratu\u00eftes (model IKEA). Trobo els mercats uns espais entranyables per\u00f2 no adequats a les necessitats actuals.</p>", 
+            "commentable_id": 2757, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 16:49:30", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5584, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "5584", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8427, 
+                "name": "Gustavo Mart\u00edn", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No estic d'acord. Jo vivia abans aprop del mercat de Sarri\u00e0 i ara que visc a Vallcarca el trobo a faltar. Recol\u00e7o la petici\u00f3.</p>", 
+            "commentable_id": 2757, 
+            "commentable_type": "Proposal", 
+            "created_at": "20/03/2016 23:21:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6034, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "5584", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15729, 
+                "name": "fplana2016", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tampoc estic d'acord. El model \"ikea\" \u00e9s un model pensat per habitants dels afores amb un \u00fas intensiu del vehicle privat. El barcelon\u00ed de barri necessita un entorn de proximitat on realitzar les compres de primera necessitat. en particular, el d\u00e9ficit de comer\u00e7 a Vallcarca i el Coll \u00e9s vergony\u00f3s. Anar a un model de gran centre comercial \u00e9s perdre la nostra identitat.</p>", 
+            "commentable_id": 2757, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 15:36:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6792, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

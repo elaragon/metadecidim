@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10904", 
+        "conflictive": false, 
+        "created_at": "20/04/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/meetings/com-creem-salut-als-barris-per-reduir-desigualtats", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 10904, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Facilitar l'adaptaci\u00f3 dels programes al territori i als joves, en tots els \u00e0mbits: sexualitat, consum, activitat f\u00edsica; Treballar per incorporar-ho al Curr\u00edculum escolar; Tamb\u00e9 destinat a les fam\u00edlies i que tots els nens i nens tinguin dret a aquests Programes de Salut creant una assignatura sobre Salut i Mediambient.", 
+        "title": "Jornada Creem salut per reduir desigualtats: Incrementar la cobertura dels Programes de Promoci\u00f3 de la Salut a l'Escola.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/jornada-creem-salut-per-reduir-desigualtats-incrementar-la-cobertura-dels-programes-de-promocio-de-la-salut-a-l-escola", 
+        "votable": null, 
+        "voted": null
+    }
+}

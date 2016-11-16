@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 18052, 
+            "name": "Consell de la Joventut de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 18052, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8435", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8435, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Foment de la formaci\u00f3 des de l\u2019ASPB a professionals de l\u2019\u00e0mbit de la medicina, especialment a aquells que treballen entorn de l\u2019ASSiR en temes LGBTI, perspectiva de g\u00e8nere, diversitat sexual Mantenir i ampliar els serveis especialitzats d'atenci\u00f3 dels i les joves tenint en compte perspectiva de g\u00e8nere, diversitat sexual i de g\u00e8nere dins dels CAPs. ", 
+        "title": "Vetllar per l'exist\u00e8ncia d'uns serveis p\u00fablics de qualitat i amb serveis espec\u00edfics per a la gent jove, incorporant una perspectiva de g\u00e8nere i de respecte a la diversitat afectivosexual, tant als centres d'atenci\u00f3 prim\u00e0ria com als centres educatius", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 18, 
+        "url": "https://decidim.barcelona/pam/proposals/vetllar-per-l-existencia-d-uns-serveis-publics-de-qualitat-i-amb-serveis-especifics-per-a-la-gent-jove-incorporant-una-perspectiva-de-genere-i-de-respecte-a-la-diversitat-efectivosexual-tant-als-centres-d-atencio-primaria-com-als-centres-educatius", 
+        "votable": null, 
+        "voted": null
+    }
+}

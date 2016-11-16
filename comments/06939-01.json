@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 827, 
+                "name": "Marga", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Any rera any vaig veient com es van plantant un munt de flors, com es reformen els espais verds i al cap de quatre dies all\u00f2 ja no es pot aguantar perqu\u00e8 posen plantes de temporada, o plantes inadequades pel rec que tenen, etc. \u00c9s vergony\u00f3s que estem financiant la ineptitud del responsable de torn. Segur que hi ha gent molt preparada que pot fer una tria pertinent i de facil manteniment. Podem tenir una Barcelona verda i bonica sense llen\u00e7ar els diners.</p>", 
+            "commentable_id": 6939, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 20:02:21", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6649, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

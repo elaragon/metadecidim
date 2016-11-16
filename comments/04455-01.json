@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15325, 
+                "name": "Alfons66", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Un cop el CAP estigui en funcionament, caldr\u00e0 un bus de barri adequat perqu\u00e8 les persones amb limitacions de mobilitat puguin arribar-hi o puguin tornar a casa. \u00c9s un aspecte a tenir en compte en els futurs plans de mobilitat de la zona.</p>", 
+            "commentable_id": 4455, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/03/2016 21:07:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6525, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

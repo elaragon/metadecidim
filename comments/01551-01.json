@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 627, 
+                "name": "Pep Dom\u00e8nech Codina", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A\u00f1adiendo a esto propuestas teatrales y musicales de alta cualidad.  Barcelona como referente para el turismo cultural</p>", 
+            "commentable_id": 1551, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 23:00:34", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1009, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1401, 
+                "name": "Lena", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No creo que atraer m\u00e1s turismo sea bueno para la ciudadania de Barcelona. Puedes explicar m\u00e1s en detalle tu propuesta de cambiar el turismo? En que sentido? \n<br />Eso s\u00ed - se agradecer\u00eda museos gratis para habitantes de Catalunya, especialmente de zonas rurales.</p>", 
+            "commentable_id": 1551, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/02/2016 07:54:13", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1027, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1027", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2881, 
+                "name": "Stephane Neckebrock", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tienes raz\u00f3n en el sentido de que no debe ser un proyecto en prioridad para los turistas sino para nosotros los habitantes de Barcelona. \u00bfPor qu\u00e9 tener que viajar a Par\u00eds o Madrid para ver grandes exposiciones? Y es verdad que vale para el teatro como lo comenta Pep. Tengo la sensaci\u00f3n de que Catalunya mira mucho para dentro y ha dejado su ambici\u00f3n de ser un referente internacional. A elegir creo que es mejor desarrollar el turismo cultural que el turismo de despedidas de soltero. </p>", 
+            "commentable_id": 1551, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 14:46:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5244, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

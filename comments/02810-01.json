@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4873, 
+                "name": "Carlota Gim\u00e9nez i Compte", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El grup d'estudis EL POU v\u00e0rem lliurar a la regidora un preprojecte desenvolupant els arguments i la forma com es pot salvar un element patrimonial i donar-li un \u00fas cultural. Seria tamb\u00e9 una manera de canalitzar tothom que vol visitar espais dels nostres barris. Creiem que caldria donar viabilitat a aquesta idea perqu\u00e8 l'edifici cada cop est\u00e0 m\u00e9s precari.  </p>", 
+            "commentable_id": 2810, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/02/2016 14:02:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2076, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

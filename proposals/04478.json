@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 11167, 
+            "name": "AitorG", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 11167, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4478", 
+        "conflictive": false, 
+        "created_at": "09/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4478, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Els habitants de Barcelona coneixen nombroses ciutats del m\u00f3n per\u00f2 tenen problemes per con\u00e8ixer la seva pr\u00f2pia. Els preus dels principals monuments i museus de la ciutat fan prohibitiu l'acc\u00e9s. Exemples en s\u00f3n Museu Picasso, Sagrada Fam\u00edlia, Casa Batll\u00f3, etc. Penso que seria adient que els habitants empadronats a la ciutat tinguessin acc\u00e9s gratu\u00eft.", 
+        "title": "Museus gratu\u00efts pels ciutadans de Barcelona", 
+        "total_comments": 6, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 6, 
+        "total_votes": 113, 
+        "url": "https://decidim.barcelona/pam/proposals/museus-gratuits-pels-ciutadans-de-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9105", 
+        "conflictive": false, 
+        "created_at": "07/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9105, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Modificar el t\u00edtol de l'\u00e0mbit del PAM i substituir-lo per  \u201cL'Autonomia personal i reconeixement de la tasca de cura\u201d, eliminant  doncs el component assistencial i/o de caire m\u00e9s de salut que despr\u00e8n l'expressi\u00f3 recollida a la proposta actual del PAM \u201creconeixement de les cures\u201d.", 
+        "title": "Modificar el t\u00edtol de l'\u00e0mbit del PAM i substituir-lo per  \u201cL'Autonomia personal i reconeixement de la tasca de cura\u201d ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/modificar-el-titol-de-l-ambit-del-pam-i-substituir-lo-per-l-autonomia-personal-i-reconeixement-de-la-tasca-de-cura", 
+        "votable": null, 
+        "voted": null
+    }
+}

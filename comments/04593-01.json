@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3827, 
+                "name": "suport decidim.barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "moderator", 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en la cita presencial, Debat de les persones grans en el proc\u00e9s participatiu d\u2019elaboraci\u00f3 del PAM 2015 -2016 : \"Respecte el Servei d\u2019Ajuda a Domicili i els recursos que contribueixen a millorar la vida quotidiana de les persones grans cal promoure programes per millorar la situaci\u00f3 de incontin\u00e8ncia urin\u00e0ria, informant a la poblaci\u00f3 afectada i formant els professionals.\"</p>", 
+            "commentable_id": 4593, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 18:04:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5088, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

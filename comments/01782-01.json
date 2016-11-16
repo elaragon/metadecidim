@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4971, 
+                "name": "ECOM", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": true
+            }, 
+            "body": "<p>Us expliquem,m\u00e9s \u00e0mpliament,la nostra proposta:\n<br />- Impulsar la formaci\u00f3 en vida independent en els professionals sociosanitaris i dels serveis socials.Formar als professionals de l\u2019Ajuntament que intervenen en el disseny, gesti\u00f3, realitzaci\u00f3, informaci\u00f3 i suport de les activitats culturals, recreatives, esportives i d'oci sobre les caracter\u00edstiques i sistemes d'accessibilitat de les persones amb discapacitat.\n<br />- Incrementar el pressupost destinat al servei municipal d\u2019auxiliars de vestidors en els poliesportius municipals i exportar aquest servei als centres esportius privats de la ciutat.Insistim en la import\u00e0ncia que els t\u00e8cnics esportius estiguin degudament formats en mat\u00e8ria de discapacitat i promoguin la inclusi\u00f3 en totes les activitats esportives de la ciutat.  </p>", 
+            "commentable_id": 1782, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 11:02:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7344, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4971, 
+                "name": "ECOM", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": true
+            }, 
+            "body": "<p>-\tDefensar uns Serveis Socials B\u00e0sics que s\u2019adaptin a les caracter\u00edstiques i necessitats de les persones, \u00e9s a dir, que promocionin un model d\u2019atenci\u00f3 centrat en la persona. \n<br />-\t Els Serveis Socials B\u00e0sics han de garantir una atenci\u00f3 individualitzada i uns serveis dissenyats basats en el suport que cada persona precisa i, tenint en compte, la promoci\u00f3 de l\u2019autodeterminaci\u00f3, l\u2019autonomia personal i la inclusi\u00f3 social. </p>", 
+            "commentable_id": 1782, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 11:03:13", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7345, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

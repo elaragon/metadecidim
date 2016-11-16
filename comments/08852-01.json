@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 23150, 
+                "name": "Roprima", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Potser seria interessant que en temporada baixa (desembre-mar\u00e7) en la qual hi ha menys aflu\u00e8ncia de turistes, hi hagu\u00e9s m\u00e9s iniciatives amb gratu\u00eftat a alguns monuments de la ciutat. D'aquesta manera, se'n beneficiarien sobretot els barcelonins. </p>", 
+            "commentable_id": 8852, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 22:46:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12726, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

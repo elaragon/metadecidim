@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5414, 
+                "name": "Quim Sans ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Crec que el lloc hauria de ser m\u00e9s d'acord amb el que a la Muriel li hauria agradat. No crec que ara mateix la pla\u00e7a d'Espanya sigui el millor. Potser  un col\u00b7lectiu format pels qui m\u00e9s la coneixen podria proposar mitja dotzena de llocs, que despr\u00e9s es poguessin votar pels ciutadans. </p>", 
+            "commentable_id": 2653, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 09:32:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1803, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 1, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2052, 
+                "name": "JordiBVG", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Crec que per donar nom a un carrer o pla\u00e7a cal haver fet quelcom m\u00e9s per la humanitat en general ( amb tots els respectes per M.C.)</p>", 
+            "commentable_id": 2653, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/02/2016 17:09:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1945, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 5, 
+            "total_votes": 5
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 20100, 
+                "name": "Jota Ese", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ja hi ha massa carrers / places / etc dedicats a gent amb el principal \"m\u00e8rit\" (i aix\u00f2 \u00e9s m\u00e9s aviat un dem\u00e8rit) de ser nacionalistes. Probablement, na Muriel Casals tingu\u00e9s molts altres m\u00e8rits (cordialitat, cultura, etc.) per\u00f2 no s\u00f3n aquests als que deu la seva rellev\u00e0ncia p\u00fablica (malauradament).</p>", 
+            "commentable_id": 2653, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 13:20:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9291, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1945", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 608, 
+                "name": "Sideroploide", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Pot ser que tinguis ra\u00f3. A nou barris tenim el carrer de l'Esquirol volador, el carrer del castor i la rambla del ca\u00e7ador personatges molt nostrats  que com tothom sap han fet molt per la humanitat. </p>", 
+            "commentable_id": 2653, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/02/2016 17:30:34", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1950, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1945/1950", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2052, 
+                "name": "JordiBVG", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>S\u00ed, per\u00f2 jo m'estic referint al cas especial en qu\u00e8 es posen noms de persones, no pas d'altres coses. Segueixo pensant que perqu\u00e8 alg\u00fa es mereixi l'honor de donar nom a un carrer ha d'haver fet quelcom m\u00e9s rellevant pel conjunt de la societat</p>", 
+            "commentable_id": 2653, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/02/2016 08:26:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1977, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 4, 
+            "total_votes": 4
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

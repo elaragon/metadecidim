@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 19468, 
+                "name": "Jordi Gasc\u00f3n", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No nom\u00e9s en els plecs de contractes d'externalitzaci\u00f3, per\u00f2 tamb\u00e9 en els de compra de serveis (hoteleria, restauraci\u00f3, transport) per part de l'Ajuntament i empreses p\u00fabliques municipals.</p>", 
+            "commentable_id": 8837, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 18:04:20", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8790, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

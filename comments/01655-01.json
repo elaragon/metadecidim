@@ -1,0 +1,242 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 79, 
+                "name": "Andreu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hores on \u00e9s viable: de 3 a 5 de la matinada. Cal tenir en compte que quan el gos puja al bus pot ser que estigui bastant buit, per\u00f2 dues parades m\u00e9s enll\u00e0 es pot omplir. Els busos s\u00f3n massa petits </p>", 
+            "commentable_id": 1655, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/02/2016 14:38:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1297, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4750, 
+                "name": "iglous", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>no</p>", 
+            "commentable_id": 1655, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/02/2016 20:04:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1577, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5480, 
+                "name": "Emil\u00eda Escuder", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>al bus es poden dur mascotes sempre que hi vagin en un transportin. no es adient per a animals mes grans , ja que l'espai es reduit. \n</p>", 
+            "commentable_id": 1655, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 16:02:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1860, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 581, 
+                "name": "CarmeG", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A favor!</p>", 
+            "commentable_id": 1655, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/02/2016 17:39:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2586, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1644, 
+                "name": "Mike", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si costa viatjar quan hi ha algu amb una maleta, carro o bicicleta i gairebe no hi ha espai imagineu un ser viu. Prou d'humanitzar als animals. Que puguin viatjar si, pero amb el seu transportin o gavia.</p>", 
+            "commentable_id": 1655, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 02:33:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5387, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11366, 
+                "name": "Eula", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aviat haurem de marxar de Barcelona per a poder deixar pas als turistes i als gossos\n</p>", 
+            "commentable_id": 1655, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/04/2016 00:01:31", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7487, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 613, 
+                "name": "Josep M Armengou", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No ho veig viable mentre la ciutat sigui tan compacta i congestinada en tot.</p>", 
+            "commentable_id": 1655, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 13:45:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9373, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 7, 
+        "total_pages": 1
+    }
+}

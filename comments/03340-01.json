@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8721, 
+                "name": "Laura Alvarez Soro", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Crec que \u00e9s important escoltar les veus de les fam\u00edlies i dels docents en aquest tema. Les coses que funcionen no s'han de canviar a pitjor, sin\u00f3 millorar-les!!</p>", 
+            "commentable_id": 3340, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/02/2016 16:38:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2843, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

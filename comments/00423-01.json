@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15307, 
+                "name": "Pere Cowley", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La Clota \u00e9s un espai d'un gran valor hist\u00f2ric, paisatg\u00edstic i natural: les masies, els horts, els torrents. Opino que la intervenci\u00f3 a la Clota hauria de ser m\u00ednima, evitant urbanitzar l'espai i convertir-lo en un parc m\u00e9s de la ciutat, sin\u00f3 respectar la seva fesomia actual. Les casetes i els horts de la Riera d'en Marcel\u00b7l\u00ed es van enderrocar fa uns anys, a desgrat de molts dels seus ve\u00efns. \u00c9s una ll\u00e0stima. Trobo que \u00e9s un mal comen\u00e7ament per a un espai que es mereix el m\u00e0xim respecte com a darrer vestigi i entorn rural dins Barcelona. </p>", 
+            "commentable_id": 423, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/03/2016 17:13:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6507, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": true, 
+                "hidden": false, 
+                "id": 15635, 
+                "name": null, 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No es van enderrocar totes les cases, hi ha una que ara est\u00e0 okupada per gent de l'Est d'Europa i no paren d'amuntegar coses que arrepleguen de les escombraries. \n<br />A una altra que van enderrocar un grup d'okupes han establert un Campament on sembla que hi viuen i fan fogueres per les nits.\n<br />Voldria que es constru\u00eds un espai verd on puguem disfrutar tots.</p>", 
+            "commentable_id": 423, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 11:57:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6708, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "6507", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 18589, 
+                "name": "Isaac82", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord. </p>", 
+            "commentable_id": 423, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 17:06:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8082, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

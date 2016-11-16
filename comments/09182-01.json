@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 18130, 
+                "name": "bc", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Encara hem de posar-ne m\u00e8s? En tot cas treure'n!</p>", 
+            "commentable_id": 9182, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 13:39:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9357, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15752, 
+                "name": "PabloMartin", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\nSens dubte s\u00f3n moltes les persones que opinen, igual que jo, que la Fam\u00edlia Reial Espanyola ha de tenir una major pres\u00e8ncia en el nomencl\u00e0tor de Barcelona, per aix\u00f2 sol\u00b7licite que tant Sa Majestat el Rei, com la Reina, i les Infantes, tinguin una carrer, pla\u00e7a, i / o avinguda amb el seu nom.\n</p>", 
+            "commentable_id": 9182, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 14:24:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9471, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 1, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "9357", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15752, 
+                "name": "PabloMartin", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\nSens dubte s\u00f3n moltes les persones que opinen, igual que jo, que la Fam\u00edlia Reial Espanyola ha de tenir una major pres\u00e8ncia en el nomencl\u00e0tor de Barcelona, per aix\u00f2 sol\u00b7licite que tant Sa Majestat el Rei, com la Reina, i les Infantes, tinguin una carrer, pla\u00e7a, i / o avinguda amb el seu nom.\n</p>", 
+            "commentable_id": 9182, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 14:24:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9472, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 1, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "9357/9472", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 18130, 
+                "name": "bc", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Jo no opino igual ho sento, no puc compartir estar ha favor d'una monarquia quan molts paisos de la UE  ja no en tenen. Aqui fan nosa, sense ofendre pero es la veritat no hem de pagar-lis mes diners per mantenir-los, dediquem tamb\u00e8 un carrer a l'infanta Cristina? I\u00f1aki Urdangarin? Joan Carles I ? home ja est\u00e0 be la broma no? cada mes a saber el que cobren per\u00f2 jo si es votes ha favor ho no, jo voto un NO rotund. </p>", 
+            "commentable_id": 9182, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 16:02:34", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9577, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "9357/9472/9577", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15752, 
+                "name": "PabloMartin", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La Monarquia est\u00e0 donant estabilitat a tots aquests pa\u00efsos als quals vost\u00e8 fa refer\u00e8ncia, igual que ho fa a Espanya. En aquests moments, la Monarquia espanyola est\u00e0 donant suport i serveix de suport a Espanya i als espanyols. En resposta a la seva pregunta dir-li que el pressupost de la Casa Reial va ser en l'exercici 2015 de 7.775.040 euros, estant totes les seves despeses clarament detallats i sent aquestes p\u00fabliques.\n<br /> </p>", 
+            "commentable_id": 9182, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 13:48:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10851, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

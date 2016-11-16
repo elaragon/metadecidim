@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3827, 
+                "name": "suport decidim.barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "moderator", 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en la cita presencial, Debat de les persones grans en el proc\u00e9s participatiu d\u2019elaboraci\u00f3 del PAM 2015 -2016 : \"Fomentar activitats i espais intergeneracionals, on les persones grans puguin interactuar amb gent de diferents edats (per exemple primera inf\u00e0ncia per\u00f2 no nom\u00e9s) Convertir els Casals de la Gent Gran en Centres oberts al barri i on hi puguin anar persones de totes les edats. Promoure les relacions intergeneracionals en els Casals. S\u2019han de realitzar activitats adaptades per\u00f2 molt diverses que puguin interessar a p\u00fablics diferents: classes d\u2019idiomes, cultura general, noves tecnologies, etc.\"</p>", 
+            "commentable_id": 460, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 13:29:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5503, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

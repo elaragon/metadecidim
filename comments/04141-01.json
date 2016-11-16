@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11749, 
+                "name": "sergio marcovich", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hola, tambi\u00e9n hay otra petici\u00f3n a favor de los eventos en peque\u00f1os locales y asociaciones culturales.\n<br />Aqu\u00ed va el link;\n<br /><a href=\"http://bit.ly/1UwW6Lz\">http://bit.ly/1UwW6Lz</a></p>\n\n<p>Saludos</p>", 
+            "commentable_id": 4141, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 13:10:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10722, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

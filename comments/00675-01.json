@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5046, 
+                "name": "Eva C-V Tremosa", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ja n`hi ha de redactats i premiats.\n<br /><a href=\"http://www.labase.info/wp-content/uploads/2015/07/PROTOCOL-AGRESSIONS-FM15-1.pdf\">http://www.labase.info/wp-content/uploads/2015/07/PROTOCOL-AGRESSIONS-FM15-1.pdf</a>\n<br /><a href=\"https://directa.cat/actualitat/diversos-collectius-de-barri-posen-en-practica-un-protocol-contra-agressions-sexistes\">https://directa.cat/actualitat/diversos-collectius-de-barri-posen-en-practica-un-protocol-contra-agressions-sexistes</a>\n<br /><a href=\"https://bancexpropiatgracia.files.wordpress.com/2015/08/protocol_agressions_fm15.pdf\">https://bancexpropiatgracia.files.wordpress.com/2015/08/protocol_agressions_fm15.pdf</a></p>", 
+            "commentable_id": 675, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/04/2016 13:32:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7593, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

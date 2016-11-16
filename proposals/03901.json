@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10313, 
+            "name": "quim", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 10313, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3901", 
+        "conflictive": false, 
+        "created_at": "04/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://youtu.be/Cc-oVXnlcS0", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3901, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 17, 
+            "name": "Energia i canvi clim\u00e0tic", 
+            "position": 5
+        }, 
+        "summary": "Que es prohibeixin els vols dels avions Chemtrails,les fumicacions i la Geoingenieria clim\u00e0tica per part del ajuntament de Barcelona.\r\nQue l'ajuntament de Barcelona es manifesti totalment en contra de les fumigacions sobre la poblaci\u00f3,els seus ciutadans i en contra  del Programa de Modificaci\u00f3 Clim\u00e0tica dels EEUU i  l'OTAN", 
+        "title": "Prou  de Chemtrails en el  cel de Barcelona-Stop Geoingenieria clim\u00e0tica", 
+        "total_comments": 6, 
+        "total_negative_comments": 5, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/prou-dels-vols-de-chemtrails-al-cel-de-barcelona-stop-geoingenieria-climastica", 
+        "votable": null, 
+        "voted": null
+    }
+}

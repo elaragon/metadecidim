@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 18627, 
+            "name": "fonso_guti", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 18627, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8480", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8480, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "A dia d'avui, la regulaci\u00f3 dels sem\u00e0fors permet veure aut\u00e8ntiques carreres de velocitat urbanes a qualsevol hora del dia o de la nit. Es tracta d'un tram amb una escola bressol, dos parcs infantils i la cru\u00eflla amb l'Avinguda de Roma, que pret\u00e9n \u00e9sser una zona de passeig. No t\u00e9 gaire sentit...", 
+        "title": "Redu\u00efr la velocitat (regulaci\u00f3 dels sem\u00e0fors) al Carrer Val\u00e8ncia entre Viladomat i Urgell", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/reduir-la-velocitat-regulacio-dels-semafors-al-carrer-valencia-entre-viladomat-i-urgell", 
+        "votable": null, 
+        "voted": null
+    }
+}

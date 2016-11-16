@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 15599, 
+            "name": "Paseante", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 15599, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-7923", 
+        "conflictive": false, 
+        "created_at": "02/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7923, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "El MODELO tendr\u00e1 como objetivo mantener la felicidad natural de los primeros a\u00f1os del ni\u00f1o, bas\u00e1ndose en el Informe Delors: aprender a Conocer, a Hacer, a vivir con los dem\u00e1s y a Ser. El Ayuntamiento contratar\u00e1 al Equipo Directivo que se encargar\u00e1 de seleccionar al resto del profesorado. Familias voluntarias. EVALUACI\u00d3N independiente vinculante.", 
+        "title": "Una Escuela para experimentar un nuevo Modelo Educativo para todo el periodo escolar", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/una-escuela-para-experimentar-un-nuevo-modelo-educativo-para-todo-el-periodo-escolar", 
+        "votable": null, 
+        "voted": null
+    }
+}

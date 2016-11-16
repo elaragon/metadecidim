@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3106", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3106, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Promoure i donar suport a l\u2019accessibilitat f\u00edsica, visual i auditiva, buscant garantir l\u2019acc\u00e9s, la utilitzaci\u00f3 i la participaci\u00f3 a totes les persones en condicions de m\u00e0xima autonomia i igualtat, habilitant l\u2019espai urb\u00e0, els edificis, els equipaments i les instal\u00b7lacions p\u00fabliques o de concurr\u00e8ncia p\u00fablica. Impulsar la subtitulaci\u00f3 d\u2019actes, l\u2019audiodescripci\u00f3, els programes en braille i les visites t\u00e0ctils.", 
+        "title": "Accessibilitat f\u00edsica i comunicativa dels equipaments p\u00fablics", 
+        "total_comments": 13, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 13, 
+        "total_positive_comments": 0, 
+        "total_votes": 18, 
+        "url": "https://decidim.barcelona/pam/proposals/accessibilitat-fisica-i-comunicativa-dels-equipaments-publics", 
+        "votable": null, 
+        "voted": null
+    }
+}

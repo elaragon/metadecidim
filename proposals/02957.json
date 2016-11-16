@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 5, 
+            "name": "Just\u00edcia global"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2957", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2957, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 5, 
+            "id": 28, 
+            "name": "Just\u00edcia global", 
+            "position": 1
+        }, 
+        "summary": "El Pla d\u2019acci\u00f3 exterior assenyalar\u00e0 les l\u00ednies directrius de la pol\u00edtica exterior de la ciutat en totes les seves dimensions (governan\u00e7a, relacions amb altres ciutats internacionals, xarxes internacionals, relacions econ\u00f2miques, cultura, cooperaci\u00f3, etc\u00e8tera). Es tracta d\u2019un instrument de definici\u00f3 i planificaci\u00f3 de la pol\u00edtica p\u00fablica de just\u00edcia global, que vetlli especialment per la coher\u00e8ncia de l\u2019acci\u00f3 exterior del Govern municipal.", 
+        "title": "Desenvolupar un pla d'acci\u00f3 exterior i just\u00edcia global 2016-2020", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 12, 
+        "url": "https://decidim.barcelona/pam/proposals/desenvolupar-un-pla-d-accio-exterior-i-justicia-global-2016-2020", 
+        "votable": null, 
+        "voted": null
+    }
+}

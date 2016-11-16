@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 9025, 
+            "name": "Jos\u00e9", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 9025, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3592", 
+        "conflictive": false, 
+        "created_at": "27/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.parainmigrantes.info/puedo-inscribirme-como-pareja-de-hecho-en-barcelona-262/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3592, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 8, 
+            "name": "Migraci\u00f3, interculturalitat i discriminaci\u00f3 zero", 
+            "position": 8
+        }, 
+        "summary": "Facilitar constituci\u00f3 parelles de fet i expedici\u00f3 de certificat oficial (imprescindible per avalar arrelament per vincles familiars quan una de les dues persones no t\u00e9 perm\u00eds de resid\u00e8ncia, sobretot quan acta notarial no t\u00e9 validesa en aquest \u00e0mbit), tal com fa Cerdanyola del Vall\u00e9s, Santa Coloma de Gramanet ... Per qu\u00e8 a Barcelona no tenim dret?", 
+        "title": "reobrir el Registre de Parelles de Fet de Barcelona (tancat per l'anterior consistori)", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 15, 
+        "url": "https://decidim.barcelona/pam/proposals/reobrir-el-registre-de-parelles-de-fet-de-barcelona-tancat-per-l-anterior-consistori", 
+        "votable": null, 
+        "voted": null
+    }
+}

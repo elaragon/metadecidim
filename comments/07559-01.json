@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 22267, 
+                "name": "mariajoms", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Los ciudadanos de todas las principales ciudades tur\u00b4siticas del mundo -aqu\u00ed en Europa Par\u00eds, Londres, Roma, Viena, Venecia... sufren sin remedio la \"invasi\u00f3n\" de sus ciudades, la masificaci\u00f3n y los inconvenientes de ver su ciudad colapsada y su vida cotidiana afectada por el alto n\u00famero de visitantes. Pero el impacto positivo del turismo bien organizado en la econom\u00eda local es tal (empresas locales de transporte, gu\u00edas profesionales, hoteles, restaut\u00a1rantes, museos, comercios, empresas locales de ocio... e impuestos tur\u00edsticos que benefician a todos los ciudadanos), que no deja lugar a dudas sobre sus beneficios para cualquier ciudad. Imaginemos una Barcelona sin turistas por un mes. \u00bfCu\u00e1ntas familias de aqu\u00ed iban a ver seriamente afectada su econom\u00eda? \u00bfNecesitamos m\u00e1s paro?</p>", 
+            "commentable_id": 7559, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 22:59:31", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11500, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 22267, 
+                "name": "mariajoms", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p> \u00bfY ... es justo y hospitalario poner mala cara al turista cuando en nuestras pr\u00f3ximas vacaciones planeamos ir a Florencia, Par\u00eds, NY o a Amsterdam?</p>", 
+            "commentable_id": 7559, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 23:02:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11504, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

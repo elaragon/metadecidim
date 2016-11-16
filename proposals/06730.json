@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 14985, 
+            "name": "V\u00edctor Dieste", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 14985, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6730", 
+        "conflictive": false, 
+        "created_at": "24/03/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6730, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 13, 
+            "name": "Turisme sostenible", 
+            "position": 5
+        }, 
+        "summary": "Per fer m\u00e9s fluid el flux de turistes que visiten cada dia la Sagrada Fam\u00edlia i que es traslladen des de on aparquen els autocars (prop de la Diagonal) fins al temple. Ajudaria a que els ve\u00efns que cada dia travessem el carrer Marina en aquest tram no ens trob\u00e9ssim amb riuades de turistes. Deixaria tamb\u00e9 un carril per a transport p\u00fablic (V-21)", 
+        "title": "Fer peatonal el carrer Marina entre Diagonal i Proven\u00e7a (Sagrada Fam\u00edlia)", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 5, 
+        "url": "https://decidim.barcelona/pam/proposals/fer-peatonal-el-carrer-marina-entre-diagonal-i-provenca-sagrada-familia", 
+        "votable": null, 
+        "voted": null
+    }
+}

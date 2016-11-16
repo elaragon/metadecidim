@@ -1,0 +1,242 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": true, 
+                "hidden": false, 
+                "id": 5080, 
+                "name": null, 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Jo considero que la vorera es pot compartir o que es faci un carril bici, i aix\u00ed no hi hauran poblemes</p>", 
+            "commentable_id": 2540, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/02/2016 18:02:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1644, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 1, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5357, 
+                "name": "daviduriarte ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Las bicicletas son el medio de transporte m\u00e1s ecol\u00f3gico y se deber\u00edan de potenciar su uso, incluso por las aceras (cuando no haya carril bici) siempre con respeto s los viandantes.</p>", 
+            "commentable_id": 2540, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/02/2016 18:55:55", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1773, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2692, 
+                "name": "pomesfi", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En alguns carrers, on no hi ha carril bici, no hi ha m\u00e9s remei que anar per la vorera. </p>", 
+            "commentable_id": 2540, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/02/2016 21:44:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1778, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3070, 
+                "name": "albert", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El problema no \u00e9s la bicicleta a la vorera si no com hi vas. Jo no estic disposat a jugar-me la vida havent d'anar per un tr\u00e0fic brutal de conductors su\u00efcides i a m\u00e9s haver de tragar-me tota la pol\u00b7luci\u00f3 que produeixen. S\u00ed que cal limitar la velocitat de les bicicletes en vorera. El que importa no \u00e9s el mitj\u00e0 de transport que utilitzes, m\u00e9s aviat com el fas anar. Ampliem carrils bicicleta i tots contents.</p>", 
+            "commentable_id": 2540, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/02/2016 23:13:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1789, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 579, 
+                "name": "Josep Mompin Poblet", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>S\u00ed, hay que poner freno a los ciclistas y monopatines que circulan por aceras y paseos a toda velocidad, sorteando viandantes y mascotas atadas. El triste accidente de Muriel Casals se puede producir cualquier otro d\u00eda. En Av.J.Tarradellas hay 2 carril bici, y pasan por el paseo central constantemente.\n</p>", 
+            "commentable_id": 2540, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 11:21:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1819, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11117, 
+                "name": "paramo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>ciclisme amb civisme i seny. Gr\u00e0cies</p>", 
+            "commentable_id": 2540, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 13:01:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4802, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8923, 
+                "name": "b.carreras", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Motos pel carril bici no.</p>", 
+            "commentable_id": 2540, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 23:00:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5695, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 7, 
+        "total_pages": 1
+    }
+}

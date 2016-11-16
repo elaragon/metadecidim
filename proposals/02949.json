@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2949", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2949, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Millorar la vialitat i els espais p\u00fablics del pol\u00edgon, millorar la senyalitzaci\u00f3 i la dotaci\u00f3 de serveis urbans, aix\u00ed com la recuperaci\u00f3 de les naus en des\u00fas per impulsar-hi el manteniment de l'activitat industrial, afavorint la producci\u00f3 de b\u00e9ns industrials de proximitat i les activitats industrials vinculades a la innovaci\u00f3, formaci\u00f3 i millora del metabolisme urb\u00e0. Coordinar-se amb les PIME, l\u2019Economia Cooperativa, Social i Solid\u00e0ria i petits emprenedors per dinamitzar-ne l\u2019activitat.", 
+        "title": "Recuperaci\u00f3 de teixit industrial (Torrent Estadella / Verneda Industrial)", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 13, 
+        "url": "https://decidim.barcelona/pam/proposals/recuperacio-de-teixit-industrial-torrent-estadella-verneda-industrial", 
+        "votable": null, 
+        "voted": null
+    }
+}

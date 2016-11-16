@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 613, 
+                "name": "Josep M Armengou", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Em sembla una proposta justa. Els carrers del barri s\u00f3n utilitzats per a molt aparcament innecessari, i sovint tot el cap de setmana. L'\u00e0rea verda que se sol.licita, i que entenc que hauria de ser present a tota la ciutat, \u00e9s un element dissuassori b\u00e0sic de l'excessiva pres\u00e8ncia de cotxes a la ciutat. Menys contaminaci\u00f3 i m\u00e9s salut.</p>", 
+            "commentable_id": 5193, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 00:03:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5166, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5159, 
+                "name": "lucinio", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En Nou Barris diria que no existe ninguna zona verde,  azul si.  Zona verde en toda Barcelona,  porque acaban desplazando el problema</p>", 
+            "commentable_id": 5193, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 09:42:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5180, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "5180", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 613, 
+                "name": "Josep M Armengou", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aquesta \u00e9s la q\u00fcesti\u00f3, Licinio. Es centriguga cap als barris perif\u00e8rics el problema de l'aparcament urb\u00e0, que seria molt menor si hi hagu\u00e9s zones de pagament a tot arreu, perqu\u00e8 el transpot p\u00fablic intern de Barcelona \u00e9s excel.lent, i m\u00e9s que millorar\u00e0 encara amb l'L10 i el TRAMDIAGONAL. Les males comunicacions nom\u00e9s s\u00f3n amb alguns llocs de fora de la ciutat. Al voltant dels nuclis metropolitans de bones comunicacions (a les ciutats litorals i del Bes\u00f2s), de L'Hospitalet i ciutats del TRAMBAIX, Cornell\u00e0, el Prat, Sant Cugat, Rub\u00ed, Terrassa, Sabadell,....\u00e9s on s'ha de pensar a implenmentar-hi alguns aparcaments dissuassoris. Reducci\u00f3 dr\u00e0stica dels cotxes i increment dels busos de connexi\u00f3.</p>", 
+            "commentable_id": 5193, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 13:29:58", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5231, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

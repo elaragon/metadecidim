@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9259, 
+                "name": "suport decidim.salut", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda a la cita presencial: Com millorar la salut de les persones en situaci\u00f3 de pobresa\n<br />\u2022\tDetecci\u00f3 preco\u00e7 de la pobresa (actuar abans).</p>", 
+            "commentable_id": 7551, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 19:21:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7449, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

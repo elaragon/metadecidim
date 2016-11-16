@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 33, 
+                "name": "jt", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ser\u00eda bueno, un sistema donde l@s ciudadanos puedan realizar preguntas a los distintos responsables del ayuntamiento y que los mismos usuarios pudieran filtrarlas directamente para que las m\u00e1s votadas fueran respondidas por los distintos responsables. </p>", 
+            "commentable_id": 1017, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/02/2016 11:53:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 122, 
+                "name": "xabier", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Deber\u00edamos de exigir que tanto el personal t\u00e9cnico del ayuntamiento como los cargos pol\u00edticos (u otros grupos municipales de la oposici\u00f3n) entraran a la plataforma para responder a los comentarios, objeciones y propuestas mejor valoradas por la ciudadan\u00eda.</p>", 
+            "commentable_id": 1017, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/02/2016 18:09:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1553, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "14", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 122, 
+                "name": "xabier", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Esta misma plataforma puede utilizarse para eso (en <a href=\"http://decide.madrid.es\">http://decide.madrid.es</a> tienen activada esta funcionalidad de hacer preguntas a cargos del ayuntamiento).</p>", 
+            "commentable_id": 1017, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/02/2016 18:08:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1551, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 16909, 
+            "name": "Alian\u00e7a contra la Pobresa Energ\u00e8tica", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 16909, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-7878", 
+        "conflictive": false, 
+        "created_at": "01/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://pobresaenergetica.es/principis/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7878, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 1, 
+            "name": "Just\u00edcia social", 
+            "position": 1
+        }, 
+        "summary": "Que inclogui: informaci\u00f3 completa dels drets de l'usuari, no tall, aplicaci\u00f3 del principi de precauci\u00f3, condonaci\u00f3 del deute il\u00b7leg\u00edtim acumulat, sistema tarifaria justa en les families en risc d'exclusi\u00f3 residencial sense superar el 10% dels seus ingressos, regularitzaci\u00f3 dels serveis sense contracte.", 
+        "title": "Signar un conveni amb les empreses subministradores de la ciutat de Barcelona", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 19, 
+        "url": "https://decidim.barcelona/pam/proposals/signar-un-conveni-amb-les-empreses-subministradores-de-la-ciutat-de-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

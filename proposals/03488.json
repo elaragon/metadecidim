@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8133, 
+            "name": "Associaci\u00f3 de Ve\u00efns i Ve\u00efnes Joan Maragall Guinard\u00f3", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 8133, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3488", 
+        "conflictive": false, 
+        "created_at": "25/02/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3488, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Desenvolupar l\u2019actual modificaci\u00f3 del PGM per preservar el gran parc urb\u00e0 compacte per poder gaudir d\u2019un veritable pulm\u00f3 per a la ciutat. Aix\u00f2 no pot ser compatible amb habitatges dispersos amb l\u2019obligaci\u00f3 de bastir-los de tots els serveis de ciutat. ", 
+        "title": "GUINARD\u00d3 \u2013 Els Tres Turons com a parc urb\u00e0 compacte.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 47, 
+        "url": "https://decidim.barcelona/pam/proposals/guinardo-els-tres-turons-com-a-parc-urba-compacte", 
+        "votable": null, 
+        "voted": null
+    }
+}

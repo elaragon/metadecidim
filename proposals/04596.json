@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 11236, 
+            "name": "Toni Caparr\u00f3s", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 11236, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4596", 
+        "conflictive": false, 
+        "created_at": "10/03/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "https://elnoiroig.files.wordpress.com/2015/02/ajuntament-twitter.png", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4596, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "La restauraci\u00f3 \u00e9s un negoci necessari, per\u00f2 que no ha de minimitzar la resta. Els habitants necessitem terrasses, per\u00f2 tamb\u00e9 botigues de queviures, farm\u00e0cies, ferreteries, o similars. \r\nEls nous mobiliaris per fomentar l'\u00fas exterior tot l'any ocupen espai p\u00fablic i  dificulten l'exist\u00e8ncia d'eixos comercials. \r\n", 
+        "title": "Que les terrasses no ocupin >25% de la superf\u00edcie del carrer.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 23, 
+        "url": "https://decidim.barcelona/pam/proposals/que-les-terrasses-no-ocupin-25-de-la-superficie-de", 
+        "votable": null, 
+        "voted": null
+    }
+}

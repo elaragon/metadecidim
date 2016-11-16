@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4124, 
+                "name": "Cristina Llorente Alcayna", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>M\u00e9s manteniment i neteja de la pla\u00e7a. M\u00e9s control aviari i can\u00ed. Vigil\u00e1ncia i sancionar a qui deixi menjar coloms i no reculli necessitats fisiol\u00f2giques dels gossos. </p>", 
+            "commentable_id": 8361, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 18:04:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8098, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 19036, 
+                "name": "MontserratBC", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>S\u00f3c mare de dos nens que sovint van a la pl. Palmeres en sortir de l\u2019escola. Crec que \u00e9s un error posar un pipican al costat d\u2019una \u00e0rea infantil, la pudor \u00e9s insuportable i s\u2019agreuja quan arriba el bon temps.</p>", 
+            "commentable_id": 8361, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 10:54:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8283, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

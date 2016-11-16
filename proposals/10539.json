@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10539", 
+        "conflictive": false, 
+        "created_at": "09/04/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 10539, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Fer una passejada per al Districte conjunta col\u00b7lectius amb diversitat funcional del districte, amb les autoritats del districte. Impulsar una taula de treball/comissi\u00f3 permanent de treball conjunt per establir els punts d\u2019acci\u00f3 i millora, treballar en el seu compliment de manera integral, i fer arribar a l\u2019ajuntament les problem\u00e0tiques sorgides.", 
+        "title": "Passejada conjunta dels col\u00b7lectius amb diversitat funcional del districte, amb les autoritats del districte (pol\u00edtics, gerents) i impulsar una taula conjunta de treball. ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/passejada-conjunta-dels-col-lectius-amb-diversitat-funcional-del-districte-amb-les-autoritats-del-districte-politics-gerents-i-impulsar-una-taula-conjunta-de-treball", 
+        "votable": null, 
+        "voted": null
+    }
+}

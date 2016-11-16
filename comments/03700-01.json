@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 827, 
+                "name": "Marga", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es pot aprofitar la Rambla Badal, Brasil.. per acondicionar espais de joc pels infants, pipicans, espai per skaters,... Es un espai molt desaprofitat. Per\u00f2 cal que el projecte surti al barri abans d'aprovar-ho, actualment els espais que es dissenyen son petits en referencia als espais on s'ubica, per exemple Can Mantega o Pla\u00e7a de Sants, la part destinada als nens petits, que s\u00f3n els m\u00e9s usuaris, \u00e9s ridicul.</p>", 
+            "commentable_id": 3700, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 16:01:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6587, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/rehabilitacio-del-teixit-urba\">https://decidim.barcelona/proposals/rehabilitacio-del-teixit-urba</a></p>", 
+            "commentable_id": 3700, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 12:57:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 18140, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

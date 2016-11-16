@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4873, 
+                "name": "Carlota Gim\u00e9nez i Compte", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A part d'arranjar urban\u00edsticament aquesta zona caldria tenir en compte que es podrien deixar alguns elements que recordessin que va ser un torrent i que t\u00e9 un top\u00f2nim antiqu\u00edssim per a la hist\u00f2ria del Guinard\u00f3.</p>", 
+            "commentable_id": 418, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/02/2016 19:35:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1572, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6920, 
+                "name": "Noidelguinard\u00f3", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>S'ha de prioritzar l'arranjament d'aquest carrer, per aix\u00ed comen\u00e7ar a dignificar la part baixa del barri. La millora en la qualitat de vida i en la convivencia entre ve\u00efns ser\u00e1 enorme.</p>", 
+            "commentable_id": 418, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 13:59:56", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6125, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

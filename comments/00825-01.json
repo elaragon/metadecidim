@@ -1,0 +1,209 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1136, 
+                "name": "Manuel Alvarez Sol", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els plans de mobilitat han de tenir en comte la mobilitat dels veins (i no nom\u00e9s la dels treballadors dels pol\u00edgon o els clients del centre comercial).</p>", 
+            "commentable_id": 825, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 19:33:34", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 336, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1916, 
+                "name": "ILF", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tamb\u00e9 tenir en compte els embussos als carrers del voltant del Centee Comercial La Maquinista i el bloqueig de les sortides de la Ronda de Dalt. Aix\u00f2 causa que el ve\u00efns no poguem entrar a casa nostra cada cap de setmana, per Nadal, rebaixes, Black Friday, Ciber Monday, etc, etc...</p>", 
+            "commentable_id": 825, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/02/2016 23:54:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 527, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/plan-de-movilidad-para-zona-maquinista-sant-andreu-b-pastor\">https://decidim.barcelona/proposals/plan-de-movilidad-para-zona-maquinista-sant-andreu-b-pastor</a></p>", 
+            "commentable_id": 825, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 13:10:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 16982, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/pla-de-mobilitat-sotenible-i-participatiu-per-al-poligon-industrial-del-bon-pastor\">https://decidim.barcelona/proposals/pla-de-mobilitat-sotenible-i-participatiu-per-al-poligon-industrial-del-bon-pastor</a></p>", 
+            "commentable_id": 825, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 13:10:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 16984, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/estudi-mobilitat-a-l-estacio-d-alta-velocitat-de-la-sagrera-i-entorn\">https://decidim.barcelona/proposals/estudi-mobilitat-a-l-estacio-d-alta-velocitat-de-la-sagrera-i-entorn</a></p>", 
+            "commentable_id": 825, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 13:10:21", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 16985, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/estudiar-la-mobilitat-del-barri-de-sant-andreu-en-la-seva-globalitat\">https://decidim.barcelona/proposals/estudiar-la-mobilitat-del-barri-de-sant-andreu-en-la-seva-globalitat</a></p>", 
+            "commentable_id": 825, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 13:10:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 16986, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 6, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 22322, 
+                "name": "amparin", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord. A ronda universitat tenim soroll, contaminaci\u00f3, cues de gent bloquejant el carrer, dif\u00edcil poder descarregar, timbres sonors de maniobres constants... fins a 10 busos seguits i incl\u00fas dobles files. Cal una soluci\u00f3 urgent pel descans dels ve\u00efns. Viure al centre s'est\u00e0 convertint en un mal son. Tot esperant que no s'obrin m\u00e9s restaurants ni hotels a l'illa per tal de que encara no s'agreuji m\u00e9s el problema. Hi ha propostes semblants amb aquesta idea, caldria que decidim.barcelona ho tingu\u00e9s en compte i sumar els vots i comentaris.</p>", 
+            "commentable_id": 1185, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 22:17:58", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11473, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/impuls-d-un-espai-public-que-prioritzi-la-vida-quotidiana\">https://decidim.barcelona/proposals/impuls-d-un-espai-public-que-prioritzi-la-vida-quotidiana</a></p>", 
+            "commentable_id": 1185, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/04/2016 18:36:10", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 13228, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "11473", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11929, 
+                "name": "Jcomilles", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>S'ha d'aprofitar la remodelaci\u00f3 d'aquestes grans vies (rda,universitat, pelai, Balmes, etc...) per descongestionar el centre de Barcelona. \n<br />\u00c9s una oportunitat d'or per replantejar de cap a peus, tota aquesta zona a favor dels vianants i no permetre o restringir enormement el pas dels cotxes. \n<br />Endavant!\n<br /> </p>", 
+            "commentable_id": 1185, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/04/2016 13:59:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12801, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

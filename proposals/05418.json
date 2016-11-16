@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 13161, 
+            "name": "Cistus", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 13161, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5418", 
+        "conflictive": false, 
+        "created_at": "16/03/2016", 
+        "district": {
+            "id": 4, 
+            "name": "Les Corts"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5418, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "Actualment el barri antic de Les Corts est\u00e0 perdent certa identitat i en llocs com la pla\u00e7a de la Conc\u00f2rdia on hi havia una carnisseria, un forner, una floristeria i una pastisseria aquest comer\u00e7os han tancat. Els nous negocis oberts s\u00f3n bars.\r\nAspectes com el soroll, l'\u00fas sostenible de l'espai o la reducci\u00f3 del comer\u00e7 local s\u00f3n part dels impactes.", 
+        "title": "Elaborar un pla per a preservar els comer\u00e7os singulars del barri de Les Corts front el gran comer\u00e7 consolidat o la concentracio d'activitats de restauraci\u00f3", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 9, 
+        "url": "https://decidim.barcelona/pam/proposals/elaborar-un-pla-per-a-preservar-els-comercos-singulars-del-barri-de-les-corts-front-el-gran-comerc-consolidat-o-la-concentracio-d-activitats-de-restauracio", 
+        "votable": null, 
+        "voted": null
+    }
+}

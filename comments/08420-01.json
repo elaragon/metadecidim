@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els infants i adolescents de l\u2019esplai El Pi van participar a una cita presencial sobre la igualtat de g\u00e8nere. Aquests van fer diverses propostes de millora, com fer estudis a les empreses per tal de valorar si hi ha difer\u00e8ncies entre homes i dones. En el cas que hi hagin difer\u00e8ncies, demanar a les empreses que igualin sous, treien als que m\u00e9s cobren per donar als que menys. </p>", 
+            "commentable_id": 8420, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 13:24:47", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8481, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

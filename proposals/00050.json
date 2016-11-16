@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-50", 
+        "conflictive": false, 
+        "created_at": "22/01/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 50, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 11, 
+            "name": "Economia cooperativa, social i solid\u00e0ria", 
+            "position": 2
+        }, 
+        "summary": "Nou servei p\u00fablic gr\u00e0cies al qual les persones podran aprendre, treballar i col\u00b7laborar per fer realitat idees que, alhora, transformen l\u2019entorn i poden contribuir al desenvolupament social i l'impuls de l\u2019economia col\u00b7laborativa, la democratitzaci\u00f3 de les tecnologies, la sostenibilitat, el codi lliure, etc.", 
+        "title": "Ateneu de Fabricaci\u00f3", 
+        "total_comments": 22, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 11, 
+        "total_votes": 57, 
+        "url": "https://decidim.barcelona/pam/proposals/ateneu-de-fabricacio", 
+        "votable": null, 
+        "voted": null
+    }
+}

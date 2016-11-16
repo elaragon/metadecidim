@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 122, 
+                "name": "xabier", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Este problema que comentas no puede entrar en el PAM, tendr\u00e1s que ponerte en contacto con las personas que desarrollan la herramineta. Las propuestas que se hacen aqu\u00ed son para el Plan de Acci\u00f3n Municipal, no son para mejorar aspectos particiales de esta herramienta. Me parece estupendo que quieras comunicar mejoras de la plataforma, pero haciendo una propuesta para el PAM o para los planes de distrito no es la manera.</p>", 
+            "commentable_id": 1604, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/02/2016 17:56:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1543, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

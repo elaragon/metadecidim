@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8446", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8446, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 18, 
+            "name": "Participaci\u00f3 ciutadana", 
+            "position": 2
+        }, 
+        "summary": "\u00c9s important que els col\u2022lectius d\u2019or\u00edgens diversos comptin amb representaci\u00f3 pol\u00edtica. Aix\u00f2 suposa que a m\u00e9s d\u2019incorporar representants pol\u00edtics d\u2019origen estranger, cal facilitar i promoure la participaci\u00f3 de la ciutadania d\u2019or\u00edgens diversos en els processos electorals municipals.", 
+        "title": "Garantir la inclusi\u00f3 dels col\u2022lectius d\u2019or\u00edgens diversos en la pol\u00edtica local", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/garantir-la-inclusio-dels-col-lectius-d-origens-diversos-en-la-politica-local", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 12038, 
+            "name": "elsoldaluz", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 12038, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7317", 
+        "conflictive": false, 
+        "created_at": "30/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7317, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "L'ajuntament hauria de crear un parc de vivendes (resid\u00e8ncies comunit\u00e0ries) perqu\u00e8 serveixi de v\u00e0lvula d'escap a situacions d'estr\u00e8s pre-crisi a cada districte. Aquesta soluci\u00f3 n'evitaria internaments i milloraria la qualitat de vida de les fam\u00edlies que en fan cura.", 
+        "title": "Crear un parc municipal de vivendes temporals amb suport psicol\u00f2gic i de treball social per persones afectades amb trastorn mental cr\u00f2nic que serveixi per alleujament familiar.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/crear-un-parc-municipal-de-vivendes-temporals-amb-suport-psicologic-i-de-treball-social-per-persones-afectades-amb-trastorn-mental-cronic-que-serveixi-per-alleujament-familiar", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1136, 
+                "name": "Manuel Alvarez Sol", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Para que pueda ser aceptable iniciar la actividad de una escuela temporalmente en barracones la administraci\u00f3n debe garantizar la calidad educativa durante todo el proceso, comprometerse a construir los equipamientos definitivos en un m\u00e1ximo de tres a\u00f1os (correspondientes a la fase de educaci\u00f3n infantil), planificar desde el inicio la escuela con los equipamientos necesarios para toda la etapa en que permanecera en instalaciones provisionales (para evitar ampliaciones) y establecer los mecanismos de participaci\u00f3n de las familias y la direcci\u00f3n de la escuela con la administraci\u00f3n tanto para el seguimiento y gesti\u00f3n de las instalaciones provisionales como para la definici\u00f3n y seguimiento del proyecto de construcci\u00f3n de las instalaciones definitivas.</p>", 
+            "commentable_id": 762, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/03/2016 23:21:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3396, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11802, 
+                "name": "Mariaproposa", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Durante las puertas abiertas se present\u00f3 un proyecto educativo que no corresponde con lo que se ped\u00eda en el barrio. En el barrio queremos una escuela de ecucaci\u00f3n activa.</p>", 
+            "commentable_id": 762, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/03/2016 08:45:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4587, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

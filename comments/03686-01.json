@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A la cita presencial de l\u2019esplai Arcs Iris de l\u2019Esperit Sant, els infants van proposar la igualtat de salaris entre els homes i les dones. </p>", 
+            "commentable_id": 3686, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 15:06:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8641, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els joves de l\u2019Agrupament Escolta Terra-Nova van participar a una cita presencial i van debatre diferents q\u00fcestions per millorar les condicions de vida de la poblaci\u00f3 de Barcelona. Aquests van proposar regular les condicions laborals d\u2019homes i dones per a que cobrin el mateix sou quan fan la mateixa tasca. </p>", 
+            "commentable_id": 3686, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 11:54:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9133, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

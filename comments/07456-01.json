@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 139, 
+                "name": "Maria Herrero", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tot el barri necessita una proposta conjunta: l'estructura de carrers pacificats, connectant serveis,equipaments i parcs. Marqu\u00e9s de Sentmenat, Gelabert, can Bruixa? Bordeus?  I possiblement d'altres. \u00c9s un dels aspectes pendent d'aquest barri. Altres parts de la ciutat ja ho han fet</p>", 
+            "commentable_id": 7456, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 17:15:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8730, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/superilles\">https://decidim.barcelona/proposals/superilles</a></p>", 
+            "commentable_id": 7456, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 10:54:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14342, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

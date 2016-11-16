@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 21539, 
+                "name": "pelines", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No hi trobo cap sentit al fet que per canviar unes rajoles que s'han trencat a la fa\u00e7ana calgui un informe t\u00e8cnic d'un arquitecte (i pagar-lo). </p>\n\n<p>Trobo que per a casos com aquest en que nom\u00e9s es canvia unes peces trencades per unes altres d'iguals, n'hi hauria prou d'haver prou amb un assabentat d'obra.</p>", 
+            "commentable_id": 9119, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 14:39:14", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10958, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

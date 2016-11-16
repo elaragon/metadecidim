@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els infants de 4rt de prim\u00e0ria de l'Escola Can Maiol que participen a l'aula d'integraci\u00f3 van proposar augmentar la promoci\u00f3 d\u2019h\u00e0bits saludables: Menjar menys greixos i sucre, menjar m\u00e9s lentament i fer m\u00e9s esport. </p>", 
+            "commentable_id": 2780, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 15:27:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9542, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

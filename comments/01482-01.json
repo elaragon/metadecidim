@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2359, 
+                "name": "Mentalila MenTalila", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tener mesas y sillas sin la necesidad de tener que gastar dinero para poder disfrutar de la calle.</p>", 
+            "commentable_id": 1482, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 22:44:37", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 729, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2496, 
+                "name": "rux", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No nom\u00e9s aix\u00f2, \u00e9s surrealista l'\u00fas de mobiliari urb\u00e0 individual. Ja n'hi ha prou de cadires \"autistes\".</p>", 
+            "commentable_id": 1482, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 14:27:00", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 809, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 1, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "729", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3713, 
+                "name": "JF", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalmente de acuerdo! He podido comentarlo en el debate de la superilla del Poblenou, pero creo que deberia ser implantado en todos los barrios! Espero que tenga mucho exito esta propuesta!!</p>", 
+            "commentable_id": 1482, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/02/2016 01:32:34", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1226, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

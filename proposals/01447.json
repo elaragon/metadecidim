@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2109, 
+            "name": "J D", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2109, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1447", 
+        "conflictive": false, 
+        "created_at": "04/02/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1447, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Aquests carrils bici s'han quedat petits perqu\u00e8 no permeten l'avan\u00e7ament amb seguretat amb l'amplada actual, m\u00e9s encara amb les proteccions del carril. Crec que podem estar contents de l'increment d'usuaris de la bici gr\u00e0cies a aquests carrils i \u00e9s per aquest motiu que demanen una ampliaci\u00f3 urgent.", 
+        "title": "Ampliaci\u00f3 de l'ample dels carrils bici dels carrers Diputaci\u00f3 i Consell de Cent", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 61, 
+        "url": "https://decidim.barcelona/pam/proposals/ampliacio-de-l-ample-dels-carrils-bici-de-diputacio-i-consell-de-cent", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2849, 
+                "name": "Jean-Marcel Abel-Cerviotti", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Com serien els espais lluires de soroll? Qu\u00e8 serien? Nous parcs i jardins? Zones sense cotxes i motos? On serien?</p>", 
+            "commentable_id": 2538, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/02/2016 10:37:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1747, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14212, 
+                "name": "doroteadix", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Benvolguts/des, crec que cal repensar els serveis de neteja en plena activitat nocturna. Generen uan contaminaci\u00f3 ac\u00fastica que trenca en son de moltes persones. </p>", 
+            "commentable_id": 2538, 
+            "commentable_type": "Proposal", 
+            "created_at": "19/03/2016 18:33:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5920, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14212, 
+                "name": "doroteadix", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Podem t\u00e8cnicament, crear espais lliures o de circulaci\u00f3 redu\u00efda, i diposar d'autobusos que no esbufeguin eixordadorament? Podem penalitzar l'\u00fas d'alguns motors de motos i cotxes que fan molt de rebombori?</p>", 
+            "commentable_id": 2538, 
+            "commentable_type": "Proposal", 
+            "created_at": "19/03/2016 18:35:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5921, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

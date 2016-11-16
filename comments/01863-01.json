@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14490, 
+                "name": "Maria  LP", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Mantenir l\u2019esperit de Barcelona com una ciutat oberta, acollidora i cosmopolita. Evitar el rebuig als estrangers (refugiats/turistes), l\u2019animadversi\u00f3 cap als de fora esta creixent entre els mitjans de comunicaci\u00f3, els ve\u00efns i la morat\u00f2ria municipal hi contribueix.  Millorar la conviv\u00e8ncia entre persones residents i foranes. Evitar l\u2019estigma cap als visitants estrangers  com a persones inc\u00edviques que sembla s\u2019ha posat de moda en l\u2019imaginari col\u2022lectiu.\n</p>", 
+            "commentable_id": 1863, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 15:09:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6152, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

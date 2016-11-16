@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-116", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 116, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Reformar urban\u00edsticament els entorns de l\u2019antic Hospital de la Santa Creu i Sant Pau per real\u00e7ar la import\u00e0ncia arquitect\u00f2nica i redistribuir els equipaments i institucions culturals que hi ha, un cop l\u2019Escola Massana ocupi el nou espai de la pla\u00e7a de la Gardunya.", 
+        "title": "Pol d\u2019atracci\u00f3 cultural als entorns de l\u2019Hospital de la Santa Creu i Sant Pau", 
+        "total_comments": 4, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 2, 
+        "total_votes": 12, 
+        "url": "https://decidim.barcelona/pam/proposals/pol-d-atraccio-cultural-als-entorns-de-l-hospital-de-la-santa-creu-i-sant-pau", 
+        "votable": null, 
+        "voted": null
+    }
+}

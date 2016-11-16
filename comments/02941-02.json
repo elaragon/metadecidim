@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals?filter=source=citizenship:scope=city:reviewer_status=not_reviewed:category_id=3:subcategory_id=14&amp;order=confidence_score&amp;random_seed=-0.408640932107625\">https://decidim.barcelona/proposals?filter=source=citizenship:scope=city:reviewer_status=not_reviewed:category_id=3:subcategory_id=14&amp;order=confidence_score&amp;random_seed=-0.408640932107625</a></p>", 
+            "commentable_id": 2941, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/04/2016 10:25:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 13385, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 23853, 
+                "name": "Josep Busquets Vidal", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/bonificacion-en-el-impuesto-de-circulacion-para-las-motos-que-menos-contaminen\">https://decidim.barcelona/proposals/bonificacion-en-el-impuesto-de-circulacion-para-las-motos-que-menos-contaminen</a></p>", 
+            "commentable_id": 2941, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 13:37:34", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17053, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/prohibicio-de-circular-en-determinats-horaris-vehicles-privats-de-fora-de-barcelona-per-la-ciutat\">https://decidim.barcelona/proposals/prohibicio-de-circular-en-determinats-horaris-vehicles-privats-de-fora-de-barcelona-per-la-ciutat</a></p>", 
+            "commentable_id": 2941, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 19:47:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17615, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 2, 
+        "next_page": null, 
+        "prev_page": 1, 
+        "total_count": 23, 
+        "total_pages": 2
+    }
+}

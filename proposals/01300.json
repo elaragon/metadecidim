@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1310, 
+            "name": "Olga Marcos", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1310, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1300", 
+        "conflictive": false, 
+        "created_at": "02/02/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1300, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Pacificar el tr\u00e0nsit o fer de vianants el carrer Enamorats per la reactivaci\u00f3 del petit comer\u00e7 de tota la zona, a part de crear un entorn urb\u00e0 m\u00e9s habitable i actiu. \u00c9s perfectament viable perqu\u00e8 es circula en vehicle nom\u00e9s si la destinaci\u00f3 final \u00e9s el mateix carrer. Tamb\u00e9 es respectarien els passos de zebra que ara no es respecten.", 
+        "title": "Carrer Enamorats", 
+        "total_comments": 11, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 10, 
+        "total_votes": 39, 
+        "url": "https://decidim.barcelona/pam/proposals/carrer-enamorats", 
+        "votable": null, 
+        "voted": null
+    }
+}

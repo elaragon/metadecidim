@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5298", 
+        "conflictive": false, 
+        "created_at": "16/03/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 5298, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Abordar el tema de la fatiga cr\u00f2nica i altres malalties que afecten a la vida de moltes persones. Amb professionals formats espec\u00edficament (fibromi\u00e0lgia, sensibilitat..) en tots els \u00e0mbits (dermat\u00f2legs, dentistes..). Promoure medicaci\u00f3 m\u00e9s natural (mascareta, alimentaci\u00f3 ecol\u00f2gica a preus assequibles) i ajudes per realitzar les tasques de la llar.", 
+        "title": "Promoure tractaments especifics pels afectats pel S\u00edndrome de Sensibilitat Central", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/promoure-tractaments-especifics-pels-afectats-pel-sindrome-de-sensibilitat-central", 
+        "votable": null, 
+        "voted": null
+    }
+}

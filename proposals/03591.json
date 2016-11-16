@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 5187, 
+            "name": "VILLARRASA", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 5187, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3591", 
+        "conflictive": false, 
+        "created_at": "27/02/2016", 
+        "district": {
+            "id": 8, 
+            "name": "Nou Barris"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3591, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 24, 
+            "name": "Un nou lideratge p\u00fablic", 
+            "position": 3
+        }, 
+        "summary": "Revisar el alto valor  que  se paga  del Impuesto de Bienes Inmuebles en Torre Bar\u00f3, sobre todo aquellas fincas construidas a partir del a\u00f1o 2001.Revisi\u00f3n de la categor\u00eda de calles, del valor del suelo y de la construcci\u00f3n con el objeto que el valor catastral se reduzca hasta el punto que se corresponda con la realidad de las fincas y  su entorno.", 
+        "title": "Reducci\u00f3n del  IBI  de las viviendas de  TORRE BAR\u00d3", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 16, 
+        "url": "https://decidim.barcelona/pam/proposals/reduccion-del-ibi-de-las-viviendas-de-torre-baro", 
+        "votable": null, 
+        "voted": null
+    }
+}

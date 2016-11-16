@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4585", 
+        "conflictive": false, 
+        "created_at": "10/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 4585, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Repensar el col\u00b7lectiu a qui s'adrecen tenint en compte que la q\u00fcesti\u00f3 determinant no \u00e9s l\u2019edat, sin\u00f3 la situaci\u00f3 en qu\u00e8 es troba la persona.", 
+        "title": "Adaptar programes pensats per la gent gran (Viure i conviure, Radars, ) per millorar la qualitat de vida i la comunicaci\u00f3 de les persones amb diversitat funcional. ", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/adaptar-programes-pensats-per-la-gent-gran-viure-i-conviure-radars-per-millorar-la-qualitat-de-vida-la-comunicacio-de-les-persones-amb-diversitat-funcional", 
+        "votable": null, 
+        "voted": null
+    }
+}

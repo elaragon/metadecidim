@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11624, 
+                "name": "AlexM", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Sense ajudes a la rehabilitaci\u00f3 em temo que els expedients farian molt mal a molta gent. El meu edifici es molt millorable, pero no hi han diners per fer-hi gran cosa. Molts dels veins ni tant sols paguen les quotes de la comunitat encara que son petites.</p>", 
+            "commentable_id": 2970, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/03/2016 10:20:47", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4590, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12688, 
+                "name": "Jaume Mestres i Capitan", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si hubiera una inspecci\u00f3n en la finca donde vivo la cerrar\u00edan ya, y eso que en la c/ LLedo hay unos de los hoteles de m\u00e1s lujo de Barcelona </p>", 
+            "commentable_id": 2970, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/03/2016 21:27:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5829, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

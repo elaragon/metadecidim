@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3534", 
+        "conflictive": false, 
+        "created_at": "26/02/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 3534, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Treure els noms dels carrers i places amb personatges franquistes. En la mesura del possible, substituir-los per noms de dones. Per compensar el desequilibri, fent aix\u00ed difusi\u00f3 de dones.   ", 
+        "title": "Mem\u00f2ria hist\u00f2rica. Revisi\u00f3 del Nomencl\u00e0tor de ciutat. ", 
+        "total_comments": 5, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 4, 
+        "total_votes": 76, 
+        "url": "https://decidim.barcelona/pam/proposals/memoria-historica-revisio-del-nomenclator-de-ciutat", 
+        "votable": null, 
+        "voted": null
+    }
+}

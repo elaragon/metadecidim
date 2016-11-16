@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 3717, 
+            "name": "Salvador Pastor Blasco", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 3717, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7307", 
+        "conflictive": false, 
+        "created_at": "30/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7307, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": ". I \u00e9s la import\u00e0ncia que t\u00e9 per al desenvolupament de les persones el fet de ser protagonistes de la creaci\u00f3, de la difusi\u00f3 o de la construcci\u00f3 d\u2019un b\u00e9 cultural.  l\u2019indicador del nivell de desenvolupament cultural d\u2019un pa\u00eds s\u2019expressa  gaireb\u00e9 sempre amb mesures de consum cultural com ara el nombre de llibres venuts, d\u2019usuaris de biblioteques, ", 
+        "title": "ens conv\u00e9 una pol\u00edtica real a favor de la cultura popular i l\u2019associacionisme cultural a la ciutat de Barcelona(4)", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/ens-conve-una-politica-real-a-favor-de-la-cultura-popular-i-l-associacionisme-cultural-a-la-ciutat-de-barcelona-4", 
+        "votable": null, 
+        "voted": null
+    }
+}

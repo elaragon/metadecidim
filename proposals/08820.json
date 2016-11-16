@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 5, 
+            "name": "Just\u00edcia global"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8820", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8820, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 5, 
+            "id": 28, 
+            "name": "Just\u00edcia global", 
+            "position": 1
+        }, 
+        "summary": "At\u00e8s que existeix una gran mobilitat entre municipis i una interconnexi\u00f3 dels serveis b\u00e0sics oferts, cal garantir un equilibri i igualtat entre els diferents municipis. A la llarga, s\u2019haur\u00e0 de contemplar la creaci\u00f3 d\u2019un pla d\u2019inclusi\u00f3 a nivell metropolit\u00e0 que defineixi estrat\u00e8gies conjuntes d\u2019actuaci\u00f3.", 
+        "title": "Treball conjunt entre els municipis de l\u2019\u00c0rea Metropolitana per respondre a les necessitats dels ciutadans, exigint el compliment dels mapes de serveis b\u00e0sics per garantir l'equilibri entre municipis i amb visi\u00f3 de futur (Mapa Metropolit\u00e0 d'inclusi\u00f3)", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/treball-conjunt-entre-els-municipis-de-l-area-metropolitana-per-respondre-a-les-necessitats-dels-ciutadans-exigint-el-compliment-dels-mapes-de-serveis-basics-per-garantir-l-equilibri-entre-municipis-i-amb-visio-de-futur-mapa-metropolita-d-inclusio", 
+        "votable": null, 
+        "voted": null
+    }
+}

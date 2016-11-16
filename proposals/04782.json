@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 11926, 
+            "name": "John Stone", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 11926, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4782", 
+        "conflictive": false, 
+        "created_at": "13/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://tinyurl.com/jnhgpfq", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4782, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Atesa la manca de suport per a la majoria de les lleng\u00fces d\u2019origen, proposem la seg\u00fcent iniciativa municipal:  formaci\u00f3 espec\u00edfica per a mestres des d'una perspectiva pluriling\u00fce que tingui en compte les lleng\u00fces familiars de l'alumnat i tamb\u00e9 les lleng\u00fces escolars.", 
+        "title": "Mesures en suport de les lleng\u00fces d'origen (III) ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 30, 
+        "url": "https://decidim.barcelona/pam/proposals/mesures-en-suport-de-les-llengues-d-origen-iii", 
+        "votable": null, 
+        "voted": null
+    }
+}

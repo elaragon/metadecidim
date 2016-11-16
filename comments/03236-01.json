@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5483, 
+                "name": "Francesc Roma Millan", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ampliar la proposta als edificis de l'administraci\u00f3 p\u00fablica, no nom\u00e9s els municipals; salut, educaci\u00f3, cultura, oficines, etc., etc.</p>", 
+            "commentable_id": 3236, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 11:00:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4765, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 542, 
+                "name": "Xiscu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La gent del banc d'energia ja fan una molt bona feina en aquest sentit que podria ser \u00fatil de cara a donar una empenta a aquesta proposta. <a href=\"http://bancdenergia.org/\">http://bancdenergia.org/</a></p>", 
+            "commentable_id": 3236, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/04/2016 22:20:21", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7631, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

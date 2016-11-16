@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2830", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2830, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 19, 
+            "name": "Acci\u00f3 comunit\u00e0ria", 
+            "position": 3
+        }, 
+        "summary": "Avan\u00e7ar en formes de coproducci\u00f3 de pol\u00edtiques p\u00fabliques fetes amb la implicaci\u00f3 d'actors socials, entitats i col\u00b7lectius en el disseny, la decisi\u00f3 i la posada en marxa, reconeixent i acompanyant les pr\u00e0ctiques ja existents al territori sota criteris d'autonomia i de gesti\u00f3 comunit\u00e0ria. Potenciar la intel\u00b7lig\u00e8ncia col\u00b7lectiva i posar en pr\u00e0ctica noves formes de governan\u00e7a.", 
+        "title": "Impuls de les pr\u00e0ctiques comunit\u00e0ries", 
+        "total_comments": 6, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 6, 
+        "total_positive_comments": 0, 
+        "total_votes": 14, 
+        "url": "https://decidim.barcelona/pam/proposals/impuls-de-les-practiques-comunitaries", 
+        "votable": null, 
+        "voted": null
+    }
+}

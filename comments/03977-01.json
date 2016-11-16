@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No entenc gaire quina \u00e9s la proposta per tal de donar-li suport.</p>", 
+            "commentable_id": 3977, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/03/2016 11:21:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3709, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6739, 
+                "name": "Salvador Barrau V.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Vull dir que els preus del turismo son mes elevats. A l estiu  son preus de temporada. Pero el turismo a la ciutat de Barcelona es segur tot l any. Han de tenir preus dels comerciante del barris.mes barats.i que els veins puguin comprar</p>", 
+            "commentable_id": 3977, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/03/2016 09:00:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3892, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3709", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6739, 
+                "name": "Salvador Barrau V.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Yo he explcat en un comentari annex</p>", 
+            "commentable_id": 3977, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/03/2016 09:01:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3893, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3892", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11947, 
+                "name": "Sandrahs", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Per\u00f2 pel comentari de la proposta \"que el turista pugui comprar al preu del ve\u00ed\", sembla que es lluiti pel dret del turista, que els turistes europeus son ve\u00efns nostres... Jo per ells, que tenen un bon sou i es nota que son els que poden viatjar i nosaltres mirar com els deixen invadir les nostres ciutats i barris (mallorca, barceloneta, ciutat vella, etc), no lluito. \u00c9s diferent que lo que m\u00e9s tard escrius \"que els ve\u00efns puguin comprar\", \u00e9s a dir que no s'encareixin els productes pel fet de que el barri sigui tur\u00edstic. Aix\u00f2 si, per\u00f2 soc de les que pense que els ve\u00efns haurien de pagar menys que els turistes, com a Cuba.</p>", 
+            "commentable_id": 3977, 
+            "commentable_type": "Proposal", 
+            "created_at": "20/03/2016 11:02:30", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5961, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,275 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3827, 
+                "name": "suport decidim.barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "moderator", 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/guies-turistics-amb-auriculars\">https://decidim.barcelona/proposals/guies-turistics-amb-auriculars</a></p>", 
+            "commentable_id": 7567, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 13:15:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7173, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13962, 
+                "name": "AGUICAT", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": false
+            }, 
+            "body": "<p>Els guies tur\u00edstics profesionals i habilitats som els primers interessats en que la nostra feina no molesti, ja que nosaltres tamb\u00e9 vivim a Barcelona. Despr\u00e9s d'anys d'estudis i de conseguir la nostra habilitaci\u00f3 despr\u00e9s de realitzar un ex\u00e0men, ens preocupa molt l'esc\u00e0s control sobre el sector i l'altissim grau d'intrussisme que est\u00e0 fent molt mal a els realment professionals.</p>", 
+            "commentable_id": 7567, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 23:28:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8143, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 12, 
+            "total_votes": 12
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 19708, 
+                "name": "Rosa Mar\u00eda Mayne", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Soy Guia oficial de la Generalitat de Catalunya. No puc entendre que els guies que hem sigut preparats, tant a l'universitat i complementat amb l'Examen de la Generalitat  pel t\u00edtol de guies oficials, s'ens tingui amb una situaci\u00f3 que incl\u00fas s'ha arribat a parlat de l'anul\u00b7laci\u00f3 de la nostra professi\u00f3. Es com si es volgu\u00e9s anular als mossos d'escuadra i deixar que el primer que pasa defengui les lleis i el ordre. \n<br />No entenc que no es compti amb nosaltres com a defensors tant de l'informacio als turistes com al seu control i defensa del benestar ciutad\u00e0. Es per aixo que ens han- hem preparat. \n<br />Es una situaci\u00f3 absurda que es cuestioni la nostra professi\u00f3. Som necessaris. Som els que podem ordenar amb el suport de l'Ajuntament l'integraci\u00f3 dels grups de turisme a la ciutat. </p>", 
+            "commentable_id": 7567, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 22:39:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8967, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 7, 
+            "total_votes": 8
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 19791, 
+                "name": "barcelonaguideandmore.com", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic d'acord en que s'han de controlar les masses de turisme a la ciutat i en especial a ciutat vella, l'\u00fas de micr\u00f3fons i auriculars hauria de ser la forma d'ensenyar i explicar per tal de donar un servei de qualitat. Nom\u00e9s els guies habilitats per la Generalitat de Catalunya tenim la sensibilitat per a poder treballar per a u turisme de qualitat</p>", 
+            "commentable_id": 7567, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 00:03:00", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8977, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 9, 
+            "total_votes": 9
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6821, 
+                "name": "Judith Poblenou", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ell meu suport a la professionalitzaci\u00f3 dels guies tur\u00edstics.  Barcelona s'ha convertit en una de les  ciutats d\u2019Europa que rep m\u00e9s turistes i cal millorar el control del sector i comptar amb el servei de professionals degudament qualificats.</p>", 
+            "commentable_id": 7567, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 22:11:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11465, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 5, 
+            "total_votes": 5
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 22579, 
+                "name": "Lourdes Reixach", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els guies tur\u00edstics exercim una professi\u00f3 que no \u00e9s banal. Ens hem format acad\u00e8micament a l'Universitat, em passat un examen que acredita que disposem de prou coneixements com per transmetre fidelment l'ess\u00e8ncia i la historia del nostre pais i de la nostra ciutat. Paguem els nostres impostos... i sobre tot ens estimem la nostra ciutat i la nostra feina. \n<br />Estem registrats, disposem d'una acreditaci\u00f3 que permet a l'administraci\u00f3 d'estar en contacte amb tots i cada un de nosaltres. Qualsevol iniciativa, normativa o modificaci\u00f3 de la ciutat s'ens podria comunicar en questi\u00f3 de minuts mitjan\u00e7ant un correu electr\u00f2nic i podria ser efectiva a l'hora de gestionar els milers de visitants que tenim cada dia.  La log\u00edsitica, la bona log\u00edstica, \u00e9s un dels elements claus per fer conviure els residents i els visitants.  \n<br />Els guies professionals, podem ser tamb\u00e9 l\u2019instrument que ajudi a regular els fluxos tur\u00edstics a la ciutat.\n</p>", 
+            "commentable_id": 7567, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 07:22:00", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11553, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 4, 
+            "total_votes": 4
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 23260, 
+                "name": "M. Carmen Par\u00e9s Sanchez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic d'acord amb AGUIACAT\n</p>", 
+            "commentable_id": 7567, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 18:59:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12592, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 23508, 
+                "name": "VSM", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si volem donar qualitat i professionalitat, cal recordar que fer tenim unes persones qualificades  amb una gran experiencia i ganes de fer la seva tasca el millor possible, pero tambe son for\u00e7a oblidats en el mon del turisme, son els guies oficials.\n<br />Som tant oblidats que ningu hi pensa i ningu els hi demana el seu parer i potser seria convenien consultar-los en aquest tema, doncs son el primers interessats en el reconeixement de la seva tasca. D'altra banda segurament tamb\u00e9 es milloraria la situaci\u00f3 actual si s'actues amb mes contunencia sobre d'aquells anomenats \"pirates\" que desvirtuen el gran esfor\u00e7 que possen per donar un alt nivell de qualitat en  la seva tasca tot cercant un equilibri entre els visitants i els habitans de la ciutat</p>", 
+            "commentable_id": 7567, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 22:27:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12716, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 8, 
+        "total_pages": 1
+    }
+}

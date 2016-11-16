@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6185, 
+                "name": "M.Mateu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Suporto aquesta iniciativa, pero una vegada jo mateixa ho vaig proposar i un amo de gos em va contestar que on pixaria la seva criatura...  :D</p>", 
+            "commentable_id": 2670, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/02/2016 15:48:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2018, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2018", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1356, 
+                "name": "Victoria Scarpato", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hola M. Si, a mi em sorpren, des de que ho he fet davant de casa, que hi hagi persones que llen\u00e7en les cigarretes en all\u00e0. Per\u00f2 be, per ara vaig netejant-ho cada demati. A veure si dura i s'animen altres ve\u00efns! De fet, mentre ho plantavem uns quans ve\u00efns es van apropar i em van dir que els hi semblava una iniciativa genial. Tu ho has fet? </p>", 
+            "commentable_id": 2670, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/02/2016 17:01:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2023, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2018/2023", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6185, 
+                "name": "M.Mateu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La veritat es que no, al meu tram de carrer no hi ha arbrat i el m\u00e9s proper porta aix\u00f3 que posen de goma. Pero treballo pel Poblenou i all\u00e0 si que en recuperen a bastants llocs.</p>", 
+            "commentable_id": 2670, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/02/2016 23:14:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2042, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

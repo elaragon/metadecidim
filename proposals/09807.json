@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9807", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/meetings/ies-alzina-una-barcelona-diversa-que-asseguri-el-bon-viure", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9807, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Els estudiants que assisteixen a l'aula de refor\u00e7 escolar de l'IES Alzina van proposar crear una aplicaci\u00f3 per al m\u00f2bil que sigui f\u00e0cil d\u2019utilitzar per a que vingui l\u2019ambul\u00e0ncia. Ha de ser adequada per a totes les edats i a la vegada es reculli la informaci\u00f3 necess\u00e0ria per el personal m\u00e8dic. ", 
+        "title": "Crear una aplicaci\u00f3 pel m\u00f2bil per cridar una ambul\u00e0ncia", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/crear-una-aplicacio-pel-mobil-per-cridar-una-ambulancia", 
+        "votable": null, 
+        "voted": null
+    }
+}

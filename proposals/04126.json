@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4126", 
+        "conflictive": false, 
+        "created_at": "05/03/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 4126, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Fixar l\u2019ampliaci\u00f3 de l\u2019Hospital del Mar com una prioritat en el Pla d\u2019Equipaments. Un cop acabat, consideren que podr\u00e0 garantir la proximitat de l\u2019atenci\u00f3 (actualment molts ve\u00efns s\u2019han de visitar en hospitals de fora del districte i que no estan ben comunicats amb la xarxa de transport p\u00fablic).", 
+        "title": "Fixar l\u2019ampliaci\u00f3 de l\u2019Hospital del Mar", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 22, 
+        "url": "https://decidim.barcelona/pam/proposals/fixar-l-ampliacio-de-l-hospital-del-mar", 
+        "votable": null, 
+        "voted": null
+    }
+}

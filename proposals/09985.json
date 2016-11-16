@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 20299, 
+            "name": "Eix Comercial del Raval", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 20299, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9985", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "http://www.eixraval.com/media/file/noticias//80_Documento_Adjunto_1.pdf", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 9985, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "...el carrer de l\u2019Om, carrer de l\u2019Arc del Teatre, carrer Nou de la Rambla, passatge de Penedides, carrer de la Uni\u00f3, carrer Marqu\u00e8s de Barber\u00e0, carrer de Santa Margarida i carrer de Sant Ramon, o la millora de la il\u2022luminaci\u00f3 de la zona de terrasses ubicades a la Rambla del Raval.", 
+        "title": "Millora de l\u2019enllumenat com a eina de prevenci\u00f3 en els punts m\u00e9s sensibles del barri...", 
+        "total_comments": 5, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 5, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/millora-de-l-enllumenat-com-a-eina-de-prevencio-en-els-punts-mes-sensibles-del-barri", 
+        "votable": null, 
+        "voted": null
+    }
+}

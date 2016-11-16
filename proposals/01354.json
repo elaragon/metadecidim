@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1750, 
+            "name": "Natalia Lua", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1750, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1354", 
+        "conflictive": false, 
+        "created_at": "03/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1354, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Me gustar\u00eda que las personas que venimos de fuera y a las que nos gustar\u00eda hablar y escribir en catal\u00e1n perfectamente, tuvi\u00e9ramos m\u00e1s facilidades a la hora de aprender, ya que por ahora, gratuito solo se puede hacer online, y si trabajas y puedes pagarlo, es muy dif\u00edcil encontrar un curso que puedas combinar con tu horario laboral.", 
+        "title": "Cursos gratuitos y presenciales de idioma catal\u00e1n.", 
+        "total_comments": 6, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 3, 
+        "total_positive_comments": 3, 
+        "total_votes": 82, 
+        "url": "https://decidim.barcelona/pam/proposals/cursos-gratuitos-y-presenciales-de-idioma-catalan", 
+        "votable": null, 
+        "voted": null
+    }
+}

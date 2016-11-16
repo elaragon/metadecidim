@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9100, 
+                "name": "Pau Ocean", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els arbres son medicinals, en el sentit que ajuden a millorar la psique de les persones. Una iniciativa molt bona. :)</p>", 
+            "commentable_id": 3988, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/03/2016 11:20:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3623, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10474, 
+                "name": "mdlrosa", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Arbres s\u00ed per\u00f2 que no siguin al\u00b7l\u00e8rgens, hi ha plataners per tota la ciutat!!! Fer un estudi acurat d'arbres sans per la poblaci\u00f3</p>", 
+            "commentable_id": 3988, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/03/2016 19:50:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3682, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10537, 
+                "name": "elsibirich", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord, sempre que com diu mdlrosa siguin arbres que no facin patir als al\u00b7l\u00e8rgics. Tamb\u00e9 arbres que siguin adequats, per exemple, no posar arbres que es facin molt alts a llocs on interessa que siguin petits. I s'hauria de tenir en compte fer podas m\u00e9s respectuoses amb els arbres. </p>", 
+            "commentable_id": 3988, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/03/2016 13:39:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3722, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5483, 
+                "name": "Francesc Roma Millan", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Molt d'acord amb la proposta i comentaris. Afegeixo una proposta de corresponsabilitat entre serveis municipals i ciutadania en la decisi\u00f3 i cura de l'arbrat del carrer</p>", 
+            "commentable_id": 3988, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 10:25:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4752, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

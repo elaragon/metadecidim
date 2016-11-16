@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-944", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 944, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Conjunt de mesures que la ciutat de Barcelona haur\u00e0 d\u2019adoptar davant la declaraci\u00f3 d\u2019episodi de contaminaci\u00f3 atmosf\u00e8rica i que abra\u00e7aran diferents \u00e0mbits (comunicaci\u00f3, mobilitat, salut, etc\u00e8tera). Perqu\u00e8 sigui m\u00e9s efectiu es treballar\u00e0 de manera coordinada amb la resta de municipis de l\u2019\u00e0rea metropolitana.", 
+        "title": "Protocol davant episodis de contaminaci\u00f3", 
+        "total_comments": 17, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 13, 
+        "total_votes": 255, 
+        "url": "https://decidim.barcelona/pam/proposals/protocol-davant-episodis-de-contaminacio", 
+        "votable": null, 
+        "voted": null
+    }
+}

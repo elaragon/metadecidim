@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4549, 
+            "name": "DCM", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4549, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1704", 
+        "conflictive": false, 
+        "created_at": "10/02/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1704, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "El 2015 es va convertir, per seguretat, en zona de vianants el triangle existent entre els carrers Freser i Trinxant, i es va delimitar provissionalment . Ara, sol\u00b7licitem que es dugui a terme el condicionament definitiu d'aquest espai, amb una zona verda i de joc infantil, perqu\u00e8 la gent del barri i de les escoles properes en puguin gaudir.", 
+        "title": "Placeta  i espai de joc infantil al carrer Freser amb Trinxant.", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 1, 
+        "total_votes": 174, 
+        "url": "https://decidim.barcelona/pam/proposals/placeta-i-espai-de-joc-infantil-al-carrer-freser-amb-trinxant", 
+        "votable": null, 
+        "voted": null
+    }
+}

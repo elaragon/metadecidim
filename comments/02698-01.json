@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7064, 
+                "name": "BELEN R.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>SI ES NECESARIO ESTABLECER PRIORIDADES EN SU APLICACI\u00d3N (URBANIZACION CALLES, ILUMINACION, ALCANTARILLADO... COMO PRIORITARIO) PERO APLICARLO LO ANTES POSIBLE PUES EST\u00c1 APROBADO POR LAS ENTIDADES DE VECINOS. TENER EN CUENTA LAS DISTINTAS NECESIDADES DENTRO DEL PROPIO BARRIO DE SARRIA SANT GERVASI, VALLDIDRERA /LES PLANES REQUIEREN ACTUACIONES DISTINTAS Y ADECUADAS A UN BARRIO DE MONTA\u00d1A. \n</p>", 
+            "commentable_id": 2698, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/02/2016 14:44:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2274, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16312, 
+                "name": "Lola Espinosa", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00c9s necessari que es tingui en compte els barris de muntanya, amb actuacions adients a l'entorn.</p>", 
+            "commentable_id": 2698, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 10:56:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7142, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/pla-de-barris\">https://decidim.barcelona/proposals/pla-de-barris</a></p>", 
+            "commentable_id": 2698, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 11:03:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14362, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12179, 
+                "name": "suport.decidim1", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en la cita presencial: Salut P\u00fablica i Qualitat Ambiental. \"\tElaborar una guia d\u2019arbres del districte, amb mapes, pl\u00e0nols, fotografies.\tM\u00e9s arbres amb flor (per exemple, ac\u00e0cies). Implementar a els arbres de fulla perenne\"\n</p>", 
+            "commentable_id": 4138, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/03/2016 12:10:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5749, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12179, 
+                "name": "suport.decidim1", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en la cita presencial: Salut P\u00fablica i Qualitat Ambiental. \"\tTreballar la comunicaci\u00f3 i m\u00e9s informaci\u00f3 d\u2019esp\u00e8cies, poda, al\u2022l\u00e8rgies, manteniment. Posar plafons al carrer amb informaci\u00f3, tr\u00edptics i  tel\u00e8fon per fer consultes. Fomentar el voluntariat ciutad\u00e0 perqu\u00e8 s\u2019impliqui per cuidar els arbres.</p>", 
+            "commentable_id": 4138, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/03/2016 12:14:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5751, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

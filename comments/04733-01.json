@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3513, 
+                "name": "Jan Labrador", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>aixo  ajudaria a baixar la contaminaci\u00f3 \n<br /><a href=\"http://janorland.myminicity.es/\">http://janorland.myminicity.es/</a></p>", 
+            "commentable_id": 4733, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 23:05:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4571, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/substituir-tots-els-taxis-i-busos-per-vehicles-no-contaminants\">https://decidim.barcelona/proposals/substituir-tots-els-taxis-i-busos-per-vehicles-no-contaminants</a>\n<br /><a href=\"https://decidim.barcelona/proposals/fixar-un-limit-de-temps-per-prohibir-la-circulacio-de-vehicles-contaminants\">https://decidim.barcelona/proposals/fixar-un-limit-de-temps-per-prohibir-la-circulacio-de-vehicles-contaminants</a></p>", 
+            "commentable_id": 4733, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 11:10:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5202, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11550, 
+                "name": "Claira", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Que estos aparcamientos fueran gratuitos</p>", 
+            "commentable_id": 4733, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/03/2016 22:24:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5832, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 19940, 
+                "name": "JordidelClot", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Una magn\u00edfica idea, caldria per\u00f2 afegir cobrar un peatge als que no fessin servir els aparcaments</p>", 
+            "commentable_id": 4733, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 23:08:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10132, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "5832", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3513, 
+                "name": "Jan Labrador", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>O precios bajos y accesibles </p>", 
+            "commentable_id": 4733, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 18:08:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6617, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

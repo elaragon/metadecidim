@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 164, 
+            "name": "J. Gabriel Gallart", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 164, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4527", 
+        "conflictive": false, 
+        "created_at": "09/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://www.flickr.com/photos/87599170@N03/24493030594/in/pool-barcelonamobilitat/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4527, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Els ciclistes ens trobem que segons l'ordenan\u00e7a podem circular en sentit contrari a la marxa en els carrers 10 i 20 de plataforma \u00fanica.  A molts d'aquest carrers el senyal de direcci\u00f3 prohibida no inclou el  fald\u00f3 'Excepte bicicletes' . Aix\u00f2 genera confusi\u00f3 en els ciclistes de la #biciBCN i dels altres vehicles usuaris de la via.", 
+        "title": "Incloure el fald\u00f3 'Excepte bicicletes' als senyals de direcci\u00f3 prohibida de les plataformes \u00faniques", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 26, 
+        "url": "https://decidim.barcelona/pam/proposals/incloure-el-faldo-excepte-bicicletes-als-senyals-de-direccio-prohibida-de-les-plataformes-uniques", 
+        "votable": null, 
+        "voted": null
+    }
+}

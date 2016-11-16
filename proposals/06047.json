@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6047", 
+        "conflictive": false, 
+        "created_at": "19/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 6047, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Actualment al Districte es d\u00f3na una concentraci\u00f3 de l'alumnat nouvingut a determinats centres, amb diferencies molt acosades entre els centres. Per tal d'equilibrar aquestes proporcions, caldria que l'Oficina de Matriculaci\u00f3 regul\u00e9s la inscripci\u00f3 i equilibr\u00e9s la proporci\u00f3 d'alumnes per evitar r\u00e0tios tant desequilibrades.", 
+        "title": "Reserva de matr\u00edcula (matr\u00edcula viva) per alumnes nouvinguts per evitar la seva concentraci\u00f3 a determinats centres.", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/reserva-de-matricula-matricula-viva-per-alumnes-nouvinguts-per-evitar-la-seva-concentracio-a-determinats-centres", 
+        "votable": null, 
+        "voted": null
+    }
+}

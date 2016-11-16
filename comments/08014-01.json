@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els estudiants de 3r ESO A de l\u2019Escola Sant Ram\u00f3n Nonat van participar en un debat on es van tractar diverses propostes per millorar el medi ambient de la ciutat. Aquests estudiants van proposar augmentar el nombre de banys p\u00fablics arreu de Barcelona, amb encarregats que vigilin per si hi ha alguna urg\u00e8ncia. </p>", 
+            "commentable_id": 8014, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 11:14:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7955, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els joves de l\u2019Agrupament Escolta Terra-Nova van participar a una cita presencial i van debatre diferents q\u00fcestions per millorar les condicions de vida de la poblaci\u00f3 de Barcelona. Aquests van proposar implantar lavabos p\u00fablics gratu\u00efts als carrers de Barcelona. Tamb\u00e9 van remarcar la necessitat de tenir cura de la neteja. </p>", 
+            "commentable_id": 8014, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 12:02:56", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9141, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

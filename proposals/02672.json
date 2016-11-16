@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 5426, 
+            "name": "Jordi Peries Sierra", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 5426, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2672", 
+        "conflictive": false, 
+        "created_at": "15/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2672, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Que hi hagi m\u00e9s instal\u00b7lacions esportives gratu\u00eftes a tots els barris de Barcelona. Actualment hi ha molts pocs espais habilitats per a aquest \u00fas. A conseq\u00fc\u00e8ncia d'aix\u00f2 hi ha massa acumulaci\u00f3 de gent i es impossible practicar res. Igual que hi ha parcs infantils, no costa res fer un parc de barres per practicar Streetworkout.", 
+        "title": "M\u00e9s instal\u00b7lacions esportives gratu\u00eftes", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 38, 
+        "url": "https://decidim.barcelona/pam/proposals/mes-instal-lacions-esportives-gratuites", 
+        "votable": null, 
+        "voted": null
+    }
+}

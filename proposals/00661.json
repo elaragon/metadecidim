@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-661", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 661, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Acord amb la Generalitat de la reactivaci\u00f3 de les obres per fer possible l\u2019obertura de metro a la Marina, en almenys dues estacions. Acord amb la Generalitat per a la construcci\u00f3 de l\u2019ascensor de la parada de metro L1 i L5 Pla\u00e7a de Sants. Exigir a l\u2019Estat espanyol la rehabilitaci\u00f3 dels entorns de Sants-Estaci\u00f3, compet\u00e8ncia d\u2019ADIF.", 
+        "title": "Exigir que es facin les obres necess\u00e0ries per assolir el dret a la mobilitat", 
+        "total_comments": 10, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 7, 
+        "total_positive_comments": 2, 
+        "total_votes": 63, 
+        "url": "https://decidim.barcelona/pam/proposals/exigir-que-es-facin-les-obres-necessaries-per-assolir-el-dret-a-la-mobilitat", 
+        "votable": null, 
+        "voted": null
+    }
+}

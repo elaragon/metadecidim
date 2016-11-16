@@ -1,0 +1,341 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 95, 
+                "name": "Orland Blasco", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>trobo que \u00e9s una proposta massa agosarada, poder busquem propostes menys prohibitives i mes convivencials entre tothom</p>", 
+            "commentable_id": 1565, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/02/2016 15:09:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1082, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1208, 
+                "name": "Jebimetal", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Mare meva... el que s'ha de llegir.</p>", 
+            "commentable_id": 1565, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/02/2016 19:10:14", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1096, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3340, 
+                "name": "pepepardo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Dues preguntes: \u00e9s que hi ha de \"bons h\u00e0bits de mort\"? prohibir pot ser un d'ells? hi ha deliris prohibicionistes dictats per actituds que fan fredat</p>", 
+            "commentable_id": 1565, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/02/2016 13:52:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1158, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3563, 
+                "name": "Ffla VI'a", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Mare meva...si es prohibeix el fum de tabac tamb\u00e9 s hauria de prohibir el fum de cotxes i motos..</p>", 
+            "commentable_id": 1565, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/02/2016 20:44:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1197, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10493, 
+                "name": "Urkiux", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord. Els fumadors han d'entendre que els no fumadors tenim dret a respirar sense fum a tot espai p\u00fablic: voreres per\u00f2 especialment en aquells casos en que hem de compartir espai: parades de transport p\u00fablics, cues d'espectacles, etc,</p>", 
+            "commentable_id": 1565, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/03/2016 22:12:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3695, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14179, 
+                "name": "micro0", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tan costa d'entendre, als fumadors, que als no-fumadors no ens agrada respirar fum? Fa molta r\u00e0bia estar pujant les escales del metro i de cop et colpegi a la cara una bafarada de fum de tabac. N'hi ha fumadors que en aquest sentit s\u00f3n uns inc\u00edvics. No s\u00e9 fins a quin punt \u00e9s viable la proposta que fas, per\u00f2 al menys serviria per a que els fumadors s'enrecordin de que tenen altra gent al voltant.</p>", 
+            "commentable_id": 1565, 
+            "commentable_type": "Proposal", 
+            "created_at": "19/03/2016 21:35:13", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5938, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1082", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1261, 
+                "name": "Daniel #NoalTTIP", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Potser s\u00ed... pero tamb\u00e9 sonar\u00eda agosarat al seu d\u00eda prohibir fumar als avions i als ascensors i avui se'ns fa impensable que un d\u00eda es fes. De totes maneres potser s'hauria d'anar m\u00e9s poc a poc. Suposo que si \u00e9s pren\u00e9s una mesura d'aquesta mida hi haur\u00eda un bon enrenou. Pero a la llarga, segueixo pensant que \u00e9s una bona mesura.  </p>", 
+            "commentable_id": 1565, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/02/2016 18:21:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1186, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1096", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1261, 
+                "name": "Daniel #NoalTTIP", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Visca el jebimetal!</p>", 
+            "commentable_id": 1565, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/02/2016 18:22:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1187, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1096/1187", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1208, 
+                "name": "Jebimetal", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Visca!</p>", 
+            "commentable_id": 1565, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/02/2016 21:01:56", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1203, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1158", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1261, 
+                "name": "Daniel #NoalTTIP", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hi ha bons h\u00e0bits de vida :) Ja s\u00e9 que la proposta sona radical. El primer que vaig pensar jo a Tokyo quan vaig veure la prohibici\u00f3 va ser que \"aquest japos est\u00e1n locos\". Pero despr\u00e9s, ja a la nostre ciutat, al tragar al fum d'algun fumador sense demanar-ho vaig pensar... doncs potser no \u00e9s tan mala idea. Potser... si fos fumador suposo que ho veuria d'altre manera. Pero el debat no far\u00e0 mal a ning\u00fa i portar\u00e0 caloret. </p>", 
+            "commentable_id": 1565, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/02/2016 18:17:20", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1184, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 6, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,341 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6739, 
+                "name": "Salvador Barrau V.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>dit d'altre manera qu\u00e8 es el que proposeu ?</p>", 
+            "commentable_id": 123, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/02/2016 15:38:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2284, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/reformulacio-de-les-taules-de-prevencio-i-seguretat-al-districte\">https://decidim.barcelona/proposals/reformulacio-de-les-taules-de-prevencio-i-seguretat-al-districte</a></p>", 
+            "commentable_id": 123, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 14:32:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14838, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/potenciar-la-seguretat-i-la-convivencia-ciutadanes-com-a-part-del-model-cultural-i-de-la-identitat-dels-barris\">https://decidim.barcelona/proposals/potenciar-la-seguretat-i-la-convivencia-ciutadanes-com-a-part-del-model-cultural-i-de-la-identitat-dels-barris</a></p>", 
+            "commentable_id": 123, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 14:33:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14839, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/dignificar-el-carrrer-d-en-roca-gotic\">https://decidim.barcelona/proposals/dignificar-el-carrrer-d-en-roca-gotic</a></p>", 
+            "commentable_id": 123, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 14:48:14", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14857, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/consolidar-les-taules-de-prevencio-i-seguretat-al-barri-del-raval\">https://decidim.barcelona/proposals/consolidar-les-taules-de-prevencio-i-seguretat-al-barri-del-raval</a></p>", 
+            "commentable_id": 123, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 14:58:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14861, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/mejorar-la-seguridad-en-el-barrio-mas-civismo-y-mas-comunicacion-entre-personas-mayores-y-jovenes\">https://decidim.barcelona/proposals/mejorar-la-seguridad-en-el-barrio-mas-civismo-y-mas-comunicacion-entre-personas-mayores-y-jovenes</a></p>", 
+            "commentable_id": 123, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 15:04:27", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14865, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/reformulacio-de-les-taules-de-prevencio-i-seguretat-al-districte-0096ec36-7fd5-4835-ab14-2d8a31d3d3b6\">https://decidim.barcelona/proposals/reformulacio-de-les-taules-de-prevencio-i-seguretat-al-districte-0096ec36-7fd5-4835-ab14-2d8a31d3d3b6</a></p>", 
+            "commentable_id": 123, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 15:46:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14874, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/impulsar-la-cultura-del-pacte-en-temes-relacionars-amb-l-espai-public\">https://decidim.barcelona/proposals/impulsar-la-cultura-del-pacte-en-temes-relacionars-amb-l-espai-public</a></p>", 
+            "commentable_id": 123, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 15:54:27", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14880, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/reformulacio-de-les-taules-de-prevencio-i-seguretat-al-districte-8ae0a562-0b2b-45e5-8ecb-65a536aa01dc\">https://decidim.barcelona/proposals/reformulacio-de-les-taules-de-prevencio-i-seguretat-al-districte-8ae0a562-0b2b-45e5-8ecb-65a536aa01dc</a></p>", 
+            "commentable_id": 123, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 16:10:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14894, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/disminuir-el-soroll-i-augmentar-la-seguretat-del-carrer-c-cera\">https://decidim.barcelona/proposals/disminuir-el-soroll-i-augmentar-la-seguretat-del-carrer-c-cera</a></p>", 
+            "commentable_id": 123, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 16:25:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14909, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 10, 
+        "total_pages": 1
+    }
+}

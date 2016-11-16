@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 5178, 
+            "name": "Regalim", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 5178, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2616", 
+        "conflictive": false, 
+        "created_at": "12/02/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2616, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Voreres amples i menys carrils al passeig de Sant Gervasi i als carrers que pugen i baixen de la Ronda. Limitar els cotxes per anar a les escoles. Que creuar el passeig de Sant Gervasi a l'al\u00e7ada de la pla\u00e7a Kennedy no sigui tan perill\u00f3s com ara. Pacificar el barri. Limitar velocitat dels cotxes. Ampliar l'espai per a petons. Carrils bici segurs", 
+        "title": "Reducci\u00f3 de la contaminaci\u00f3 de l'aire i limitaci\u00f3 del tr\u00e0nsit ", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 2, 
+        "total_votes": 54, 
+        "url": "https://decidim.barcelona/pam/proposals/reduccio-de-la-contaminacio-de-l-aire-i-limitacio-del-transit", 
+        "votable": null, 
+        "voted": null
+    }
+}

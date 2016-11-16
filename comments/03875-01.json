@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6739, 
+                "name": "Salvador Barrau V.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Museus de la Generalitat de Catalunya per a major de 65 anys gratu\u00eft. els de l'ajuntament no. Np obstant segons a quines hores es gratu\u00eft. Seria bo un protocol m\u00e9s realista pels barcelonins.</p>", 
+            "commentable_id": 3875, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/03/2016 23:42:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3593, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10474, 
+                "name": "mdlrosa", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si paguem impostos per mantenir-los tamb\u00e9 hi tenim dret a tenir-hi accessibilitat a preus assequibles</p>", 
+            "commentable_id": 3875, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/03/2016 19:47:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3681, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12442, 
+                "name": "GerardML", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si es vol potenciar la cultura i l'acc\u00e8s a la mateixa, els barcelonins han de ser els protagonistes d'aquest canvi, per aix\u00f2, no nom\u00e9s els majors de 65 anys, sin\u00f3 que tots els empadronats haurien de tenir un acc\u00e8s m\u00e9s f\u00e0cil, ja sgui reduint-se el preu o fent gratuits alguns dels equipaments</p>", 
+            "commentable_id": 3875, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 00:47:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4937, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

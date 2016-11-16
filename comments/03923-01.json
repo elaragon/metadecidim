@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11102, 
+                "name": "ManuelV", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Fomentar l'us veinal del Park guell</p>", 
+            "commentable_id": 3923, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 11:28:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4128, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2299, 
+                "name": "arteso", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Crec que s\u00b4ha de ser tolerant amb els artistes locals ja que aporten un valor afegit amb les seves obres i creacions; per\u00f2 per contra no s\u00b4ha de tolerar ni permetre el top manta a espais p\u00fablics com el Parc G\u00fcell que el degraden encara m\u00e9s i el converteixen en un zoco. </p>", 
+            "commentable_id": 3923, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 21:09:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4280, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 1, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4280", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16138, 
+                "name": "Ojosdegoma", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Qu\u00e9 horrible es eso que has dicho. Los locales tienen derecho y los  de fuera no?? </p>", 
+            "commentable_id": 3923, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 15:16:27", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6987, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4280/6987", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7482, 
+                "name": "mar", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Crec que no es tracta si s\u00f3n d'aqu\u00ed o d'all\u00e0 sin\u00f3 si el que s'ofereix \u00e9s creaci\u00f3 pr\u00f2pia i \n<br />artesanal o no...</p>", 
+            "commentable_id": 3923, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 12:51:00", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7162, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

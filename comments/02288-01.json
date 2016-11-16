@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 164, 
+                "name": "J. Gabriel Gallart", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>He obert aquesta proposta, espero el vostre suport:  <a href=\"https://decidim.barcelona/proposals/incloure-el-faldo-excepte-bicicletes-als-senyals-de-direccio-prohibida-de-les-plataformes-uniques\">https://decidim.barcelona/proposals/incloure-el-faldo-excepte-bicicletes-als-senyals-de-direccio-prohibida-de-les-plataformes-uniques</a></p>", 
+            "commentable_id": 2288, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 19:00:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4265, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11846, 
+                "name": "F1967", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Millorar xarxa carrils bici. Ser mes estrictes amb les bicicletes que circulen per les voreres ( hi ha descerebrats que ho fan sense respectar als vianats). Les bicicletes ha de respectar els semafors , provoquen accidents i sustos al vianants. Tampoc harien de parar a les zones de gir dels xafrans. Es poden produir accidents al girar altres vehicles. Avisar als vianats als carrers ho hi ha carrils bicicleta en sentit contrari al del transit del carrer.</p>", 
+            "commentable_id": 2288, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/03/2016 08:16:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4680, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 2, 
+            "total_likes": 1, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 613, 
+                "name": "Josep M Armengou", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aix\u00f2 nom\u00e9s \u00e9s possible si els ciclistes s'adequen del tot a la marxa dels vianants m\u00e9s lents, sense senyals ac\u00fastics, sense zigazagues, sense anar arran de fa\u00e7anes. Han de teneir consci\u00e8ncia de dur un vehicle. Val per a qualsevol altre estri amb rodes.</p>", 
+            "commentable_id": 2288, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 12:26:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9162, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

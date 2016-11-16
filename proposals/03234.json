@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 205, 
+            "name": "Roger Amig\u00f3", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 205, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3234", 
+        "conflictive": false, 
+        "created_at": "22/02/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/proposals/eleccio-mes-democratica-dels-consellers-i-conselleres-de-districte", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3234, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 18, 
+            "name": "Participaci\u00f3 ciutadana", 
+            "position": 2
+        }, 
+        "summary": "Elecci\u00f3 directe dels consellers i les conselleres de Districte : iniciar proc\u00e9s per definir com fer-ho, quines funcions i atribucions han de tenir, amb la finalitat d'enfortir la proximitat i la descentralitzaci\u00f3.\r\n\r\nPreparar una prova pilot al Districte de Gr\u00e0cia.", 
+        "title": "Elecci\u00f3 directe dels consellers i les conselleres de Districte", 
+        "total_comments": 6, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 5, 
+        "total_votes": 143, 
+        "url": "https://decidim.barcelona/pam/proposals/eleccio-directe-dels-consellers-i-les-conselleres-de-districte", 
+        "votable": null, 
+        "voted": null
+    }
+}

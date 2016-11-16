@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10721, 
+                "name": "Ravaletes", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Fer un control dels locals que s'ocupen per viure de manera fraudulenta i amb condicions infrahumanes. Multa els propietaris i els llogaters que relloguen aquests espais. Tancar aquests locals i fer un seguiment per tal que no es tornin a ocupar</p>", 
+            "commentable_id": 4408, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 11:55:22", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4137, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11373, 
+                "name": "Ana Ripoll", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Incentivar el uso comercial de los locales vac\u00edos en Ciutat Vella parece una propuesta interesante pero por favor NO MAS SUPERMERCADOS Y TIENDAS DE FUNDAS DE MOVILES!!!!</p>", 
+            "commentable_id": 4408, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/03/2016 11:37:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4365, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

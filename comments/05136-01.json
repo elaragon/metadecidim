@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13084, 
+                "name": "cbl", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si el bus en concret no est\u00e0 preparat pot ser perill\u00f2s per a la persona que l'utilitza com per a la resta de viatgers del bus (frenades, corbes...), per tant primer haurien d'adaptar-se t\u00e8cnicament, i estar homologats els busos i els vehicles scooters per la seguretat de tothom</p>", 
+            "commentable_id": 5136, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 19:06:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5312, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5557, 
+                "name": "Laurag", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Complementant aquesta proposta, afegeixo que caldria oferir l'oportunitat als centres esportius municipals d'accedir nom\u00e9s a \u00e0rees concretes com per exemple a la piscina i no haver de pagar la quota mensual sencera. A Can Felipa tenien un sistema de tiquets on l'usuari interessat en la piscina podia accedir-hi a un preu m\u00e9s econ\u00f2mic, ja que no havia d'utilitzar la resta d'instal\u00b7lacions.</p>", 
+            "commentable_id": 1483, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 16:06:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4552, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9119, 
+                "name": "A\u00efda Bravo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La necessitat d'un nou institut p\u00fablic al districte de Les Corts comen\u00e7a a ser urgent. La projecci\u00f3 d'aquest nou institut, b\u00e9 al solar buit del carrer num\u00e0ncia/anglesola, o en l'ubicaci\u00f3 que es consideri, hauria d'anar en paral\u00b7lel al nou projecte obert d'ubicar una escola bressol i una l\u00ednia de l'IES Les Corts al recinte de la Maternitat. </p>", 
+            "commentable_id": 2490, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/02/2016 17:52:01", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2990, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12088, 
+                "name": "DolorsCarrera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hi ha una  proposta id\u00e8ntica \n<br /><a href=\"https://decidim.barcelona/proposals/impulsar-la-creacio-d-un-nou-institut-al-districte\">https://decidim.barcelona/proposals/impulsar-la-creacio-d-un-nou-institut-al-districte</a>\n</p>", 
+            "commentable_id": 2490, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 11:23:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4772, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/impulsar-la-creacio-d-un-nou-institut-al-districte\">https://decidim.barcelona/proposals/impulsar-la-creacio-d-un-nou-institut-al-districte</a></p>", 
+            "commentable_id": 2490, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 09:31:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15107, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

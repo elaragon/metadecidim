@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 359, 
+            "name": "MarcSensecotxe", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 359, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1150", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://habitat.aq.upm.es/boletin/n28/aasan.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1150, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Restringir la circulaci\u00f3 de vehicles a la ciutat i peatonalitzar determinats carrers i places per tal de:\r\n- Afavorir els despla\u00e7aments a peu i els no motoritzats\r\n- guanyar zones verdes i vies verdes\r\n- promoure nous usos mes amables de l'espai public (usos civics, ...)\r\n- pacificar la ciutat (menys soroll)\r\n- reduir la contaminacio ambiental", 
+        "title": "Barcelona mes peatonal", 
+        "total_comments": 8, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 6, 
+        "total_votes": 462, 
+        "url": "https://decidim.barcelona/pam/proposals/barcelona-mes-peatonal", 
+        "votable": null, 
+        "voted": null
+    }
+}

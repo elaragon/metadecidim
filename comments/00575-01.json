@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 959, 
+                "name": "Gemma At", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>S\u00ed pero sin olvidar que existe el \"Comprom\u00eds per Glories\" que incluye acabar el t\u00fanel de la Gran v\u00eda hasta Rambla del Poblenou. Que el ayuntamiento no se escude en la necesidad de hacer los equipamientos para robarnos el t\u00fanel por el que tanto hemos luchado. </p>", 
+            "commentable_id": 575, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 01:23:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 539, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

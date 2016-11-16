@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10682, 
+                "name": "AnnaM", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>L\u00ednies de bus absolutament insuficients, en particular les que uneixen centres d'inter\u00e9s (centres de salut, hospitals, el centre de la ciutat amb altres equipaments, etc. Ex: bus 37, bus 62, etc). La cadencia, en el millor dels sup\u00f3stis, d'aquestes l\u00ednies \u00e9s de 20 minuts, o sigui, 3 cada hora. Absolutament insuficient. No incentiva l'\u00fas del transport p\u00fablic.</p>", 
+            "commentable_id": 3292, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/03/2016 11:16:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3823, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Al debat que va tenir lloc a l\u2019Escola Bet\u00e0nia \u2013 Patmos, els estudiants de 3r d\u2019ESO B van proposar l\u2019ampliaci\u00f3 de la xarxa de transport p\u00fablic de la ciutat, ja que hi ha diverses \u00e0rees de Barcelona mal comunicades. </p>", 
+            "commentable_id": 3292, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/04/2016 11:08:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7684, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A la cita presencial que va tenir lloc a l\u2019Escola Sant Ram\u00f3n Nonat, els estudiants de 3r d\u2019ESO B van estar debatent diverses propostes per millorar el medi ambient de la ciutat, entre aquestes van proposar incrementar i millorar la xarxa de transport p\u00fablic de la ciutat per tal de promoure aquest transport. Van puntualitzar que volien un increment en la freq\u00fc\u00e8ncia de pas de l\u2019autob\u00fas LH2.  </p>", 
+            "commentable_id": 3292, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 12:34:31", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7972, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

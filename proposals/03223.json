@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 6372, 
+            "name": "AVV EL SANATORI", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 6372, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3223", 
+        "conflictive": false, 
+        "created_at": "21/02/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3223, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "L\u2019objectiu conjunt d\u2019aquests projectes \u00e9s la dignificaci\u00f3 de m\u00faltiples espais del barri.\r\nConsisteix en reformar alguna pla\u00e7a i crear de noves. Totes amb instal\u2022lacions familiars.\r\n* La pla\u00e7a de la Televisi\u00f3. \r\n* Pla\u00e7a de la Tulipa.\r\n* Albercoquers/Rossinyol.\r\n* Al costat del Casal i Can Rectoret (Explicades en unes altres Propostes)\r\nENTRA I DONA SUPORT", 
+        "title": "Condicionament de PLA\u00c7ES AL BARRI DEL RECTORET, necessitades de dignificaci\u00f3.", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 17, 
+        "url": "https://decidim.barcelona/pam/proposals/condicionament-de-places-al-barri-del-rectoret-necessitades-de-dignificacio", 
+        "votable": null, 
+        "voted": null
+    }
+}

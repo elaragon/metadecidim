@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4971, 
+                "name": "ECOM", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": true
+            }, 
+            "body": "<p>Us expliquem, m\u00e9s \u00e0mpliament, la nostra proposta:\n<br />-\tPosar en marxa campanyes de sensibilitzaci\u00f3 i educatives de forma peri\u00f2dica i sistem\u00e0tica, dirigides a tots els grups de poblaci\u00f3 de l'\u00e0mbit municipal sobre la realitat de les persones amb discapacitat. Aquesta tasca es complementaria amb campanyes d'informaci\u00f3 sobre la Convenci\u00f3 de la ONU i dels drets de les persones amb discapacitat entre els treballadors p\u00fablics locals.</p>", 
+            "commentable_id": 1808, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 11:58:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7357, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/ampliar-el-programa-de-vida-independent\">https://decidim.barcelona/proposals/ampliar-el-programa-de-vida-independent</a></p>", 
+            "commentable_id": 1808, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 13:25:01", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8483, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

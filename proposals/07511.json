@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 6831, 
+            "name": "Plataforma Afectats per l'hipoteca (PAH)", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 6831, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7511", 
+        "conflictive": false, 
+        "created_at": "31/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7511, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 6, 
+            "name": "Habitatge", 
+            "position": 6
+        }, 
+        "summary": "Des de la PAH creiem que \u00e9s una de les apostes fortes per poder fer politiques d'habitatge a llarg termini. Crear un cens \"viu\" on es detectin m\u00e9s inputs que pisos buits o no, per poder aplicar els reglaments vigents per fer cessions, regulacions a lloguers socials i/o multes per no cumplir amb normatives. ", 
+        "title": "Generar un cens de pisos buits de la ciutat de barcelona, definint: la proced\u00e9ncia (particular, gran tenidor, banc), la situaci\u00f3 d'habitabilitat (buit o ocupat), estat fisic (habitable o necesita rehablitaci\u00f3) i ubicaci\u00f3", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 41, 
+        "url": "https://decidim.barcelona/pam/proposals/generar-un-cens-de-pisos-buits-de-la-ciutat-de-barcelona-definint-la-procedencia-particular-gran-tenidor-banc-la-situacio-d-habitabilitat-buit-o-ocupat-estat-fisic-habitable-o-necesita-rehablitacio-i-ubicacio", 
+        "votable": null, 
+        "voted": null
+    }
+}

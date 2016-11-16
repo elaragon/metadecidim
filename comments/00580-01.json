@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5058, 
+                "name": "KARLOS", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A un preu raonable.</p>", 
+            "commentable_id": 580, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/02/2016 12:27:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1623, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2751, 
+                "name": "O.FLO", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>L'adquisici\u00f3 de l'Esg\u00e9sia no ha d'anar supeditada a la cessi\u00f3 al Consorci d'Educaci\u00f3. Primer s'ha d'adquirir per retornar l'espai al ve\u00efnat, despr\u00e9s s'ha de fer un proc\u00e9s participatiu per decidir-ne l'\u00fas, que pot ser cedir-lo al consorci o a qualsevol altra entitat que decideixin els ve\u00efns i ve\u00efnes. Crec que es tendenci\u00f2s supeditar una cosa a una altra, dona a entendre que si el Poblenou no cedeix l'espai al Consorci aquest no ha de ser adquirit. Penso que la pregunta pertinent hauria de ser si els ve\u00efns i ve\u00efnes volen que l'antiga esgl\u00e9sia de Sant Bernat Calb\u00f3 passi a ser de titularitat municipal. </p>", 
+            "commentable_id": 580, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 17:03:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4558, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

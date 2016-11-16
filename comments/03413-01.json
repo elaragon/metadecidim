@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aquesta proposta hauria d'anar dirigida a Barcelona en Com\u00fa i no al Pla d'Actuaci\u00f3 Municipal donat \u00e9s el partit qui pren aquesta decisi\u00f3.</p>", 
+            "commentable_id": 3413, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 20:41:55", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2747, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 827, 
+                "name": "Marga", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si es tracta de que calen explicacions perqu\u00e8 \u00e9s diner p\u00fablic, ho haureim de demanar a tots els que cobren de l'Ajuntament. No crec que sigui pertinent demanar aix\u00f2, ja ho resoldr\u00e0 BeC. La tranpar\u00e8ncia no crec que sigui aix\u00f2, la transpar\u00e8ncia \u00e9s saber en qu\u00e8 es gasten els diners i com es fan els pressupostos, els sous s\u00f3n de cadasc\u00fa.</p>", 
+            "commentable_id": 3413, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 18:32:26", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6623, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/desenvolupar-un-codi-etic-per-a-carrecs-electes-i-personal-directiu\">https://decidim.barcelona/proposals/desenvolupar-un-codi-etic-per-a-carrecs-electes-i-personal-directiu</a></p>", 
+            "commentable_id": 3413, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 10:26:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10305, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2747", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 512, 
+                "name": "Solidaritat Catalana per la Independ\u00e8ncia", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No es BeC qui paga els sous,sin\u00f3 l'Ajuntament,per tant els ciutadans.Van prometre transpar\u00e8ncia total i els hi donem l'oportunitat de fer-ho.Gr\u00e0cies pel comentari! :)</p>", 
+            "commentable_id": 3413, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 21:09:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2750, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2747/2750", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>T\u00e9 ra\u00f3 en qu\u00e8 \u00e9s l\u2019Ajuntament qui paga els sous, per\u00f2 \u00e9s Barcelona en Com\u00fa qui decideix com es gasten el romanent.\n<br />No cregui que no estic a favor de total transpar\u00e8ncia en les administracions p\u00fabliques per\u00f2 en aquest cas crec que la seva proposta no est\u00e0 ben adre\u00e7ada.\n<br />Salutacions,</p>", 
+            "commentable_id": 3413, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 21:16:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2752, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

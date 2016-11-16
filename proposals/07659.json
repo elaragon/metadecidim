@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7659", 
+        "conflictive": false, 
+        "created_at": "31/03/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 7659, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "El recorregut proposat \u00e9s: Carrer Sant Adri\u00e0 \u2013 Vigili, Rambla Fabra i Puig, Avinguda Meridiana, carrer de Palomar, carrer Fernando Pessoa, Passeig Santa Coloma, i pas pel barri de Bar\u00f3 de viver fins al Carrer de Sant Adri\u00e0.", 
+        "title": "Crear un bus de barri que cobreixi els centres sanitaris CAP Sant Andreu, CUAP Casernes i Cap de Bon Pastor ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/crear-un-bus-de-barri-que-cobreixi-els-centres-sanitaris-cap-sant-andreu-cuap-casernes-i-cap-de-bon-pastor", 
+        "votable": null, 
+        "voted": null
+    }
+}

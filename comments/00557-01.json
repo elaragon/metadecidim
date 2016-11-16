@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1902, 
+                "name": "Mariano V", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Que tambi\u00e9n realicen labores de mediaci\u00f3n y control del turismo; de las terrazas,  n\u00famero de mesas y sillas, espacio que ocupan en la via p\u00fablica,  cumplimiento de horarios. Molestias que ocasionan en las entradas e idas y venidas a los hoteles,</p>", 
+            "commentable_id": 557, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/02/2016 23:08:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 511, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/major-presencia-coordinacio-de-la-guardia-urbana-i-els-mossos-d-esquadra-i-amb-els-agents-civics-clarificant-la-competencia-de-cada-cos\">https://decidim.barcelona/proposals/major-presencia-coordinacio-de-la-guardia-urbana-i-els-mossos-d-esquadra-i-amb-els-agents-civics-clarificant-la-competencia-de-cada-cos</a></p>", 
+            "commentable_id": 557, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 14:38:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15752, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/substituir-el-carnet-de-tinenca-civica-per-la-regulacio-amb-agents-civics\">https://decidim.barcelona/proposals/substituir-el-carnet-de-tinenca-civica-per-la-regulacio-amb-agents-civics</a></p>", 
+            "commentable_id": 557, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 16:16:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15890, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "511", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5058, 
+                "name": "KARLOS", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalmente de acuerdo con tu comentario</p>", 
+            "commentable_id": 557, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/02/2016 12:25:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1621, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4036, 
+            "name": "Jaume Elias i Boy\u00e9", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4036, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2738", 
+        "conflictive": false, 
+        "created_at": "17/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2738, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 5, 
+            "name": "Cicles de vida ", 
+            "position": 5
+        }, 
+        "summary": "Destinar terrenys, edificis ja constru\u00efts, o rehabilitar patrimoni en des\u00fas per possibilitar la creaci\u00f3 de vivendes col\u00b7laboratives de gent gran, autogestionades, amb espais d'interrelaci\u00f3 i serveis comuns, pensades per a viure-hi els darrers anys de la vida amb els serveis necessaris, mantenint una bona integraci\u00f3 en el teixit social de la ciutat.", 
+        "title": "Espais autogestionats i cooperatius amb serveis comuns per a la vellesa.", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 3, 
+        "total_votes": 26, 
+        "url": "https://decidim.barcelona/pam/proposals/espais-autogestionats-i-cooperatius-amb-serveis-comuns-per-a-la-vellesa", 
+        "votable": null, 
+        "voted": null
+    }
+}

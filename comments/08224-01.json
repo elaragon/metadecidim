@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14799, 
+                "name": "Ana Men\u00e9ndez ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No n'hi ha prou amb \"c\u00edvics\" cartells de no mloestar als ve\u00efns, s'han de prendre mesures com aquesta, que permetin la vida del ve\u00efnat a Ciutat Vella i altres districtes de la ciutat castigats per la lacra del soroll.</p>", 
+            "commentable_id": 8224, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 01:38:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10159, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

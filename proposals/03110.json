@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3110", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3110, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Construir les instal\u00b7lacions esportives a la Mag\u00f2ria, un cop signada la sessi\u00f3 per part de la Generalitat. Planificar el Poliesportiu de la Satalia. Remodelar el camp de futbol Juli\u00e0 de Capmany. Ampliar els vestidors a La B\u00e0scula. Acabar les noves pistes esportives a la Marina i el Poliesportiu Energia.  Construir el Pavell\u00f3 Terra Negra a l\u2019IES Consell de Cent (CEB).", 
+        "title": "Millorar i augmentar els equipaments esportius", 
+        "total_comments": 16, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 15, 
+        "total_positive_comments": 1, 
+        "total_votes": 26, 
+        "url": "https://decidim.barcelona/pam/proposals/millorar-i-augmentar-els-equipaments-esportius", 
+        "votable": null, 
+        "voted": null
+    }
+}

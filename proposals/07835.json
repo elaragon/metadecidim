@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 7474, 
+            "name": "AValverde", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 7474, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-7835", 
+        "conflictive": false, 
+        "created_at": "01/04/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "https://www.google.de/maps/@41.4323884,2.1828913,3a,75y,163.55h,82.82t/data=!3m6!1e1!3m4!1sgmj2OKUUWz9mlanNCNzZuw!2e0!7i13312!8i6656?hl=es", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7835, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Per connectar millor Sant Andreu amb Nou Barris i el Parc de Can Drag\u00f3 es necessita un nou pas de vianants a l'avinguda Meridiana situat al carrer de S\u00f2crates on finalitza l'estaci\u00f3 d'Autobusos de Fabra i Puig. Els vehicles que surten de Barcelona ja tenen un sem\u00e0for. Els altres passos de vianants estan situats a m\u00e9s de 200 metres de dist\u00e0ncia.", 
+        "title": "Av. Meridiana - Carrer Socrates: Nou Pas de Vianants", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 6, 
+        "url": "https://decidim.barcelona/pam/proposals/av-meridiana-carrer-socrates-nou-pas-de-vianants", 
+        "votable": null, 
+        "voted": null
+    }
+}

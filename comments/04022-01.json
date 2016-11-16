@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10569, 
+                "name": "Monix ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Queremos un parque digno y seguro para nuestros ni\u00f1os</p>", 
+            "commentable_id": 4022, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/03/2016 17:44:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3741, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10569, 
+                "name": "Monix ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Y que quiten el bicing alrededor del parque los ni\u00f1os lo interpretan como una continuaci\u00f3n del parque y es un peligro . Los ni\u00f1os se tratan el humo  de los camiones que aparcan delante del parque. \n<br />El suelo de caucho est\u00e1 a parches se sale a trozos,  siempre est\u00e1 sucio. \n<br />Es un parque muy mediocre para tres colegios colindantes Angel Baixeras, Sagrada Familia, Neri. \n<br />Por favor unas instalaciones dignas para los ni\u00f1os y de todas las edades que siempre se olvidan de los ni\u00f1o 6 a 12 a\u00f1os. \n<br /> </p>", 
+            "commentable_id": 4022, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/03/2016 22:29:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3881, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10886, 
+                "name": "Maria Ca\u00f1izares", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Eliminar todo tipo de veh\u00edculo colindante y ampliaci\u00f3n de zona de juego. Es uno de los pocos espacios para ni\u00f1os en el g\u00f3tico y es peque\u00f1o y bastante mediocre. Y estudiar la viabilidad de instalar alg\u00fan elemento q evite el viento que siempre hay en esa zona!!!</p>", 
+            "commentable_id": 4022, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/03/2016 14:43:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3942, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10886, 
+                "name": "Maria Ca\u00f1izares", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Muy a favor!</p>", 
+            "commentable_id": 4022, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/03/2016 14:44:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3943, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

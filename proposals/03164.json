@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 512, 
+            "name": "Solidaritat Catalana per la Independ\u00e8ncia", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 512, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3164", 
+        "conflictive": false, 
+        "created_at": "19/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3164, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Cal fomentar des de l'escola,especialmenr els m\u00e9s menuts el respecte i l'acceptaci\u00f3 d'altres maneres d'entendre la vida com l'homosexualitat,la religi\u00f3,els diversos models familiars,espiritualitat,ra\u00e7a,g\u00e8nere,valors democr\u00e0tics,cultura de la pau i d'altres valors convivencials.", 
+        "title": "Foment desde l'inf\u00e0ncia del respecte per la sexualitat,religi\u00f3 i creences d'\u00edndole espiritual.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 25, 
+        "url": "https://decidim.barcelona/pam/proposals/foment-desde-l-infancia-del-respecte-per-la-sexualitat-religio-i-creences-d-indole-espiritual", 
+        "votable": null, 
+        "voted": null
+    }
+}

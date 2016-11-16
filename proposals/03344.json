@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 7822, 
+            "name": "Marta Annapurna", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 7822, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3344", 
+        "conflictive": false, 
+        "created_at": "24/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3344, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Prohibir la circulaci\u00f3 d'aquelles motocicletes que superin els l\u00edmits de so establerts com a saludables, fent prevaler els drets a la salut per damunt de la compensaci\u00f3 econ\u00f2mica o c\u00e0non a les Administracions.", 
+        "title": "Prohibir la circulaci\u00f3 de motocicletes que superin els llindars sonors establerts com a saludables", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 33, 
+        "url": "https://decidim.barcelona/pam/proposals/prohibir-la-circulacio-de-motocicletes-que-superin-els-llindars-sonors-establerts-com-a-saludables", 
+        "votable": null, 
+        "voted": null
+    }
+}

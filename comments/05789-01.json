@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16493, 
+                "name": "Marta75", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ser\u00e0 molt interessant si s'arriba a fer doncs el parc dels tres turons deixaria de fer olor a orins i deposicions de gossos. Tamb\u00e9 es podria extendre algun sistema per a diluir els orins, fent campanya per a qu\u00e8 aboquin aigua cada cop que orinen, o quelcom que eviti la olor, ecol\u00f2gic.</p>", 
+            "commentable_id": 5789, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 17:22:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7243, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2007, 
+                "name": "efm", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si us plau feu alguna cosa! el carrer n'est\u00e0 ple i els parcs tamb\u00e9 (Pla\u00e7a salvador allende, Pla\u00e7a boyeros) ja no es que no puguin jugar per la bruticia, es que no es pot ni respirar....</p>", 
+            "commentable_id": 5789, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 11:24:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10466, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

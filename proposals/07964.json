@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 17350, 
+            "name": "Xamfr\u00e0, centre de m\u00fasica i escena (LArc Taller de M\u00fasica FP)", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 17350, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-7964", 
+        "conflictive": false, 
+        "created_at": "03/04/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7964, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Al carrer hi ha un centre al que hi van nens i nenes de 4-12 anys que poden sortir sobtadament i exposar-se a un accident ja que la via \u00e9s estreta i passen cotxes a velocitats que representen un perill. Propusem que hi hagi un senyal indicant  prioritat absoluta de vianant,posar  bandes que obliguin a disminuir la velocitat,millorar la il\u00b7luminaci\u00f3", 
+        "title": "Carrer de les T\u00e0pies, un punt conflictiu al Cam\u00ed escolar del Raval sud.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 37, 
+        "url": "https://decidim.barcelona/pam/proposals/carrer-de-les-tapies-un-punt-conflictiu-al-cami-escolar-del-raval-sud", 
+        "votable": null, 
+        "voted": null
+    }
+}

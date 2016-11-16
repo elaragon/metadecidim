@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 3384, 
+            "name": "Plataforma ProSeleccions Esportives Catalanes", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 3384, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1687", 
+        "conflictive": false, 
+        "created_at": "10/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1687, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Cal redefinir la imatge de la ciutat de Barcelona, acostumada a organitzar grans esdeveniments d'esport d'elit (Mundials, Europeus, Copa Davis...), per transformar-la en una ciutat m\u00e9s propera als esdeveniments mitjans o petits i d'esports no majoritaris. S'ha de fer un canvi de pol\u00edtica en benefici de la pluralitat esportiva de la ciutat.", 
+        "title": "Que Barcelona sigui una ciutat multiesportiva i no nom\u00e9s de grans esdeveniments", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 34, 
+        "url": "https://decidim.barcelona/pam/proposals/que-barcelona-sigui-una-ciutat-multiesportiva-i-no-nomes-de-grans-esdeveniments", 
+        "votable": null, 
+        "voted": null
+    }
+}

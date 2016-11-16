@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 777, 
+            "name": "Toniribas", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 777, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3289", 
+        "conflictive": false, 
+        "created_at": "23/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://www.facebook.com/PlayGroundMag/videos/1081851875188021/?fref=nf", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3289, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 17, 
+            "name": "Energia i canvi clim\u00e0tic", 
+            "position": 5
+        }, 
+        "summary": "Seguint l'exemple de ciutats com Hamburg, reduir l'\u00fas de platic a les depend\u00e8ncies municipals:  gots rebutjables, c\u00e0psules de caf\u00e9, ampolles o garrafes d'aig\u00fca, bol\u00edgrafs i altre material d'oficina, etc.", 
+        "title": "Eliminaci\u00f3 progressiva del pl\u00e0stic en depend\u00e8ncies municipals", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 56, 
+        "url": "https://decidim.barcelona/pam/proposals/eliminacio-progressiva-del-plastic-en-dependencies-municipals", 
+        "votable": null, 
+        "voted": null
+    }
+}

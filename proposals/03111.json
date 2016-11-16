@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3111", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3111, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Reurbanitzar els carrers del Tinent Flomesta entre els carrers d\u2019Antoni de Capmany i de Sants, del carrer de Violant d'Hongria entre rambla del Brasil i el carrer de Joan G\u00fcell, del carrer del Corral, del carrer de Guitard, del carrer de Melcior de Palau, de la pla\u00e7a d\u2019Osca i el carrer de Riego, del carrer dels Jocs Florals, del carrer de Casteras, del carrer de Radas, del carrer de Carreras Candi, de la pla\u00e7a d\u2019Espanya amb el carrer de  la Creu Coberta, de la pla\u00e7a de Margarida Xirgu i accessos (carrers de la Conc\u00f2rdia i la Pur\u00edssima), del passatge Martras (La Satalia), del passeig de la Zona Franca, de la pla\u00e7a del Mig i del Casal de Barri de Can Clos. Urbanitzar la Mag\u00f2ria, obrir el carrer de Juan de Sada entre els carrers de Miquel \u00c0ngel i de Roger, i el carrer de la Diputaci\u00f3. Gesti\u00f3 urban\u00edstica i urbanitzaci\u00f3 del calaix banda mar, la pla\u00e7a de l\u2019Olivereta, i remodelar l\u2019estaci\u00f3 d'autobusos de Sants.", 
+        "title": "Rehabilitaci\u00f3 del teixit urb\u00e0", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 14, 
+        "url": "https://decidim.barcelona/pam/proposals/rehabilitacio-del-teixit-urba", 
+        "votable": null, 
+        "voted": null
+    }
+}

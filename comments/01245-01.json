@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4620, 
+                "name": "Paola Mulero Molina", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>es podrien habilitar puntualment altres equipaments del barri per poder oferir aquest servei puntual (en \u00e8poques d'ex\u00e0mens tant de la Universitat com de batxillerat) obrint sales d'estudi nocturnes i/o caps de setmana , com l'espai jove o el Casal de Joves.   Abans de que s'obris la Biblioteca del Vapor Vell a Sants, l'equipament de joves La Casa del Mig donava aquest servei de 22h a 2h o 3h en les \u00e8poques d'ex\u00e0mens.</p>", 
+            "commentable_id": 1245, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/02/2016 14:49:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1521, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/programes-de-reforc-escolar\">https://decidim.barcelona/proposals/programes-de-reforc-escolar</a></p>", 
+            "commentable_id": 1245, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 09:26:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15103, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

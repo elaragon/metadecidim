@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 496, 
+            "name": "metacrilat", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 496, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1181", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1181, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 24, 
+            "name": "Un nou lideratge p\u00fablic", 
+            "position": 3
+        }, 
+        "summary": "Despr\u00e9s d'una pujada del valor cadastral del 20% en 3 anys, \u00e9s necess\u00e0ria una congelaci\u00f3 d'aquest impost durant un per\u00edode no inferior a 3 anys. Aquesta congelaci\u00f3 podria afectar nom\u00e9s a les vivendes humils, per exemple, que tinguin un valor cadastral inferior a 60.000 euros o una superf\u00edcie inferior als 100 metres quadrats.", 
+        "title": "Congelaci\u00f3 de l'IBI a les vivendes modestes", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 45, 
+        "url": "https://decidim.barcelona/pam/proposals/congelacio-de-l-ibi-a-les-vivendes-modestes", 
+        "votable": null, 
+        "voted": null
+    }
+}

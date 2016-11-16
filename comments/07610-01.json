@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els infants de l\u2019esplai Abat Cassi\u00e0 van estar debatent diferents millores pel medi ambient de la ciutat. Van proposar construir m\u00e9s pistes de b\u00e0squet al barri de Gr\u00e0cia ja que nom\u00e9s hi ha a la pista del Parc de les Aig\u00fces. </p>", 
+            "commentable_id": 7610, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 11:03:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9119, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "9119", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7482, 
+                "name": "mar", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La pista d'av. Vallcarca \u00e9s un excel.lent exemple d'aprofitament d'un solar buit, aix\u00ed com la reconversi\u00f3 del solar del costat dels Josepets a Lesseps</p>", 
+            "commentable_id": 7610, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 12:14:26", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9147, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

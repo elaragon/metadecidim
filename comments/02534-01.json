@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 369, 
+                "name": "Maclaren", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>en un marc de refor\u00e7 i millora de l'administraci\u00f3.</p>", 
+            "commentable_id": 2534, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/02/2016 13:02:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1712, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2480, 
+                "name": "Albert99", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>totalment a favor que l'Ajuntament sigui m\u00e9s \u00e0gil i r\u00e0pid en les respostes a la ciutadania, per\u00f2 siguem seriosos... cada vegada hi ha menys treballadores p\u00fabliques (no tan sols a l'Ajuntament, sin\u00f3 de qualsevol administraci\u00f3), que fan que els serveis p\u00fablics es deteriorin i no puguin respondre \u00e0gilment i r\u00e0pida </p>", 
+            "commentable_id": 2534, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/02/2016 10:20:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1983, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 827, 
+                "name": "Marga", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Cal agilitat i amb el suport dels ordinadors tot es podria fer m\u00e9s lleuger, pels treballadors i els usuaris. Cal voluntat.</p>", 
+            "commentable_id": 2534, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 18:25:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6620, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

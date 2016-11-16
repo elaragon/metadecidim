@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7440, 
+                "name": "Inma Vicente Molina", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els diumenges a la tarda i a l'agost tamb\u00e9 volem biblioteques obertes a tots els barris.</p>", 
+            "commentable_id": 3902, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 14:58:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8628, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 23161, 
+                "name": "Serena", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Creo que hay que priorizar el gasto dedicado a bibliotecas sobre todo para incrementar las horas y d\u00edas de apertura, versus la creaci\u00f3n de nuevas bibliotecas. C\u00f3mo ocurre en pr\u00e1cticamente todas las ciudades europeas y norteamericanas que he conocido, las bibliotecas son lugares de reuni\u00f3n, esparcimiento sano y refugio cultural para much\u00edsimas personas. Tener magn\u00edficas bibliotecas cerradas tardes y fines de semana no tiene ning\u00fan sentido.   </p>", 
+            "commentable_id": 3902, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 17:37:31", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12566, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

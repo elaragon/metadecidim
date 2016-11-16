@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 9317, 
+            "name": "Cecilia Illa Malvehy", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 9317, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4949", 
+        "conflictive": false, 
+        "created_at": "14/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "Estimado [alcalde / alcaldesa]: El pr\u00f3ximo 19 de marzo, de 20.30 a 21.30h, apagar\u00e9 la luz junto a millones de personas de todo el mundo en la Hora del Planeta. Es la mayor iniciativa global en defensa del medio ambiente, un gesto simb\u00f3lico para darle un respiro al planeta y reclamar acci\u00f3n contra el cambio clim\u00e1tico.  Como cada a\u00f1o, WWF \u2013la organizaci\u00f3n promotora de la iniciativa- est\u00e1 pidiendo a los pueblos y ciudades espa\u00f1olas que se sumen apagando los principales monumentos durante la Hora del Planeta, e impulsando medidas contra el cambio clim\u00e1tico como reducir el gasto de energ\u00eda en los edificios municipales o promover el autoconsumo y la rehabilitaci\u00f3n energ\u00e9tica.  Aunque el cambio clim\u00e1tico es un problema global, actuar desde lo local es fundamental. Un municipio m\u00e1s responsable con el clima y el planeta es tambi\u00e9n un municipio m\u00e1s limpio, m\u00e1s verde y m\u00e1s habitable. Me gustar\u00eda que [introduce el nombre de tu municipio] fuese as\u00ed, y por eso le animo a sumarse a la Hora del Planeta 2016.  Toda la informaci\u00f3n para apuntarse est\u00e1 en la web www.horadelplaneta.es/ciudades Como dice el lema de la campa\u00f1a, \u201cAhora es el momento\u201d. Espero ver pronto a nuestro municipio en el mapa y que empecemos a cambiar por el clima, no s\u00f3lo en esta hora simb\u00f3lica sino los 365 d\u00edas del a\u00f1o.  Muchas gracias por su atenci\u00f3n, Cecilia Illa Malvehy , Barcelona", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4949, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 17, 
+            "name": "Energia i canvi clim\u00e0tic", 
+            "position": 5
+        }, 
+        "summary": "Estimado [alcalde / alcaldesa]:\r\n\r\nEl pr\u00f3ximo 19 de marzo, de 20.30 a 21.30h, apagar\u00e9 la luz junto a millones de personas de todo el mundo en la Hora del Planeta. Es la mayor iniciativa global en defensa del medio ambiente, un gesto simb\u00f3lico para darle un respiro al planeta y reclamar acci\u00f3n contra el cambio clim\u00e1tico. \r\n\r\n", 
+        "title": "Hora del Planeta", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/hora-del-planeta", 
+        "votable": null, 
+        "voted": null
+    }
+}

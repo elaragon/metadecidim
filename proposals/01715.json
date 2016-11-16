@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4574, 
+            "name": "Associaci\u00f3 de Ve\u00efnes i Ve\u00efns de Can Bar\u00f3 ", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4574, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1715", 
+        "conflictive": false, 
+        "created_at": "10/02/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": " 1.\tPotenciar l'equip de futbol sala femen\u00ed \"Dones de Can Bar\u00f3\" 2.\tIniciativa per crear ambient de b\u00e0squet i posteriorment equip de b\u00e0squet Baronenc amb els nens i joves que juguen en el Poliesportiu. \tNecessitats esportives del barri: 1.\tUn poliesportiu p\u00fablic cobert 2.\tPista skate 3.\tRecorreguts senyalitzats per c\u00f2rrer dintre del parc dels tres turons", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1715, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Iniciativa per crear ambient de b\u00e0squet i posteriorment equip de b\u00e0squet Baronenc amb els nens i joves que juguen en el Poliesportiu. \tNecessitats esportives del barri: 1.\tUn poliesportiu p\u00fablic cobert 2.\tPista skate 3.\tRecorreguts senyalitzats per c\u00f2rrer dintre del parc dels tres turons", 
+        "title": "Esports.CAN BAR\u00d3", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 10, 
+        "url": "https://decidim.barcelona/pam/proposals/esports-can-baro", 
+        "votable": null, 
+        "voted": null
+    }
+}

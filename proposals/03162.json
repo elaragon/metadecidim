@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3162", 
+        "conflictive": false, 
+        "created_at": "19/02/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 3162, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "\u00c9s necessari detectar les persones en situaci\u00f3 de vulnerabilitat i garantir-ne \r\nl\u2019alimentaci\u00f3 b\u00e0sica.  Cal destinar recursos a fomentar una alimentaci\u00f3 saludable. A m\u00e9s, cal promoure l\u2019alimentaci\u00f3 equilibrada i saludable, alertant sobre el consum de begudes ensucrades i aliments fabricats amb greixos industrials. Finalment, educar en la ...", 
+        "title": "Alimentaci\u00f3 saludable", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 16, 
+        "url": "https://decidim.barcelona/pam/proposals/alimentacio-saludable-f450b809-a26d-4b7b-abc0-3b348b618fad", 
+        "votable": null, 
+        "voted": null
+    }
+}

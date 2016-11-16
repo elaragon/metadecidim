@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10285, 
+                "name": "Montserrat Forcadas", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hi ha els punts verts!! Penso que el servei \u00e9s bo i no cal fer m\u00e9s despesa p\u00fablica per aix\u00f3. A m\u00e9s et donen un pot per a posar l'oli!! \u00c9s perfecte!</p>", 
+            "commentable_id": 3823, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/03/2016 12:37:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3540, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10156, 
+                "name": "Charles", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El servicio ser\u00eda PERFECTO si se consiguiera reciclar un porcentaje elevado de residuos de aceite. Aun cuando el servicio pudiera ser bueno, si poca gente lo usa, ya no lo es tanto. A veces no se trata de gastar mas dinero, sino de hacer un esfuerzo en difundir la informaci\u00f3n. El objetivo merece la pena.</p>", 
+            "commentable_id": 3823, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/03/2016 11:44:01", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3825, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

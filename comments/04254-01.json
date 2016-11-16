@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7637, 
+                "name": "MARC SEGURANA", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Enhorabona, una bona idea! y de pas eliminem les rates que surten d'all\u00ed.</p>", 
+            "commentable_id": 4254, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/03/2016 18:24:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3866, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 21570, 
+                "name": "Jordi Callej\u00f3n", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Horts urbans comunitaris no nomes per als ve\u00efns i de totes les edats, sino tambe per a persones en risc de exclusi\u00f3 social, escoles i amb espais comuns on fer activitats o simplement estar en un espai de trobada. mentrestant no es fa res, seria el moment de obrir-ho al barri i fer us d\u00b4ell.\n</p>", 
+            "commentable_id": 4254, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 15:44:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11019, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3866", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 21570, 
+                "name": "Jordi Callej\u00f3n", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Sense cap mena de dubte Marc, totalment d\u00b4acord.</p>", 
+            "commentable_id": 4254, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 15:42:10", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11017, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 284, 
+            "name": "Ecologistes en Acci\u00f3", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 284, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1155", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://www.aiguaesvida.org/qui-te-por-de-la-municipalitzacio-de-laigua    https://www.tni.org/sites/www.tni.org/files/download/heretostay-es_ravised_link_jan_2015.pdf", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1155, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 17, 
+            "name": "Energia i canvi clim\u00e0tic", 
+            "position": 5
+        }, 
+        "summary": "La recuperaci\u00f3 de la gesti\u00f3 p\u00fablica de l\u2019aigua  \u00e9s una tend\u00e8ncia internacional com a resposta al frac\u00e0s dels processos de privatitzaci\u00f3 per garantir l'acc\u00e8s al dret hum\u00e0 a l'aigua i sanejament, aix\u00ed com la gesti\u00f3 sostenible del recurs per a les futures generacions i la protecci\u00f3 del medi ambient. ", 
+        "title": "Remunicipalitzar del servei de l'aigua", 
+        "total_comments": 29, 
+        "total_negative_comments": 4, 
+        "total_neutral_comments": 3, 
+        "total_positive_comments": 19, 
+        "total_votes": 1082, 
+        "url": "https://decidim.barcelona/pam/proposals/remunicipalitzar-del-servei-de-l-aigua", 
+        "votable": null, 
+        "voted": null
+    }
+}

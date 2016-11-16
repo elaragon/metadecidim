@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16689, 
+                "name": "Helens", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>S\u00f3c ciutadana i ve\u00efna de l'avinguda de Roma i realment l'existencia de l'avinguda, tot i ser un eix directe a una de les principals accessibilitats de la ciutat (Estaci\u00f3 de Sants), funciona m\u00e9s aviat com a buit urb\u00e0 o barrera que com a eix c\u00edvic. Les plantes baixes dels fronts de fa\u00e7anes estan bastant buides d'activitat, i l'espai p\u00fablic dedicat al passeig es monotem\u00e0tic. Com a viari, no passa gaireb\u00e9 un cotxe i parlem d'una avinguda de 3 carrils centrals i dos laterials, en definitiva m\u00e9s aviat es un aparcament.</p>\n\n<p>Tot i que la proposta d'urbanitzaci\u00f3 de la part confluent amb carrer de Viladomat ha aportat noves activitats i lliure al barri, opino (com a arquitecta i urbanista) que les dist\u00e0ncies s\u00f3n desmesurades. L'amplada de secci\u00f3 de carrer es desmesurada per les activitats que s'hi desenvolupen als seus l\u00edmits, i caldria repensar aquest eix de centralitat tant rellevant per la ciutat. Si interessa es podria fer un proces participatiu i dibuixar propostes amb ve\u00efns. Gr\u00e0cies</p>", 
+            "commentable_id": 6982, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 16:12:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8691, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

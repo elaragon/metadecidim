@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2914", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2914, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "Els ateneus de fabricaci\u00f3 \u2014en condici\u00f3 d'espais de creaci\u00f3 i aprenentatge\u2014 han d\u2019orientar la innovaci\u00f3 tecnol\u00f2gica, de manera coordinada amb l\u2019impuls de l\u2019economia verda i circular del conjunt de les pol\u00edtiques de desenvolupament econ\u00f2mic, alhora que s\u2019accentua el retorn social transformador per al seu entorn.", 
+        "title": "Impuls de projectes com l\u2019Urban Lab i els ateneus de fabricaci\u00f3, vinculant-los als itineraris ocupacionals, en el marc d'una taula transversal d'innovaci\u00f3", 
+        "total_comments": 12, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 11, 
+        "total_positive_comments": 1, 
+        "total_votes": 17, 
+        "url": "https://decidim.barcelona/pam/proposals/impuls-de-projectes-com-l-urban-lab-i-els-ateneus-de-fabricacio-vinculant-los-als-itineraris-ocupacionals-en-el-marc-d-una-taula-transversal-d-innovacio", 
+        "votable": null, 
+        "voted": null
+    }
+}

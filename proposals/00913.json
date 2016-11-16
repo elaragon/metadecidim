@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-913", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 913, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Iniciatives per afavorir els processos de creaci\u00f3, investigaci\u00f3 i experimentaci\u00f3 art\u00edstica. Promoure projectes art\u00edstics, culturals i d'innovaci\u00f3 que es basin en la generaci\u00f3 de continguts a partir del treball col\u00b7laboratiu, l\u2019intercanvi i la cooperaci\u00f3 entre els participants.", 
+        "title": "Programa de foment dels laboratoris i dels espais d'R+D", 
+        "total_comments": 6, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 6, 
+        "total_positive_comments": 0, 
+        "total_votes": 25, 
+        "url": "https://decidim.barcelona/pam/proposals/programa-de-foment-dels-laboratoris-i-dels-espais-d-r-d", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 85, 
+            "name": "kerouack", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 85, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4304", 
+        "conflictive": false, 
+        "created_at": "08/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4304, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Aunque parezca que hay muchos puntos para atar la bicicleta en la ciudad (y viendo un mapa parezca as\u00ed), no es as\u00ed en realidad, los puntos suelen ser solamente para 8 bicicletas, mientras que los aparcamientos de motos hay de hasta m\u00e1s de 20 motos.\r\nEs muy habitual no tener ning\u00fan sitio libre y tenerlo es la mejor promoci\u00f3n para ir en bici.", 
+        "title": "Poner much\u00edsimos m\u00e1s puntos para atar la bicicleta en la calle (y mucho m\u00e1s grandes)", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 6, 
+        "url": "https://decidim.barcelona/pam/proposals/poner-muchisimos-mas-puntos-para-atar-la-bicicleta-en-la-calle-y-mucho-mas-grandes", 
+        "votable": null, 
+        "voted": null
+    }
+}

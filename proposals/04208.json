@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2962, 
+            "name": "Xavier Riu", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2962, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4208", 
+        "conflictive": false, 
+        "created_at": "06/03/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4208, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Despr\u00e9s de tantes promeses incomplertes, i en una zona tan densament edificada com l\u2019Esquerra de l\u2019Eixample, \u00e9s urgent recuperar al llarg d\u2019aquest mandat el solar de l\u2019actual pres\u00f3 de La Model, per ubicar-hi una gran zona verda i un conjunt d\u2019equipaments p\u00fablics prioritaris, incl\u00f2s un que recuperi la mem\u00f2ria del que ha representat la pres\u00f3.  ", 
+        "title": "Recuperar el solar de La Model", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 2, 
+        "total_votes": 70, 
+        "url": "https://decidim.barcelona/pam/proposals/recuperar-el-solar-de-la-model", 
+        "votable": null, 
+        "voted": null
+    }
+}

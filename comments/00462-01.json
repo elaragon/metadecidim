@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4620, 
+                "name": "Paola Mulero Molina", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Caldria comen\u00e7ar per reconduir els objectius i metodologies de la Direcci\u00f3 del Casal de Joves de Les Corts, que ha perdut i anul\u00b7lat tots els vincles de participaci\u00f3, relaci\u00f3 i treball cooperatiu entre els dinamitzadors del Casal i les Entitats del barri.    No volem un equipament exclusivament de serveis, volem equipament que tamb\u00e9 treballi per i amb la participaci\u00f3, el suport i la coordinaci\u00f3 amb les entitats i ciutadans. </p>", 
+            "commentable_id": 462, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/02/2016 15:01:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1522, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/impulsar-taules-de-dialeg-entre-les-entitats\">https://decidim.barcelona/proposals/impulsar-taules-de-dialeg-entre-les-entitats</a></p>", 
+            "commentable_id": 462, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 10:00:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15146, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/reconeixement-de-l-associacionisme-educatiu\">https://decidim.barcelona/proposals/reconeixement-de-l-associacionisme-educatiu</a></p>", 
+            "commentable_id": 462, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 10:00:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15148, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/formar-a-joves-en-educacio-en-el-lleure\">https://decidim.barcelona/proposals/formar-a-joves-en-educacio-en-el-lleure</a></p>", 
+            "commentable_id": 462, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 10:00:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15150, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

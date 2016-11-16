@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 14577, 
+            "name": "\u00c0ngels Garcia Serneguet", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 14577, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-7893", 
+        "conflictive": false, 
+        "created_at": "01/04/2016", 
+        "district": {
+            "id": 4, 
+            "name": "Les Corts"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7893, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "L'estaci\u00f3 d'Ernest Lluch de L5 de metro, feta ja en la seva major part, va deixar les seves obres interrompudes.\r\nLa seva posada en funcionaent seria una millora per a la mobilitat del barri i per a tota la ciutat.\r\nEl trambaix t\u00e9 connexi\u00f3 amb la L3 i amb la L9 , amb la posada en funcionamente de l'estaci\u00f3 Ernest Lluch la tindria tamb\u00e9 amb la L5 ", 
+        "title": "Finalitzar les obres de l'estaci\u00f3 de metro Ernest Luch de L5", 
+        "total_comments": 4, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 3, 
+        "total_votes": 11, 
+        "url": "https://decidim.barcelona/pam/proposals/finalitzar-les-obres-de-l-estacio-de-metro-ernest-luch-de-l5", 
+        "votable": null, 
+        "voted": null
+    }
+}

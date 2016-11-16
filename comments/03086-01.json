@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8612, 
+                "name": "Javier Cuch\u00ed", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>De tots els districtes, m\u00e9s aviat. Abandonar d'una vegada el concepte \u00abweb-aparador\u00bb i anar al \u00abweb-servei\u00bb</p>", 
+            "commentable_id": 3086, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/02/2016 12:38:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2794, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals?filter=scope=district:source=citizenship:category_id=4:subcategory_id=26:reviewer_status=not_reviewed:district=5&amp;order=random&amp;random_seed=0.5848374582168636\">https://decidim.barcelona/proposals?filter=scope=district:source=citizenship:category_id=4:subcategory_id=26:reviewer_status=not_reviewed:district=5&amp;order=random&amp;random_seed=0.5848374582168636</a></p>", 
+            "commentable_id": 3086, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 17:33:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17342, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/millorar-el-coneixement-de-les-dades-de-poblacio\">https://decidim.barcelona/proposals/millorar-el-coneixement-de-les-dades-de-poblacio</a></p>", 
+            "commentable_id": 3086, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 17:33:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17343, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2794", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10753, 
+                "name": "Pilar Molina", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>la millora de la web en el sentit de la proposta t\u00e9 a veure amb la necess\u00e0ria transpar\u00e8ncia, coneixement i rendici\u00f3 de comptes a la ciutadania.</p>", 
+            "commentable_id": 3086, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 15:36:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4191, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2794/4191", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8612, 
+                "name": "Javier Cuch\u00ed", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>I aix\u00f2 s'hi oposa al que dic jo per...?</p>", 
+            "commentable_id": 3086, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 15:40:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4193, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

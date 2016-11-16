@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7847, 
+                "name": "Jaume Matas Pedra.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Un pacte municipal (oficina de matriculac\u00f3 unica)per tal de que la segregaci\u00f3 escolar no superi la segregaci\u00f3 urbana. Tal i com s\u2019ha fet en altres municipis i tenim ja experi\u00e8ncies de\n<br />Bones pr\u00e0ctiques locals contra la segregaci\u00f3 escolar publicades en Municipis\n<br />contra la segregaci\u00f3 escolar. Sis experi\u00e8ncies de pol\u00edtica educativa local. Col\u00b7lecci\u00f3 pol\u00edtiques de la Fundaci\u00f3 Jaume Bofill (Xavier Bonal i Sarr\u00f3 2012).</p>", 
+            "commentable_id": 4921, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 18:53:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5105, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7847, 
+                "name": "Jaume Matas Pedra.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\nDes de L'oficina de Matriculaci\u00f3 unica, crear mecanismes per intentar evitar difer\u00e8ncies entre els centres finan\u00e7ats amb diners p\u00fablics pel que fa al cobrament de quotes per material o sortides o el cobrament d\u2019aportacions a fundacions privades (a les concertades). Aix\u00f2 ajudaria a un repartiment m\u00e9s equitatiu de l\u2019alumnat.</p>", 
+            "commentable_id": 4921, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 18:58:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5106, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/mapa-escolar\">https://decidim.barcelona/proposals/mapa-escolar</a></p>", 
+            "commentable_id": 4921, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 12:47:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15498, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1935, 
+                "name": "Teresa Greenwood", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Excelente idea!</p>", 
+            "commentable_id": 1594, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/02/2016 17:49:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1328, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 272, 
+                "name": "Marti", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Un mapa interessant per veura com funcionen els \"bicings\" a tot el mon!\n<br /><a href=\"http://bikes.oobrien.com/barcelona/#zoom=13&amp;lon=2.1836&amp;lat=41.3859\">http://bikes.oobrien.com/barcelona/#zoom=13&amp;lon=2.1836&amp;lat=41.3859</a></p>", 
+            "commentable_id": 1594, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/02/2016 09:54:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1400, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 21539, 
+                "name": "pelines", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tamb\u00e9 es podria bonificar la gent que deixa una bicicleta a una estaci\u00f3 que estigui buida. Bonificaci\u00f3 que es compensaria si t'emportes l'\u00faltima bici d'una estaci\u00f3.</p>", 
+            "commentable_id": 1594, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 23:54:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12784, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

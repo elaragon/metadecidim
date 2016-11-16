@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 6372, 
+            "name": "AVV EL SANATORI", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 6372, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3222", 
+        "conflictive": false, 
+        "created_at": "21/02/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3222, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Per totes les edats, per tal de poder mantenir un bon estat f\u00edsic sense anar gaire lluny, i aprofitar l'entorn. Es tracta de instal\u2022lar diferents maquines esportives en indrets c\u00e8ntrics, places i, diguem-ho aix\u00ed, indrets m\u00e9s deteriorats, per tal de dignificar-los i que els ve\u00efns/es coneixien tots els llocs del barri. ", 
+        "title": "Circuits ESPORTIUS al Barri del Rectoret. Instal\u00b7lacio d'aparells de gimn\u00e0stica per totes les edats.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 16, 
+        "url": "https://decidim.barcelona/pam/proposals/circuits-esportius-al-barri-del-rectoret-instal-lacio-d-aparells-de-gimnastica-per-totes-les-edats", 
+        "votable": null, 
+        "voted": null
+    }
+}

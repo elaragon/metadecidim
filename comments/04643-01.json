@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10959, 
+                "name": "icn", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment a favor, com el sistema que tenen a Londres, per exemple, amb les Oyster Cards. Aix\u00f2 podria permetre, per exemple, anular la tjove en cas de p\u00e8rdua i robatori i poder demanar un duplicat ensenyant el ticket o rebut de compra corresponent.</p>", 
+            "commentable_id": 4643, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/03/2016 17:10:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4610, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ja s'est\u00e0 treballant en aix\u00f2. De fet a finals d'any entrar\u00e0 en funcionament. Per + info: <a href=\"http://doc.atm.cat/ca/_dir_t-mobilitat/projecte-T-MOBILITAT/\">http://doc.atm.cat/ca/_dir_t-mobilitat/projecte-T-MOBILITAT/</a></p>", 
+            "commentable_id": 4643, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 12:18:00", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4999, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4610", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11947, 
+                "name": "Sandrahs", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No cal anar-se tan lluny. A Granada la tarjeta es recargable. Per contra aix\u00f2 seria un gast enorme per cambiar totes les m\u00e0quines de validaci\u00f3...</p>", 
+            "commentable_id": 4643, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/03/2016 13:17:26", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4688, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4610/4688", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 908, 
+                "name": "M\u00f3n", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>B\u00e9, potser el que s'haurien de canviar s\u00f3n les m\u00e0quines on els comprem i ens d\u00f3nen el bitllet, ja que s'hauria de poder introdu\u00efr el bitllet que ja tenim i la m\u00e0quina el tornaria a fer \u00fatil.\n<br />Podrien anar-se instal\u00b7lant a mesura que s'espatllin les antigues aix\u00ed el gast \u00e9s progressiu.\n<br />Tamb\u00e9 els lectors, millorar-se a mida que s'hagin de canviar perqu\u00e8 s'espatllin i corregir el que sigui necessari.</p>", 
+            "commentable_id": 4643, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/04/2016 13:07:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7509, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

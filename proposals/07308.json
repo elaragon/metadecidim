@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 3717, 
+            "name": "Salvador Pastor Blasco", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 3717, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7308", 
+        "conflictive": false, 
+        "created_at": "30/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7308, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "d\u2019espectadors de cinema o de teatre, de visitants a museus, d\u2019assistents a concerts... i el consum cultural \u00e9s, sens dubte, ara per ara, una molt bona manera de definir el nivell cultural de la societat. \r\nper\u00f2 quan volem refor\u00e7ar la cohesi\u00f3 social de la nostra ciutat i la seva cultura popular hem de considerar altres unitats de mesura.", 
+        "title": "ens conv\u00e9 una pol\u00edtica real a favor de la cultura popular i l\u2019associacionisme cultural a la ciutat de Barcelona(5)", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/ens-conve-una-politica-real-a-favor-de-la-cultura-popular-i-l-associacionisme-cultural-a-la-ciutat-de-barcelona-5", 
+        "votable": null, 
+        "voted": null
+    }
+}

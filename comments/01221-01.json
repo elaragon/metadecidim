@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1056, 
+                "name": "N\u00faria.90", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Exacte</p>", 
+            "commentable_id": 1221, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 18:26:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 318, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13111, 
+                "name": "juananbcn", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Cada d\u00eda, de lunes a s\u00e1bado por mi calle pasan en el intervalo de las 09:00 a las 13:00 una media aproximada de 10 veces el rapartidor de butano. Hace much\u00edsimo ruido y molesta a los vecinos y despierta a la gente que trabaja de noche. Con que pasaran uno o dos d\u00edas por semana dos veces por d\u00eda ser\u00eda a mi parecer suficiente. Es horrible, llamo a la guardia urbana para quejarme pero no sirve de nada. a ver si a trav\u00e9s de esta plataforma conseguimos algo. estamos en el sXX. </p>", 
+            "commentable_id": 1221, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 19:36:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5330, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

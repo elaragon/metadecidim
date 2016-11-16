@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10703, 
+                "name": "suport decidim.barcelona2", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda al Consell de Salut de Sants - Montjuic: \"Promoure la col\u2022laboraci\u00f3 i la coordinaci\u00f3 entre el treball social municipal i l\u2019atenci\u00f3 prim\u00e0ria sanit\u00e0ria.\"</p>", 
+            "commentable_id": 2778, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 12:39:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4493, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10703, 
+                "name": "suport decidim.barcelona2", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda al Consell de Salut de Sants - Montjuic: \"Fomentar l\u2019interrelaci\u00f3 dels serveis de salut i els serveis socials de l\u2019ajuntament. Reestructuraci\u00f3 del treball social municipal per tal d\u2019atendre millor a les persones amb necessitats socials i sobretot les persones amb situaci\u00f3 de depend\u00e8ncia.\"</p>", 
+            "commentable_id": 2778, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 13:04:27", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4498, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8701, 
+                "name": "Elisabet Juan", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Des de Forum ITESSS estem treballant per a aquesta integraci\u00f3 amb la creaci\u00f3 de marcs i eines per fer-la possible.</p>", 
+            "commentable_id": 2778, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 21:32:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5679, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

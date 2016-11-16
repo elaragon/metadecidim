@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3084", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3084, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Elaborar protocols d'intervenci\u00f3 en casos de conflictes de conviv\u00e8ncia i incivisme amb la participaci\u00f3 de Gu\u00e0rdia Urbana, Serveis Socials, entitats, societat civil i t\u00e8cnics del Districte, a trav\u00e9s del nou Consell Sectorial de Prevenci\u00f3. Millorar-ne l\u2019efectivitat mitjan\u00e7ant la coordinaci\u00f3 dels serveis, amb implicaci\u00f3 de les entitats i la societat civil. Protocols de conviv\u00e8ncia i civisme en festes majors i esdeveniments col\u00b7lectius.", 
+        "title": "Protocols d'intervenci\u00f3 en casos de conflictes de conviv\u00e8ncia i incivisme", 
+        "total_comments": 4, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 4, 
+        "total_positive_comments": 0, 
+        "total_votes": 10, 
+        "url": "https://decidim.barcelona/pam/proposals/protocols-d-intervencio-en-casos-de-conflictes-de-convivencia-i-incivisme", 
+        "votable": null, 
+        "voted": null
+    }
+}

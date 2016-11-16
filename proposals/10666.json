@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10666", 
+        "conflictive": false, 
+        "created_at": "09/04/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 10666, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Per exemple en zona parc G\u00fcell i Passeig Turull.  \r\nQue les cases existents (algunes barraques), no siguin una \u201cfrontera\u201d, i si es reallotgen que no sigui en un espai que tamb\u00e9 impedeixi l\u2019acc\u00e9s. \r\n", 
+        "title": "Que l\u2019accessibilitat al parc sigui clara i senyalitzada, que es noti que hi ha un parc i com accedir, amb indicacions, voreres i zones de vianants.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/que-l-accessibilitat-al-parc-sigui-clara-i-senyalitzada-que-es-noti-que-hi-ha-un-parc-i-com-accedir-amb-indicacions-voreres-i-zones-de-vianants", 
+        "votable": null, 
+        "voted": null
+    }
+}

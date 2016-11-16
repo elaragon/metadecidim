@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/millorar-l-atencio-a-les-persones-en-situacio-de-vulnerabilitat-cb4d015e-e12e-4ad0-8b9f-02beac0ba66e\">https://decidim.barcelona/proposals/millorar-l-atencio-a-les-persones-en-situacio-de-vulnerabilitat-cb4d015e-e12e-4ad0-8b9f-02beac0ba66e</a></p>", 
+            "commentable_id": 2131, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 16:17:13", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9606, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17222, 
+                "name": "JorgeMS", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aquesta mesura, la podriem vincular amb la regulaci\u00f3 d'habitatges, amb la nova intermediaci\u00f3 de l'ajuntament als habitatges es podria detectar aquests tipus de vulnerabilitats.\n<br /><a href=\"https://decidim.barcelona/proposals/rhab-regulacio-d-habitatges-mitjancant-la-nova-intermediacio-de-l-ajuntament-de-barcelona-rhab\">https://decidim.barcelona/proposals/rhab-regulacio-d-habitatges-mitjancant-la-nova-intermediacio-de-l-ajuntament-de-barcelona-rhab</a></p>", 
+            "commentable_id": 2131, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 15:36:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12425, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

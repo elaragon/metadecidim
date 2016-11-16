@@ -1,0 +1,242 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1941, 
+                "name": "christianpg", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>T'ho dic amb bona fe: dubto que el problema es solucion\u00e9s amb una linea de bus, la gent de la ciutat amb un estatus socioecon\u00f2mic m\u00e9s alt son reacis/cies al transport p\u00fablic </p>", 
+            "commentable_id": 1411, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 02:38:00", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 546, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 405, 
+                "name": "San tito", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aix\u00f2 \u00e9s un mal molt est\u00e9s, sobre tot a escoles \"b\u00e9\". No entenc com la guardia urbana permet aquestes actuacions inc\u00edviques d'alguns ciutadans amb els seus cotxes... Igualtat?? Que comencin a multar que ja \u00e9s hora home!!! </p>", 
+            "commentable_id": 1411, 
+            "commentable_type": "Proposal", 
+            "created_at": "23/02/2016 08:32:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2436, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/transport-public-nocturn-i-de-cap-de-setmana-pels-barris-de-muntanya\">https://decidim.barcelona/proposals/transport-public-nocturn-i-de-cap-de-setmana-pels-barris-de-muntanya</a></p>", 
+            "commentable_id": 1411, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 09:36:49", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 16375, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "546", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1925, 
+                "name": "X Simon", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Jo soc un dels pares que porto les meves filles a una escola situada a la muntanya i on v\u00e9 gent de tot Barcelona i el problema de l'accessibilitat \u00e9s un tema recurrent que parlem sovint entre els pares i busquem solucions com la de compartir cotxe, per\u00f2 que sovint resulten complicades. Els prejudicis classistes no han d'impedir la cerca de solucions que redundin en una millora global de la mobilitat a aquestes zones, reduint les mol\u00e8sties als ve\u00efns propers a les escoles, desincentivant l'\u00fas del vehicle privat i afavorint l'\u00fas del transport p\u00fablic que tant desitgem.</p>", 
+            "commentable_id": 1411, 
+            "commentable_type": "Proposal", 
+            "created_at": "23/02/2016 17:26:26", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2481, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2436", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1925, 
+                "name": "X Simon", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Les escoles dels barris de muntanya donen servei a tota la ciutat i en el moment de la seva implantaci\u00f3 no es van tenir en compte questions com l'accessibilitat amb transport p\u00fablic. Aix\u00f2 implica una gran circulaci\u00f3 de vehicles privats a unes hores determinades, amb el consequent malbaratament de recursos i afectaci\u00f3 mediambiental.  No entenc la seva proposta de multar. Multar a qui?...a qui porta els seus fills a l'escola en cotxe?.  En base a quina norma? Les l\u00ednies de bus donen servei a tots els habitants d'aquesta zona per\u00f2 \u00e9s evident que el servei seria \u00e0mpliament utilitzat pels alumnes de les escoles de la zona, que no tenen cap altre alternativa per arribar-hi. Que jo s\u00e0piga, la mobilitat i el medi ambient \u00e9s un problema que ens hauria de preocupar a tots.</p>", 
+            "commentable_id": 1411, 
+            "commentable_type": "Proposal", 
+            "created_at": "23/02/2016 17:19:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2478, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2436/2478", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 405, 
+                "name": "San tito", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>X Sim\u00f3n, en cap moment el meu comentari ha volgut ser despectiu, vull puntualitzar que el meu comentari no anava destinat \"exclusivament\" a l'escola que fas refer\u00e8ncia doncs desconec la zona, per\u00f2 si conec la situaci\u00f3 dels entorns d'entrada i sortida del nens de moltes altres escoles on molt\u00edssims pares generen un \"caos\" considerable amb total imponitat. Les normes vials s\u00f3n les que s\u00f3n, i cal respectar-les pel b\u00e9 i la conviv\u00e8ncia de tothom, i malauradament, les persones no atenem a avisos, ens calen sancions... \n<br />Em sap greu si el meu comentari l'ha molestat, no ha sigut amb aquesta intenci\u00f3...\n<br />Salutacions.</p>", 
+            "commentable_id": 1411, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/02/2016 11:30:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2546, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2436/2478/2546", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1925, 
+                "name": "X Simon", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00c9s ben cert el caos a les proximitats de moltes escoles per\u00f2 normalment es tracta de zones inaccessibles. Aix\u00f2 no passa a una escola de l'Eixample, del poble nou o de Sants, perfectament connectades per transport p\u00fablic o a on s'hi pot anar a peu. passa normalment a zones allunyades del transport p\u00fablic i a on no \u00e9s gens f\u00e0cil d'anar a peu. Per aix\u00f2 reclamo alguna alternativa, per no haver de dependre del cotxe, i que els alumnes m\u00e9s grans puguin anar de manera aut\u00f2noma combinant diversos transports p\u00fablics. Com a aclariment, no m'ha molestat la seva resposta i en canvi si que m'ha ajudat a explicar millor la proposta, aix\u00ed que gr\u00e0cies</p>", 
+            "commentable_id": 1411, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/02/2016 21:55:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2631, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

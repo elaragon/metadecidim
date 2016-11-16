@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 709, 
+            "name": "Berrocal Alonso", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 709, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1280", 
+        "conflictive": false, 
+        "created_at": "02/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://www.youtube.com/watch?v=mdu374LStgI", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1280, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 17, 
+            "name": "Energia i canvi clim\u00e0tic", 
+            "position": 5
+        }, 
+        "summary": "Dotar a los puntos verdes de registros donde queden registrados la cantidad aportada de residuos. Devoluci\u00f3n por parte del ayuntamiento de un porcentaje del capital obtenido a trav\u00e9s de la venta del residuo reciclado bien en forma econ\u00f3mica o mediante incentivos fiscales. Se ahorra en la recogida de basura y se incentiva el reciclaje selectivo.", 
+        "title": "Fomento del reciclaje selectivo a traves de incentivos economicos o fiscales.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 31, 
+        "url": "https://decidim.barcelona/pam/proposals/fomento-del-reciclaje-selectivo-a-traves-de-incentivos-economicos-o-fiscales", 
+        "votable": null, 
+        "voted": null
+    }
+}

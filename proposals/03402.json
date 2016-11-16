@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8185, 
+            "name": "Victoria Jimenez", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 8185, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3402", 
+        "conflictive": false, 
+        "created_at": "24/02/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3402, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 13, 
+            "name": "Turisme sostenible", 
+            "position": 5
+        }, 
+        "summary": "Som molt sensibles a les obertures de nous hotels a la ciutat, pero no canvi obviem el mal que fan els creuers ancorats al port, sobretot quan coincideixen, i ofeguen Ciutat Vella amb turistes.\r\nL'impact negatiu dels creuers sobre el habitants de Ciutat Vella s'hauria de tenir en compte.", 
+        "title": "Limitar la presencia de creuers al Port", 
+        "total_comments": 13, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 3, 
+        "total_votes": 89, 
+        "url": "https://decidim.barcelona/pam/proposals/limitar-la-presencia-de-creuers-al-port", 
+        "votable": null, 
+        "voted": null
+    }
+}

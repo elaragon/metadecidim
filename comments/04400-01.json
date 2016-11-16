@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8218, 
+                "name": "maga", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No \u00e9s q\u00fcesti\u00f3 sols de netejar m\u00e9s... penso que \u00e9s q\u00fcesti\u00f3 d'educaci\u00f3</p>", 
+            "commentable_id": 4400, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/03/2016 21:55:31", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4007, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10721, 
+                "name": "Ravaletes", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Organitzar grups de dos persones(contractades per l'Ajuntament)  que estiguin, en hores determinades, en els punts conflictius de recollida d'escombreries  i fer que les persones no deixin les bosses fora. El ve\u00efnat un v\u00e0rem provar  un parell de mesos i la resposta vaser molt satisfact\u00f2ria</p>", 
+            "commentable_id": 4400, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 11:04:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4115, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

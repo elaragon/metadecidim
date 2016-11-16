@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6949, 
+                "name": "Sil Via", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00c9s necessari acabar amb les terribles pr\u00e0ctiques actuals i utilitzar controls \u00e8tics. Per cert, m\u00e9s efectius i econ\u00f2mics que els actuals.\n</p>", 
+            "commentable_id": 1479, 
+            "commentable_type": "Proposal", 
+            "created_at": "20/02/2016 18:16:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2221, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8536, 
+                "name": "EnriquetaMarti", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>L'excusa que han ficat des de l'Ajuntament de qu\u00e8 \u00e9s que ja havien signat el contracte amb l'empresa exterminadora \u00e9s com si digueres que quan van arribar els aliats hagueren seguit gasejant jueus perqu\u00e8 el contracte amb la companyia de gas ja estava signat. </p>", 
+            "commentable_id": 1479, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/03/2016 01:01:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3521, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11481, 
+                "name": "Maria Concepcion", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>no me dejan apoyar esta propuesta pues soy de santa coloma de gramanet,es una verguenza el trato que reciben estos animales,son pajaros muriendo de hambre,maltratados.perseguidos,capturados y exterminados de forma cruel e inhumana,igualmente los que intentamos ayudarlos somos perseguidos por la administracion publica como si fuesemos delincuentes,ya basta.</p>", 
+            "commentable_id": 1479, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/03/2016 19:55:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4431, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

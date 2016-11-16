@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5868, 
+                "name": "Anna Maria", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aix\u00f2 hauria de ser a tota Barcelona ja que  els productes qu\u00edmics  s\u00f3n dolents per tothom.</p>", 
+            "commentable_id": 574, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/02/2016 23:33:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2879, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3112, 
+                "name": "Mingo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>sembla que ja est\u00e0 aprovat: <a href=\"http://www.elperiodico.com/es/noticias/medio-ambiente/barcelona-prohibe-uso-herbicida-glifosato-jardines-publicos-4773205\">http://www.elperiodico.com/es/noticias/medio-ambiente/barcelona-prohibe-uso-herbicida-glifosato-jardines-publicos-4773205</a>\n<br />per si de cas, no es tiri enrera, dono suport a eliminar el seu \u00fas immediatament: ROUND-UP ULTRA PLUS a <a href=\"http://ajuntament.barcelona.cat/ecologiaurbana/sites/default/files/tractaments-vegetacio-mars-2016.pdf\">http://ajuntament.barcelona.cat/ecologiaurbana/sites/default/files/tractaments-vegetacio-mars-2016.pdf</a></p>", 
+            "commentable_id": 574, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 23:12:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6880, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 18110, 
+                "name": "MARIA MARTINEZ ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Millor que aquesta actuaci\u00f3 fos a TOTS els barris.</p>", 
+            "commentable_id": 574, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/04/2016 20:59:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7836, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 20100, 
+                "name": "Jota Ese", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En mi calle (B\u00e9jar), todos los d\u00edas se recogen los contenedores entre la 1:30 y 2:00 de la ma\u00f1ana. La noche de los mi\u00e9rcoles al jueves, se realiza la limpieza-lavado de la calle a las 4AM. El ruido es tal que con frecuencia salta hasta la alarma de alg\u00fan coche. El ayuntamiento infringe claramente su propia normativa de emisiones de ruidos (por zona y hora). Es incre\u00edble que sea el propio ayuntamiento el que quita 2h de sue\u00f1o a todos los vecinos de una zona a lo largo de toda su vida, y una noche por semana, directamente no te deja dormir m\u00e1s de 2-3 horas seguidas. Adem\u00e1s, los locales de esta calle en fin de semana rara vez cierran a la 1, habiendo publico de estos locales (y de la cercana discoteca de la calle Tarragona) deambulando toda la noche del viernes y el s\u00e1bado (a lo que se a\u00f1ade la reciente autorizaci\u00f3n de la apertura de una sala de fiestas). En resumen, una calle \"invivible\" entre semana por \"culpa directa\" del ayuntamiento, y en fin de semana, por su dejaci\u00f3n de funciones. </p>", 
+            "commentable_id": 7903, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 12:36:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9178, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17016, 
+                "name": "Eurasia", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hola Jota Ese!\n<br />Pues estoy yendo a la Oficina de Atenci\u00f3n Ciudadana para dejar una queja oficial. Me he informado y en el Ayuntamiento de Bilbao, un particular, denunci\u00f3 el ayuntamiento por la misma raz\u00f3n y le dieron una indemnizaci\u00f3n de 10.000 euros. Aqu\u00ed tienes el enlace si quieres mirarlo: <a href=\"http://rincondelpataleo.blogspot.com.es/2008/01/indemnizacion-por-ruidos-del-camin-de.html\">http://rincondelpataleo.blogspot.com.es/2008/01/indemnizacion-por-ruidos-del-camin-de.html</a> Es interesante porque se lee toda las razones que el abogado dej\u00f3 al Tribunal para ganar la causa.</p>", 
+            "commentable_id": 7903, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 15:19:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9533, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "9178", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17016, 
+                "name": "Eurasia", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hola Jota Ese! \n<br />Pues estoy yendo a la Oficina de Atenci\u00f3n Ciudadana para dejar una queja oficial. Me he informado y en el Ayuntamiento de Bilbao, un particular, denunci\u00f3 el ayuntamiento por la misma raz\u00f3n y le dieron una indemnizaci\u00f3n de 10.000 euros. Aqu\u00ed tienes el enlace si quieres mirarlo: <a href=\"http://rincondelpataleo.blogspot.com.es/2008/01/indemnizacion-por-ruidos-del-camin-de.html\">http://rincondelpataleo.blogspot.com.es/2008/01/indemnizacion-por-ruidos-del-camin-de.html</a> Es interesante porque se lee toda las razones que el abogado dej\u00f3 al Tribunal para ganar la causa.</p>", 
+            "commentable_id": 7903, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 15:20:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9534, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 12193, 
+            "name": "dunadesal", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 12193, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4914", 
+        "conflictive": false, 
+        "created_at": "14/03/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4914, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "M\u00e9s gespa on poder estar els beb\u00e8s i mares mentre els germans juguen. Incloure tota la fam\u00edlia a l'\u00fas de l'espai. Incloure \u00e0rees de lleure amb taules i bancs a prop de la zona de fora. Bancs col.lectius que afavoreixin la comunicaci\u00f3 amb els altres.", 
+        "title": "Millor diseny de la zona de joc del parc infanil de la Barceloneta i de la pla\u00e7a Hilari Salvador. Incloure gespa a la zona de joc, m\u00e9s bancs, taules a prop, etc", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 6, 
+        "url": "https://decidim.barcelona/pam/proposals/millor-diseny-de-la-zona-de-joc-del-parc-infanil-de-la-barceloneta-i-de-la-placa-hilari-salvador-incloure-gespa-a-la-zona-de-joc-mes-bancs-taules-a-prop-etc", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4574, 
+            "name": "Associaci\u00f3 de Ve\u00efnes i Ve\u00efns de Can Bar\u00f3 ", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4574, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1712", 
+        "conflictive": false, 
+        "created_at": "10/02/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": ".-1.\tDonar solucions consensuades amb els afectats pel projecte del Parc amb la qualificaci\u00f3 urban\u00edstica que escau. 2.\tFacilitar l'arranjament d\u2019habitatges antics.", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1712, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 6, 
+            "name": "Habitatge", 
+            "position": 6
+        }, 
+        "summary": "1.\tDonar solucions consensuades amb els afectats pel projecte del Parc amb la qualificaci\u00f3 urban\u00edstica que escau.\r\n 2.\tFacilitar l'arranjament d\u2019habitatges antics.", 
+        "title": " Habitatge  ", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 13, 
+        "url": "https://decidim.barcelona/pam/proposals/habitatge", 
+        "votable": null, 
+        "voted": null
+    }
+}

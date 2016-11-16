@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7229, 
+                "name": "benua", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No s'ha de habilitar provisionalment el solar de l'IES Vallarca...s'ha de contru\u00efr el Institut ja.\n<br />Tornar a redactar el projecte i iniciar les obres de l'Institut.</p>", 
+            "commentable_id": 56, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/02/2016 13:50:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2362, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8810, 
+                "name": "Guille", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>si aneu a votar hi han varies iniciatives per la creaci\u00f3 de l'Institut. si busqueu les paraules \"Institut vallcarca\"  us apareixer\u00e0 una proposta amb m\u00e9s vots</p>", 
+            "commentable_id": 56, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/02/2016 21:40:47", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2868, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11409, 
+                "name": "Coordinadora d'AMPAs del Coll i entorns", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Volem l'IES ja !!!</p>", 
+            "commentable_id": 56, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 16:10:14", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7432, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/habilitar-provisionalment-el-solar-av-vallcarca\">https://decidim.barcelona/proposals/habilitar-provisionalment-el-solar-av-vallcarca</a></p>", 
+            "commentable_id": 56, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 09:52:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14207, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

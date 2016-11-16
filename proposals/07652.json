@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 13078, 
+            "name": "D2-Esquerra", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 13078, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7652", 
+        "conflictive": false, 
+        "created_at": "31/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7652, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 18, 
+            "name": "Participaci\u00f3 ciutadana", 
+            "position": 2
+        }, 
+        "summary": "en els \u00faltims anys hi ha hagut un recentralitzaci\u00f3 d'alguns departaments, cosa que ho ha afavorit la creaci\u00f3 dels institus, treient als districtes compet\u00e8ncies, i sobretot tend\u00e8ncia a fer una pol\u00edtica allunyada dels mateixos.\r\n", 
+        "title": " Revisi\u00f3 de l'organitzaci\u00f3 municipal en dos aspectes: a)Aprofundir en la descentralitzaci\u00f3 als districtes i b)Analitzar els instituts municipals", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 9, 
+        "url": "https://decidim.barcelona/pam/proposals/revisio-de-l-organitzacio-municipal-en-dos-aspectes-a-aprofundir-en-la-descentralitzacio-als-districtes-i-b-analitzar-els-instituts-municipals", 
+        "votable": null, 
+        "voted": null
+    }
+}

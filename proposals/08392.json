@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8392", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8392, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Donat que costa arriba a la gent i es proposa elaborar un mapa de totes les organitzacions i publicar-ho com a eina de difusi\u00f3 per a que la gent conegui l'oferta cultural del barri.  Aquest mapa podria ser un molt bon instrument de comunicaci\u00f3 i difusi\u00f3. Es podria explicar i presentar pel barri. ", 
+        "title": "Creaci\u00f3 i publicitat d'un mapa d'actors de les activitats culturals als barris de Sants, Hostafrancs, etc.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/creacio-i-publicitat-d-un-mapa-d-actors-de-les-activitats-culturals-als-barris-de-sants-hostafrancs-etc", 
+        "votable": null, 
+        "voted": null
+    }
+}

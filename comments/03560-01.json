@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11404, 
+                "name": "Pglez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Millorar els horaris dels busos (128,...) per enlla\u00e7ar amb el tren i ampliar horaris (per no fer tant \u00fas del cotxe)</p>", 
+            "commentable_id": 3560, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 12:36:27", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4491, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 120, 
+                "name": "Leonor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ser\u00eda millor fer-lo des de Sant Cugat, amb parada a Les Planes i Vallvidrera. Primer perqu\u00e8 donar\u00eda servei a molta m\u00e9s gent, i segon perqu\u00e8 hem d'evitar que Les Planes - al mig del parc natural i zona amb alt risc d'incendis  -  continu\u00ef essent l'aparcament dissuasori del Vall\u00e8s. Estar\u00eda molt b\u00e9 tenir una alternativa de transport p\u00fablic a l'\u00fanic existent actualment, els FGC.</p>", 
+            "commentable_id": 3560, 
+            "commentable_type": "Proposal", 
+            "created_at": "19/03/2016 14:14:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5891, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/pla-de-mobilitat-b5116e19-9d2e-4faf-9e71-a010d62a8f71\">https://decidim.barcelona/proposals/pla-de-mobilitat-b5116e19-9d2e-4faf-9e71-a010d62a8f71</a></p>", 
+            "commentable_id": 3560, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 09:43:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 16393, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/transport-public-nocturn-i-de-cap-de-setmana-pels-barris-de-muntanya\">https://decidim.barcelona/proposals/transport-public-nocturn-i-de-cap-de-setmana-pels-barris-de-muntanya</a></p>", 
+            "commentable_id": 3560, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 09:44:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 16394, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 23131, 
+                "name": "David Membrado", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hem de estar oberts com a societat a persones joves que volen passar una temporada aqu\u00ed i coneixer el joven de la ciutat. Seria una experi\u00e8ncia molt interessant poder crear espais i organitzar trobades entre els estudiants Erasmus i els joves de Gr\u00e0cia (i en general, de Barcelona), doncs aix\u00f2 porta a un intercanvi molt enriquidor.</p>", 
+            "commentable_id": 10441, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 17:25:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12560, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

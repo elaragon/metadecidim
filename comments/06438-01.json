@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7482, 
+                "name": "mar", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00c9s tan senzill com fer-hi una \"mini\" super-illa. Amb horaris d'acc\u00e9s regulats com al Major de Sarri\u00e0. Tots guanyariem en qualitat de vida. I la parada de taxis del Park G\u00fcell, doncs al parking dels autocars a l'entrada de dalt del parc.\n</p>", 
+            "commentable_id": 6438, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 13:01:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7168, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 1, 
+            "total_votes": 2
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

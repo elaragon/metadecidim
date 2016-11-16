@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/dignificacio-de-la-via-augusta-entre-la-diagonal-i-la-pl-gal-la-placidia\">https://decidim.barcelona/proposals/dignificacio-de-la-via-augusta-entre-la-diagonal-i-la-pl-gal-la-placidia</a></p>", 
+            "commentable_id": 2702, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 11:08:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14376, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/ampliacio-de-voreres-a-via-augusta-de-diagonal-a-travessera-de-gracia\">https://decidim.barcelona/proposals/ampliacio-de-voreres-a-via-augusta-de-diagonal-a-travessera-de-gracia</a></p>", 
+            "commentable_id": 2702, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 11:09:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14378, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/estudi-millora-via-augusta-entre-gal-la-placidia-i-seneca\">https://decidim.barcelona/proposals/estudi-millora-via-augusta-entre-gal-la-placidia-i-seneca</a></p>", 
+            "commentable_id": 2702, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 11:09:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14381, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

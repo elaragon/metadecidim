@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5046, 
+                "name": "Eva C-V Tremosa", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Qu\u00e8 volem fer: sensibilitzar, participar en accions pol\u00edtiques per resoldre el conflicte idonar ajuda directa.\n<br />Sensibilitzar:\n<br />\u2022 Elaborar un manifest per tal que s'hi adhereixin les entitats del districte\n<br />\u2022 Organitzar taules informatives rotat\u00f2ries cada segon dimecres de mes. Es recolliransignatures d'adhesi\u00f3 a un manifest i llistat de persones disposades a ajudar (qu\u00e8\n<br />poden aportar d'ajuda: idioma, temps per acompanyar....).\n<br />\u2022 Proposar a l'Ajuntament que s'aprovi en plenari la col\u00b7locaci\u00f3 d'una pancarta que pengide la fa\u00e7ana i un focus que l'il\u00b7lumini cada segon dimecres de mes.\n<br />Accions pol\u00edtiques i ajuda directa\n<br />\u2022 Proposar a la coordinadora Barris Refugi que es faci un manifest i una recollida designatures exigint al govern espanyol i a la Uni\u00f3 Europea que donin els asils necessaris.\n<br />\u2022 Posar-nos en contacte amb Solidarity For All, agermanar-nos i cooperar amb All-Pireo(Iniciativa de Apoyo a los Refugiados i Immigrantes). Igualment volem col.laborar amb\n<br />altres ONGs</p>", 
+            "commentable_id": 6255, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/04/2016 19:56:01", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7620, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/posar-en-marxa-el-pla-barcelona-ciutat-refugi\">https://decidim.barcelona/proposals/posar-en-marxa-el-pla-barcelona-ciutat-refugi</a></p>", 
+            "commentable_id": 6255, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 13:28:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9317, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/acte-d-acollida\">https://decidim.barcelona/proposals/acte-d-acollida</a></p>", 
+            "commentable_id": 6255, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/04/2016 12:18:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 18583, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10721, 
+                "name": "Ravaletes", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Instal.lar l'ascensor \u00e9s moltes vegades massa diners per a les persones que viuen en els edificis de Ciutat Vella.</p>", 
+            "commentable_id": 4100, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 11:37:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4133, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14906, 
+                "name": "Maria S de Costa", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Para que el vecindario pueda quedarse en el barrio, y que no sea todo ocupado por turistas, hay que mejorar la calidad de vida. Y tener ascensores en los edificios es una manera. Pero hay que disponer de una cantidad de dinero excesiva para la gente del barrio. Deber\u00eda haber ADELANTO DE DINERO para poder poner los ascensores, y que luego el Ayuntamiento recupere ese dinero. Si se sigue exigiendo que la Comunidad de Vecinos pague el ascensor, a\u00fan habiendo subvenciones, no se puede hacer; los vecinos se van, y se instalan los turistas... Y as\u00ed estamos.\n</p>", 
+            "commentable_id": 4100, 
+            "commentable_type": "Proposal", 
+            "created_at": "23/03/2016 17:51:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6411, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals?filter=source=official:scope=district:category_id=1:subcategory_id=2:district=1&amp;order=random&amp;random_seed=0.1234698685332809\">https://decidim.barcelona/proposals?filter=source=official:scope=district:category_id=1:subcategory_id=2:district=1&amp;order=random&amp;random_seed=0.1234698685332809</a></p>", 
+            "commentable_id": 4100, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 12:09:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10584, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

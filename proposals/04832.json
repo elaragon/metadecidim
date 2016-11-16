@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 12081, 
+            "name": "Eduard Saavedra", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 12081, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4832", 
+        "conflictive": false, 
+        "created_at": "14/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.tram.cat/es/corporativa/quienes-somos/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4832, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Aquesta connexi\u00f3 suposa canviar la sincronitzaci\u00f3 dels sem\u00e0fors de la Diagonal que ara donen prioritat a les art\u00e8ries de l'Eixample, i\r\nreduir/tancar els seus carrils de circulaci\u00f3 desviant la majoria dels vehicles tamb\u00e9 a l'Eixample.\r\nConnexi\u00f3 del TRAM = (m\u00e9s i m\u00e9s) retencions i caos circulatori a tot l'Eixample.\r\nI el TRAM \u00e9s una empresa privada...", 
+        "title": "NO connectar les l\u00ednies de TRAM per la Diagonal. No seguir afavorint la privatitzaci\u00f3 del transport p\u00fablic", 
+        "total_comments": 3, 
+        "total_negative_comments": 2, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/no-connectar-les-linies-de-tram-per-la-diagonal-no-seguir-afavorint-la-privatitzacio-del-transport-public", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2065, 
+            "name": "Sarri\u00e0-Sant Gervasi", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2065, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5954", 
+        "conflictive": false, 
+        "created_at": "18/03/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": false, 
+        "hidden": false, 
+        "id": 5954, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Senyalitzaci\u00f3 d\u2019orientaci\u00f3 per els vianants del eix comercial central del barri, equipaments p\u00fablics i places i jardins de Les Tres Torres (Mercat de Les Tres Torres, Biblioteca Clar\u00e0, Casa Sant Felip Neri, Pla\u00e7a Joaquim Pena, Jardins de Mart\u00ed Llaurad\u00f3 i altres destacables.Comissi\u00f3 Seguiment Barri de les Tres Torres.\r\n\r\n", 
+        "title": "Senyalitzaci\u00f3 d\u2019orientaci\u00f3 per els vianants del eix comercial central del barri, equipaments p\u00fablics i places i jardins de Les Tres Torres ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/senyalitzacio-d-orientacio-per-els-vianants-del-eix-comercial-central-del-barri-equipaments-publics-i-places-i-jardins-de-les-tres-torres", 
+        "votable": null, 
+        "voted": null
+    }
+}

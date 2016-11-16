@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9527, 
+                "name": "Francesc C.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Todos tenemos que tener derecho a hacer con nuestro piso lo que queramos (venderlo, alquilarlo, hacer una donaci\u00f3n o tener un piso tur\u00edstico). El Ayuntamiento no puede poner trabas a los peque\u00f1os propietarios. Me parece correcto el control en ciertas zonas muy concretas, pero no por ejemplo en todo el Eixample. Deben poner coto a los hoteles (que han proliferado como hongos) y a su lobby.</p>", 
+            "commentable_id": 3640, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/03/2016 08:21:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3127, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 7930, 
+            "name": "nenagamba", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 7930, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3383", 
+        "conflictive": false, 
+        "created_at": "24/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3383, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "El cercador web del Patrimoni Arquitect\u00f2nic de Barcelona comen\u00e7a estar obsolet i cada cop d\u00f3na m\u00e9s errors. \r\nMantenint els mateixos par\u00e0metres de cerca cal millorar: \r\n- Navegaci\u00f3 en la cerca de mapa. \r\n- Millora del material gr\u00e0fic aportat. \r\n- Destacar els nivells de protecci\u00f3 \r\n\r\nAltres: \r\n-Afegir refer\u00e8ncies bibliogr\u00e0fiques\r\n- Actualitzar el cat\u00e0leg \r\n", 
+        "title": "Millorar el cercador del cat\u00e0leg de patrimoni prquitect\u00f2nic ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 14, 
+        "url": "https://decidim.barcelona/pam/proposals/millorar-el-cercador-del-cataleg-de-patrimoni-prquitectonic", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 13290, 
+            "name": "procomuns.net", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 13290, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5870", 
+        "conflictive": false, 
+        "created_at": "18/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://procomuns.net/ca/politiques/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5870, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 24, 
+            "name": "Un nou lideratge p\u00fablic", 
+            "position": 3
+        }, 
+        "summary": "Registre obligatori de reunions i contactes amb els \"lobbies\" o grups de pressi\u00f3 que representen interessos econ\u00f2mics de les grans corporacions en telecomunicacions o serveis tecnol\u00f2gics.", 
+        "title": "Combatre la mala pr\u00e0ctica de les administracions i la corrupci\u00f3 en l'\u00e0mbit de pol\u00edtiques tecnol\u00f2giques i de coneixement: registre obligatori de reunions i contactes amb \"lobbies\"", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 23, 
+        "url": "https://decidim.barcelona/pam/proposals/combatre-la-mala-practica-de-les-administracions-i-la-corrupcio-en-l-ambit-de-politiques-tecnologiques-i-de-coneixement-registre-obligatori-de-reunions-i-contactes-amb-lobbies", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 276, 
+            "name": "Xavier Duacastilla Soler", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 276, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6004", 
+        "conflictive": false, 
+        "created_at": "18/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.ccma.cat/324/mor-una-dona-amb-cadira-de-rodes-atropellada-per-un-camio-bolquet-al-carrer-pau-claris-de-barcelona/noticia/2719681/#.VuxHv5w8_aQ.facebook", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6004, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "En pa\u00efssos com Holanda o Suiza, les persones amb movilitat redu\u00efda amb cadira de rodes porten banderins com les bicicletes de nens per poder ser mes visibles a l'hora de creuar els passos de vianants.\r\n\r\nVeure la noticia a: http://www.ccma.cat/324/mor-una-dona-amb-cadira-de-rodes-atropellada-per-un-camio-bolquet-al-carrer-pau-claris-de-barcelona/no", 
+        "title": "Avui dues dones en cadira de rodes mortes atropellades. CAL PENDRE MESURES", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/avui-dues-dones-en-cadira-de-rodes-mortes-atropellades-cal-pendre-mesures", 
+        "votable": null, 
+        "voted": null
+    }
+}

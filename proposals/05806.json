@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5806", 
+        "conflictive": false, 
+        "created_at": "18/03/2016", 
+        "district": {
+            "id": 8, 
+            "name": "Nou Barris"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 5806, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Per transmetre la mem\u00f2ria hist\u00f2rica hem de protegir, catalogar i salvaguardar les plaques de carrer antigues. Per exemple: c. de Platja d\u2019Aro a Trinitat Nova; ptge. del Doctor Pi i Molist al Tur\u00f3 de la Peira; c. de Valldemossa a Porta; c. dels Amics a Vilapicina i la Torre Llobeta; i el barri de la Guineueta complet, amb totes les plaques blaves.", 
+        "title": "Protegir el nomencl\u00e0tor del Districte ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/protegir-el-nomenclator-del-districte", 
+        "votable": null, 
+        "voted": null
+    }
+}

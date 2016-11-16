@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7588, 
+                "name": "Ramon Crespo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els Jardinets de Gr\u00e0cia s\u2019han mostrat com a espai polivalent, sovint indefinit, on peri\u00f2dicament s\u2019hi emplacen exposicions ef\u00edmeres corporatives  que ocupen l\u2019espai i reverteixen molt poc en la vida dels ve\u00efns i les ve\u00efnes del barri (Ferrari, Departament d\u2019Empresa i Coneixement, etc.). </p>\n\n<p>A m\u00e9s, en els darrers anys, l\u2019especialitzaci\u00f3 en comer\u00e7 de luxe del Passeig de Gr\u00e0cia ha anat avan\u00e7ant fins als Jardinets. La fesomia de la zona est\u00e0 canviant de perfil i petits comer\u00e7os van desapareixent en favor de botigues i restaurants de luxe. Un espai directament dirigit al ve\u00efnat podria aturar aquesta deriva i revertir en una revitalitzaci\u00f3 de la zona.</p>", 
+            "commentable_id": 9424, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 19:31:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11420, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 6, 
+            "total_votes": 6
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 22768, 
+                "name": "meritxell torne", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Constru\u00efm un espai de jocs i esbarjo pensat amb i per als infants i joves del barri,  adequats a les seves necessitats. \n<br />Els nens de l'escola no tenen un espai prop de l'escola on poder jugar. Galla Plac\u00eddia queda massa lluny.\n<br />La pla\u00e7a de la Vila \u00e9s l'habitual lloc de joc i trobada, per\u00f2 no reuneix les condicions per a poder gaudir del lleure relaxadament .\n<br />Demanem que es tingui en consideraci\u00f3 la proposta i que els Jardinets de Gr\u00e0cia es converteixin en un espai de joc i lleure per a la canalla i les families del barri</p>", 
+            "commentable_id": 9424, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 11:56:56", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11836, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 4, 
+            "total_votes": 4
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 23074, 
+                "name": "Carles Xocolatina", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els nens fan Gr\u00e0cia. Ara \u00e9s l'hora que Gr\u00e0cia faci m\u00e9s pels nens. Si m\u00e9s no, \u00e9s dels barris de Barcelona i Catalunya amb m\u00e9s poblaci\u00f3 infantil. </p>", 
+            "commentable_id": 9424, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 16:12:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12481, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

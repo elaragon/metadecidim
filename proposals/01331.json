@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1481, 
+            "name": "ASSOCIACI\u00d3 CEL\u00cdACS DE CATALUNYA", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1481, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1331", 
+        "conflictive": false, 
+        "created_at": "03/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://bit.ly/1RZWnXz", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1331, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Garantir opci\u00f3 sense gluten a festes/actes de BCN , aix\u00ed com l'avituallament a activitats esportives, assegurar les necessitats nutricionals dels cel\u00edacs sense recursos, ajudes per pal\u00b7liar el greuge econ\u00f2mic que patim tots els cel\u00edacs, garantir suficients restaurants/obradors amb servei S.G. amb garanties a tots districtes (veure doc adjunt)", 
+        "title": "Barcelona una ciutat apta pels cel\u00edacs: garantint acc\u00e9s a la dieta sense gluten", 
+        "total_comments": 7, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 6, 
+        "total_votes": 232, 
+        "url": "https://decidim.barcelona/pam/proposals/barcelona-una-ciutat-apta-pels-celiacs-garantir-acces-a-dieta-sense-gluten", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2593, 
+                "name": "Rub\u00e9n BCN", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Creo que la medida se debe aplicar exclusivamente a los veh\u00edculos contaminantes. Mejorando la medida imponiendo una tasa diferentes dependientes de lo que contamine el carburante y el veh\u00edculo, y de si es de uso particular o profesional.</p>", 
+            "commentable_id": 1495, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 19:18:37", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 844, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1977, 
+                "name": "Bego", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Jo crec que tamb\u00e9 s'hauria de tenir en compte d'alguna manera l'\u00fas del vehicle. En el sentit que no \u00e9s el mateix anar al centre de Barcelona 1 vegada a l'any que 100.</p>", 
+            "commentable_id": 1495, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 19:32:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 848, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2774, 
+                "name": "Jordi Costa Domenech", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>fer aparcaments a les entrades d la ciutat  amb possibilitat d'usar transport general no contaminant </p>", 
+            "commentable_id": 1495, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 11:36:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 902, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 369, 
+                "name": "Maclaren", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Sembla be, pero, no hauriem de tenir primer el transport public de Londres (o Paris) i la seva area metrpolitana? El peatge es un impost general que gravar\u00e0 igual als treballadors manuals expulsats  fa anys de de la ciutat per l'especulaci\u00f3 immobiliaria que als executius de la banca: no em sembla just.</p>", 
+            "commentable_id": 1495, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 18:44:00", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 965, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "902", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2799, 
+                "name": "sr_mandarina", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En paral\u00b7lel a la reforma del tramvia.</p>", 
+            "commentable_id": 1495, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 13:34:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 928, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

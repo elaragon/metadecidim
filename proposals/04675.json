@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 11583, 
+            "name": "Jesus1975", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 11583, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4675", 
+        "conflictive": false, 
+        "created_at": "11/03/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4675, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Al C/ de les Ac\u00e0cies, 3 mesos s'aparca a la dreta, 3 mesos a l'esquerra, etc. Per\u00f2 entre C/Prat d'en Roquer i C/Garcilaso, a la dreta hi ha 5-6 parkings 24h (no es pot aparcar) i a l'esquerra no hi ha cap. Si en aquest tram es pogu\u00e8s aparcar tot l'any nom\u00e9s a l'esquerra es guanyarien aquests 5-6 llocs al carrer pels ve\u00efns.", 
+        "title": "Aparcament C/ Ac\u00e0cies canvia cada 3 mesos", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 3, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/canvi-del-costat-d-aparcament-cada-3-mesos", 
+        "votable": null, 
+        "voted": null
+    }
+}

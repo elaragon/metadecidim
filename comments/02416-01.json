@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11749, 
+                "name": "sergio marcovich", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es una buena iniciativa, el protocolo actual es una autentica locura y cualquiera entidad social haya organizado alguna actividad en la calle lo sabe perfectamente. De paso, os invito a apoyar esta iniciativa: <a href=\"http://bit.ly/1UwW6Lz\">http://bit.ly/1UwW6Lz</a>\n</p>", 
+            "commentable_id": 2416, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 12:36:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6098, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/activitats-de-suport-a-la-realitzacio-de-festivals\">https://decidim.barcelona/proposals/activitats-de-suport-a-la-realitzacio-de-festivals</a></p>", 
+            "commentable_id": 2416, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 19:46:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 18420, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

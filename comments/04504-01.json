@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 244, 
+                "name": "elva", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La prostituci\u00f3 \u00e9s una instituci\u00f3 patriarcal que conserva i promociona els  privilegis masculins sobre els cossos de les dones a canvi de miseria\n<br />No \u00e9s un treball.\n<br />L'ajuda a les dones i joves en prostituci\u00f3 no consisteix en mantenir-les en aquesta situaci\u00f3 de precarietat \"fem veure\" que \u00e9s un treball con qualsevol altre. No \u00e9s aix\u00ed.\n<br />Si fos un treball \"normal\" perqu\u00e8 haurien de dormir al carrer?\n<br />\u00c9s una situaci\u00f3 reservada  per a dones pobres i vulnerables si, ellas i els seus fills,  i hem de demanar drets humans per qu\u00e8 puguin surtir de la situaci\u00f3 de precarietat que les ha portat a aceptar aquesta condici\u00f3 si aix\u00ed ho desitgen</p>", 
+            "commentable_id": 4504, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 13:02:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5497, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8185, 
+                "name": "Victoria Jimenez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>I que passa amb la resta de treballadores que no son \"sexuals'\",  no tenen dret a recursos residencials? Els seus menos a c\u00e0rrec comptem menys??</p>", 
+            "commentable_id": 4504, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 16:29:47", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5567, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "5567", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8185, 
+                "name": "Victoria Jimenez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es veu que treballar 8h al d\u00eda per acabar cobrent 900eu, o haver-te d'aixecar cada d\u00eda a les 4 del mat\u00ed per una merda de sou, o passar-te el d\u00eda fregant cases dels altres en negre, no te prou merit pq les teves \"necessitava residencials\" siguin tingudes en compte, fas mes punts obrint-te de cames...</p>", 
+            "commentable_id": 4504, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 18:14:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5617, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

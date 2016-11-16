@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8428", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/proposals/millorar-l-accessibilitat-del-transport-public-autobusos-i-metro-frequencia-manteniment-i-disseny-adequat-per-facilitar-la-mobilitat-autonoma-sense-acompanyament-de-les-persones-amb-diversitat-funcional", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8428, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Noms de les parades de bus als busos vells, creaci\u00f3 d\u2019un mapa de parades amb accessibilitat, informaci\u00f3 accessible a totes les estacions i transports (sistemes complementaris a la megafonia per accessibilitat comunicativa visual), sistemes d\u2019accessibilitat f\u00edsica (rampes, ascensors, etc.). ", 
+        "title": "Garantir accessibilitat comunicativa i f\u00edsica a tota la xarxa de transport p\u00fablic", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/garantir-accessibilitat-comunicativa-i-fisica-a-tota-la-xarxa-de-transport-public", 
+        "votable": null, 
+        "voted": null
+    }
+}

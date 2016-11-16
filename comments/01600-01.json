@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 979, 
+                "name": "josep oriol badell santaul\u00e0ria", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>molt b\u00e9 ;  tenir present que la legislaci\u00f3 actual es obsoleta\n<br />veure\n<br />  * resoluci\u00f3 del parlament europeu de 2 de abril de 2009, sobre les consideracions sanit\u00e0ries relacionades amb els camps electromagn\u00e8tics</p>\n\n<p>      <a href=\"http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+TA+P6-TA-2009-0216+0+DOC+XML+v0//ES\">http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+TA+P6-TA-2009-0216+0+DOC+XML+v0//ES</a></p>\n\n<p> *  resoluci\u00f3 1815 de l'assemblea parlament\u00e0ria del consell d'europa de 27 de maig de 2011 sobre els perills potencials dels camps electromagn\u00e8tics i els seus efectes sobre el medi ambient</p>\n\n<p>   <a href=\"http://www.apdr.info/electrocontaminacion/Documentos/Institucions_Europeas/Resolucion.A.P.Consejo.Europa.27.05.11.pdf\">http://www.apdr.info/electrocontaminacion/Documentos/Institucions_Europeas/Resolucion.A.P.Consejo.Europa.27.05.11.pdf</a></p>", 
+            "commentable_id": 1600, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/02/2016 13:34:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1288, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9298, 
+                "name": "J. Alberto", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/4284\">https://decidim.barcelona/proposals/4284</a></p>", 
+            "commentable_id": 1600, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/03/2016 16:28:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3854, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17741, 
+                "name": "Suport General3 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/control-de-las-emisiones-que-producen-las-antenas-telefonicas\">https://decidim.barcelona/proposals/control-de-las-emisiones-que-producen-las-antenas-telefonicas</a></p>", 
+            "commentable_id": 1600, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 17:19:31", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9777, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

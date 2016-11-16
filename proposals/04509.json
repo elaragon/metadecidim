@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10009, 
+            "name": "DAVID V V ", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 10009, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4509", 
+        "conflictive": false, 
+        "created_at": "09/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://www.youtube.com/watch?v=sEON08d76oE&feature=youtu.be", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4509, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": ". Campa\u00f1as en medios de comunicaci\u00f3n a favor de la bici. \r\nCampa\u00f1as de educaci\u00f3n vial tanto para ciclistas (normativa ) como para profesionales y resto de veh\u00edculos.\r\n       EXPLICAR QUE EXISTIMOS ejemplo campa\u00f1a sobre visibilidad ciclista  ejemplo\r\n https://www.youtube.com/watch?v=Ahg6qcgoay4\r\n       ES F\u00c1CIL PERDERSE ALGO QUE NO EST\u00c1S BUSCANDO\r\n ", 
+        "title": "Campa\u00f1as en los medios de comunicaci\u00f3n a favor de la bici y de educaci\u00f3n vial tanto para ciclistas como veh\u00edculos a motor", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 11, 
+        "url": "https://decidim.barcelona/pam/proposals/campanas-en-los-medios-de-comunicacion-a-favor-de-la-bici-y-de-educacion-vial-tanto-para-ciclistas-como-vehiculos-a-motor", 
+        "votable": null, 
+        "voted": null
+    }
+}

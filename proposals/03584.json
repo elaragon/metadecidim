@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8930, 
+            "name": "Rafael Granero", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 8930, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3584", 
+        "conflictive": false, 
+        "created_at": "27/02/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3584, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Para mejorar el medio ambiente y ayudar a tener una ciudad m\u00e1s habitable para los viandantes y el vecindario, solicito se valore cambiar entre el 33% y el 50% de la zona de aparcamiento por \u00e1rboles en el tri\u00e1ngulo de calles situadas entre Pi i Margall con Cerde\u00f1a y Travessera de Gr\u00e0cia.", 
+        "title": "Cambiar parte de los aparcamientos por \u00e1rboles en el tri\u00e1ngulo de calles situadas entre Pi i Margall con Cerde\u00f1a y Travessera de Gr\u00e0cia.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 14, 
+        "url": "https://decidim.barcelona/pam/proposals/convertir-la-calle-pi-i-margall-en-una-rambla-con-caracteristicas-similares-a-las-de-la-avenida-de-gaudi-c06de9d7-88ba-4438-989d-ba8568d6c6e5", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9100, 
+                "name": "Pau Ocean", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Amb voluntat s'acaba amb el problema de les bicis. Multes reals i elevades, i cobrades per via executiva en ultima instancia. I qui no pot estar a favor? Pagaria qui la fa nomes. Es just oi?</p>", 
+            "commentable_id": 3967, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/03/2016 12:06:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3633, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13835, 
+                "name": "Albert C.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Cal crear espais per les bicicletas, skaters, monopatines etc. Porque les arees de v\u00edanants siguin EXCLUSIVAMENT PER VIANANTS. Tenim tot el dret a tenir un espai reservat \u00fanicament al vianants</p>", 
+            "commentable_id": 3967, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 01:48:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6041, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/solucionar-la-conflictiva-convivencia-entre-vianants-bicicletes-i-skaters-fent-campanyes-de-conscienciacio-posant-multes-prohibint-les-bicis-a-algunes-zones-etc\">https://decidim.barcelona/proposals/solucionar-la-conflictiva-convivencia-entre-vianants-bicicletes-i-skaters-fent-campanyes-de-conscienciacio-posant-multes-prohibint-les-bicis-a-algunes-zones-etc</a></p>", 
+            "commentable_id": 3967, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 17:05:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 16021, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

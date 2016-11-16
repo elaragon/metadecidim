@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6514, 
+                "name": "Oriol B", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ja existeix una normativa que regula aix\u00f2. El problema \u00e9s la seva aplicaci\u00f3, ja que la Gu\u00e0rdia Urbana patrulla quasi exclusivament utilitzant vehicles de motor i no permet veure i sancionar el que passa a les voreres. Recomano que veieu aquesta proposta que he fet: <a href=\"https://decidim.barcelona/proposals/ampliar-les-patrulles-de-la-guardia-urbana-a-peu-i-bicicleta\">https://decidim.barcelona/proposals/ampliar-les-patrulles-de-la-guardia-urbana-a-peu-i-bicicleta</a></p>", 
+            "commentable_id": 6999, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 14:00:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6752, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

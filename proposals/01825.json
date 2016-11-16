@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4973, 
+            "name": "treballadors i treballadores de Barcelona Activa", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 4973, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1825", 
+        "conflictive": false, 
+        "created_at": "12/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1825, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 11, 
+            "name": "Economia cooperativa, social i solid\u00e0ria", 
+            "position": 2
+        }, 
+        "summary": "Instruments: Fons d\u2019Inversi\u00f3 Municipal (capital o pr\u00e9stec participatiu) per a sectors no coberts pel mercat. Fons de Finan\u00e7ament Municipal (pr\u00e9stecs, microcr\u00e8dits) per a activitats sense acc\u00e9s al cr\u00e8dit del mercat. L\u00ednia d\u2019avals mancomunats gestionada per les entitats del barri per l\u2019acc\u00e9s als pr\u00e9stecs del Fons de Finan\u00e7ament Municipal.", 
+        "title": "Plans de finan\u00e7ament empresarial de noves activitats econ\u00f2miques ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/plans-de-financament-empresarial-de-noves-activitats-economiques", 
+        "votable": null, 
+        "voted": null
+    }
+}

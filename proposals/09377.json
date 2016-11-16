@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9377", 
+        "conflictive": false, 
+        "created_at": "07/04/2016", 
+        "district": {
+            "id": 8, 
+            "name": "Nou Barris"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9377, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 11, 
+            "name": "Economia cooperativa, social i solid\u00e0ria", 
+            "position": 2
+        }, 
+        "summary": "Educaci\u00f3, sensibilitzaci\u00f3 i espais de reflexi\u00f3 cr\u00edtica per obrir la visi\u00f3 del model econ\u00f2mic, mercat productiu tradicional i normalitzaci\u00f3 de l\u2019explotaci\u00f3, cap a una economia plural per facilitar que per exemple els joves puguin emprendre i generar noves oportunitats d\u2019ocupaci\u00f3 via espais espec\u00edfics de treball (Espai Cru\u00eflla, PIJ, Casals joves)", 
+        "title": "Fomentar un canvi de mirada sobre el model econ\u00f2mic tradicional per potenciar l\u2019economia social, especialment entre els joves", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/fomentar-un-canvi-de-mirada-sobre-el-model-economic-tradicional-per-potenciar-l-economia-social-especialment-entre-els-joves", 
+        "votable": null, 
+        "voted": null
+    }
+}

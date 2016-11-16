@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 14975, 
+            "name": "N\u00faria Juhera", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 14975, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8589", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.gov.scot/Publications/2003/04/16936/21249", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8589, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Proposo que augmenti la vigil\u00e0ncia dels vehicles que, tot  i estar aturats, mantenen el motor engegat una bona estona. Si cal, aplicaria sancions als conductors que segueixen aquesta pr\u00e0ctica. De vegades, em dirigeixo als ocupants dels vehicles per fer una tasca \"educativa\", per\u00f2 no sempre obtinc la resposta esperada. ", 
+        "title": "Parar el motor dels vehicles aparcats per tal de millorar la qualitat de l'aire", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/parar-el-motor-dels-vehicles-aparcats-per-tal-de-millorar-la-qualitat-de-l-aire", 
+        "votable": null, 
+        "voted": null
+    }
+}

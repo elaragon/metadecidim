@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8424, 
+            "name": "Xavier Martinez vicente", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 8424, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3497", 
+        "conflictive": false, 
+        "created_at": "25/02/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3497, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Al Barri de La Salut hi ha una carencia important d\u00b4espais per a que la gent pugui jugar i fer esports. B\u00e0squet, futbol, jocs b\u00e0sics i sencills que potencien la sociabilitzaci\u00f3 dins del barri i a m\u00e9s a m\u00e9s  requereixen una infraestructura m\u00ednima. ", 
+        "title": "Creaci\u00f3 d\u00b4una cistella de b\u00e0squet al parc de d\u00b4alt del Park G\u00fcell.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 10, 
+        "url": "https://decidim.barcelona/pam/proposals/creacio-d-una-cistella-de-basquet-al-parc-de-d-alt-del-park-guell", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13084, 
+                "name": "cbl", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic a favor de la uni\u00f3 i extensi\u00f3 dels tramvies com a sistema de transport eficient, sostenible, etc. El debat sobre el tipus d'empresa p\u00fablica o privada que ho gestioni \u00e9s un altre debat diferent, den principi estic m\u00e9s a favor d'una empresa p\u00fablica.</p>", 
+            "commentable_id": 4832, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 19:16:22", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5316, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14708, 
+                "name": "Sergi Cadena", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El tramvia \u00e9s una soluci\u00f3 de mobilitat sostenible i ecol\u00f2gica bona per la ciutat. A m\u00e9s opino que \u00e9s convenient que la realitzi una empresa privada a banda de TMB, per trencar el quasi monopoli que TMB t\u00e9 en la mobilitat i transport dels barcelonins.</p>", 
+            "commentable_id": 4832, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/03/2016 17:04:49", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6270, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14669, 
+                "name": "davidgibert", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Jo recolzo la uni\u00f3 del tramvia per la Diagonal. Si s'han de treure carrils que es treguin... I si es pot fer p\u00fablic aquest tram central de la Diagonal genial (es una cosa que valora l'Ajuntament)</p>", 
+            "commentable_id": 4832, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/03/2016 22:55:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6316, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

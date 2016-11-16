@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": true, 
+            "hidden": false, 
+            "id": 850, 
+            "name": null, 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 850, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3241", 
+        "conflictive": false, 
+        "created_at": "22/02/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "http://governacio.gencat.cat/web/.content/jurat_dexpropiacio_de_catalunya/documents/arxius/doc_37491363_1.pdf", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3241, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Aquest equipament infrautilitzat i anacr\u00f2nic hauria de cedir el lloc que ocupa a l'Escola Patronat Dom\u00e8nech, que pateix una manca d'espai evident. El pati resultant podria funcionar com a pati obert fora de l'horari lectiu. ", 
+        "title": "Expropiaci\u00f3 i demolici\u00f3 de la parr\u00f2quia de Santa Maria de Gr\u00e0cia", 
+        "total_comments": 74, 
+        "total_negative_comments": 30, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 9, 
+        "total_votes": 61, 
+        "url": "https://decidim.barcelona/pam/proposals/expropiacio-i-demolicio-de-la-parroquia-de-santa-maria-de-gracia", 
+        "votable": null, 
+        "voted": null
+    }
+}

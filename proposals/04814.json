@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 9630, 
+            "name": "Olfequir", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 9630, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4814", 
+        "conflictive": false, 
+        "created_at": "13/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://ecriteriumes.wordpress.com/2016/01/08/salud-genero-y-comunidad-rural-la-participacion-del-paciente/ ;  http://www.slideshare.net/Olfequir/resultados-y-anlisis-de-las-encuestas-sobre-los-consejos-de-salud-y-del-grupo-cualitativo-de-discusin-formado-por-ciudadanos-participantes-en-consejos-de-salud: ", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4814, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 18, 
+            "name": "Participaci\u00f3 ciutadana", 
+            "position": 2
+        }, 
+        "summary": "Se trataria de crear un repositorio en d\u00f3nde se pudieran colgar, a disposici\u00f3n de toda la comunidad, diferentes experiencias sobre participaci\u00f3n ciudadana en salud.\r\nSe puede realizar en colaboraci\u00f3n con otros ayuntamientos y/ o diferentes instituciones de Catalunya, Espa\u00f1a y la Comunidad internacional.\r\n", 
+        "title": "Biblioteca virtual sobre experiencias de participaci\u00f3n ciudadana en salud", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/biblioteca-virtual-sobre-experiencias-de-participacionn-ciudadana-en-salud", 
+        "votable": null, 
+        "voted": null
+    }
+}

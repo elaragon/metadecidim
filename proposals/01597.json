@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 181, 
+            "name": "crismon", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 181, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1597", 
+        "conflictive": false, 
+        "created_at": "08/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.ara.cat/premium/societat/Barcelona-no-nom-dona_0_1224477579.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1597, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 4, 
+            "name": "Equitat de g\u00e8nere i diversitat sexual", 
+            "position": 4
+        }, 
+        "summary": " Donar visibilitat a les aportacions que han fet les dones a la nostra societat, i que moltes vegades queden invisibilitzades o no s\u00f3n prou reconegudes.  No tan sols posar noms de santes, posar noms de persones que han aportat quelcom a la Hist\u00f2ria, Ci\u00e8ncia i Societat. Hi un 7% de noms de dona front el 43% d'homes.", 
+        "title": "Revisar Nomencl\u00e0tor de carrers, proposant paritat Homes -Dones", 
+        "total_comments": 3, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 20, 
+        "url": "https://decidim.barcelona/pam/proposals/revisar-nomenclator-de-carrers-proposant-paritat-homes-dones", 
+        "votable": null, 
+        "voted": null
+    }
+}

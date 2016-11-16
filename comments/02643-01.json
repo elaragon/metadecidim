@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6968, 
+                "name": "Artur Millan Torruella", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hauria d'haver centres p\u00fablics, no \u00e9s just que nom\u00e9s n'hi hagi de privats...</p>", 
+            "commentable_id": 2643, 
+            "commentable_type": "Proposal", 
+            "created_at": "20/02/2016 21:07:01", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2233, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7480, 
+                "name": "Olga K", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00c9s una feina com qualsevol altra i mereixen el reconeixement! \u00e0nims</p>", 
+            "commentable_id": 2643, 
+            "commentable_type": "Proposal", 
+            "created_at": "23/02/2016 10:49:47", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2446, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7480, 
+                "name": "Olga K", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00e0nims!!</p>", 
+            "commentable_id": 2643, 
+            "commentable_type": "Proposal", 
+            "created_at": "23/02/2016 10:50:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2447, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2233", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5307, 
+                "name": "Associaci\u00f3 de Cuidadors Familiars", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Gr\u00e0cies Artur! mica en mica haur\u00edem d'anar conscienciant-nos de que tots aquests temes s'han de dur des de la gesti\u00f3 p\u00fablica, forma part de les nostres vides l'envelliment, no es tracta ni d'un luxe ni d'un capritx, tard o d'hora tots hi arribarem, \u00e9s millor que entenguem i gestionem aquest punt com una part m\u00e9s de l'administraci\u00f3, hauria d'estar reconegut i contemplat que envellir \u00e9s feixuc, que necessitarem que ens cuidin, doncs comencem a gestionar-ho ja com un fet normal i habitual del sistema . </p>", 
+            "commentable_id": 2643, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/02/2016 17:16:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2988, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2447", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5307, 
+                "name": "Associaci\u00f3 de Cuidadors Familiars", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Gr\u00e0cies Olga! fan molta falta, fa poc hem estat parlant amb una senyora que ens comenta que paga 5.500 \u20ac al mes per una habitaci\u00f3 en una residencia, es just? qui pot pagar aquesta quantitat de diners?\n</p>", 
+            "commentable_id": 2643, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/02/2016 17:11:55", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2987, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

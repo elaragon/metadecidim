@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15627, 
+                "name": "Piernas de seda", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aquest canvi de sentits de circulaci\u00f3 que inclou diversos carrers es va fer perqu\u00e8 els taxis no col\u00b7lapsessin el c. Olot i impedir, aix\u00ed, que el Bus de Barri 116 es qued\u00e9s bloquejat sense poder-hi passar. El temps que perdia el bus en freq\u00fc\u00e8ncia el guanya ara en recorregut amb aquestes voltes que caldria estudiar si realment han alliberat el c. Olot de taxis i que s\u00f3n del tot ineficients per a la resta del tr\u00e0nsit.</p>", 
+            "commentable_id": 6439, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 15:37:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6793, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 21423, 
+                "name": "cvv", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Cal reestablir el sentit \"natural\" de la circulaci\u00f3 i revisar la no a ubicaci\u00f3 de la parada de taxis del carrer Larrard</p>", 
+            "commentable_id": 6439, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 13:55:55", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10866, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 22220, 
+                "name": "Gerro", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Em sembla una proposta molt necess\u00e0ria</p>", 
+            "commentable_id": 6439, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 21:28:10", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11447, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

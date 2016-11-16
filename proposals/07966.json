@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 17380, 
+            "name": "Ruth Maria Costa Alonso", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 17380, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-7966", 
+        "conflictive": false, 
+        "created_at": "03/04/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "http://vancouver.ca/home-property-development/laneway-houses-and-secondary-suites.aspx      http://vancouver.ca/home-property-development/building-your-laneway-house.aspx", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7966, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 6, 
+            "name": "Habitatge", 
+            "position": 6
+        }, 
+        "summary": "En Barcelona y \u00e1rea metropolitana muchas parcelas son unifamiliares y solo se permite una vivienda. En muchas hay espacio para otra, separada o adaptando el edificio existente, sin segregar la parcela. Podr\u00eda destinarse a alquiler asequible o a familiares. Ayudar\u00eda a propietarios con bajas rentas y a quien busca emanciparse. ", 
+        "title": "Permitir que las parcelas unifamiliares de BCN y AMB puedan albergar una vivienda adicional a la existente (separada del edificio o adapt\u00e1ndolo) para alquiler asequible, tal y como se hace en otros sitios (Vancouver, Santa Cruz, Sacramento, etc.) ", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/permitir-que-las-parcelas-unifamiliares-de-bcn-y-amb-puedan-albergar-una-vivienda-adicional-a-la-existente-separada-del-edificio-o-adaptandolo-para-alquiler-asequible-tal-y-como-se-hace-en-otros-sitios-vancouver-santa-cruz-sacramento-etc", 
+        "votable": null, 
+        "voted": null
+    }
+}

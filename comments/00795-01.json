@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12957, 
+                "name": "Claparols-Carrera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>T'agradi o no el franquisme va ser part d'Hist\u00f2ria i com tot  van haver-hi coses bones i coses dolentes. Deixem les coses com estan que ja molt de temps que en Franco va mor\u00ed. Sembla que a tots els que voleu cambiar els noms i s\u00edmbols no podeu viure sense anomenar-lo. Qin f\u00e0stic!</p>", 
+            "commentable_id": 795, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 17:38:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5292, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "5292", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1970, 
+                "name": "red albert", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Amb el m\u00e0xim de respecte cap a la teva opini\u00f3 per\u00f2 crec que la teva aportaci\u00f3 no \u00e9s gens respectuosa cap a d'altres opinions o punts de vista. A mi personalment em molesta haver de veure jous i fletxes als portals dels meus entorns i m\u00e9s encara quan ja fa anys que es va aprovar la seva retirada, veure una \u00e0guila imperial enorme a la fa\u00e7ana d'un edifici, passejar per carrers dedicats a la mem\u00f2ria de militars i/o eclesi\u00e0stics lligats a una suposada \"croada nacional\". Potser \u00e9s que jo s\u00f3c molt sensible, o potser \u00e9s que jo s\u00f3c l'\u00fanic que t\u00e9 com a valors la igualtat, la fraternitat o la llibertat, valors totalment oposats al r\u00e8gim que representa tota aquesta simbologia</p>", 
+            "commentable_id": 795, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/04/2016 23:42:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7905, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "5292/7905", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12957, 
+                "name": "Claparols-Carrera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hola Albert,\n<br />amb el mateix respecte et voldria dir que els jous i les fletxes s\u00f3n del secle XIV, l'aliga no \u00e9s s\u00edmbol d'inperialisme ni del franquisme, \u00e9s l'aliga de Sant Joan, secle XIV, per tan dir-te que l'antic escut espanyol, no era franquista, era del reis Isabel de Castella i Ferran d'Arag\u00f3 i per finalitzar les columnes on pasa PLUS ULTRA vol dir que havien arribat a les indies per l'oest, encara no tania el nom d'Am\u00e8rica.\n<br />Una  mica d'historia no fa mal a ning\u00fa i evitar problemes . Gr\u00e0cies</p>", 
+            "commentable_id": 795, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 11:50:34", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8329, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

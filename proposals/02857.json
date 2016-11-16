@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2857", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2857, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 4, 
+            "name": "Equitat de g\u00e8nere i diversitat sexual", 
+            "position": 4
+        }, 
+        "summary": "Es revisaran les metodologies d\u2019intervenci\u00f3 existents per atendre les necessitats i la veu de dones diverses en els diferents \u00e0mbits d\u2019intervenci\u00f3 de la pol\u00edtica local, es millorar\u00e0 la coordinaci\u00f3 i intercanvi d\u2019informaci\u00f3 entre els serveis d\u2019atenci\u00f3 a dones i els d\u2019atenci\u00f3 a persones migrades, i es fomentar\u00e0 la participaci\u00f3 de les entitats de dones que lluiten per l'equitat i la interculturalitat i es promour\u00e0 la defensa dels seus drets laborals.", 
+        "title": "Modificar metodologies de treball i serveis de l\u2019Ajuntament perqu\u00e8 siguin inclusius i articular estrat\u00e8gies i iniciatives d\u2019apoderament de dones migrants o pertanyents a minories \u00e8tniques als espais habituals de la seva vida quotidiana", 
+        "total_comments": 14, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 14, 
+        "total_positive_comments": 0, 
+        "total_votes": 9, 
+        "url": "https://decidim.barcelona/pam/proposals/modificar-metodologies-de-treball-i-serveis-de-l-ajuntament-perque-siguin-inclusius-i-articular-estrategies-i-iniciatives-d-apoderament-de-dones-migrants-o-pertanyents-a-minories-etniques-als-espais-habituals-de-la-seva-vida-quotidiana", 
+        "votable": null, 
+        "voted": null
+    }
+}

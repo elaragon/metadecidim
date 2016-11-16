@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 6920, 
+            "name": "Noidelguinard\u00f3", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 6920, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4372", 
+        "conflictive": false, 
+        "created_at": "08/03/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4372, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "La vorera que conecta aquests dos carrers (al costat de la entrada al T\u00fanel de la Rovira), te una pendent molt pronunciada i es troba feta malb\u00e9. Seria convenient reformar-la i dotar-la de baranes, per que nos fos perill\u00f3s el caminar-hi. Tamb\u00e9 s'hauria de revisar l'arbrat, ja que les arrels contribueixen a fer malb\u00e9 el paviment.", 
+        "title": "Reformar la vorera que conecta el carrer Thous amb la Ronda  del Guinard\u00f3", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 7, 
+        "url": "https://decidim.barcelona/pam/proposals/reformar-la-vorera-que-conecta-el-carrer-thous-amb-la-ronda-del-guinardo", 
+        "votable": null, 
+        "voted": null
+    }
+}

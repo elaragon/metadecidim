@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1523, 
+            "name": "GRUP ECOLOGISTA DEL NUCLI ANTIC DE BARCELONA", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1523, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1330", 
+        "conflictive": false, 
+        "created_at": "03/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1330, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 1, 
+            "name": "Just\u00edcia social", 
+            "position": 1
+        }, 
+        "summary": "L'actual situaci\u00f3 de crisi econ\u00f2mica de moltes fam\u00edlies i pesnsionistes de Ciutat Vella fa que cada vegada disposin de menys recursos econ\u00f2mics per encarar el ser dia a dia. El cost del subministrament energ\u00e8tic, sobretot l'el\u00e8ctric, no para de pujar, provocant una situaci\u00f3 alarmant de pobresa energ\u00e8tica a aquests col\u2022lectius. \r\n", 
+        "title": "Servei d'atenci\u00f3 a la pobresa energ\u00e8tica", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 3, 
+        "total_votes": 155, 
+        "url": "https://decidim.barcelona/pam/proposals/servei-d-atencio-a-la-pobresa-energetica", 
+        "votable": null, 
+        "voted": null
+    }
+}

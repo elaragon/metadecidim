@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11044, 
+                "name": "Joel Feliu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Imprescindible! I encara, \u00e9s proposta de m\u00ednims.</p>", 
+            "commentable_id": 6015, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 20:51:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6853, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16256, 
+                "name": "Emma H", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>i qu\u00e8 passa amb el carrer Manso?? De vegades per sortir de casa haig de demanar perm\u00eds de tanta gent com circula pel carrer i el poc espai de borera que deixen els encants...</p>", 
+            "commentable_id": 6015, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 22:58:37", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7096, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14106, 
+                "name": "Fem Sant Antoni ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": false
+            }, 
+            "body": "<p>Manso es pacificar\u00e0 si hi ha pressi\u00f3 ve\u00efnal.  Ara que tenim l'oportunitat de planificar com han de quedar els carrers del voltant del Mercat, el que exigim \u00e9s que faci amb la participaci\u00f3 ve\u00efnal. Tots el entorns inclosos Manso, Ronda, Urgell i altres; els que decidim entre els ve\u00efns.  </p>", 
+            "commentable_id": 6015, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 23:27:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7107, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/reduir-la-velocitat-de-circulacio-dels-vehicles-a-tot-l-eixample-a-40km-h\">https://decidim.barcelona/proposals/reduir-la-velocitat-de-circulacio-dels-vehicles-a-tot-l-eixample-a-40km-h</a></p>", 
+            "commentable_id": 6015, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 18:01:47", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 16183, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

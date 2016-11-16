@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17404, 
+                "name": "pepa_bcn", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els  CRP, que en aquests moments es diuen Serveis Educatius,  funcionen correcta o incorrectament depenent  de com s\u00f3n gestionats pels professionals que hi treballen. Jo puc parlar del que conec, Horta_Guinard\u00f3; ja que treballo a una escola del Carmel. S\u00f3c testimoni de que aquest Servei Educatiu fa tot el que pot i m\u00e9s ( Incloent implementaci\u00f3 de projectes pedag\u00f2gics). Per\u00f2 el fet \u00e9s qu\u00e8 els professionals de la psicopedagogia que hi treballen s\u00f3n pocs, de la mateixa manera que tamb\u00e9 ho son els professionals de Serveis Socials d'aquests Serveis . S\u00f3n molt pocs, tenint en compte les necessitats causades per la cronificaci\u00f3 de la crisis econ\u00f2mica entre la poblaci\u00f3 amb menys recursos i que genera conseq\u00fc\u00e8ncies molt greus entre els infants) Crec  que no \u00e9s pas responsabilitat de l'Ajuntament</p>", 
+            "commentable_id": 10, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/04/2016 19:26:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7614, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

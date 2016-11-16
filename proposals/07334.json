@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7334", 
+        "conflictive": false, 
+        "created_at": "30/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 7334, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Donar m\u00e9s valor i suport al canvi de model en quant a l\u2019atenci\u00f3 de la cronicitat. Manquen recursos socials i geri\u00e0trics. Impulsar el replantejament de la provisi\u00f3 dels serveis de salut i el sistema d\u2019atenci\u00f3. Coordinar i clarificar el que ha de ser tractat des de l\u2019atenci\u00f3 sanit\u00e0ria, estrat\u00e8gies espec\u00edfiques per a la cronicitat i l\u2019atenci\u00f3 social.", 
+        "title": "Donar m\u00e9s valor i suport al canvi de model en quant a l\u2019atenci\u00f3 de la cronicitat.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/donar-mes-valor-i-suport-al-canvi-de-model-en-quant-a-l-atencio-de-la-cronicitat", 
+        "votable": null, 
+        "voted": null
+    }
+}

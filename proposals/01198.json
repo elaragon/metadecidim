@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 590, 
+            "name": "Ignacio Delgado", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 590, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1198", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1198, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Connectar el Trambaix amb el Trambes\u00f2s com projecte estrat\u00e8gic per a la ciutat  que hauria de fer-se en superf\u00edcie i al llarg del tram central de l\u2019Avinguda Diagonal.  Aquesta seria la manera m\u00e9s r\u00e0pida d\u2019enlla\u00e7ar la xarxa de tramvies amb les l\u00ednies L1, L2, L3, L4 i L5 de metro i L6 i L7 de FGC.", 
+        "title": "Abordar la connexi\u00f3 de les dues xarxes de tramvia per la Diagonal", 
+        "total_comments": 17, 
+        "total_negative_comments": 4, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 4, 
+        "total_votes": 172, 
+        "url": "https://decidim.barcelona/pam/proposals/abordar-la-connexio-de-les-dues-xarxes-de-tramvia-per-la-diagonal", 
+        "votable": null, 
+        "voted": null
+    }
+}

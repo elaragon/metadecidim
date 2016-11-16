@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Molts dels bancs que es troben a l\u2019espai p\u00fablic s\u00f3n individuals i es creu que aquests bancs no compleixen la seva funci\u00f3 socialitzadora i no s\u2019adapten a les necessitats ciutadanes. Al debat que va tenir lloc a l\u2019Escola Bet\u00e0nia \u2013 Patmos, els estudiants de 3r d\u2019ESO B van proposar la substituci\u00f3 de bancs individuals per bancs m\u00e9s grans. De la mateixa manera, s\u2019identifica que les barres en els bancs llargs s\u00f3n perqu\u00e8 les persones sense sostre no hi puguin dormir. Es proposa la eliminaci\u00f3 d\u2019aquestes barres per a que les persones sense sostre tinguin el mateix dret d\u2019\u00fas d\u2019aquest mobiliari urb\u00e0 i hi puguin dormir si fos convenient.   </p>", 
+            "commentable_id": 5403, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/04/2016 11:13:37", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7688, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

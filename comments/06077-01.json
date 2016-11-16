@@ -1,0 +1,209 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14379, 
+                "name": "Toni Terrer", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No encuentro que sea necesaria</p>", 
+            "commentable_id": 6077, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 13:54:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6123, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 2, 
+            "total_likes": 0, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3661, 
+                "name": "Josep-Llu\u00eds Alonso Arum\u00ed", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No es pot mantenir la velocitat d'un carrer de l'Eixample, com \u00e9s Rossell\u00f3, en un carrer de trama irregular, com \u00e9s Freser. A m\u00e9s cal regular amb sem\u00e0for la cru\u00eflla Freser/Xifr\u00e9.</p>", 
+            "commentable_id": 6077, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/03/2016 11:12:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6234, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17949, 
+                "name": "Gemmagbg", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Fa uns anys,quan era alcalde el Sr. Hereu, van posar sem\u00e0fors a tot el carrer Xifr\u00e9, i va quedar pendent el xamfr\u00e0 Rossell\u00f3 i el xamfr\u00e0 Fresser (sembla ser que per falta de pressupost) .Potser seria hora d \u00b4acabar de posar de sem\u00e0fors a tot el carrer Xifr\u00e9.  Es fa extremadament  perill\u00f3s creuar sobre tot la cru\u00eflla Rossell\u00f3/Xifr\u00e9.\n</p>", 
+            "commentable_id": 6077, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 13:47:47", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8528, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "6123", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3661, 
+                "name": "Josep-Llu\u00eds Alonso Arum\u00ed", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00c9s necessari pacificar el transit i regular amb sem\u00e0for la cru\u00eflla Freser/Xifr\u00e9.</p>", 
+            "commentable_id": 6077, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/03/2016 11:12:27", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6235, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "6123", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10548, 
+                "name": "Paco Gil", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Vivim en aquest tram de carrer , i en pocs anys hem vists accidents amb ferits i morts. Pero aix\u00f2 alguna cosa definitiva s'ha de fer.</p>", 
+            "commentable_id": 6077, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/03/2016 18:33:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6291, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "6123/6235", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16065, 
+                "name": "noica", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord! </p>", 
+            "commentable_id": 6077, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 14:58:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8629, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 7205, 
+            "name": "Associaci\u00f3 de Ve\u00efns i Amics del Passatge Ali\u00f3, 12 baixos", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 7205, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3269", 
+        "conflictive": false, 
+        "created_at": "22/02/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3269, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": " La remodelaci\u00f3 dels espais centrals del Pg de Sant Joan l'any 1998 van significar una millora pel barri. Per\u00f2 el manteniment ha estat insuficient i defici\u00e8ncies inicials no s'han solucionat. Demanem: 1) Reparaci\u00f3 i restauraci\u00f3 complerta de la capa de rodadura. Amb una qualitat molt superior a la realitzada el 2009,  que no ha durat gens.", 
+        "title": "Remodelaci\u00f3 i restauraci\u00f3 de la pastilla central del Passeig de Sant Joan de Travessera de Gr\u00e0cia a Diagonal (1)", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 5, 
+        "url": "https://decidim.barcelona/pam/proposals/remodelacio-i-restauracio-de-la-pastilla-central-del-passeig-de-sant-joan-de-travessera-de-gracia-a-diagonal-1", 
+        "votable": null, 
+        "voted": null
+    }
+}

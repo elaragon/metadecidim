@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 5, 
+            "name": "Just\u00edcia global"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2959", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2959, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 5, 
+            "id": 28, 
+            "name": "Just\u00edcia global", 
+            "position": 1
+        }, 
+        "summary": "Elaborar una estrat\u00e8gia de treball que enforteixi els principis i valors que defineixen la cooperaci\u00f3 municipalista, a partir del fet que a Barcelona hi ha les seus i secretaries generals de les principals xarxes internacionals municipalistes, i \u00e9s la ciutat que participa en un nombre m\u00e9s gran de xarxes internacionals, tant generalistes com tem\u00e0tiques (en \u00e0mbits clau com el medi ambient, la lluita contra el canvi clim\u00e0tic, la governan\u00e7a local, l\u2019educaci\u00f3,  etc\u00e8tera). Garantir, aix\u00ed mateix, que aquest saber fer serveixi per al teixit econ\u00f2mic de la ciutat.", 
+        "title": "Coordinar i enfortir les xarxes internacionals presents a la ciutat", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 8, 
+        "url": "https://decidim.barcelona/pam/proposals/coordinar-i-enfortir-les-xarxes-internacionals-presents-a-la-ciutat", 
+        "votable": null, 
+        "voted": null
+    }
+}

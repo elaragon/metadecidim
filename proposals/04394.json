@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 11012, 
+            "name": "Diego09", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 11012, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4394", 
+        "conflictive": false, 
+        "created_at": "08/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4394, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Degut a la enorme contaminaci\u00f3 que afecta a la ciutat de Barcelona crec que s'hauria de fomentar el us del transport public. Per que mes jent agafi el transport p\u00fablic es podria abaixar el preu de la T-10 dels 9,95 euros actuals fins a 7 euros .Tamb\u00e9 s'haurien de baixar el preu de les tarjetes de alt \u00fas com la T-Jove.", 
+        "title": "Baixar el preu de la T-10 i Fomentar el us del transport p\u00fablic", 
+        "total_comments": 24, 
+        "total_negative_comments": 2, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 17, 
+        "total_votes": 241, 
+        "url": "https://decidim.barcelona/pam/proposals/baixar-el-preu-de-la-t-10-i-fomentar-el-us-del-transport-public", 
+        "votable": null, 
+        "voted": null
+    }
+}

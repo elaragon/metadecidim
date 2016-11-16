@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2072, 
+            "name": "ekin", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2072, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1563", 
+        "conflictive": false, 
+        "created_at": "07/02/2016", 
+        "district": {
+            "id": 8, 
+            "name": "Nou Barris"
+        }, 
+        "editable": false, 
+        "external_url": "https://www.bicing.cat/sites/default/files/docs/mapa-bicing-pdf-20150716.pdf", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1563, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Implantar el servicio Bicing en todo Nou Barris, tenemos que poder ir desde Ciutat Meridiana hasta Porta en el servicio Bicing. En los Barrios de Verdum, La Guineueta, Prosperitat, Canyelles, Les Roquetes, Torre Baro, Ciutat Meridiana, Trinitat Nova y VAllbona no existe ninguna parada de Bicing.", 
+        "title": " Servicio Bicing en todo Nou Barris", 
+        "total_comments": 4, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 3, 
+        "total_votes": 83, 
+        "url": "https://decidim.barcelona/pam/proposals/servicio-bicing-en-todo-nou-barris", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,209 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6340, 
+                "name": "Enric Roig Mart\u00ed", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En fa 65 anys que es va inaugurar.</p>", 
+            "commentable_id": 1748, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/02/2016 22:10:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2039, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": true, 
+                "hidden": false, 
+                "id": 6370, 
+                "name": null, 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Un supermercat al mateix edifici q el mercat, el matar\u00e0. A m\u00e9s durant el temps (anys) q duran les obres, on anir\u00e0 el  mercat? No hi cap espai prou gran i q hi sigui a prop.\n<br />Si volen aprofitar l espai d al\u00e7ada d l edifici, q posin un Casal d gent gran q realment estigui al centre dl barri o qualsevol altre equipament  l\u00fadic.</p>", 
+            "commentable_id": 1748, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/02/2016 11:33:13", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2054, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 838, 
+                "name": "Vict\u00f2ria Barcel\u00f3 Roca", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si cal arranjar el mercat s'ha de respectar l'edifici. S'ha d'estudiar b\u00e9 si cal un aparcament subterrani. El que no s'ha de fer de cap manera \u00e9s posar una gran superf\u00edcie en el mercat- El barri est\u00e0 saturat de grans superf\u00edcies. Cal estimular el petit comer\u00e7 i el producte de proximitat</p>", 
+            "commentable_id": 1748, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/02/2016 17:10:47", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2391, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2039", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4873, 
+                "name": "Carlota Gim\u00e9nez i Compte", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord. Errada de c\u00e0lcul.</p>", 
+            "commentable_id": 1748, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/02/2016 12:08:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2061, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2054", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4873, 
+                "name": "Carlota Gim\u00e9nez i Compte", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Mantenint el mercat com est\u00e0 o canviant-ne l'\u00fas la q\u00fcesti\u00f3 \u00e9s valoritzar d'edifici i no enderrocar-lo. La ll\u00e0stima \u00e9s que aquesta consci\u00e8ncia preservar el patrimoni de la \"perif\u00e8ria\" de la ciutat ens ve de fa poc. A ning\u00fa se li hagu\u00e9s acudit enderrocar el mercat del Born, al marge de les diferents v\u00e0lues arquitect\u00f2niques.</p>", 
+            "commentable_id": 1748, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/02/2016 12:14:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2062, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2391", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8218, 
+                "name": "maga", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Un aparcament pot anar b\u00e9, ja que som en un barri amb moltes pujades.  Per\u00f2 no trobo pas a faltar tenir un supermercat enganxat al mercat...</p>", 
+            "commentable_id": 1748, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 08:28:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4076, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

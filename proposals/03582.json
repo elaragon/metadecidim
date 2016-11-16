@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8921, 
+            "name": "casa lila", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 8921, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3582", 
+        "conflictive": false, 
+        "created_at": "27/02/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3582, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Remodelar las muchas calles que todav\u00eda quedan por arreglar en el tri\u00e1ngulo comprendido entre las calles Cerde\u00f1a,  Pi i Margall y Travesera de Gracia. Es necesario convertir este tri\u00e1ngulo en una zona  que facilite la movilidad reducida. Especialmente se deber\u00edan ampliar aceras y apaciguar  el tr\u00e1fico rodado. ", 
+        "title": "Remodelaci\u00f3n integral de las calles comprendidas entre Cerde\u00f1a,  Pi i Margall y Travesera de Gracia", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 13, 
+        "url": "https://decidim.barcelona/pam/proposals/remodelacion-integral-de-las-calles-comprendidas-entre-cerdena-pi-i-margall-y-travesera-de-gracia", 
+        "votable": null, 
+        "voted": null
+    }
+}

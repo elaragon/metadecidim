@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 12425, 
+            "name": "AFA CEIP CONGR\u00c9S INDIANS", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 12425, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5032", 
+        "conflictive": false, 
+        "created_at": "14/03/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "https://dl.dropboxusercontent.com/u/2408281/Crida%20per%20un%20nou%20institut.docx", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5032, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Els infants han omplert les escoles p\u00fabliques del Districte  aquests darrers anys, provocant noves escoles en barracons i la proliferaci\u00f3 de bolets.  Quan arribin a la secund\u00e0ria la manca de places \u00e9s m\u00e9s que previsible.  Per aquest motiu proposem la construcci\u00f3 urgent d'un nou Institut P\u00fablic al barri de la Sagrera. Ens queda poc temps.", 
+        "title": "Construcci\u00f3 d'un nou Institut P\u00fablic al barri de la Sagrera (Urgent)", 
+        "total_comments": 52, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 4, 
+        "total_positive_comments": 45, 
+        "total_votes": 436, 
+        "url": "https://decidim.barcelona/pam/proposals/construccio-d-un-nou-institut-public-al-barri-de-la-sagrera-urgent", 
+        "votable": null, 
+        "voted": null
+    }
+}

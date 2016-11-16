@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 3070, 
+            "name": "albert", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 3070, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2661", 
+        "conflictive": false, 
+        "created_at": "14/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.transportpublic.org/component/content/article/56-general/1465-reivindiquem-mes-rodalies-al-prat-i-la-validesa-de-la-t10-i-dels-bitllets-de-renfe-a-ll9-sud-per-treure-mes-profit-del-metro-a-laeroport", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2661, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "El nou metro L9 a aeroport no es podr\u00e0 usar la t10 i el bitllet valdr\u00e0 4,5 \u20ac. Es podria mirar que amb la nova t-mobilitat es pugui anar a aeroport sense pagar suplement.", 
+        "title": "Barcelonins puguin anar amb metro a aeroport L9 sense pagament suplement", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 38, 
+        "url": "https://decidim.barcelona/pam/proposals/barcelonins-puguin-anar-amb-metro-a-aeroport-l9-sense-pagament-suplement", 
+        "votable": null, 
+        "voted": null
+    }
+}

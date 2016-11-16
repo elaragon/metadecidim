@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9217", 
+        "conflictive": false, 
+        "created_at": "07/04/2016", 
+        "district": {
+            "id": 4, 
+            "name": "Les Corts"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9217, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "A tots els sembla una molt bona proposta els tallers de cuina i han afegit que seria\r\nconvenient que hi hagi un taller de cuina b\u00e0sic per a la majoria de persones i\r\ntamb\u00e9 un taller de cuina m\u00e9s avan\u00e7at per a les persones que els agrada m\u00e9s\r\ncuinar i vulguin fer plat\u00f3s m\u00e9s elaborats.\r\n", 
+        "title": "Promocionar tallers que afavoreixen la conscienciaci\u00f3 del menjar saludable: Tallers de cuina, tallers de com i on comprar. ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/promocionar-tallers-que-afavoreixen-la-conscienciacio-del-menjar-saludable-tallers-de-cuina-tallers-de-com-i-on-comprar-edce59e9-5e9c-43db-a6cf-0edbbd67ec2f", 
+        "votable": null, 
+        "voted": null
+    }
+}

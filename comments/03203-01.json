@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8267, 
+                "name": "s3alcaide", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Concretament al barri del Baix Guinard\u00f3, hi ha un solar que est\u00e0 al carrer Lepant just passada la Ronda Guinard\u00f3, davant d'un mini parc, que hem hagut d'avisar ja un parell de cops perqu\u00e8 hi ha plaga de rates. Com pot haver gent al carrer dormint i sense sostre quan hi ha cases bu\u00efdes o solars per fer Entitats on poder tenir ajuda?</p>", 
+            "commentable_id": 3203, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 10:48:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2680, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5242, 
+                "name": "Alejandro Gim\u00e9nez Imirizaldu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Diria m\u00e9s. Sancions a les situacions d'abandonament de m\u00e9s de dos anys. Edificaci\u00f3 amb funcions socials, immediata. \n<br />Un solar buit a perpetu\u00eftat \u00e9s una falta de respecte a la ciutat i als seus ve\u00efns.</p>", 
+            "commentable_id": 3203, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 15:36:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2724, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/desenvolupar-la-nova-oficina-de-transparencia-i-bones-practiques\">https://decidim.barcelona/proposals/desenvolupar-la-nova-oficina-de-transparencia-i-bones-practiques</a></p>", 
+            "commentable_id": 3203, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 14:02:01", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9427, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12179, 
+                "name": "suport.decidim1", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en la cita presencial: Consell de Salut de Sant Andreu. \"Augmentar la transpar\u00e8ncia en quant als processos d\u2019adjudicaci\u00f3 dels recursos i la prioritzaci\u00f3 d\u2019objectius, evitant els usos no eficients o inadequats dels recursos.\"</p>", 
+            "commentable_id": 6192, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 12:28:26", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6092, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12179, 
+                "name": "suport.decidim1", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en la cita presencial: Consell de Salut de Sant Andreu. \"En refer\u00e8ncia a l\u2019objectiu de promoure la salut al districte, es proposa adoptar un punt de vista interdisciplinar, en concret la perspectiva biopsicosocial, on es fomentin estils de vida saludables des dels espais de sociabilitat (entorn, xarxes, equipaments...). En aquest sentit, cal garantir tamb\u00e9 serveis de salut resolutius, ben dotats i que treballin en xarxa.</p>", 
+            "commentable_id": 6192, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 13:40:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6109, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12179, 
+                "name": "suport.decidim1", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en la cita presencial: Consell de Salut de Sant Andreu. \"Coordinar sin\u00e8rgies de treball entre els centres de salut, les entitats i la poblaci\u00f3 en termes de detecci\u00f3 de necessitats. Que aquelles situacions socials i factors condicionants que no es puguin detectar des dels serveis de salut, els puguin detectar des de l\u2019entorn immediat dels usuaris i transmetre-ho als serveis d\u2019atenci\u00f3 corresponents i a l\u2019inversa.</p>", 
+            "commentable_id": 6192, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 13:41:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6110, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

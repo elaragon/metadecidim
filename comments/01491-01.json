@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 94, 
+                "name": "Genis Barrera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Qu\u00e8 significa establir el mateix horari? no acabo d'entendre la proposta, sorry</p>", 
+            "commentable_id": 1491, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 16:20:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 829, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2870, 
+                "name": "Xavier ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En realitat, m\u00e9s que limitar l'\u00fas del vehicle privat, el que faries \u00e9s recaptar m\u00e9s. Moltes persones necessitem el vehicle per a treballar per a vosaltres. Com m\u00e9s augmenten els costos per a les empreses, m\u00e9s apreten en ajustos de salaris. </p>", 
+            "commentable_id": 1491, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 18:22:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 957, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 74, 
+                "name": "Gisela", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No puc votar a favor, quan en realitat estic totalment en contra de que hi hagi zones de pagament per aparcar al carrer. Hi ha un altre post en el que es parla d'una taxa per vehicle que ve de fora de Barcelona. Potser aquesta taxa hauria d'ajustar-se en els casos de vehicles comercials. En qualsevol cas, no puc votar a favor malauradament.</p>", 
+            "commentable_id": 1491, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/02/2016 14:22:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1075, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "829", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2008, 
+                "name": "Fernando Delgado", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Actualment l'horari d'estacionament a l'area blava es de 9h a 14h i de 16h a 20h. A l'area verda i majoria de c\u00e0rrega i desc\u00e0rrega es de 8h a 20h.  Si fos tot l'estacionament de 8h a 20h,  limitaria l'\u00fas del vehicle privat.</p>", 
+            "commentable_id": 1491, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 21:33:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 863, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "829/863", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 94, 
+                "name": "Genis Barrera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ok, entenc, de fet jo extendria de 8h a 8h :-)\n<br />O recuperar tot l'aparcament de bcn i convertir-lo en espai per vianant, bici o trans. public. Dono suport doncs a la proposta</p>", 
+            "commentable_id": 1491, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 21:37:55", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 864, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

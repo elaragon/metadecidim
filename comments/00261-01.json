@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/mesures-per-millorar-la-convivencia-entre-vianants-i-bicicletes-al-barri-de-sant-antoni\">https://decidim.barcelona/proposals/mesures-per-millorar-la-convivencia-entre-vianants-i-bicicletes-al-barri-de-sant-antoni</a></p>", 
+            "commentable_id": 261, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 16:34:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15944, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/nou-marc-de-convivencia-entre-vianants-i-ciclistes\">https://decidim.barcelona/proposals/nou-marc-de-convivencia-entre-vianants-i-ciclistes</a></p>", 
+            "commentable_id": 261, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 16:38:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15958, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/millora-de-la-convivenciade-la-bicicleta-amb-els-vianants\">https://decidim.barcelona/proposals/millora-de-la-convivenciade-la-bicicleta-amb-els-vianants</a></p>", 
+            "commentable_id": 261, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 16:45:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15971, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

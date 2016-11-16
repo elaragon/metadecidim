@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7637, 
+                "name": "MARC SEGURANA", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>les rates surten del tancat pertenyent a la seguretat social del descampat dels triangles</p>", 
+            "commentable_id": 4265, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/03/2016 18:22:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3865, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13285, 
+                "name": "CarlaNC", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p> Al voltant de la Escola Fluvi\u00e0, apareixen rates ass\u00edduament. Ahir es va trobar una rata dins de l'escola. El curs passat es va haver de tancar l'establiment per infestaci\u00f3 de rates. Que no torni a succeir! Necessitem una soluci\u00f3 ja.</p>", 
+            "commentable_id": 4265, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 13:26:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5501, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13828, 
+                "name": "Jessica Souki", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hay ratas en todo el barrio. vivo en av. diagonal 38 y se pasean las ratas a cualquier hora del dia por la calle, plazas, parques, etc. es un peligro para todo los vecinos</p>", 
+            "commentable_id": 4265, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 10:08:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6069, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

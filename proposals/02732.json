@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 6185, 
+            "name": "M.Mateu", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 6185, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2732", 
+        "conflictive": false, 
+        "created_at": "17/02/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "http://w110.bcn.cat/portal/site/MediAmbient/menuitem.7120b3cf16112e13e9c5e9c5a2ef8a0c/?vgnextoid=3ede601267a82410VgnVCM1000001947900aRCRD&vgnextfmt=formatDetall&lang=es_ESEn", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2732, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "O be eliminar el Zoo / reduir-lo / traslladarl-lo o be recuperar el projecte de passatge peatonal per unir Barceloneta i passeig de Sant Joan.  El parc de la Ciutadella queda tallat i no es aprofitable per tots els ciutadans com hauria de ser, amb monuments tan barcelonins com la dama del paraig\u00fces que no podem disfrutar.", 
+        "title": "Recuperar projecte del passatge per vianants per sobre el Zoo / vies tren.", 
+        "total_comments": 4, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 16, 
+        "url": "https://decidim.barcelona/pam/proposals/recuperar-projecte-del-passatge-per-vianants-per-sobre-el-zoo-vies-tren", 
+        "votable": null, 
+        "voted": null
+    }
+}

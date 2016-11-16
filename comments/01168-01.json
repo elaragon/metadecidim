@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10156, 
+                "name": "Charles", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalmente de acuerdo contigo, Daniel.</p>", 
+            "commentable_id": 1168, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 11:51:20", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4779, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15548, 
+                "name": "Barcandres", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es bueno decir que el tema del ruido es generalizado en todo Poble Sec. Exigimos m\u00e1s presencia policial y ser m\u00e1s estrictos con el tema de las multas a los locales cuyos visitantes se quedan haciendo ruido en el carrer. En la calle Tapioles 21, por culpa del Bar Hildas, esto ocurre diariamente</p>", 
+            "commentable_id": 1168, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 23:39:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6681, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/revisar-els-horaris-de-tancament-dels-locals-de-publica-concurrencia\">https://decidim.barcelona/proposals/revisar-els-horaris-de-tancament-dels-locals-de-publica-concurrencia</a></p>", 
+            "commentable_id": 1168, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 22:58:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 18443, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

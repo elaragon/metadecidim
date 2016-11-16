@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10282, 
+            "name": "V\u00edctor GC", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 10282, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3905", 
+        "conflictive": false, 
+        "created_at": "04/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3905, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 17, 
+            "name": "Energia i canvi clim\u00e0tic", 
+            "position": 5
+        }, 
+        "summary": "Es tractaria de fer que tots els aparcaments, soterrats o no, tinguessin punts de rec\u00e0rrega gratu\u00efts per a vehicles el\u00e8ctrics alhora que se'n rebaixen les taxes per a fomentar el seu \u00fas. El motiu \u00e9s ben clar: fomentar la mobilitat el\u00e8ctrica permet reduir la contaminaci\u00f3 de l'aire i el soroll, alhora que es redueixen les emissions de CO2.", 
+        "title": "Xarxa de punts de rec\u00e0rrega per a vehicles el\u00e8ctrics i foment del seu \u00fas en detriment dels vehicles de combusti\u00f3 per a reduir la contaminaci\u00f3 y el soroll.", 
+        "total_comments": 8, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 41, 
+        "url": "https://decidim.barcelona/pam/proposals/xarxa-de-punts-de-recarrega-per-a-vehicles-electrics-i-foment-del-seu-us", 
+        "votable": null, 
+        "voted": null
+    }
+}

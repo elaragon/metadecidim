@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4307, 
+            "name": "Ruscalleda Miquel", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4307, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5034", 
+        "conflictive": false, 
+        "created_at": "15/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5034, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Tendir a un preus mes baixos per els ciutadans de Barcelona. Repercutir en el preu final l'ajut p\u00fablic rebut i fomentar el consum de productes culturals dels habitants de Barcelona. Alhora, fomentar el consum cultural dels turistes per compensar. Tendir a preus simb\u00f2lics i a promoure la cultura.", 
+        "title": "Una rebaixa proporcional en el preu d'un espectacle en funci\u00f3 de l'ajut p\u00fablic rebut  pels ciutadans de Barcelona", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 6, 
+        "url": "https://decidim.barcelona/pam/proposals/una-rebaixa-proporcional-en-el-preu-d-un-espectacle-en-funcio-de-l-ajut-public-rebut-pels-ciutadans-de-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

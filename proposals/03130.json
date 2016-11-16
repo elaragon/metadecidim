@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4232, 
+            "name": "Nina", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4232, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3130", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3130, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "El carril bici del pg.pujades, davant del parc de la Ciutadella est\u00e0 mal situat, doncs passa just per davant de les portes d'entrada al parc i  \u00e9s perill\u00f3s tant per vianant com per bicis perqu\u00e8 no hi ha visibiltat ni marge de maniobra  i es pot topar f\u00e0cilment. Proposo eliminar un tros de zona verda per tal d'habilitar espais segurs de circulaci\u00f3.", 
+        "title": "Millora carril bici al pg. Pujades parc de la Ciutadella", 
+        "total_comments": 9, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 6, 
+        "total_positive_comments": 2, 
+        "total_votes": 37, 
+        "url": "https://decidim.barcelona/pam/proposals/millora-carril-bici-al-pg-pujades-parc-de-la-ciutadella", 
+        "votable": null, 
+        "voted": null
+    }
+}

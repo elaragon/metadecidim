@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 369, 
+                "name": "Maclaren", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>el superavit no existeix, s'elimina redistribuint, es a dir, donant servei i atenent les necessitats com es la seva obligacio\u00f3. Els que han d'augmentyar son els impostos de manera progressiva, als que mes tenen, sino paguem sempre els mateixos: treballadors i petits comerciants i mepresaris. </p>", 
+            "commentable_id": 1325, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 15:36:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 819, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "819", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 546, 
+                "name": "monsol", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estamos hablando a nivel municipal,si que son progresivos o es que paga lo mismo de ibi un piso de 100 m cuadrados en diagonal que en la meridiana,o la zona blava de aparcament hay zonas que la hora sale a 2 euros y otras a uno.La propuesta es bajarselos a todos los vecinos, esa es la mejor redistribuci\u00f3n.</p>", 
+            "commentable_id": 1325, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/02/2016 18:54:01", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1193, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

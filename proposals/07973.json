@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 12038, 
+            "name": "elsoldaluz", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 12038, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-7973", 
+        "conflictive": false, 
+        "created_at": "03/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7973, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "L'atenci\u00f3 a lasalut mental i sociosanit\u00e0ria est\u00e0 en mans privades.     Cal defensar que el pacient intern tingui els mateixos drets que la resta (dret a l'acompanyament, dret a decidir si vol o no la ter\u00e0pia a una segona opini\u00f3, dret a una informaci\u00f3 complerta i per escrit i dret de retirar en qualsevol moment el centre la seva cura).", 
+        "title": "Protocols de seguretat sanit\u00e0ria en les persones internes.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/protocols-de-seguretat-sanitaria-en-les-persones-internes", 
+        "votable": null, 
+        "voted": null
+    }
+}

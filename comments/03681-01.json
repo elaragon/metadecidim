@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9821, 
+                "name": "marina puig", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tot i que \u00e9s complicat el tema zona verda al barri, caldria intentar posar-ne on es pugui. Aqu\u00ed on dieu, i en altres llocs. A mi se'm acut que es podria remodelar la part dels jardinets de Gr\u00e0cia i fer un espai m\u00e9s verd i no tant de ciment...i penso que cal replantejar seriosament el tema de la prohibici\u00f3 del tr\u00e0nsit al barri (amb les excepcions l\u00f2giques).</p>", 
+            "commentable_id": 3681, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/03/2016 20:47:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3236, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10716, 
+                "name": "zaharagarcia", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment a favor. Calen m\u00e9s espais verds al barri, entenent per espais verds zones amb vegetaci\u00f3 i arbrat. Prou places amb ciment i bars pels turistes i m\u00e9s parcs i jardins per a que la gent del barri pugui tenir una mica m\u00e9s de contacte amb la natura. L'interior d'illa entre Ja\u00e9n i Ast\u00faries seria un empla\u00e7ament ideal per aix\u00f2.</p>", 
+            "commentable_id": 3681, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/03/2016 13:56:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3841, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3236", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8754, 
+                "name": "Arnau B", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Clar. Ja hi ha una altra proposta de fer les places de Gr\u00e0cia m\u00e9s verdes i treure ciment. Nom\u00e9s he posat aquesta proposta perqu\u00e8 es un tema que el darrer Ajuntament va deixar en un calaix despr\u00e8s de fer l'escola bressol, i la Vila de Gr\u00e0cia es un barri amb una gran carencia de sol p\u00fablic, i aquest n'\u00e9s un.</p>", 
+            "commentable_id": 3681, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/03/2016 11:25:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3311, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

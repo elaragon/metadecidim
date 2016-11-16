@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 203, 
+                "name": "Alfonso", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En el jard\u00edn de les Infantes hay una escola Bressol y un colegio cuya fachada es utilizada por multitud de perros para hacer sus necesidades con el mal olor e insectos que esto conlleva. Ning\u00fan cartel amenaza con multa o penalizaci\u00f3n alguna. Se podr\u00eda empezar por advertir y multar. </p>", 
+            "commentable_id": 487, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/02/2016 13:50:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 61, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

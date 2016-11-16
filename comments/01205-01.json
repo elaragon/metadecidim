@@ -1,0 +1,242 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 808, 
+                "name": "retroriff", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord. \u00c9s un gran problema de salut per als ciutadans que se'ns desperti cada nit a horaris intempestius. L'horari de recollida mai hauria de sobrepassar la mitjanit.</p>", 
+            "commentable_id": 1205, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 11:10:49", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 194, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1654, 
+                "name": "Jaume Villalba Gomis", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalmente de acuerdo</p>", 
+            "commentable_id": 1205, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 17:08:49", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 670, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2870, 
+                "name": "Xavier ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Certament, no cal buidar els contenidors de vidre a les 6 del mat\u00ed...ni a les 7. </p>", 
+            "commentable_id": 1205, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 19:08:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 979, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7919, 
+                "name": "RCordoba", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Completament d'acord. Cada nit patim aquest soroll!</p>", 
+            "commentable_id": 1205, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/02/2016 11:14:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2540, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9821, 
+                "name": "marina puig", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord, i afegeixo el del bicing...</p>", 
+            "commentable_id": 1205, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/03/2016 22:18:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3257, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1380, 
+                "name": "NataliaP", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>D'acord!</p>", 
+            "commentable_id": 1205, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/03/2016 23:04:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4030, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17016, 
+                "name": "Eurasia", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estoy totalmente de acuerdo. Vivo en Creu dels Molers, en un principal y la situaci\u00f3n es insostenible. Llegan a las 3.30 de la ma\u00f1ana. Os dejo con el enlace de un particular que gan\u00f3 una causa en contra al Ayuntamiento de Bilbao (10.000 euros). <a href=\"http://rincondelpataleo.blogspot.com.es/2008/01/indemnizacion-por-ruidos-del-camin-de.html\">http://rincondelpataleo.blogspot.com.es/2008/01/indemnizacion-por-ruidos-del-camin-de.html</a></p>", 
+            "commentable_id": 1205, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 15:26:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9539, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 7, 
+        "total_pages": 1
+    }
+}

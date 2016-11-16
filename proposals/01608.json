@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 3182, 
+            "name": "Sandra Sancho", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 3182, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1608", 
+        "conflictive": false, 
+        "created_at": "08/02/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1608, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "L'acc\u00e9s amb cotxe als carrers per sobre de l'Av VERGE DE MONTSERRAT (G\u00e8nova, S\u00e8rbia, Brussel\u00b7les, Flor\u00e8ncia,  ...) \u00e9s molt complicat ja que l'\u00fanic carril de baixada per l'AV. entre c/Cartagena i Passeig Maragall \u00e9s nom\u00e9s BUS/TAXI. Proposta: obrir el carril a altres vehicles, obrir el c/Brussel\u00b7les a la Pl. Font Castellana per accedir a la zona.", 
+        "title": "Millora acc\u00e9s amb cotxe al barri Guinard\u00f3 - Circulaci\u00f3 AV. Verge de Montserrat", 
+        "total_comments": 5, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 1, 
+        "total_votes": 21, 
+        "url": "https://decidim.barcelona/pam/proposals/millora-accessos-amb-cotxe-al-barri-guinardo", 
+        "votable": null, 
+        "voted": null
+    }
+}

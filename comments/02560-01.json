@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3554, 
+                "name": "MontseC", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Crec que \u00e9s un servei que ha de donar l'Ajuntament, no tinc d'estar pendent de tenir 30 cnetims a ma per anar al lavabo a la meva ciutat. \u00c9s una ciutat gran i quan arribo al lloc de dest\u00ed, ja he d'anar al lavabo i tenint en compte, que no hi han serveis a les estacions d'autobusos de l\u00ednia regular, ni a Renfe (perqu\u00e8 s\u00f3n pagant) ni FGC, doncs no podem anar prenent cafes tot el dia per poder anar al lavabo.</p>", 
+            "commentable_id": 2560, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/02/2016 18:05:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1646, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 2, 
+            "total_likes": 1, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1401, 
+                "name": "Lena", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Creo que menos costoso ser\u00eda obligar a los bares (siendo lugares de uso publico) a dejar utilizar sus servicios.</p>", 
+            "commentable_id": 2560, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/02/2016 06:59:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1680, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 1, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9821, 
+                "name": "marina puig", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>i cendrers!</p>", 
+            "commentable_id": 2560, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/03/2016 22:44:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3280, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3827, 
+                "name": "suport decidim.barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "moderator", 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/pla-per-a-la-instal-lacio-de-lavabos-publics-e73fc13f-f540-4201-a008-6fd16a046a1e\">https://decidim.barcelona/proposals/pla-per-a-la-instal-lacio-de-lavabos-publics-e73fc13f-f540-4201-a008-6fd16a046a1e</a></p>", 
+            "commentable_id": 2560, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 12:40:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7374, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1646", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3070, 
+                "name": "albert", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En Lena diu que puguis utilitzar els lavabos dels bars sense haver-hi de consumir. Potser limitar-ho als que tenen terrasses i per tant fan us d'espai p\u00fablic? tot i pagar taxa seria una altra manera de contribuir-hi.</p>", 
+            "commentable_id": 2560, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 00:00:10", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1792, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

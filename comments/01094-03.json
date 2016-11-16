@@ -1,0 +1,275 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8701, 
+                "name": "Elisabet Juan", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Quants inspectors calen per aplicar aquesta mesura?. Miraran si la vivenda ha estat renovada a les zones comunes? I a l'interior? Si t\u00e9 calefacci\u00f3 a gas o no? Posaran un preu per barri? Em sembla una mesura bastant inutil. Fomenteu els ajuts a qui  no tenen recursos, fent propostes als privats que tenen els habitatges de baixar el preu a canvi de seguretat en rebre el lloguer i d'altres propostes m\u00e9s creatives. No som a Corea del Nord. Per cert, conec uns quants que gaudeixen de vivendes p\u00fabliques que tenen bastants m\u00e9s calers que jo.... Estudieu qui hi accedeix...</p>", 
+            "commentable_id": 1094, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/03/2016 20:03:00", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4432, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 3, 
+            "total_likes": 0, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1173, 
+                "name": "Emilio_Lopez1985", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Molt bona idea es veritat hi han preus molt abussius</p>", 
+            "commentable_id": 1094, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/03/2016 20:26:58", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4620, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6831, 
+                "name": "Plataforma Afectats per l'hipoteca (PAH)", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": true
+            }, 
+            "body": "<p>PAH Barcelona ve alertant des de fa anys de la bombolla dels lloguers que pateix la nostra ciutat enmig d'un context d\u2019emerg\u00e8ncia habitacional. Cada any a Barcelona els preus del mercat del lloguer no paren d'augmentar, arribant a l'escandalosa xifra del 24% d'augment durant 2015. Aquestes pujades constants tenen relaci\u00f3 directa amb la falta d'un marc regulatiu dels preus segons les caracter\u00edstiques de l'habitatge, l\u2019unitat familiar que resideix a la mateixa i la zona on s'ubica. Actualment, m\u00e9s el 90% dels desnonaments d'habitatge s\u00f3n per no poder fer front al lloguer. \u00c9s de m\u00ednims que l'Ajuntament es comprometi a establir una regulaci\u00f3 que permeti l'acc\u00e9s a un lloguer ASSEQUIBLE per a tota la ciutadania.</p>", 
+            "commentable_id": 1094, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 00:18:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7118, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16891, 
+                "name": "jim", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Jo posaria un preu l\u00edmit de lloguer per barri. La quantitat adequada \u00e9s el m\u00e9s complicat de trobar...</p>", 
+            "commentable_id": 1094, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 18:09:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7445, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10150, 
+                "name": "M\u00f2nica Pujol", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>T'animes a donar suport?:</p>\n\n<p>RECUPEREM LA LLOTJA:\n<br />Reclamem que l'antiga seu de l\u2019escola d\u2019art La Llotja torni a ser centre p\u00fablic d'experimentaci\u00f3 educativa, de formaci\u00f3, creaci\u00f3, difusi\u00f3 i promoci\u00f3 dels ensenyaments art\u00edstics</p>\n\n<p><a href=\"https://decidim.barcelona/proposals/recuperem-el-borsi\">https://decidim.barcelona/proposals/recuperem-el-borsi</a></p>", 
+            "commentable_id": 1094, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 18:48:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8830, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 222, 
+                "name": "Victor Marchesini", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Apoyo</p>", 
+            "commentable_id": 1094, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/04/2016 08:15:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12812, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4432", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 85, 
+                "name": "kerouack", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Se puede regular un precio m\u00e1ximo por barrio , metros y estado. Ser\u00eda no un precio exacto sino m\u00e1ximo. Inspectores los que haga falta que se paguen con el 3% de nuestros impuestos. Corea sobra , puedes tomar ejemplos norte europeos. Si , inspectores tambi\u00e9n para quien accede a viviendas p\u00fablicas y un buen estudio de qui\u00e9n accede a ellas ( aqu\u00ed si pareces estar de acuerdo en que se inspeccione, curiosamente ).</p>", 
+            "commentable_id": 1094, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 18:19:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5619, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4432/5619", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8701, 
+                "name": "Elisabet Juan", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hola, les vivendes de protecci\u00f3 les paguem tots amb els nostres impostos. Si l'ocupa alg\u00fa que no s'ho mereix hi ha dos perjudicis: el primer \u00e9s el mal \u00fas del diner p\u00fablic i el segon \u00e9s que alg\u00fa que ho necessita no t\u00e9 pla\u00e7a. Per aix\u00f2 crec: 1. que cal que s'ho mirin dues vegades i 2. no sigui un dret per sempre. Si tornes a tenir un cert nivell de renda no hauries de tenir dret a ocupar vivenda p\u00fablica. A Anglaterra funciona aix\u00ed. Amb els pisos de propietat privada no tot s\u00f3n flors i violes. Molta gent que es va hipotecar quant la bombolla va estallar potser estan perdent diners avui en dia. A sobre, si se'n van a viure a una altra banda per feina i volen  llogar el seu pis tindran uns preus regulats? En tota inversi\u00f3, unes vegades es guanya i d'altres es perd. Si que estic d'acord en promocionar mesures que evitin l'especulaci\u00f3 bancaria i de grups inversors fent canviar el preu de la vivenda. Per que creus que pujen ara els pisos? Per aix\u00f2 potser cal obrir un altra tema...</p>", 
+            "commentable_id": 1094, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 21:27:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5674, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 3, 
+        "next_page": null, 
+        "prev_page": 2, 
+        "total_count": 46, 
+        "total_pages": 3
+    }
+}

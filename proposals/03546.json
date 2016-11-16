@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8639, 
+            "name": "Claris Sohn", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 8639, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3546", 
+        "conflictive": false, 
+        "created_at": "26/02/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3546, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "S'ha ficat molt de moda llogar patinets el\u00e8ctrics pels guiris, sobretot per la Barceloneta i realment es un perill. Van com volen, sense respectar als vianants, acostumen a ser joves sense cap mena de respecte i van MOLT r\u00e0pids en zones de vianants on es troben nens, gent gran, etc. He vist m\u00e9s d'un accident i he tingut m\u00e9s d'un ensurt.\r\n", 
+        "title": "Prohibir els patinets el\u00e8ctrics i els segways a la ciutat de Barcelona. ", 
+        "total_comments": 14, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 6, 
+        "total_positive_comments": 4, 
+        "total_votes": 65, 
+        "url": "https://decidim.barcelona/pam/proposals/prohibir-els-patinets-electrics-i-els-segways-a-la-ciutat-de-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

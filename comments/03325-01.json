@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8653, 
+                "name": "Ketty", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Canviaria \"gent gran\" per la paraula \"adults\". Hi ha molts pares i moltes mares que pateixen l'escletxa digital i aix\u00f2 condiciona, i discrimina, l'educaci\u00f3 i la formaci\u00f3 laboral dels fills. </p>", 
+            "commentable_id": 3325, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/02/2016 14:08:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2816, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3827, 
+                "name": "suport decidim.barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "moderator", 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en la cita presencial, Debat de les persones grans en el proc\u00e9s participatiu d\u2019elaboraci\u00f3 del PAM 2015 -2016 : \"Per eradicar la bretxa digital de les persones grans i impulsar la formaci\u00f3 en les noves tecnologies i la utilitzaci\u00f3 de m\u00f2bils i tauletes cal fer cursos i xerrades en Casals i Centre C\u00edvics. Concebre la bretxa digital tamb\u00e9 en quant a la seguretat en l\u2019\u00fas i maneig dels dispositius. Minimitzar la sensaci\u00f3 de desconeixement de les possibles conseq\u00fc\u00e8ncies quan es prem un bot\u00f3 o es fa una acci\u00f3 (\u201cpenso que ho esborrar\u00e9 tot sense voler)\"</p>", 
+            "commentable_id": 3325, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 12:41:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5488, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "5488", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 512, 
+                "name": "Solidaritat Catalana per la Independ\u00e8ncia", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ens alegra que hagueu tingut la nostra proposta en compte.:)</p>", 
+            "commentable_id": 3325, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 12:46:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5491, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

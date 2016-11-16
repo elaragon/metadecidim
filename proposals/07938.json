@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 17222, 
+            "name": "JorgeMS", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 17222, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-7938", 
+        "conflictive": false, 
+        "created_at": "03/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.gestiplan.com/blog/documentos/2011/1103_valoraciones.pdf", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7938, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 6, 
+            "name": "Habitatge", 
+            "position": 6
+        }, 
+        "summary": "Proposta que sense ser intervencionista ni proteccionista  sino representativa de la regulaci\u00f3 dels habitatges a tota la ciutat: Mitjan\u00e7ant el colegi d'arquitectes de Barcelona Crear el \"M\u00e8tode Just\" (envio exemple a l'enlla\u00e7\"metode residual\")que permeti establir un valor al metre quadrat accesible per tothom,a les quals s'adaptin ls constructores.", 
+        "title": "(RHAB) - Regulaci\u00f3 d'Habitatges mitjan\u00e7ant la nova intermediaci\u00f3 de l'Ajuntament de Barcelona - (RHAB)", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/rhab-regulacio-d-habitatges-mitjancant-la-nova-intermediacio-de-l-ajuntament-de-barcelona-rhab", 
+        "votable": null, 
+        "voted": null
+    }
+}

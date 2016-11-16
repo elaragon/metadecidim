@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A la cita presencial que va tenir lloc a l\u2019Escola Sant Ram\u00f3n Nonat, els estudiants de 3r d\u2019ESO B van estar debatent diverses propostes per millorar el medi ambient de la ciutat, entre aquestes van proposar l\u2019allargament de la T-12 fins els 18 anys. </p>", 
+            "commentable_id": 8276, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 12:38:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7977, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A la cita que va tenir lloc a l'espai jove La Fontana, 32 joves van estar debatent diverses propostes per millorar el medi ambient de la ciutat de Barcelona. Entre aquestes van proposar abaratir els preus de les targetes ( de totes) i oferir la T-12 fins als 18 (\u00e9s a dir crear la T-18). </p>", 
+            "commentable_id": 8276, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 16:41:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9665, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A la cita presencial que va tenir lloc a l\u2019Escola Sant Ram\u00f3n Nonat, els estudiants de 4rT d\u2019ESO B van estar debatent diverses propostes per millorar el medi ambient de la ciutat, entre aquestes van proposar rebaixar el preu del transport fins als 18 anys.</p>", 
+            "commentable_id": 8276, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 14:48:37", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10970, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

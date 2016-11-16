@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2919", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2919, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "Mitjan\u00e7ant l\u2019\u00fas de tecnologies i mecanismes existents de Barcelona Activa, IMI i Fira de Barcelona, aix\u00ed com equipaments municipals com els ateneus de fabricaci\u00f3, es potenciar\u00e0 l\u2019\u00fas de les noves tecnologies de la informaci\u00f3 amb \u00e8mfasi especial a les que contribueixin a una economia col\u00b7laborativa, es basin en l\u2019\u00fas de codi obert \u2014programari lliure\u2014 i ajudin al desenvolupament de les iniciatives empresarials locals.", 
+        "title": "Tecnologies de la informaci\u00f3 i la comunicaci\u00f3", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 3, 
+        "total_positive_comments": 0, 
+        "total_votes": 11, 
+        "url": "https://decidim.barcelona/pam/proposals/tecnologies-de-la-informacio-i-la-comunicacio", 
+        "votable": null, 
+        "voted": null
+    }
+}

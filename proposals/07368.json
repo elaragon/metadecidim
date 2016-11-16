@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 16089, 
+            "name": "Joan Diaz", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 16089, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7368", 
+        "conflictive": false, 
+        "created_at": "30/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7368, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 19, 
+            "name": "Acci\u00f3 comunit\u00e0ria", 
+            "position": 3
+        }, 
+        "summary": "-Exempci\u00f3 total de tots els impostos, taxes i llic\u00e8ncies municipals: IBI, IAE, IVTM, llic\u00e8ncies d\u2019obres, mediambientals, taxa d\u2019escombraries, guals, serveis urban\u00edstics, etc. per a les entitats no lucratives d'utilitat p\u00fablica.  Actualment disposem d\u2019una bonificaci\u00f3 del 10%. \u00c9s una despesa molt gran per a l\u2019economia de les entitats socials. \r\n", 
+        "title": "Exempci\u00f3 d'impostos i llic\u00e8ncies municipals a les entitats no lucratives i d'utilitat p\u00fablica", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 2, 
+        "total_votes": 13, 
+        "url": "https://decidim.barcelona/pam/proposals/exempcio-d-impostos-i-llicencies-municipals-a-les-entitats-no-lucratives-i-d-utilitat-publica", 
+        "votable": null, 
+        "voted": null
+    }
+}

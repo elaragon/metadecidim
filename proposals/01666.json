@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 181, 
+            "name": "crismon", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 181, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1666", 
+        "conflictive": false, 
+        "created_at": "09/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.forte.es/documentos/92/vados_pasos_peatonales.pdf", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1666, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": " Para los coches, sobretodo cuando se ha dise\u00f1ado mal el ancho de giro, es un destroza ruedas. Para los peatones con dificultades (visual), ni\u00f1os, mayores, es un peligro a su integridad. Seguir recomendaciones del manual de accesibilidad (Fundaci\u00f3n Once) y ver ejemplo de lo que no ha de hacerse pag. 28\r\n", 
+        "title": "Supresi\u00f3n bordillos aceras cortantes . Malo para coches y peor para peatones", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 22, 
+        "url": "https://decidim.barcelona/pam/proposals/supresion-bordillos-aceras-cortantes-malo-para-coches-y-peor-para-peatones", 
+        "votable": null, 
+        "voted": null
+    }
+}

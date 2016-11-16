@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4058, 
+            "name": "Mar C", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4058, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10075", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 10075, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Moltes vegades ens trobem que no hi ha servei d'intepretaci\u00f3 en casos d'emergencia, o avisos d'ultima hora i cal demanar-los amb un m\u00ednim de 15 dies d'antelaci\u00f3 en diversos \u00e0mbits, com per exemple: reuni\u00f3 urgente a la comunitat de veins, entrevistes amb els professors dels fills, una reuni\u00f3 col.lectiva en una empresa, etc. ", 
+        "title": "Servei d'interpretaci\u00f3 de llengua de signes catalana (LSC) 24 hores i ampliar el n\u00famero dels int\u00e8rprets (LSC) en diferents entitats.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 9, 
+        "url": "https://decidim.barcelona/pam/proposals/servei-d-interpretacio-de-llengua-de-signes-catalana-lsc-24-hores-i-ampliar-el-numero-dels-interprets-lsc-en-diferents-entitats", 
+        "votable": null, 
+        "voted": null
+    }
+}

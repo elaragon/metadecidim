@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No crec que sigui una bona idea envers la mobilitat tant del barri com dels congressistes.</p>", 
+            "commentable_id": 3353, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/02/2016 14:46:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2564, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Innovadora</p>", 
+            "commentable_id": 3353, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 12:19:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8370, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2564", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1159, 
+                "name": "manut\u00edn", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hombr, as\u00ed a los congresistas no les afectar\u00eda la huelga de metro, y el ayuntamiento arreglar\u00eda la plaza que est\u00e1 igual que  hace 5000 a\u00f1os...</p>", 
+            "commentable_id": 3353, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 15:51:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2727, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2564/2727", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Dicho lo cual creo que es mejor que cree una nueva propuesta de remodelaci\u00f3n de la plaza y le podremos dar soporte.\n<br />Referente poder hacer el congreso en el barrio, sinceramente, yo no lo veo viable. Adem\u00e1s del tema de la movilidad, el barrio tampoco dispone de las infraestructuras necesarias como las de Fira de Barcelona para realizar un congreso con estas caracter\u00edsticas. Un cordial saludo.</p>", 
+            "commentable_id": 3353, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 20:35:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2744, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

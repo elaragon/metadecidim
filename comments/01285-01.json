@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1190, 
+                "name": "molina54", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Todas las administraciones, deber\u00edan tener como prioridad garantizar lo b\u00e1sico , comida, casa, agua, electricidad, calefacci\u00f3n y cuando esto lo hallamos conseguido podemos dedicarnos a solucionar todos los dem\u00e1s problemas que tenemos y que no son pocos. </p>", 
+            "commentable_id": 1285, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 20:39:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 353, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "353", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 250, 
+                "name": "Daniel LR", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Vaya*</p>", 
+            "commentable_id": 1285, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/02/2016 13:33:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 433, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

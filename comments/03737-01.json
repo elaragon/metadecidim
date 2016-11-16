@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 18135, 
+                "name": "Eva Ruiz Mu\u00f1oz", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Existeixen un bon nombre d'edificis (finques r\u00fastiques) a Ciutat Vella que necessitem ser restaurats integralment, edificis que pertanyen incl\u00fas a l'Ajuntament o la Generalitat, i podrien dedicar-se per habitatges per la gent gran i gent del barri en general. Per exemple, l'edifici en el que visc, pertany en la seva totalitat a la Generalitat en l'actualitat, fa m\u00e9s de 5 anys que no es renoven lloguers ni es fan de nous, hi ha 2 pisos tancats  i 1 okupat, s'ha intentant vendre a subhasta fa 1 any... i , de moment, no l'han comprat, ni el compraran mentre no es puguin fer de nou hotels al G\u00f2tic, gr\u00e0cies a l'actua postura del consitori.Nom\u00e9s l'Ajuntament  amb la col\u00b7laboraci\u00f3 d'altres institucions com la Generalitat pot assumir comprar, restaurar i habilitar edificis sencers d'aquest tipus per habitatge social per la gent gran del barri, i evitar que m\u00e9s habitatges existent es converteixin en hotels, o pisos de luxe i  apartaments tur\u00edstics. Habitatge pels ve\u00efns i generaci\u00f3 de treball.</p>", 
+            "commentable_id": 3737, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 13:39:20", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8510, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

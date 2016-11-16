@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12179, 
+                "name": "suport.decidim1", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en el Consell Sectorial: CELEBRACIONS DELS DIES DEL COMER\u00c7 .\"-\tM\u00e9s comer\u00e7 al carrer \u2013 Deixar tancades q\u00fcestions del comer\u00e7 al carrer un parell de mesos abans.\n<br />-\tAmpliar el projecte \u201cMercat verd\u201d als altres 4 mercats de Gr\u00e0cia\n<br />-\tFer als mercats de Gr\u00e0cia les mateixes actuacions i donar la possibilitat que el petit comer\u00e7 s\u2019adhereixi a aquestes activitats. \n<br />-\tCampanyes de publicitat de recolzament al comer\u00e7</p>", 
+            "commentable_id": 7574, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 15:02:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8028, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

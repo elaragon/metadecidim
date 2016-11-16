@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8654", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8654, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 1, 
+            "name": "Just\u00edcia social", 
+            "position": 1
+        }, 
+        "summary": "S\u2019identifica com l\u2019\u00e0mbit d\u2019actuaci\u00f3 m\u00e9s important i m\u00e9s transversal de l\u2019eix 1 i del total de la resta de eixos del PAM. si es treballa per garantir la just\u00edcia social, ser\u00e0 m\u00e9s f\u00e0cil assolir la resta d\u2019actuacions del PAM", 
+        "title": "La Just\u00edcia Social com a \u00e0mbit principal d\u2019actuaci\u00f3 del PAM 2016-2019.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/la-justicia-social-com-a-ambit-principal-d-actuacio-del-pam-2016-2019", 
+        "votable": null, 
+        "voted": null
+    }
+}

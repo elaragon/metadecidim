@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 369, 
+            "name": "Maclaren", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 369, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1486", 
+        "conflictive": false, 
+        "created_at": "05/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1486, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Implantar el carnet d'abonat de Barcelona, que doni acc\u00e8s a qualsevol centre esportiu municipal.  Acabar amb la competencia entre centres p\u00fablics que  gestionats  com si fossin comer\u00e7os privats, competeixen entre ells pel mateix p\u00fablic, sense cap benefici pels ciutadans. Unificar la gesti\u00f3 del servei p\u00fablic- unificar la quota- auditar la gesti\u00f3.  ", 
+        "title": "ESPORTS: un servei p\u00fablic- una quota d'abonat- acc\u00e8s i universal-prou de repago", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 29, 
+        "url": "https://decidim.barcelona/pam/proposals/esports-un-servei-public-una-quota-d-abonat-acces-i-universal-prou-de-repago", 
+        "votable": null, 
+        "voted": null
+    }
+}

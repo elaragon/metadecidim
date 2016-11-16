@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3725, 
+                "name": "Maitestac", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00c9S complicat, per\u00f2 haur\u00edem de reconvertir en p\u00fabliques moltes d'aquestes cl\u00edniques privades. Cal estudiar una nova llei sanitaria.</p>", 
+            "commentable_id": 1450, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/02/2016 09:16:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1242, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3026, 
+                "name": "Imma V.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Prou de sanitat mixte. Per qu\u00e8 el CAP i hospitalde refer\u00e8ncia han de ser p\u00fablics. Tothom a un centre p\u00fablic al 100% Prou sanitat privada amb subvenci\u00f3 p\u00fablica.</p>", 
+            "commentable_id": 1450, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/02/2016 11:21:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1701, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9055, 
+                "name": "Esther F.G", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Des de Nou Barris , no volem mes derivacions de Valle Hebron cap a cl\u00edniques privades com la Quiron. Els recursos que es destinen a la Quiron que s'aturen i amb aquest diners reobrir serveis tancats en aquest hospital.</p>", 
+            "commentable_id": 1450, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 13:46:22", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6737, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

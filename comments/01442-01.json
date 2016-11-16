@@ -1,0 +1,209 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 122, 
+                "name": "xabier", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Me gustar\u00eda saber si esta propuestas viene acompa\u00f1ada por alg\u00fan dato que corrobore que el ayuntamiento tiene personal formado para realizar estos procesos de participaci\u00f3n. \u00bfQu\u00e9 personal hay con formaci\u00f3n en participaci\u00f3n ciudadana? \u00bfCu\u00e1nto personal hace falta para realizar 300 citas presenciales en menos de dos meses? No se puede proponer algo as\u00ed sin aportar datos. A mi tambi\u00e9n me gustar\u00eda que el ayuntamiento no tuviera que externalizar nada pero me temo que eso es imposible. Aunque desonozco los datos, el peso de la prueba debe estar en quien realiza la propuesta.</p>", 
+            "commentable_id": 1442, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/02/2016 18:01:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1546, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/revisio-de-la-normativa-per-a-una-participacio-ciutadana-plural-i-eficac\">https://decidim.barcelona/proposals/revisio-de-la-normativa-per-a-una-participacio-ciutadana-plural-i-eficac</a></p>", 
+            "commentable_id": 1442, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 11:10:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10431, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1546", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 512, 
+                "name": "Solidaritat Catalana per la Independ\u00e8ncia", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hola! Gr\u00e0cies pel teu comentari.Nosaltres entenem que l'Ajuntament t\u00e9 personal qualificat per desenvolupar dita tasca,i que no cal gastar 58.000 euros en que aquests temes els porti una entitat privada.Per exemple,aquest web no es municipal sino que ha estat contractat per 500.000 euros de l'erari p\u00fablic Entenem que clar que s'han de fer processos participatius per\u00f2 amb els mitjans municipals que ja paguem tota la ciutadania,per\u00f2 sobretot ben fets i no com el que va organitzar Hereu per la Diagonal.I si cal,entenem just i raonable que l'Ajuntament contracti m\u00e9s personal per dur a terme aquestes tasques que seria molt m\u00e9s rendible que gastar 500.000 euros per que ho organitzi un privat.</p>", 
+            "commentable_id": 1442, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/02/2016 18:51:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1561, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1546/1561", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2761, 
+                "name": "Daviz Villota", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Una pregunta, podries detallar si els 500.000 comentes han anat nom\u00e9s a la web, al proc\u00e9s participatiu, o ambd\u00f3s? I com shan destinat aquests diners? Vull dir, portar l'informacio amb m\u00e9s transpar\u00e8ncia.</p>", 
+            "commentable_id": 1442, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 14:19:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6129, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1546/1561/6129", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 512, 
+                "name": "Solidaritat Catalana per la Independ\u00e8ncia", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Admetem un error per part nostra de transcripci\u00f3.El web ha tingut un cost de 56.000 euros.Els processos participatius han estat licitats per un cost de 500.000 euros a una cooperativa.Preguem disculpeu l'errada.</p>", 
+            "commentable_id": 1442, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 14:50:10", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6143, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1546/1561/6129/6143", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2761, 
+                "name": "Daviz Villota", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ostres, llavors lo dels 500.000 euros que heu dit de la web era una errada! I li Han pagat 500.000 euros a una cooperativa? Quin escandol, a quina? Paseu l'informaci\u00f3 oficial si us plau per publicarla. \n<br /> </p>", 
+            "commentable_id": 1442, 
+            "commentable_type": "Proposal", 
+            "created_at": "23/03/2016 01:21:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6358, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

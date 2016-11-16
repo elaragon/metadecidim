@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3015", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": {
+            "id": 8, 
+            "name": "Nou Barris"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3015, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 1, 
+            "name": "Just\u00edcia social", 
+            "position": 1
+        }, 
+        "summary": "Nou servei de l\u2019Ajuntament de Barcelona per informar i assessorar els consumidors de quines mesures han d\u2019emprendre per tal que les companyies no els tallin el subministrament d\u2019electricitat, aigua i gas, quan es trobin en situacions de vulnerabilitat o dificultats econ\u00f2miques i no puguin sufragar-ne el cost.  Oferir informaci\u00f3 sobre com aconseguir unes condicions t\u00e8rmiques adequades i de consums energ\u00e8tics a un preu just.", 
+        "title": "Punt d\u2019atenci\u00f3 a la pobresa energ\u00e8tica", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 34, 
+        "url": "https://decidim.barcelona/pam/proposals/punt-d-atencio-a-la-pobresa-energetica", 
+        "votable": null, 
+        "voted": null
+    }
+}

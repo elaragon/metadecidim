@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8309", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8309, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 20, 
+            "name": "Administraci\u00f3  intel\u00b7ligent i inclusiva", 
+            "position": 4
+        }, 
+        "summary": "L\u2019atorgament de Premis i Distincions de l\u2019Ajuntament de Barcelona,  incl\u00f2s en el Pla per la Just\u00edcia de G\u00e8nere, ha de tenir en compte la pr\u00e0ctica de les empreses susceptibles de rebre premis en l\u2019\u00e0mbit del g\u00e8nere en la seva globalitat, i no amb relaci\u00f3 a un projecte concret, per tal d\u2019assegurar la bona pr\u00e0ctica com a manera de funcionament integral", 
+        "title": "Premis i Distincions de l\u2019Ajuntament de Barcelona,  incl\u00f2s en el Pla per la Just\u00edcia de G\u00e8nere", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/premis-i-distincions-de-l-ajuntament-de-barcelona-inclos-en-el-pla-per-la-justicia-de-genere", 
+        "votable": null, 
+        "voted": null
+    }
+}

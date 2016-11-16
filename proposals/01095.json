@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 44, 
+            "name": "David LH", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 44, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1095", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.drlopezheras.com/2014/12/contaminacion-aire-cancer-salud-oms.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1095, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Se trata de reducir los l\u00edmites de contaminantes a los que marca la OMS para proteger la salud y no a los que marcada normativa europea m\u00e1s laxa y por tanto menos proteccionista con la salud. M\u00e1s informaci\u00f3n en esta entrada de mi Blog http://www.drlopezheras.com/2014/12/contaminacion-aire-cancer-salud-oms.html", 
+        "title": "L\u00edmites contaminantes m\u00e1s restrictivos en l\u00ednea de la OMS ", 
+        "total_comments": 23, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 15, 
+        "total_votes": 645, 
+        "url": "https://decidim.barcelona/pam/proposals/limites-contaminantes-mas-restrictivos-en-linea-de-la-oms", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5704", 
+        "conflictive": false, 
+        "created_at": "17/03/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 5704, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Les  iniciatives dels horts urbans cada vegada augmenten m\u00e9s. La gent t\u00e9 molt inter\u00e8s i \r\ndesitjos per tal de tenir cura dels horts en la ciutat. Aquests han de ser inclusius i adaptats. \r\nPosen d\u2019exemple d\u2019alguns horts que funcionen a la ciutat (alguns de titularitat municipal i \r\naltres que han sorgit de l\u2019organitzaci\u00f3 ve\u00efnal)", 
+        "title": "Ampliar les iniciatives dels horts urbans. Revillat Pl\u00e0 (jardins)", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 8, 
+        "url": "https://decidim.barcelona/pam/proposals/ampliar-les-iniciatives-dels-horts-urbans-revillat-pla-jardins", 
+        "votable": null, 
+        "voted": null
+    }
+}

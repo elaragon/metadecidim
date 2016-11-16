@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6584, 
+                "name": "Col\u00b7lectiu Agudells", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Igual que d'altres projectes del PERI de Sant Gen\u00eds de l'any 1989,  que a data d'avui segueixen pendents d'executar.</p>", 
+            "commentable_id": 396, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/02/2016 19:51:20", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2103, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1137, 
+                "name": "Sacramento Burgos Garrido", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>llevamos diez a\u00f1os detras de que en  este espacio, se haga un proyecto, ya nos suena a tomadura de pelo, el muerto al final resucitar\u00e1</p>", 
+            "commentable_id": 396, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 14:59:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9522, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

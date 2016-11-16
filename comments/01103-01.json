@@ -1,0 +1,242 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 73, 
+                "name": "OriolC", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els i els joves ens trobem molt mancades d'espais en aquesta ciutat, nom\u00e9s necessitem locals que podem autogestionar-nos nosaltres mateixes per a desenvolupar les nostres activitats. I tamb\u00e9 demanem flexibilitat i alleugerir la burocr\u00e0cia per a utilitzar l'espai p\u00fablic.</p>", 
+            "commentable_id": 1103, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/02/2016 12:29:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 28, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 7, 
+            "total_votes": 7
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1320, 
+                "name": "Aurora MF", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Al Barri del Parc de la Llacuna seria molt necessari</p>", 
+            "commentable_id": 1103, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 23:08:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 368, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12354, 
+                "name": "arnaurapid", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A veure si ens posem les piles Ajuntament! L'educaci\u00f3 \u00e9s la clau de tot canvi futur i present i pretendre que l'educaci\u00f3 en el lleure, que no nom\u00e9s educa en valors sin\u00f3 tamb\u00e9 en transformaci\u00f3 social i formaci\u00f3 de criteri personal, no \u00e9s important tot ignorant-la \u00e9s vergony\u00f3s! </p>", 
+            "commentable_id": 1103, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 19:37:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5331, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12652, 
+                "name": "Sergi S.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>-</p>", 
+            "commentable_id": 1103, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 19:53:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7286, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17767, 
+                "name": "Esplais Catalans, ESPLAC", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": false
+            }, 
+            "body": "<p>Els Esplais de Barcelona fa temps que treballem en aquest sentit, i tenim una comissi\u00f3 que durant l'any va creant discurs, d\u00f3na suport als esplais que ho necessiten i un cop a l'any prepara una trobada per reivindicar aquest dret.</p>", 
+            "commentable_id": 1103, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/04/2016 14:46:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7768, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 19511, 
+                "name": "CrisGK", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>.</p>", 
+            "commentable_id": 1103, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 19:00:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8844, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els joves de l\u2019Agrupament Escolta Terra-Nova van participar a una cita presencial i van debatre diferents q\u00fcestions per millorar les condicions de vida de la poblaci\u00f3 de Barcelona. Aquests van proposar que l\u2019Ajuntament proporcioni i faciliti locals per a Caus i Esplais, siguin municipals o b\u00e9 de propietat privada de Bancs i Caixes. </p>", 
+            "commentable_id": 1103, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 11:55:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9134, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 7, 
+        "total_pages": 1
+    }
+}

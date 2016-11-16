@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2065, 
+            "name": "Sarri\u00e0-Sant Gervasi", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2065, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5955", 
+        "conflictive": false, 
+        "created_at": "18/03/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": false, 
+        "hidden": false, 
+        "id": 5955, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "Promoci\u00f3 i potenciaci\u00f3 d\u2019activitats a l\u2019entorn del mercat de Les Tres Torres com eix comercial al barri, que pugui afavorir el coneixement i la pr\u00e0ctica del comer\u00e7 de proximitat i de qualitat al barri (activitats de festa major, de Nadal i altres de participaci\u00f3 en general). Comissi\u00f3 Seguiment Barri de les Tres Torres.", 
+        "title": "Promoci\u00f3 i potenciaci\u00f3 d'activitats al voltant del mercat de les Tres Torres com a eix comercial", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/promocio-i-potenciacio-d-activitatsz-al-voltant-del-mercat-de-les-tres-torres-com-a-eix-comercial", 
+        "votable": null, 
+        "voted": null
+    }
+}

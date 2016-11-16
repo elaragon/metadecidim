@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4804, 
+                "name": "Albert Hornos", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hi ha 2 projectes similars proposats: \n<br />El m\u00e9s interessant el seg\u00fcent, que parla directament d'implicar els joves i les entitats en la redacci\u00f3 del projecte. Animeu-vos a participar-hi activament. \n<br /><a href=\"https://decidim.barcelona/proposals/espai-jove-de-les-corts\">https://decidim.barcelona/proposals/espai-jove-de-les-corts</a> \n<br /><a href=\"https://decidim.barcelona/proposals/fer-un-espai-jove-al-districte\">https://decidim.barcelona/proposals/fer-un-espai-jove-al-districte</a></p>", 
+            "commentable_id": 2448, 
+            "commentable_type": "Proposal", 
+            "created_at": "23/02/2016 14:09:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2466, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16783, 
+                "name": "Laia Bernu\u00e9s", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La mentoria entre voluntaris/es i adolescents i joves en dificultats afavoreix la igualtat d'oportunitats, obre finestres a aquests joves, augmenta la seva autoestima, motiva per a seguir els estudis, ajuda a combatre el frac\u00e0s escolar, disminueix les conductes violentes i els seus efectes s\u00f3n estables en el temps. A m\u00e9s, al voluntariat coneix altres realitats i afavoreix l'adquisici\u00f3 de compet\u00e8ncies a nivell professional i personal... Nom\u00e9s cal con\u00e8ixer t\u00e0ndems o parelles de mentoria per adonar-se'n que s\u00f3n projectes genials! Som-hi!!! <a href=\"https://www.facebook.com/afevbcn?fref=ts\">https://www.facebook.com/afevbcn?fref=ts</a></p>", 
+            "commentable_id": 7788, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 12:59:01", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7379, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10237, 
+                "name": "Laureta", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Cada nen i cada nena ha de tenir alg\u00fa que l'acompanyi! S\u00f3n el nostre futur!! Massa sovint les escoles i les fam\u00edlies estan desbordades i no poden atendre adequadament les necessitats d'alguns infants i joves en situacions de dificultat. Donem-los un cop de m\u00e0, la mentoria \u00e9s una eina id\u00f2nia que teixeix les xarxes de solidaritat dins els barris!</p>", 
+            "commentable_id": 7788, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 23:08:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7483, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

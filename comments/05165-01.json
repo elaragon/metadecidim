@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9055, 
+                "name": "Esther F.G", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Un cop detectades comunicar-les a serveis socials per donar resposte adient i fer un pla de treball tant per cobrir necessitats de salut: dieta adequada, funcionalitat, i des de serveis socials si hi ha necessitats de les seves compet\u00e8ncies i tamb\u00e9 posar-les en contacte amb accions comunit\u00e0ries per evitar el seu a\u00efllament social i entitats del seu entorn. La proposta la faig des de Nou Barris</p>", 
+            "commentable_id": 5165, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 15:30:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6789, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

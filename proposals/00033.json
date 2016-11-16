@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-33", 
+        "conflictive": false, 
+        "created_at": "22/01/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 33, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Promoure activitats afavoridores d'una bona qualitat de vida, des d\u2019un punt de vista transversal. Afavorir una alimentaci\u00f3 b\u00e0sica, la mobilitat sostenible, la pr\u00e0ctica esportiva, l\u2019acc\u00e9s a l\u2019atenci\u00f3 sanit\u00e0ria universal, i un espai p\u00fablic i urbanisme accessibles. Garantir el dret d\u2019envellir de manera digna i aut\u00f2noma.", 
+        "title": "Gr\u00e0cia, districte saludable", 
+        "total_comments": 7, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 7, 
+        "total_positive_comments": 0, 
+        "total_votes": 35, 
+        "url": "https://decidim.barcelona/pam/proposals/gracia-districte-saludable", 
+        "votable": null, 
+        "voted": null
+    }
+}

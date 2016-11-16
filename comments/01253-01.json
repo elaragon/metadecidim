@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1325, 
+                "name": "Agapit Custoj\u00e0", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Actualment aquest espai, que podria ser un magnific parc, nom\u00e9s serveix com a pipi-can (o coses pitjors). Sense massa cost penso que es podria fer el que es va prometre en el seu dia ( encara que els qui ho varen prometre ja no governin a l'Ajuntament).</p>", 
+            "commentable_id": 1253, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 23:20:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 372, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1334, 
+                "name": "Ita Codina", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>M\u00e9s que parc seria un semi-espai a l'interior d'una semi illa de cases, per\u00f2 val molt la pena.</p>", 
+            "commentable_id": 1253, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 23:32:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 373, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3184, 
+                "name": "Joan Carles Canela", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>el m\u00e9s possible \u00e9s que primer calgui edificar la resta de l'illa de cases, de titularitat municipal, veurem...</p>", 
+            "commentable_id": 1253, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/02/2016 11:00:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1133, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/reformar-places-de-sant-marti-infancia-porxos-palmera-victoria-kent-puigcerda\">https://decidim.barcelona/proposals/reformar-places-de-sant-marti-infancia-porxos-palmera-victoria-kent-puigcerda</a></p>", 
+            "commentable_id": 1253, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 13:10:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 16983, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

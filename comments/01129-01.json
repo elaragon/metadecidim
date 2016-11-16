@@ -1,0 +1,242 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 307, 
+                "name": "Joan Manel", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Encara que em sembli una petici\u00f3 molt raonable tamb\u00e9 crec que est\u00e0 fora de lloc fer aquesta petici\u00f3 pel PAD de Gr\u00e0cia :-)</p>", 
+            "commentable_id": 1129, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/02/2016 15:17:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 84, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1208, 
+                "name": "Jebimetal", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A mi m'agradaria que tanqu\u00e9s senzillament perqu\u00e8 la gent no hi va. Censurar idees (per molt reprobables que ens semblin) crec que no \u00e9s el cam\u00ed. Educar s\u00ed.</p>", 
+            "commentable_id": 1129, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 21:56:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 359, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 3, 
+            "total_votes": 4
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1941, 
+                "name": "christianpg", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Gr\u00e0cies per dir-ho, a veure si d'una santa vegada ja la tanquen </p>", 
+            "commentable_id": 1129, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 02:31:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 545, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9551, 
+                "name": "Peremm", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>D'acord amb Jebimetal</p>", 
+            "commentable_id": 1129, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 16:52:00", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4855, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13108, 
+                "name": "Jan Romans", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tancar es de FATXES</p>", 
+            "commentable_id": 1129, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 19:14:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5315, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15153, 
+                "name": "Xavier Sisternas", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Em sembla fora de lloc. Si comet una ilegalitat el que cal fer es denunciar-ho i que actui la just\u00edcia. No podem pretendre anar en contra del feixisme amb m\u00e9todes no democr\u00e0tics...</p>", 
+            "commentable_id": 1129, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/03/2016 23:03:13", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6465, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "359", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8026, 
+                "name": "lkjhgfds", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Parlem de censurar idees que censuren gent, formes de donar amor...</p>", 
+            "commentable_id": 1129, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/02/2016 18:07:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2592, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 6, 
+        "total_pages": 1
+    }
+}

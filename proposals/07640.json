@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 16398, 
+            "name": "paubcn", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 16398, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7640", 
+        "conflictive": false, 
+        "created_at": "31/03/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7640, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Dur a terme la proposta d\u00b4intervenci\u00f3 en la font p\u00fablica situada a la cru\u00eflla dels carrers Farigola i Mare de D\u00e9u del Coll en homenatge al dibuixant de c\u00f2mics i il\u00b7lustrador gracienc Guillem Cifr\u00e9  (1952-2014), promoguda per diverses entitats dels barris de Vallcarca i El Coll i aprovada el 10/02/2015 pel Consell Assessor d\u00b4Art P\u00fablic de BCN", 
+        "title": "Font Cifr\u00e9", 
+        "total_comments": 10, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 9, 
+        "total_votes": 150, 
+        "url": "https://decidim.barcelona/pam/proposals/font-cifre", 
+        "votable": null, 
+        "voted": null
+    }
+}

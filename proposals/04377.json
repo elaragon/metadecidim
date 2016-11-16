@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10966, 
+            "name": "SERGI LOPEZ-GRADO i PADRENY", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 10966, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4377", 
+        "conflictive": false, 
+        "created_at": "08/03/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "https://docs.google.com/viewer?a=v&pid=forums&srcid=MDMwMTcxOTE0ODY4MjE4MzczMzABMDA0MjkwOTY4MzY5MjI5MjI1ODABajJ0ZkhNSmxHd0FKATAuMQEBdjI", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4377, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "L\u2019Associaci\u00f3 de ve\u00efns i ve\u00efnes de la Dreta de l\u2019Eixample i Entitats del Barri, desigem millorar la Qualitat de Vida de l\u2019Eixample. el carrer Girona pot esdevenir un Espai Verd Urb\u00e0 per la seva posici\u00f3 estrat\u00e8gica, amb dues parades de Metro de la L\u00ednia 4 i una bona connexi\u00f3 amb el futur Tramvia de la Diagonal, i allotja Patrimoni Arquitect\u00f2nic.", 
+        "title": "Carrer Girona Eix de Vianants", 
+        "total_comments": 16, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 4, 
+        "total_positive_comments": 7, 
+        "total_votes": 97, 
+        "url": "https://decidim.barcelona/pam/proposals/carrer-girona-eix-de-vianants", 
+        "votable": null, 
+        "voted": null
+    }
+}

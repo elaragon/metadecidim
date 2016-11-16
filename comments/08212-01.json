@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 18527, 
+                "name": "Carles Barba Boada", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Al centre de Barcelona hi viuen persones i ciutadans, a banda de ser un lloc de pas per a veis i turistes. Cal vetllar per la seva vida quotidiana i tamb\u00e9 per la seva salut i qualitat de vida.</p>", 
+            "commentable_id": 8212, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 15:06:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8030, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 22322, 
+                "name": "amparin", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord. Soroll, contaminaci\u00f3, cues de gent bloquejant el carrer, dif\u00edcil poder descarregar, timbres sonors de maniobres constants... fins a 10 busos seguits i incl\u00fas dobles files. Cal una soluci\u00f3 urgent pel descans dels ve\u00efns. Viure al centre s'est\u00e0 convertint en un mal son. Tot esperant que no s'obrin m\u00e9s restaurants ni hotels a l'illa per tal de que encara no s'agreuji m\u00e9s el problema.</p>", 
+            "commentable_id": 8212, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 22:13:13", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11466, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

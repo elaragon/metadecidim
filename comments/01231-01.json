@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 101, 
+                "name": "Associaci\u00f3 de Ve\u00efns amb Afectacions Urban\u00edstiques AVAUP", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": true
+            }, 
+            "body": "<p>Amb la freq\u00fc\u00e8ncia actual, 75 min, garantir\u00edem que a la parada m\u00e9s utilitzada, i m\u00e9s important, el bus sempre surti a la seva hora. \n<br />Actualment el 118 passa dos cops per Mas Saur\u00f3 (250 habitants) per cada cop que passa per Mas Guimbau (400 habitants)</p>", 
+            "commentable_id": 1231, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 12:01:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 216, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15351, 
+                "name": "Roser.linka7", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Establir el final de la l\u00ednia del Bus 118 al barri de Can Castellv\u00ed, donat que l'actual final de l\u00ednia queda lluny d'aquest barri i els seus habitants s han d'arribar-hi a peu per cam\u00ed amb elevat risc d'atropellament.</p>", 
+            "commentable_id": 1231, 
+            "commentable_type": "Proposal", 
+            "created_at": "27/03/2016 12:38:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6540, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15351, 
+                "name": "Roser.linka7", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Adequar els seus horaris als horaris escolars que no coincideixen ni al mat\u00ed ni al migdia, i s\u00f3n les fam\u00edlies qui porten i recullen els nens a l'estaci\u00f3 en transport privat amb la contaminaci\u00f3 que aix\u00f2 suposa.</p>", 
+            "commentable_id": 1231, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 12:22:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6569, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/transport-public-nocturn-i-de-cap-de-setmana-pels-barris-de-muntanya\">https://decidim.barcelona/proposals/transport-public-nocturn-i-de-cap-de-setmana-pels-barris-de-muntanya</a></p>", 
+            "commentable_id": 1231, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 09:36:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 16373, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

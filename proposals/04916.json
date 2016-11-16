@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8069, 
+            "name": "Joana", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 8069, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4916", 
+        "conflictive": false, 
+        "created_at": "14/03/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4916, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Executar amb prioritat un carril bici pel passeig de la Zona Franca que enllaci el carril actual de la Gran Via fins al pol\u00edgon de la Zona Franca (recollit al PMU). Milloraria la mobilitat en bicicleta tant per als residents al barri de la Marina com pels treballadors del poligon, que ara han de circular per un viari amb for\u00e7a tr\u00e0nsit i camions.", 
+        "title": "Carril bici al passeig de la Zona Franca que connecti amb el pol\u00edgon de la ZF", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 40, 
+        "url": "https://decidim.barcelona/pam/proposals/carril-bici-al-passeig-de-la-zona-franca-que-connecti-amb-el-poligon-de-la-zf", 
+        "votable": null, 
+        "voted": null
+    }
+}

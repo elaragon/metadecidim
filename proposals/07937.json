@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 11201, 
+            "name": "Asociaci\u00f3n Rep\u00fablica Estatuas Humanas Rambla de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 11201, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-7937", 
+        "conflictive": false, 
+        "created_at": "02/04/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7937, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Regresar  las Estatuas Humanas a su lugar de origen desde la Pza. Real a Pza. Catalu\u00f1a, son parte de la imagen de La Rambla desde hace muchos a\u00f1os. Promulgar una  ley para el Arte y la Cultura de Calle Patrimonio Cultural Inmaterial de Barcelona con acceso a  las licencias mediante concurso en vivo, exentos de Tasas de V\u00eda P\u00fablica.", 
+        "title": " Autogesti\u00f3n del Arte y la Cultura de Calle - Estatuas Humanas - Patrimonio Cultural Inmaterial de la Rambla de Barcelona 2016", 
+        "total_comments": 6, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 1, 
+        "total_votes": 17, 
+        "url": "https://decidim.barcelona/pam/proposals/proyecto-plan-de-reordenamiento-y-autogestion-del-arte-y-la-cultura-de-calle-estatuas-humanas-patrimonio-cultural-inmaterial-de-la-rambla-de-barcelona-2016", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2496, 
+                "name": "rux", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ja n'hi ha prou de carrils bici a\u00efllats, totes noves actuacions han de tenir per objectiu crear una bona xarxa que connecti.</p>", 
+            "commentable_id": 1401, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 14:29:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 810, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7482, 
+                "name": "mar", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ajudeu-nos a aquest canvi de model. L'Ajuntament es nega a posar un carril bici a Travessera de Dalt!\n<br /><a href=\"https://decidim.barcelona/proposals/carrils-bici-a-tavessera-de-dalt\">https://decidim.barcelona/proposals/carrils-bici-a-tavessera-de-dalt</a>\n</p>", 
+            "commentable_id": 1401, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 14:03:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7408, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "7408", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 20490, 
+                "name": "jag19266", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p> Hay que ser valientes y apostar por el transporte en bicicleta como en muchas ciudades europeas. La bicicleta el\u00e9ctrica ha sido un gran avance que permitir\u00e1 desarrollar este tipo de transporte  en una ciudad con pendientes como Barcelona</p>", 
+            "commentable_id": 1401, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 07:50:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10171, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

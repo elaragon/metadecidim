@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 22394, 
+                "name": "jonycalma", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El barri necessita un complex esportiu municipal m\u00e9s gran degut a la gran immigraci\u00f3 que ha sofert els \u00faltims anys. L'ideal seria fer un Club a imatge del atl\u00e8tic Barceloneta aprofitant el litoral. Te sentit ja que es un barri que s'ha d'obrir m\u00e9s al mar. Voto per aix\u00f2 i perqu\u00e8 si es fa no es tregui can Felipa...una cosa no treu l'altre ...mantinguem la piscina de can Felipa i que els usuaris es distribueixin segons els convingui!!</p>", 
+            "commentable_id": 6396, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 22:37:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11486, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 22394, 
+                "name": "jonycalma", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Per cert a on est\u00e0 el Paballo de la Marbella \u00e9s ideal!</p>", 
+            "commentable_id": 6396, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 22:37:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11487, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 22542, 
+                "name": "Maria Pujades", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A favor</p>", 
+            "commentable_id": 6396, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 18:21:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12579, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 2, 
+        "next_page": null, 
+        "prev_page": 1, 
+        "total_count": 23, 
+        "total_pages": 2
+    }
+}

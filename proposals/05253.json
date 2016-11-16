@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5253", 
+        "conflictive": false, 
+        "created_at": "16/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 5253, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "Es demana un acompanyament per part de l\u2019administraci\u00f3, en l\u2019aplicaci\u00f3 de la normativa per aquells comer\u00e7os antics, aix\u00ed com una flexibilitzaci\u00f3 de la mateixa perqu\u00e8 aquests negocis no hagin de tancar per problemes econ\u00f2mics a l\u2019hora d\u2019adaptar-se i tamb\u00e9 per autoritzar les activitats de tallers en zona urbana que no siguin perillosos i/o nocius. ", 
+        "title": "Acompanyament en la aplicaci\u00f3 i flexibilitzaci\u00f3 de la normativa.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/acompanyament-en-la-aplicacio-i-flexibilitzacio-de-la-normativa", 
+        "votable": null, 
+        "voted": null
+    }
+}

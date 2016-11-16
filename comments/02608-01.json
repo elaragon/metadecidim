@@ -1,0 +1,242 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 395, 
+                "name": "Neo Sala", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Cal que la regeneraci\u00f3 democr\u00e0tica arribi tamb\u00e9 a les entitats que s\u2019arroguen la representativitat dels ve\u00efns i ve\u00efnes</p>", 
+            "commentable_id": 2608, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/02/2016 11:58:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1617, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 4, 
+            "total_votes": 4
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5733, 
+                "name": "Gerard Gual Gasulla", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Les persones que fan la proposta com les del comentari, que s'apliquin el que proposen. </p>", 
+            "commentable_id": 2608, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/02/2016 09:52:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1914, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5813, 
+                "name": "Guillem Ros", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Actualment, moltes associacions veinals son \"cortijos\" dels senyors que les dominen i fan amb elles el que volen. Apart de que aixo no es legal per la propia Llei d'Associacions, el que es evident es que aquestes entitats caciquils no representen els interesos dels veins, sino els dels quatre gats que les maneguen. Nomes les entitats que realment siguin democr\u00e0tiques han de poder arrogar-se la representativitat dels veins.</p>", 
+            "commentable_id": 2608, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/02/2016 14:03:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1931, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/desenvolupar-el-pla-de-suport-a-les-associacions-26b7a887-eab1-4fc6-ba04-95b52853d3aa\">https://decidim.barcelona/proposals/desenvolupar-el-pla-de-suport-a-les-associacions-26b7a887-eab1-4fc6-ba04-95b52853d3aa</a></p>", 
+            "commentable_id": 2608, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 13:13:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8458, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/promoure-el-codi-etic-de-les-associacions\">https://decidim.barcelona/proposals/promoure-el-codi-etic-de-les-associacions</a></p>", 
+            "commentable_id": 2608, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 13:16:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8465, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1914", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 120, 
+                "name": "Leonor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Per suposat, la mesura s'ha d'aplicar a totes les entitats sense excepci\u00f3.</p>", 
+            "commentable_id": 2608, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/02/2016 11:11:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1920, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1914", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 395, 
+                "name": "Neo Sala", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Gerard, jo no represento a cap entitat veinal pero si alg\u00fan dia es dones el cas per suposat que jo ser\u00eda el primer en demanar m\u00e1xima transparencia democractica. Salut.</p>", 
+            "commentable_id": 2608, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/02/2016 11:47:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1923, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 5, 
+        "total_pages": 1
+    }
+}

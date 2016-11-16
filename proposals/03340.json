@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 5633, 
+            "name": "Families EBM Els Patufets de Navas", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 5633, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3340", 
+        "conflictive": false, 
+        "created_at": "23/02/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3340, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Rebut el comunicat de l\u2019IMEB,les fam\u00edlies i AMPA, exposem que:per el canvi de model de gesti\u00f3 indirecta a gesti\u00f3 directa de l\u2019Escola,desitjar\u00edem que es conservin els elements d\u2019identitat del centre mantenint: personal docent actual,projecte educatiu,flexibilitat hor\u00e0ria,perman\u00e8ncies,calendari actual i participaci\u00f3 activa al barri", 
+        "title": "Les demandes de les fam\u00edlies en el proc\u00e9s de municipalitzaci\u00f3 de l'EBM Els Patufets de Navas", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 88, 
+        "url": "https://decidim.barcelona/pam/proposals/les-demandes-de-les-families-en-el-proces-de-municipalitzacio-de-l-ebm-els-patufets-de-navas", 
+        "votable": null, 
+        "voted": null
+    }
+}

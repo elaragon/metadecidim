@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9209", 
+        "conflictive": false, 
+        "created_at": "07/04/2016", 
+        "district": {
+            "id": 4, 
+            "name": "Les Corts"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9209, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Per exemple:\r\n- Destinar m\u00e9s espais polivalents per a activitats expressives com dansa, pintura,\r\narts esc\u00e8niques ... (amb 4 persones m\u00e9s li donen suport)\r\n- Incloure aparells de gimn\u00e0stica en els parcs, adaptats a les necessitats de\r\np\u00fablics de diferents edats i condicions: no \u00e9s el mateix la gent gran que els joves\r\n", 
+        "title": "Habilitar espais oberts per a la pr\u00e0ctica esportiva; espais de lliure acc\u00e9s: cistelles de b\u00e0squet, taules de tennis, etc. ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/habilitar-espais-oberts-per-a-la-practica-esportiva-espais-de-lliure-acces-cistelles-de-basquet-taules-de-tennis-etc-f6abf76a-6bed-424f-b182-504f1dd78c37", 
+        "votable": null, 
+        "voted": null
+    }
+}

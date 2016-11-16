@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 567, 
+            "name": "CarlosP.C.86", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 567, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-7880", 
+        "conflictive": false, 
+        "created_at": "01/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7880, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Etapa infantil (0-1): m\u00e0xim de 7 alumnes per docent (a./d.) \r\nEtapa infantil (1-2 anys): m\u00e0xim de 12-13 (a./d.)\r\nEtapa infantil (2-3 ): m\u00e0xim de 15 (a./d.) \r\nEtapa infantil (2-3 ): m\u00e0xim de 18 (a./d.)\r\nPrim\u00e0ria (6-12): m\u00e0xim de 20 (a./d.) \r\nESO (12-16 anys): m\u00e0xim de 20 (a./d.)\r\nBatxillerat: m\u00e0xim de 25 (a./d.)\r\nPQPI: m\u00e0xim 15 (a./d.)\r\n", 
+        "title": "Reducci\u00f3 de la r\u00e0tio d'alumnes per docent a totes les etapes educatives (infantil, prim\u00e0ria, secund\u00e0ria obligat\u00f2ria i post-obligat\u00f2ria):", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 8, 
+        "url": "https://decidim.barcelona/pam/proposals/reduccio-de-la-ratio-d-alumnes-per-docent-a-totes-les-etapes-educatives-infantil-primaria-secundaria-obligatoria-i-post-obligatoria", 
+        "votable": null, 
+        "voted": null
+    }
+}

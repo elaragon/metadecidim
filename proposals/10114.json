@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10114", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 10114, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Es importante tener un lugar fijo de referencia para el LSC. \r\nQue cuente con cursos para padres de personas sordas, centros de atenci\u00f3n temprana hasta los 16 a\u00f1os, atenci\u00f3n individual del ni\u00f1o con psic\u00f3logos, terapeutas y otras disciplinas y competencias, con una visi\u00f3n integral e interdisciplinar y un esplai para ni\u00f1os/as sordos. \r\n\r\n", 
+        "title": "Conseguir en Barcelona un centro para sordos signantes CENTRO DE LENGUA DE SIGNOS CATALANA.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 11, 
+        "url": "https://decidim.barcelona/pam/proposals/conseguir-en-barcelona-un-centro-para-sordos-signantes-centro-de-lengua-de-signos-catalana", 
+        "votable": null, 
+        "voted": null
+    }
+}

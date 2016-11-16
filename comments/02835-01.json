@@ -1,0 +1,275 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15768, 
+                "name": "dacamon", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No em sembla correcte utilitzar software propietari per garantir transpar\u00e8ncia. Es podria adaptar algun software de codi lliure o fer un de propi i no tenir dependencia de llicencies de software que s\u00f3n cares. A m\u00e9s de les llicencies tamb\u00e9 son cars els projectes d'adaptaci\u00f3 del software de SAP a maneres de fer propies, en aquest cas de l'Ajuntament. Es podrien dedicar els diners de les llicencies a crear treball i a mes el codi del software seria propietat de l'Ajuntament i no d'una empresa privada.</p>", 
+            "commentable_id": 2835, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 22:18:26", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6864, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/coordinacio-juridica\">https://decidim.barcelona/proposals/coordinacio-juridica</a></p>", 
+            "commentable_id": 2835, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 10:26:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17708, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/app-de-serveis-socials\">https://decidim.barcelona/proposals/app-de-serveis-socials</a></p>", 
+            "commentable_id": 2835, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 10:29:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17715, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/serveis-eficacos-i-eficients\">https://decidim.barcelona/proposals/serveis-eficacos-i-eficients</a></p>", 
+            "commentable_id": 2835, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 10:31:55", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17717, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/promoure-mes-conexio-dels-serveis-socials-amb-altres-serveis-dels-districtes\">https://decidim.barcelona/proposals/promoure-mes-conexio-dels-serveis-socials-amb-altres-serveis-dels-districtes</a></p>", 
+            "commentable_id": 2835, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 10:32:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17719, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/coordinar-les-agendes-dels-equips-tecnics-i-politics\">https://decidim.barcelona/proposals/coordinar-les-agendes-dels-equips-tecnics-i-politics</a></p>", 
+            "commentable_id": 2835, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 10:35:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17723, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/model-de-gestio-d-equips\">https://decidim.barcelona/proposals/model-de-gestio-d-equips</a></p>", 
+            "commentable_id": 2835, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 10:36:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17726, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/multar-a-policias-en-servicio-q-no-cumplen-las-normas-de-circulacion\">https://decidim.barcelona/proposals/multar-a-policias-en-servicio-q-no-cumplen-las-normas-de-circulacion</a></p>", 
+            "commentable_id": 2835, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/04/2016 11:48:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 18572, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 8, 
+        "total_pages": 1
+    }
+}

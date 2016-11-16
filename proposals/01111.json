@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 160, 
+            "name": "felip", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 160, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1111", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.residusiconsum.org/index.php?option=com_content&view=article&id=368:ue-insta-els-estats-membres-a-reduir-el-consum-de-bosses-de-plastic&catid=55:catalunya-lliure-bosses", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1111, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 17, 
+            "name": "Energia i canvi clim\u00e0tic", 
+            "position": 5
+        }, 
+        "summary": "Aplicar taxes molt m\u00e9s elevades a adquisici\u00f3 de bosses de pl\u00e0stic als comer\u00e7os, passant dels 2 c\u00e8ntims actuals als 20 o 50 c\u00e8ntims. Aquesta taxa revertiria en campanyes de concienciaci\u00f3. Per aplicar a qualsevol tipus de comer\u00e7, no nom\u00e9s grans superf\u00edcies. Els comer\u00e7os haurien d'oferir ben visiblement borses de tela reutilitzable com alternativa.", 
+        "title": "Limitar dr\u00e0sticament \u00fas de bosses de pl\u00e0stic", 
+        "total_comments": 4, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 2, 
+        "total_votes": 101, 
+        "url": "https://decidim.barcelona/pam/proposals/limitar-drasticament-us-de-bosses-de-plastic", 
+        "votable": null, 
+        "voted": null
+    }
+}

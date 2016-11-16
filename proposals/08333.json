@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8333", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/meetings/esplai-trencaclosques-una-barcelona-mes-diversa-que-asseguri-el-bon-viure-una-barcelona-mes-humana-i-en-transicio-ecologica", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8333, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "A la cita presencial que va tenir lloc a l\u2019Esplai Trencaclosques, els infants de 8-9 anys van proposar limitar a les persones que viuen i treballen a Barcelona a agafar el cotxe 3 dies a la setmana. ", 
+        "title": "Limitar a les persones que viuen i treballen a Barcelona a agafar el cotxe 3 dies a la setmana ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/limitar-a-les-persones-que-viuen-i-treballen-a-barcelona-a-agafar-el-cotxe-3-dies-a-la-setmana", 
+        "votable": null, 
+        "voted": null
+    }
+}

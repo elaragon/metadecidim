@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3093", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3093, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 6, 
+            "name": "Habitatge", 
+            "position": 6
+        }, 
+        "summary": "Eradicar l\u2019infrahabitatge i dotar de sostre digne i ajuts socials les persones que hi viuen. Seguiment i intervenci\u00f3 social als assentaments, que voregen la trentena i alberguen prop de 300 persones. Actualitzar el cens d\u2019assentaments i infrahabitatges. Intervenci\u00f3 d'urg\u00e8ncia sobre els espais amb m\u00e9s risc per a les persones i prioritzaci\u00f3 d'eradicaci\u00f3 per a aquells altres assentaments en els quals resideixin menors.", 
+        "title": "Pla d'actuaci\u00f3 per a l'eradicaci\u00f3 dels assentaments", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 2, 
+        "total_votes": 35, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-d-actuacio-per-a-l-eradicacio-dels-assentaments", 
+        "votable": null, 
+        "voted": null
+    }
+}

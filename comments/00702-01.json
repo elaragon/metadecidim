@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4868, 
+                "name": "Manel Oll\u00e9 Garcia", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Crec que \u00e9s molt millor que cada colla estigui en un local diferents d'acord amb les caracter\u00edstiques de cada activitat. \u00c9s obvi que no \u00e9s el mateix uns catellers ( activitats pseudoesportiva ) que una colla de diables que \u00e9s una actvitat parateatral. En aquest cas posar-los junts els restaria potencial integrador.</p>", 
+            "commentable_id": 702, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/02/2016 18:09:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1552, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5046, 
+                "name": "Eva C-V Tremosa", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tots s\u00f3n cultura si les mateixes entitats no es posen d'acord, ser\u00e0 dif\u00edcil aconseguir local, no s'ha de buscar el que separa si no el que uneix. </p>", 
+            "commentable_id": 702, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/04/2016 10:48:47", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7557, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,242 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9435, 
+                "name": "DaniB", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Millorem abans el transport public abans de fer mes atraccions tur\u00edstiques que ja en tenim masses.\n<br />Mini tren entre turons es la manera perfecta per donar peu a destruir els parcs en q\u00fcesti\u00f3</p>", 
+            "commentable_id": 2764, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/02/2016 21:22:14", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3099, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9539, 
+                "name": "Albert Luque", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Em sembla totalment innecessari, una frivolitat de proposta.</p>", 
+            "commentable_id": 2764, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/03/2016 09:01:37", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3130, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8754, 
+                "name": "Arnau B", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ni un tren bala, ni un teleferic. Serveis p\u00fablics pels ve\u00efns.</p>", 
+            "commentable_id": 2764, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/03/2016 13:19:01", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3446, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6739, 
+                "name": "Salvador Barrau V.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tota obra i projecte te una memoria.capitols.presupost. l urbanisme  dels grans parcs res  te a veure amb altres temes. El transport p\u00fablico tambe te el seu pressupost. Un tren monorail elevat podr\u00eda ser una gran obra ut\u00f3pica i potser irrealizable. Con van ser obres criticades al seu temps con la Pedrera de Gaudi i la torre Eiffiel de Par\u00eds. Que la burgues\u00eda d amdues ciutats van volver enderrocar al seu temps i ara son un simbol de Catalunya i de Par\u00eds respectivamente. Ning\u00fan ha de reprimir les idees dels altres. Especialmente els que les tienen. Ja que n hi han poques i van cares.</p>", 
+            "commentable_id": 2764, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 02:00:27", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4063, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3099", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6739, 
+                "name": "Salvador Barrau V.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Discrepo. Cal saber que el parc ja te previst un servei de teleferics per unir els parcs individualment. La meva aportaci\u00f3 \u00e9s una variaci\u00f3  m\u00e9s del ja esta previst per\u00f2 no aprovat. No es un copncepte de atracci\u00f3 turistica perqu\u00e8 es un transport diferent .</p>", 
+            "commentable_id": 2764, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/03/2016 18:21:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3365, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3130", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6739, 
+                "name": "Salvador Barrau V.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es mes frivol un carril bici on poden atropellar la gente gran fr\u00e1gil sense que hi hago una pacificaci\u00f3n i normes d usos mes acurades i vigilades. Les frivolitats son diverses...</p>", 
+            "commentable_id": 2764, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 02:04:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4064, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3130/4064", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9539, 
+                "name": "Albert Luque", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Salvador, tens ra\u00f3, les frivolitats s\u00f3n diverses. rep una salutaci\u00f3.</p>", 
+            "commentable_id": 2764, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 09:09:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4082, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

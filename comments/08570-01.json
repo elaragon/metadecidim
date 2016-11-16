@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12179, 
+                "name": "suport.decidim1", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en la sessi\u00f3 16 de mar\u00e7 del Consell Municipal : \"Treballar per a la confecci\u00f3 d\u2019un mapa de pres\u00e8ncia d\u2019aus a ciutat a disposici\u00f3 dels projectes de rehabilitaci\u00f3 d\u2019edificis perque es pugui atendre les necessitats dels ocells de la millor manera segons cada cas.\"</p>", 
+            "commentable_id": 8570, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 08:47:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8182, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12179, 
+                "name": "suport.decidim1", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en la sessi\u00f3 16 de mar\u00e7 del Consell Municipal: \"Promoure i Informar dels efectes nocius que t\u00e9 per a les aus l\u2019efecte mirall de segons quines fa\u00e7anes dels edificis\"</p>", 
+            "commentable_id": 8570, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 08:48:20", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8184, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

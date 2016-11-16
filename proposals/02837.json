@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2837", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2837, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 27, 
+            "name": "Efici\u00e8ncia i professionalitat", 
+            "position": 5
+        }, 
+        "summary": "Revisi\u00f3 i modificaci\u00f3 del SOM actual perqu\u00e8 esdevingui una eina m\u00e9s \u00fatil per a l\u2019organitzaci\u00f3 i perqu\u00e8 el conjunt de treballadors i treballadores el facin seu.", 
+        "title": "Actualitzaci\u00f3 i millora del Sistema d'Ordenaci\u00f3 Municipal (SOM) dels llocs de treball", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 1, 
+        "total_votes": 10, 
+        "url": "https://decidim.barcelona/pam/proposals/actualitzacio-i-millora-del-sistema-d-ordenacio-municipal-som-dels-llocs-de-treball", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9100, 
+                "name": "Pau Ocean", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Amb lo facil que seria que vingues la grua i se les emportes. Mirar a l'altre costat es de covards.</p>", 
+            "commentable_id": 3496, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/02/2016 14:54:58", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2977, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2977", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2072, 
+                "name": "ekin", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\nImagina't que arriben a estar aturats a uns 15 metres fent control cada divendres i no s\u00f3n capa\u00e7os de cridar a la grua ni acostar-se a multar, i com a m\u00ednim solen haver-hi 3 cotxes damunt de la vorera i un d'ells davant del pas de vianants, di\u00e0riament .</p>", 
+            "commentable_id": 3496, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/03/2016 10:10:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3621, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

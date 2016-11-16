@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3038", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3038, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Real\u00e7ar i fomentar el coneixement dels espais de mem\u00f2ria hist\u00f2rica relacionats amb les lluites socials, la cultura i la participaci\u00f3, en col\u00b7laboraci\u00f3 amb entitats i ciutadania. Fer una atenci\u00f3 especial a la bateria antia\u00e8ria, les bugaderes, els refugis, el camp de concentraci\u00f3, les edificacions singulars, els carrers i les places, els espais naturals i l'arxiu municipal.", 
+        "title": "Pla de mem\u00f2ria del districte", 
+        "total_comments": 8, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 8, 
+        "total_positive_comments": 0, 
+        "total_votes": 45, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-de-memoria-del-districte", 
+        "votable": null, 
+        "voted": null
+    }
+}

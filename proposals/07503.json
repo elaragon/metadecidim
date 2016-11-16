@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 13290, 
+            "name": "procomuns.net", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 13290, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7503", 
+        "conflictive": false, 
+        "created_at": "30/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://procomuns.net/ca/politiques", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7503, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Difondre el programari i les tecnologies lliures des dels mitjans de comunicaci\u00f3 p\u00fablics i canals de difusi\u00f3 municipals. Transici\u00f3 perqu\u00e8 els mitjans p\u00fablics utilitzin solucions lliures en la producci\u00f3 de continguts i en la seva comunicaci\u00f3 divulgativa en xarxes socials.", 
+        "title": "Combatre la bretxa digital i de formaci\u00f3: mitjans de comunicaci\u00f3 p\u00fablics que utilitzin i difonguin les tecnologies lliures", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 9, 
+        "url": "https://decidim.barcelona/pam/proposals/combatre-la-bretxa-digital-i-de-formacio-mitjans-de-comunicacio-publics-que-utilitzin-i-difonguin-les-tecnologies-lliures", 
+        "votable": null, 
+        "voted": null
+    }
+}

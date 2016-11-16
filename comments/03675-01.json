@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8185, 
+                "name": "Victoria Jimenez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La \u00fanica opci\u00f3 que et queda es pagar una escola concertada fora del barri. Total que, per haver de pagar 400eu en escola (per fill), i a sobre haver de despla\u00e7ar-te cada d\u00eda, et surt clarament a compte invertir els diners que t'has de gastar en escola si et quedes a Ciutat vella, en el lloguer d'un habitatge en un barri amb menys problemes, i mudar-te a un barri \"normal\" on puguis portar els nens a l'escola p\u00fablica del costat de casa.\n<br />Aquesta \u00e9s a la conclusi\u00f3 a la que arriba tothom quan ha d'escolaritzar als seus fills. I per aix\u00f3 tothom es muda de barri.\n<br />L'Ajuntament sembla cec a aquest exode. </p>", 
+            "commentable_id": 3675, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 22:28:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4910, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/revisio-dels-criteris-de-l-escolaritzacio-equilibrada\">https://decidim.barcelona/proposals/revisio-dels-criteris-de-l-escolaritzacio-equilibrada</a></p>", 
+            "commentable_id": 3675, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/04/2016 18:51:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14135, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

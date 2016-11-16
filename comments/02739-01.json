@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 609, 
+                "name": "Can 70 anna", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Imprescindible, ho necessita la ciutat, ho necessitem les persones, hi ha disposici\u00f3 per col.laborar amb gesti\u00f3 cooperativa, podem decidir com i on passar la vellesa, cal suport de l'administraci\u00f3.</p>", 
+            "commentable_id": 2739, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/02/2016 18:24:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2292, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

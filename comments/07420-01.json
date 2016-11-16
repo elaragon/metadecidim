@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6514, 
+                "name": "Oriol B", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El problema es que la Guardia Urbana se limita a patrullar en coche, desde el cual es dif\u00edcil ver lo que pasa en las aceras. Para poder combatir este tipo de incivismo es necesario hacer que patrullen a pie. Hay una propuesta para pedir que se patrulle m\u00e1s a pie: <a href=\"https://decidim.barcelona/proposals/ampliar-les-patrulles-de-la-guardia-urbana-a-peu-i-bicicleta\">https://decidim.barcelona/proposals/ampliar-les-patrulles-de-la-guardia-urbana-a-peu-i-bicicleta</a></p>", 
+            "commentable_id": 7420, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 15:54:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6996, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "6996", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16138, 
+                "name": "Ojosdegoma", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Muchas gracias!!</p>", 
+            "commentable_id": 7420, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 13:04:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7169, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6739, 
+                "name": "Salvador Barrau V.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>tambe podriem arrassar la ciutat i podriem dissenyar els urbanistes amb llibertat. No cal desvestir un sant per vestir un altre. </p>", 
+            "commentable_id": 2732, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/02/2016 14:12:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2272, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3507, 
+                "name": "jose luis moreno goicoechea", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Por muchos a\u00f1os he pasado por el paseo m\u00e1s feo de Barcelona, la trasera del parque hasta la estaci\u00f3n de Francia, saltando las dictaduras de los jardineros municipales en contra de la l\u00f3gica peatonal, pensando siempre lo mismo, \u00bfpoque no haran un paso atajo per enmedio de parque?</p>", 
+            "commentable_id": 2732, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/04/2016 11:18:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7502, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/impulsar-la-reforma-urbanitzacio-d-espais-de-la-barceloneta\">https://decidim.barcelona/proposals/impulsar-la-reforma-urbanitzacio-d-espais-de-la-barceloneta</a></p>", 
+            "commentable_id": 2732, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/04/2016 19:31:01", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 13294, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2272", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6185, 
+                "name": "M.Mateu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Exagerat! No t'agradaria disfrutar de la dama del paraig\u00fces sense pagar? doncs aix\u00f3.. :)</p>", 
+            "commentable_id": 2732, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/03/2016 16:29:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3192, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

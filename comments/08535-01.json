@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 594, 
+                "name": "Jordi Go\u00f1i El Troc", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Al Poble Sec tenim un espai amb moltes possibilitats per\u00f2 degut als accessos els ve\u00efns no anem sovint. ENs caldrien escales mec\u00e0niques com s'ha fet  al barri de Vallcarca.</p>", 
+            "commentable_id": 8535, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 07:36:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8177, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "8177", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 222, 
+                "name": "Victor Marchesini", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Apoyo la propuesta</p>", 
+            "commentable_id": 8535, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/04/2016 08:12:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12811, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

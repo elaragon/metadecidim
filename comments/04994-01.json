@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10703, 
+                "name": "suport decidim.barcelona2", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda al Consell de Salut de Nou Barris: \"Eliminar les barreres arquitect\u00f2niques i impediments de tot tipus dels espais p\u00fablics i els equipaments del Districte. Incentivar la col\u2022laboraci\u00f3 amb les entitats del Districte que treballen identificant barreres arquitect\u00f2niques i aportant solucions (per exemple el grup Asendi).\"</p>", 
+            "commentable_id": 4994, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 18:30:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5625, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

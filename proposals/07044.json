@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7044", 
+        "conflictive": false, 
+        "created_at": "29/03/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 7044, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 13, 
+            "name": "Turisme sostenible", 
+            "position": 5
+        }, 
+        "summary": "Limitar les llic\u00e8ncies. Inspecci\u00f3 fiscal d\u2019apartaments tur\u00edstics i sancionar els pisos tur\u00edstics il\u00b7legals. Exigir l\u2019acord de la comunitat de ve\u00efns perqu\u00e8 un pis de la finca se\u2019n faci \u00fas d\u2019apartament tur\u00edstic. Les llic\u00e8ncies d\u2019obra nova d\u2019apartaments tur\u00edstics que impliquen l\u2019entrada pel carrer per intentar evitar els problemes de conviv\u00e8ncia.  ", 
+        "title": "Mesures de control dels pisos tur\u00edstics", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 6, 
+        "url": "https://decidim.barcelona/pam/proposals/mesures-de-control-dels-pisos-turistics", 
+        "votable": null, 
+        "voted": null
+    }
+}

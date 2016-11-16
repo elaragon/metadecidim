@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 14400, 
+            "name": "Oriol Sa", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 14400, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6128", 
+        "conflictive": false, 
+        "created_at": "20/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6128, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Per tal de facilitar els accessos a la ciutat i mantenir el transport p\u00fablic es podria fer circular els busos per les vies del tramvia (fet que suposaria l'asfaltat de la major part del recorregut). D'aquesta manera, podriem tenir els dos serveis d'una manera m\u00e9s eficient i optimitzariem tots els carrils de la Diagonal. ", 
+        "title": "Unificar el Tramvia i el Carril Bus", 
+        "total_comments": 7, 
+        "total_negative_comments": 4, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 9, 
+        "url": "https://decidim.barcelona/pam/proposals/unificar-el-tramvia-i-el-carril-bus", 
+        "votable": null, 
+        "voted": null
+    }
+}

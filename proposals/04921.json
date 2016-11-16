@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4921", 
+        "conflictive": false, 
+        "created_at": "14/03/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 4921, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "\u00danica finestra de matriculaci\u00f3 al Districte de Sant Andreu per equilibrar el repartiment de l\u2019alumnat. ", 
+        "title": "Creaci\u00f3 de comissions de matriculaci\u00f3 o oficina de matriculaci\u00f3 \u00fanica per permetre una distribuci\u00f3 m\u00e9s racional de l\u2019alumnat amb necessitats socio-econ\u00f2miques i culturals.  ", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 2, 
+        "total_votes": 19, 
+        "url": "https://decidim.barcelona/pam/proposals/creacio-de-comissions-de-matriculacio-o-oficina-de-matriculacio-unica-per-permetre-una-distribucio-mes-racional-de-l-alumnat-amb-necessitats-socio-economiques-i-culturals", 
+        "votable": null, 
+        "voted": null
+    }
+}

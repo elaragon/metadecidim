@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1042, 
+                "name": "Am\u00e0lia Tarr\u00e9s", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Del tot d'acord. El concepte Bon viure, \u00e9s un concepte totalment subjectiu ( amb unes connotacions no sempre favorables, a m\u00e9s a m\u00e9s). </p>", 
+            "commentable_id": 2674, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 13:56:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1849, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10023, 
+                "name": "Sheila", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d\u00b4acord. Altrament, el Bon Viure, com a concepte subjectiu, \u00e9s dific\u00edlment quantificable i gens objectivable...</p>", 
+            "commentable_id": 2674, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/03/2016 15:13:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3460, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

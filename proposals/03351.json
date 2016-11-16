@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2871, 
+            "name": "Jos\u00e9 Manuel", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2871, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3351", 
+        "conflictive": false, 
+        "created_at": "24/02/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3351, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "En  el Barrio de Sant Mart\u00ed se realizada durante el d\u00eda lo que ocasiona molestias a todos los ciudadanos y comercios y m\u00e1s que limpiar lo que se hace es mojar las calles.\r\nMi propuesta es que esta limpieza SE REALICE DE NOCHE  donde realmente se puede utilizar la m\u00e1xima presi\u00f3n de agua sin molestar a vecino/as, terrazas de bares y resto de negocios", 
+        "title": "Limpieza de las calles con Agua a Presi\u00f3n", 
+        "total_comments": 8, 
+        "total_negative_comments": 3, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 35, 
+        "url": "https://decidim.barcelona/pam/proposals/limpieza-de-las-calles-con-agua-a-presion", 
+        "votable": null, 
+        "voted": null
+    }
+}

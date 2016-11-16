@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 20299, 
+            "name": "Eix Comercial del Raval", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 20299, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9975", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "http://www.eixraval.com/media/file/noticias//80_Documento_Adjunto_1.pdf", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 9975, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Realitzar un diagn\u00f2stic dels conflicte a l'espai p\u00fablic per prioritzar estrat\u00e8gies d'actuaci\u00f3.\r\nElaboraci\u00f3 de plans d\u2019actuaci\u00f3 per a problem\u00e0tiques espec\u00edfiques, i en especial aquelles conductes que afecten a temes de salut p\u00fablica.\r\nEstudi de zones amb m\u00e9s risc delinq\u00fcencial per establir zones de patrullatge o d\u2019incorporaci\u00f3 d\u2019elements de control.", 
+        "title": "Dirigir l'activitat de la Gu\u00e0rdia Urbana a la prevenci\u00f3, anticipaci\u00f3 i resoluci\u00f3 de problemes.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/dirigir-l-activitat-de-la-guardia-urbana-a-la-prevencio-anticipacio-i-resolucio-de-problemes", 
+        "votable": null, 
+        "voted": null
+    }
+}

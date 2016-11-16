@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7204", 
+        "conflictive": false, 
+        "created_at": "29/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 7204, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 18, 
+            "name": "Participaci\u00f3 ciutadana", 
+            "position": 2
+        }, 
+        "summary": "Fer del principi de subsidiarietat l\u2019eix del proc\u00e9s de coproducci\u00f3 de pol\u00edtiques p\u00fabliques i garantir la continu\u00eftat dels projectes sense caure en el clientelisme. ", 
+        "title": "Principi de subsidiarietat: que desenvolupi la gesti\u00f3 de la pol\u00edtica i/o el servei aquella entitat o agent m\u00e9s proper al ciutad\u00e0/ana.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/principi-de-subsidiarietat-que-desenvolupi-la-gestio-de-la-politica-i-o-el-servei-aquella-entitat-o-agent-mes-proper-al-ciutada-ana", 
+        "votable": null, 
+        "voted": null
+    }
+}

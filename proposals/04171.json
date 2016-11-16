@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 131, 
+            "name": "Ferran Izquierdo", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 131, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4171", 
+        "conflictive": false, 
+        "created_at": "06/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://pisosturisticsno.wordpress.com/2016/01/25/pisos-turistics-no-decreixement-turistic/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4171, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 13, 
+            "name": "Turisme sostenible", 
+            "position": 5
+        }, 
+        "summary": "PROU PISOS TUR\u00cdSTICS!\r\n\r\nEls pisos tur\u00edstics generen mol\u00e8sties, especulaci\u00f3, fan augmentar el preu dels lloguers i expulsen els ve\u00efns i ve\u00efnes, provoquen mobbing, s\u00f3n una font de diner negre i de blanqueig de diner.\r\n\r\nDemanem que no es concedeixin m\u00e9s llic\u00e8ncies i que es tanquin tots els pisos il\u2022legals.\r\n", 
+        "title": "Prou Pisos Tur\u00edstics!", 
+        "total_comments": 16, 
+        "total_negative_comments": 4, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 7, 
+        "total_votes": 162, 
+        "url": "https://decidim.barcelona/pam/proposals/prou-pisos-turistics", 
+        "votable": null, 
+        "voted": null
+    }
+}

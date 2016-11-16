@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10898", 
+        "conflictive": false, 
+        "created_at": "20/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/meetings/com-creem-salut-als-barris-per-reduir-desigualtats", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 10898, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 1, 
+            "name": "Just\u00edcia social", 
+            "position": 1
+        }, 
+        "summary": "Per exemple en barris com la Trinitat Vella, Tur\u00f3 de la Peira es percep una manca de pres\u00e8ncia dels serveis socials donat que les oficines es troben lluny dels barris.", 
+        "title": "Jornada Creem salut per reduir desigualtats: Descentralitzaci\u00f3, m\u00e9s proximitat, m\u00e9s accessibilitat als Serveis Socials en aquells barris m\u00e9s vulnerables. ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/jornada-creem-salut-per-reduir-desigualtats-descentralitzacio-mes-proximitat-mes-accessibilitat-als-serveis-socials-en-aquells-barris-mes-vulnerables", 
+        "votable": null, 
+        "voted": null
+    }
+}

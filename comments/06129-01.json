@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3888, 
+                "name": "joancg", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aix\u00f2 seria una molt bona idea, i amb l'obligatorietat de tenir-ho en unes m\u00ednimes condicions. A altres pa\u00efsos ja es fa aix\u00ed. De fet en general manquen molts serveis p\u00fablics a Barcelona.</p>", 
+            "commentable_id": 6129, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 09:17:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6052, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11624, 
+                "name": "AlexM", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Em sembla una molt bona idea pero no m'agradaria obligar als tenders (moltes vegades negocis petits familiars) a canvi de res. S'els podria potser oferir alguna cosa a canvi de tenir-los i mantenir-los en bones condicions, al cap i a la f\u00ed si ells donen els serveis es una preocupaci\u00f3 menys per a l'ajuntament, la policia i els serveis de neteja. Amb el que ens estalviem d'aix\u00f2 potser s'els hi pot fer algun petit descompte d'algun impost.</p>", 
+            "commentable_id": 6129, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 12:07:22", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6085, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2201, 
+                "name": "Carmen Moy Arenas", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En general, en tota Barcelona es necessiten mes zones amb lavabos p\u00fablics.\n</p>", 
+            "commentable_id": 6129, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 18:07:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6193, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16012, 
+                "name": "rafafede", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No cal oblidar que seria un incentiu, ja que qui entra a fer les seves necessitats compraria alguna cosa, de grau o per for\u00e7a, com fan els bars que no permeten l'us a qui no \u00e9s client</p>", 
+            "commentable_id": 6129, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 10:40:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6919, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

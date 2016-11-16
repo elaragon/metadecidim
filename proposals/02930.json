@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2930", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2930, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 24, 
+            "name": "Un nou lideratge p\u00fablic", 
+            "position": 3
+        }, 
+        "summary": "Incorporar noves entitats financeres en les relacions banc\u00e0ries de l\u2019Ajuntament, davant l\u2019actual entorn de concentraci\u00f3 que est\u00e0 vivint el sistema financer espanyol. Incorporar cooperatives i banca \u00e8tica en la gesti\u00f3 financera per contribuir a aquesta diversificaci\u00f3 i, alhora, conjuminar-les amb la introducci\u00f3 de cl\u00e0usules socials i mediambientals en l\u2019\u00e0mbit financer.", 
+        "title": "Incorporaci\u00f3 de noves tipologies d'entitats financeres en la gesti\u00f3 de l'Ajuntament, en especial cooperatives i entitats de banca \u00e8tica", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 23, 
+        "url": "https://decidim.barcelona/pam/proposals/incorporacio-de-noves-tipologies-d-entitats-financeres-en-la-gestio-de-l-ajuntament-en-especial-cooperatives-i-entitats-de-banca-etica", 
+        "votable": null, 
+        "voted": null
+    }
+}

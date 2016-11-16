@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2065, 
+            "name": "Sarri\u00e0-Sant Gervasi", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2065, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8760", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": false, 
+        "hidden": false, 
+        "id": 8760, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Degut a que aquesta cru\u00eflla forma part d'un recorregut escolar, es proposa instal\u00b7lar un pas elevat, una banda rugosa o un sem\u00e0for en aquest tram. L'AAVV Pedralbes tamb\u00e9 estan preocupats per la instal\u00b7laci\u00f3 d'un carril bici en aquesta zona, pel que demanen que se'ls tingui en compte en la definici\u00f3 i tra\u00e7 del carril. AAVV PEDRALBES", 
+        "title": "Instal\u00b7laci\u00f3 d'un pas elevat en el pas zebre cru\u00eflla Manuel Girona / Marqu\u00e8s de Mulhac\u00e9n", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/instal-lacio-d-un-pas-elevat-en-el-pas-zebre-cruilla-manuel-girona-marques-de-mulhacen", 
+        "votable": null, 
+        "voted": null
+    }
+}

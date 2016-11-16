@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 7205, 
+            "name": "Associaci\u00f3 de Ve\u00efns i Amics del Passatge Ali\u00f3, 12 baixos", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 7205, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3231", 
+        "conflictive": false, 
+        "created_at": "22/02/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "http://avvaapsj.blogspot.com.es/2015/10/els-veins-del-passeig-de-sant-joan.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3231, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "L'estat de la gespa al Passeig de Sant Joan entre c/ Mallorca i Travessera de Gr\u00e0cia est\u00e0 impresentable des de l'any 1999 (un any despr\u00e9s de la reforma) i amb l'excepi\u00f3 de l'any 2013 que Parcs i Jardins va instal.lar tanques protectores al voltant de tots els parterres.  DEMANEM:  que districtes de Eixample i Gr\u00e0cia facin les actuacions pertinents.", 
+        "title": "Una gespa de qualitat al Passeig de Sant Joan", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 8, 
+        "url": "https://decidim.barcelona/pam/proposals/una-gespa-de-qualitat-al-passeig-de-sant-joan", 
+        "votable": null, 
+        "voted": null
+    }
+}

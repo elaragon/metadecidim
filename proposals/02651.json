@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 5357, 
+            "name": "daviduriarte ", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 5357, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2651", 
+        "conflictive": false, 
+        "created_at": "14/02/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2651, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "El actual carril bici de la Barceloneta que va en paralelo a la playa, est\u00e1 solo indicado con peque\u00f1as se\u00f1ales verdes en el suelo. Esto est\u00e1 creando que los peatones no sean conscintes de que es un carril bici y atraviesen sin mirar. Este hecho esta provocando accidentes y se hace peligroso circular. Propongo una mejor se\u00f1alizaci\u00f3n.", 
+        "title": "Pintar con m\u00e1s claridad el carril bici de la Barceloneta", 
+        "total_comments": 10, 
+        "total_negative_comments": 2, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 4, 
+        "total_votes": 34, 
+        "url": "https://decidim.barcelona/pam/proposals/pintar-con-mas-claridad-el-carril-bici-de-la-barceloneta", 
+        "votable": null, 
+        "voted": null
+    }
+}

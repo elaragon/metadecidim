@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 19200, 
+                "name": "gorriondj", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Considero que si m\u00e1s usuarios utilizaran la motocicleta como medio de transporte se lograr\u00eda una mayor fluidez en la circulaci\u00f3n.</p>", 
+            "commentable_id": 8154, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 14:21:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8600, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 22701, 
+                "name": "pajarloc", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Las motos contaminan mucho menos que los coches ademas de hacer el trafico mas fluido. Lo cual hace que esten menos tiempo en circulacion. </p>", 
+            "commentable_id": 8154, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 10:31:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11618, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 179, 
+                "name": "Susanna", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Podr\u00edem tornar a facilitar, ni que sigui alguns dies a la setmana, les parades de pag\u00e8s? Em refereixo a que els nostres productors de proximitat puguin apropar els seus productes i fer venda directa. Aix\u00f2 pot potenciar tamb\u00e9 el sector agr\u00edcola periurb\u00e0 que tant necessari \u00e9s mantenir, \u00e9s la nostra proximitat m\u00e9s pr\u00f2xima! La sobirania alimentaria es comen\u00e7a amb aquestes petites accions que poden comportar grans beneficis per productors, consumidors i per la cohesio social. Cal que valorem el que costa fer un enciam i l'import\u00e0ncia que t\u00e9 saber on i qui l'ha produ\u00eft (hi ha tota una vessant pedag\u00f2gica en tot plegat)</p>", 
+            "commentable_id": 1127, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 10:02:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 175, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 5, 
+            "total_votes": 5
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

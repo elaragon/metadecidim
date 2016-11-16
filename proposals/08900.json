@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8900", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8900, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 17, 
+            "name": "Energia i canvi clim\u00e0tic", 
+            "position": 5
+        }, 
+        "summary": "\u00adPromocionar aigua calenta sanit\u00e0ria via energia solar t\u00e8rmica, \u00adRehabilitaci\u00f3 d\u2019instal\u2022lacions solars t\u00e8rmiques constru\u00efdes o aturades,\u00adSubstituci\u00f3 de calefacci\u00f3 a gas per calefacci\u00f3 amb bomba de calor alimentada amb FV,\u00adPromoure PV a l\u2019espai p\u00fablic i privat (p\u00e8rgoles, carril bici, rondes),\u00adRehabilitaci\u00f3 parc de plantes solars t\u00e8rmiques a edificis", 
+        "title": "Potenciar l\u2019energia solar t\u00e8rmica i fotovoltaica", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/potenciar-l-energia-solar-termica-i-fotovoltaica", 
+        "votable": null, 
+        "voted": null
+    }
+}

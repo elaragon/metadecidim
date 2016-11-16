@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 17767, 
+            "name": "Esplais Catalans, ESPLAC", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 17767, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8143", 
+        "conflictive": false, 
+        "created_at": "04/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8143, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 5, 
+            "name": "Cicles de vida ", 
+            "position": 5
+        }, 
+        "summary": "La Campanya de Vacances d'Estiu \u00e9s una bona eina per facilitar l'acc\u00e9s a les activitats de les entitats de lleure educatiu (Esplais i Caus) per totes aquelles fam\u00edlies amb problemes econ\u00f2mics. Tamb\u00e9 \u00e9s una bona eina de difusi\u00f3 de la feina d'aquestes entitats. Proposem qu\u00e9 s'implanti aquesta campanya m\u00e9s enll\u00e0 de l'estiu.", 
+        "title": "Ampliar la\" Campanya de Vacances d'Estiu\" a les activitats de Primavera i Hivern. ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 67, 
+        "url": "https://decidim.barcelona/pam/proposals/ampliar-la-campanya-de-vacances-d-estiu-a-les-activitats-de-primavera-i-hivern", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,308 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2361, 
+                "name": "Jenny Jones", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic a favor pero crec que deu de ser per a tots. Tindria que pagar a prop de 80 euros al mes nomes per anar a la piscina amb les meves filles. Soc afortunada perque tinc feina pero no ho veig just que les meves cuotes vagin per a sostener un club amb pretensions de un club privat. No vull jacuzzi ni entrenador personal, nomes una estona a l'aigua. </p>", 
+            "commentable_id": 916, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 23:10:56", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 730, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/quota-familiar-als-equipaments-esportius-municipals-amb-atencio-especial-a-les-families-monoparentals\">https://decidim.barcelona/proposals/quota-familiar-als-equipaments-esportius-municipals-amb-atencio-especial-a-les-families-monoparentals</a></p>", 
+            "commentable_id": 916, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 11:08:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17783, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/reduccio-i-adaptacio-de-les-quotes-dels-equipaments-esportius-municipals\">https://decidim.barcelona/proposals/reduccio-i-adaptacio-de-les-quotes-dels-equipaments-esportius-municipals</a></p>", 
+            "commentable_id": 916, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 11:09:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17784, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/preus-assequibles-i-beques-als-centres-municipals-esportius\">https://decidim.barcelona/proposals/preus-assequibles-i-beques-als-centres-municipals-esportius</a></p>", 
+            "commentable_id": 916, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 11:09:34", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17785, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/possibilitat-de-demanar-beques-per-als-casals-d-estiu-a-tots-els-centres-esportius-municipals\">https://decidim.barcelona/proposals/possibilitat-de-demanar-beques-per-als-casals-d-estiu-a-tots-els-centres-esportius-municipals</a></p>", 
+            "commentable_id": 916, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 11:09:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17787, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/quotes-gratuites-als-poliesportius-municipals-per-a-les-persones-sense-recursos\">https://decidim.barcelona/proposals/quotes-gratuites-als-poliesportius-municipals-per-a-les-persones-sense-recursos</a></p>", 
+            "commentable_id": 916, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 11:10:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17788, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/esports-un-servei-public-una-quota-d-abonat-acces-i-universal-prou-de-repago\">https://decidim.barcelona/proposals/esports-un-servei-public-una-quota-d-abonat-acces-i-universal-prou-de-repago</a></p>", 
+            "commentable_id": 916, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 11:10:55", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17790, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\n<a href=\"https://decidim.barcelona/proposals/creacio-d-un-gimnas-solidari\">https://decidim.barcelona/proposals/creacio-d-un-gimnas-solidari</a></p>", 
+            "commentable_id": 916, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 11:11:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17791, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/preus-assequibles-als-poliesportius-municipals\">https://decidim.barcelona/proposals/preus-assequibles-als-poliesportius-municipals</a></p>", 
+            "commentable_id": 916, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 11:11:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17792, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 9, 
+        "total_pages": 1
+    }
+}

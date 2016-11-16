@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4090", 
+        "conflictive": false, 
+        "created_at": "05/03/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 4090, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "La situaci\u00f3 actual en el Districte de Ciutat Vella \u00e9s dram\u00e0tica per la deficient dotaci\u00f3: \r\n-\tDedicar m\u00e9s recursos per atendre a les persones amb malaltia mental.\r\n-\tAmpliar la dotaci\u00f3 de professionals  de la Xarxa de Salut mental del districte. \r\n-\tEstablir circuits m\u00e9s \u00e0gils amb pacients amb Salut Mental\r\n", 
+        "title": "Cr\u00e9ixer en recursos dirigits a cobrir les necessitats en temes de salut mental", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/creixer-en-recursos-dirigits-a-cobrir-les-necessitats-en-temes-de-salut-mental", 
+        "votable": null, 
+        "voted": null
+    }
+}

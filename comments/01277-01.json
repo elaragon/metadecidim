@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4936, 
+                "name": "MaxRiera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Espero que tot aix\u00f2 es millori amb el pla de pacificaci\u00f3 de la Meridiana, malgrat el fet de que aquests passejos estiguin tallats per vies de comunicaci\u00f3 tant importants (Arag\u00f3, Meridiana, etc...) no ho far\u00e0 f\u00e0cil...</p>", 
+            "commentable_id": 1277, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/02/2016 00:07:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1590, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8875, 
+                "name": "Rafael001", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hi estic totalment d'acord. Quan tinc necessitat de travessar la Meridiana, se'm fa molt costerut el cam\u00ed. Per exemple si he d'agafar el Metro del Clot en la l\u00ednia 1, prefereixo entrar a la l\u00ednia 2 i caminar per sota terra abans de fer-ho per sobre. La Meridiana no es un lloc agradable per caminar</p>", 
+            "commentable_id": 1277, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 19:22:47", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8852, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

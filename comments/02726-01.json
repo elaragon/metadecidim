@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6140, 
+                "name": "Julius", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord. Tenim una oportunitat de dinamitzar i donar vida a un espai molt gran que mai a estat a l'al\u00e7ada de les possibilitats que pot oferir. A m\u00e9s a m\u00e9s, l'amfiteatre i el parc que l'envolta ara mateix \u00e9s un espai poc agradable, el disseny de la seva arquitectura \u00e9s molt millorable: molts espais foscos, cantonades on s'acumula la brut\u00edcia, poc accesible etc...\n<br />En ser un espai situat a l'extrem del barri, sense habitatges i cases al voltant, amb espais amples al costat i equipaments com l'Ateneu molt a prop pot ser ideal per als joves, que a banda de necessitar un equipament apropiat per a ells tindrien possibilitats de fer activitats a l'aire lliure, pot esdevenir un espai de refer\u00e8ncia per al barri (festes majors, activitats culturals,  infantils, esportives etc...).</p>", 
+            "commentable_id": 2726, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/02/2016 13:10:31", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1997, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6148, 
+                "name": "N\u00faria Laura Orbaneja Rodr\u00edguez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Kasal de Joves de Roquetes a Nou Barris,,,,  rectificar no es Ciutat vella.</p>", 
+            "commentable_id": 2726, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/02/2016 13:37:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2011, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1997", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6140, 
+                "name": "Julius", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ah, la situaci\u00f3 est\u00e0 equivocada, no \u00e9s CIUTAT VELLA \u00c9S NOU BARRIS ;-)</p>", 
+            "commentable_id": 2726, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/02/2016 13:11:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1998, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

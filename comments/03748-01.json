@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10023, 
+                "name": "Sheila", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En bona part d'acord. La neteja als carrers \u00e9s un dels problemes que existeixen al barri del Raval. No s\u00e9 si \u00e9s un problema de sensibilitzaci\u00f3, d\u2019educaci\u00f3 o de civisme; i tampoc no estic segura fins a quin punt s\u00f3n efectives les sancions, per\u00f2 coincideixo en que caldria revisar la dotaci\u00f3 d\u2019equipaments i serveis (lavabos p\u00fablics gratu\u00efts) i afegeixo: fer-los visibles i accessibles per tota la ciutadania. </p>", 
+            "commentable_id": 3748, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/03/2016 19:06:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3375, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10285, 
+                "name": "Montserrat Forcadas", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>D'acord amb la Sheila, m\u00e9s avall. M\u00e9s neteja amb dotaci\u00f3 de lavabos p\u00fablics. No a les multes, ni a les lleis del civisme. \n<br />Els lavabos es podrien pensar com un lloc que es construeixi i es facii manteniment per part de l'ajuntament, per\u00f2 el gestiona una persona.</p>", 
+            "commentable_id": 3748, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/03/2016 12:49:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3543, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 21054, 
+                "name": "Lizete ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Lavabos p\u00fablicos visibles, abiertos dia y noche, gratuitos en CiutatVella!</p>", 
+            "commentable_id": 3748, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 16:38:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11131, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17741, 
+                "name": "Suport General3 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/augmentar-la-neteja-dels-carrers-al-casc-antic\">https://decidim.barcelona/proposals/augmentar-la-neteja-dels-carrers-al-casc-antic</a></p>", 
+            "commentable_id": 3748, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 12:44:31", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11974, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

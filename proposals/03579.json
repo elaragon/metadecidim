@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 6473, 
+            "name": "Jaume Layola", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 6473, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3579", 
+        "conflictive": false, 
+        "created_at": "27/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3579, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "En lloc conflictius , per el soroll de terrasses i bars , modera  el horari per poguer conviure oci i descans, posar mesures de insonoritzaci\u00f3, que els ve\u00efns no tinguin que pati les consecuencies , de la imposici\u00f3 administrativa.", 
+        "title": "Respectar el descans del ve\u00efns-es que no siguin for\u00e7ats a abandonar les seves cases", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 40, 
+        "url": "https://decidim.barcelona/pam/proposals/respectar-el-descans-del-veins-es-que-no-siguin-forcats-a-abandonar-les-seves-cases", 
+        "votable": null, 
+        "voted": null
+    }
+}

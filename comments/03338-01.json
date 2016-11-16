@@ -1,0 +1,275 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1497, 
+                "name": "Vir Peertopeer", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En sembla genial. Tamb\u00e9 caldria que part\u00edcipes son iniciativas privadas com <a href=\"http://cyclolock.com/\">http://cyclolock.com/</a>\n</p>", 
+            "commentable_id": 3338, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/02/2016 18:36:20", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2600, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 164, 
+                "name": "J. Gabriel Gallart", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El bicibox \u00e9s una andromina que ocupa molt d'espai a la via p\u00fablica. Barcelona no pot afegir aquest, horrible contenidor, al seu paisatge. Cal buscar altres solucions per l'aparcament segur de les bicicletes. \n<br />D'altra banda barrejar bicibox amb bicing \u00e9s un error conceptual, no podem parlar d'aparcaments i alhora de bicicletes compartides.</p>", 
+            "commentable_id": 3338, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 18:07:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4249, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 1, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11344, 
+                "name": "Ferrniga", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>S\u00ed que s'hauria de fer arribar la xarxa del Bicibox a la ciutat de Barcelona per\u00f2 no cal unificar els serveis ja que cobreixen diferents necessitats. Una altra cosa seria vincular-los o permetre que amb un sol carnet es pogu\u00e9s disposar dels dos serveis per aquelles persones que pugui resultar interessant.</p>", 
+            "commentable_id": 3338, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/03/2016 09:07:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4342, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No ho acabo de veure.</p>", 
+            "commentable_id": 3338, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 11:04:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5199, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2600", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1497, 
+                "name": "Vir Peertopeer", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Volia dir que estaria b\u00e9 que participaran tamb\u00e9 iniciatives privades com CycloLock. Em sembla indispensable avan\u00e7ar en la Cooperaci\u00f3 entre ve\u00efns, empreses i nom\u00e9s demanar suport concret a l'ajuntament despr\u00e9s d'haver-se organitzat</p>", 
+            "commentable_id": 3338, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/02/2016 18:52:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2603, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2600/2603", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6762, 
+                "name": "Miquel Ruscalleda Bota", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hola. El LINK que proposes porta a una web en construcci\u00f3. en tot cas, el bicipark \u00e9s una iniciativa privada. Aquest servei podria ser gestionat per un organisme publico-privat amb la participaci\u00f3 d'entitats d'usuaris de la bicicleta o empreses del tercer sector com biciclot (cooperativa). Les opcions son moltes i cal cercar les sinergies de tots els actors implicats.</p>", 
+            "commentable_id": 3338, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/02/2016 19:04:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2607, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4249", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>D'acord amb vost\u00e8 J. Gabriel Gallart.</p>", 
+            "commentable_id": 3338, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 11:04:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5200, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4249", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6762, 
+                "name": "Miquel Ruscalleda Bota", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hi ha dos models de bicibox, un ocupa l'espai d'un cotxe i est\u00e0 concebut per ser ubicat a la cal\u00e7ada i acc\u00e9s nom\u00e9s per una banda.  Per mi no \u00e9s cap \"error conceptual\". En definitiva, son bicicletes al carrer que han d'estar a disposici\u00f3 i segures. De totes formes, unificat o per separat, no t\u00e9 cap sentit el bicibox a l'Area Metropolitana excepte BCN i el Bicicng a BCN i no a l'\u00c0rea. Si ens creiem l'\u00c0rea Metropolitana.... ens la creim de veritat. </p>", 
+            "commentable_id": 3338, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 13:30:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10784, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

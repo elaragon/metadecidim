@@ -1,0 +1,209 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2416, 
+                "name": "Germ\u00e1n Alonso", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Haur\u00edem de modificar el model de gesti\u00f3 de les instal\u00b7lacions esportives municipals treballant per aconseguir la seva re municipalitzaci\u00f3. Haur\u00edem de donar un primer pas a les instal\u00b7lacions on acaba la concessi\u00f3 posant una direcci\u00f3 municipal i, mentre avancem cap a la re municipalitzaci\u00f3, fer contractaci\u00f3 de serveis tot fugint del actual sistema de concessi\u00f3.</p>", 
+            "commentable_id": 1472, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 09:37:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 770, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2704, 
+                "name": "jalbaiges", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A quins centres esportius fa refer\u00e8ncia la proposta? El que jo conec, el CEM de l'Estaci\u00f3 del Nord, est\u00e0 gestionat per la UFEC, que \u00e9s una entitat sense afany de lucre.</p>", 
+            "commentable_id": 1472, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 00:25:26", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 872, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 323, 
+                "name": "Toni Blanco ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No s\u00e9 si us adoneu que deixar-li la gesti\u00f3 a una cooperativa o a una associaci\u00f3 sense \u00e0nim de lucre (cosa que estic molt a favor) ser\u00eda encara gesti\u00f3 privada. </p>", 
+            "commentable_id": 1472, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/02/2016 20:27:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2420, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "872", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 369, 
+                "name": "Maclaren", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Creixent els \u00faltims anys, el 16% dels CEM estan gestionats per empreses, algunes d'elles multinacionals de l'esport. Altres per entitats privades sense \u00e1nim de lucre, amb una autonomia  gaireb\u00e9 total, degut a la manca de recursos municipal.</p>", 
+            "commentable_id": 1472, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 10:33:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 890, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2420", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 369, 
+                "name": "Maclaren", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Evidentment. I no cal descartar la gesti\u00f3 directa en un futur. La particularitat de les cooperatives dins de les empreses privades pot ser la orientaci\u00f3 a relacions de treball solidaries, al manteniment del lloc de treball, co-responsabilitat amb el medi ambient f\u00edsic i social, localitzaci\u00f3, etc. Pero qualsevol que sigui el model, implica una administraci\u00f3 p\u00fablica eficient en la planificaci\u00f3 i el control del servei.     </p>", 
+            "commentable_id": 1472, 
+            "commentable_type": "Proposal", 
+            "created_at": "23/02/2016 09:11:14", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2437, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2420/2437", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 323, 
+                "name": "Toni Blanco ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es que com est\u00e0 formulada la proposta, queden com \"alternatives a la gesti\u00f3 privada\". </p>", 
+            "commentable_id": 1472, 
+            "commentable_type": "Proposal", 
+            "created_at": "23/02/2016 09:16:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2438, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

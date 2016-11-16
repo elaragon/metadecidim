@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2131, 
+            "name": "raulina", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2131, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3764", 
+        "conflictive": false, 
+        "created_at": "02/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3764, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "A gran part de les ciutats europees el transport p\u00fablic funciona amb tarjes de pl\u00e0stic que es recarreguen (per exemple la Oyter Card a Londres). Nosaltres seguim amb t\u00edtols de cartr\u00f3 que es trenquen f\u00e0cilment, generen residus, es desmagnetitzen, es triga temps en marcar.\r\n\r\nProposo que es passi a un sistema m\u00e9s modern (RFID).", 
+        "title": "Tarjetes de pl\u00e0stic recarregables pel transport p\u00fablic", 
+        "total_comments": 5, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 3, 
+        "total_votes": 79, 
+        "url": "https://decidim.barcelona/pam/proposals/tarjetes-de-plastic-recarregables-pel-transport-public", 
+        "votable": null, 
+        "voted": null
+    }
+}

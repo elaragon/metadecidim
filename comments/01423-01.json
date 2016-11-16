@@ -1,0 +1,209 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2072, 
+                "name": "ekin", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Pagar 400 euros de IBI para un piso de protecci\u00f3n oficial me parece muy exagerado</p>", 
+            "commentable_id": 1423, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 08:47:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 754, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2089, 
+                "name": "Gerard Rovira Corbera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Home baixar el ibi no es un aspecte que ajudi socialment i almenys tens la sort com jo de pagar un ibi i no un lloguer.\n<br />No se lo que pagues, pero depen de molres coses. Fent un calcul mitg el ibi et surt a un cost del 2% de lo que pagaries anualment per un lloguer mitg. (Evidentment que si tens un pis de 300m2 no pagaras poc igual que tampoc seria un lloguer barat).\n<br />Es la meu punt de vista.</p>", 
+            "commentable_id": 1423, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 17:19:47", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 835, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4506, 
+                "name": "adelina", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>hay pisos en zonas tur\u00edsticas  y alquilados que sacan mucho provecho de ellos  y pagan menos ibi  que algunos de zonas perif\u00e9ricas, no hay derecho, el ayuntamiento tendr\u00eda que regular eso, y no cobrar el mismo ibi a una vivienda que esta alquilada o es un apartamento tur\u00edstico  que a una familia que solo tiene esa vivienda, y que no es un lujo, ni un negocio, solo es para vivir, eso tambi\u00e9n es justicia social.</p>", 
+            "commentable_id": 1423, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/02/2016 19:02:20", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1459, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "754", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2089, 
+                "name": "Gerard Rovira Corbera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>IBI es l'impost de bens inmobles, els 400\u20ac sera un lloguer social. Pero si 400 per ser social es bastant, pero sha de mirar la zona...</p>", 
+            "commentable_id": 1423, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 17:15:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 833, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "754/833", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2072, 
+                "name": "ekin", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Para ser exacto yo pago de IBI 373 euros, por un piso de protecci\u00f3n oficial del 2012, y de compra, y donde muchos pisos en la finca son de alquiler social. Zona Nou barris, Torre Baro. un robo</p>", 
+            "commentable_id": 1423, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 23:38:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 868, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "835", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4506, 
+                "name": "adelina", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>ser\u00e1 su zona, o tu vivienda tendr\u00e1 muchos a\u00f1os, porque yo no pago un 2% de lo que pagar\u00eda por un alquiler,  aproximadamente un 10%</p>", 
+            "commentable_id": 1423, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/02/2016 19:07:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1460, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

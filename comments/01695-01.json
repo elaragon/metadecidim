@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4497, 
+                "name": "Nautae", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Malmet  la imatge de la ciutat i m\u00e9s hi ha una mena de guerra organitzada entre les empreses de serrallers tapant les enganxines els uns i els altres </p>", 
+            "commentable_id": 1695, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/02/2016 17:53:34", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1446, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4659, 
+                "name": "Ferran Lorenzo Mart\u00edn", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord amb la proposta. Proposo una primera fase de sensibilitzaci\u00f3/comunicaci\u00f3 adre\u00e7at a les empreses/aut\u00f2noms que col\u00b7loquen les enganxines, seguit d'una fase d'entrada en vigor de la prohibici\u00f3.</p>", 
+            "commentable_id": 1695, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/02/2016 06:39:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1492, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15874, 
+                "name": "bMM", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Seria molt f\u00e0cil acabar amb la plaga d'enganxines: totes tenen el tel\u00e8fon del anunciant. Si l'Ajuntament volgu\u00e9s, nom\u00e9s cal una trucada.</p>", 
+            "commentable_id": 1695, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 17:17:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7031, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 11554, 
+            "name": "Anna Ylla-catala i Passola", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 11554, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4657", 
+        "conflictive": false, 
+        "created_at": "11/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4657, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Dedicar un carrer o una pla\u00e7a de Barcelona a Jordi Llimona i Barret ( 1924-1999)\r\nFrare caputx\u00ed, pensador, humanista de tarann\u00e0 lliure. Cristi\u00e0 comprom\u00e9s amb els valors de la llibertat, solidaritat i progr\u00e9s, aix\u00ed com fidel a la cultura i a la naci\u00f3 catalana. ", 
+        "title": "Dedicar carrer o pla\u00e7a a Jordi Llimona i Barret", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/dedicar-carrer-o-placa-a-jordi-llimona-i-barret", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,209 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9022, 
+                "name": "Cl\u00e0udia Vidiella", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>L'estaci\u00f3 internacional d'autobusos est\u00e0 en un estat lamentable i hi passa molta gent cada dia</p>", 
+            "commentable_id": 3566, 
+            "commentable_type": "Proposal", 
+            "created_at": "27/02/2016 21:49:00", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2919, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4561, 
+                "name": "Paco", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els carrers de Sans-Badal on visc estan molt bruts. Es fa molt poca neteja i tamb\u00e9 hi ha una manca de civisme. </p>", 
+            "commentable_id": 3566, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 23:00:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7309, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/necessari-netejar-amb-mes-frequencia-els-carrers-de-sans-badal-zona-carretera-de-sans-a-bordeta-molt-bruta\">https://decidim.barcelona/proposals/necessari-netejar-amb-mes-frequencia-els-carrers-de-sans-badal-zona-carretera-de-sans-a-bordeta-molt-bruta</a></p>", 
+            "commentable_id": 3566, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 16:09:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15872, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/millorar-les-tasques-de-neteja-del-c-sant-fructuos-i-dels-que-connecten-aquest-amb-la-gran-via\">https://decidim.barcelona/proposals/millorar-les-tasques-de-neteja-del-c-sant-fructuos-i-dels-que-connecten-aquest-amb-la-gran-via</a>\n</p>", 
+            "commentable_id": 3566, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 17:14:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17308, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/coloms-bruticia-i-insalubritat-a-zona-franca\">https://decidim.barcelona/proposals/coloms-bruticia-i-insalubritat-a-zona-franca</a></p>", 
+            "commentable_id": 3566, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 17:15:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17309, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/mejorar-el-mantenimiento-y-la-limpieza-de-los-parques-infantiles-en-el-barrio-de-poble-sec\">https://decidim.barcelona/proposals/mejorar-el-mantenimiento-y-la-limpieza-de-los-parques-infantiles-en-el-barrio-de-poble-sec</a></p>", 
+            "commentable_id": 3566, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 17:16:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17310, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 6, 
+        "total_pages": 1
+    }
+}

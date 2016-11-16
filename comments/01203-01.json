@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 588, 
+                "name": "dmendez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Trobo aquesta proposta molt encertada. La ciutat ha de transitar cap a un model on el vehicle motoritzat cedeixi el seu paper protagonista a altres modes de transport i al vianant. La reducci\u00f3 del temps d'espera al sem\u00e0for per als vianants afavoriria la mobilitat a peu, reduiria la velocitat del vehicle motoritzat i els atropellaments.</p>", 
+            "commentable_id": 1203, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/02/2016 22:35:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 141, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 765, 
+                "name": "jmmigay", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>SEmafor de tres fases, cotxes un sentit, cotxes travessers, i peatons sense ambar que produeix accidents, copiar Japo.</p>", 
+            "commentable_id": 1203, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 09:57:10", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 172, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

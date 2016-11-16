@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 340, 
+            "name": "Consell d'Associacions de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 340, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1743", 
+        "conflictive": false, 
+        "created_at": "11/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.elpanoramic.org/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1743, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 19, 
+            "name": "Acci\u00f3 comunit\u00e0ria", 
+            "position": 3
+        }, 
+        "summary": "Donari suport a les eines de coneixement de la realitat associativa, sobretot les que est\u00e0 posant en marxa el mateix sector associatiu amb el Panor\u00e0mic de les Associacions. En aquest sentit cal una redefinici\u00f3 de l\u2019objectiu del Fitxer General d\u2019Entitats Ciutadanes per qu\u00e8 sigui una veritable eina de comunicaci\u00f3 entre el secto", 
+        "title": "Cal un veritable coneixement sobre la realitat associativa", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 2, 
+        "total_votes": 10, 
+        "url": "https://decidim.barcelona/pam/proposals/cal-un-veritable-coneixement-sobre-la-realitat-associativa", 
+        "votable": null, 
+        "voted": null
+    }
+}

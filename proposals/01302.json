@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 959, 
+            "name": "Gemma At", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 959, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1302", 
+        "conflictive": false, 
+        "created_at": "03/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1302, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Necesitamos un autob\u00fas que una la Pla\u00e7a de les Glories y Francesc Maci\u00e0 de una forma eficiente. Modificar el recorrido del autob\u00fas 7 (que ahora va por la gran v\u00eda) para que una estos dos puntos de la ciudad. Transformar el bus 7 para que recorra La Diagonal sin dar vueltas como una l\u00ednea de la nueva red ortogonal.", 
+        "title": "D30: B\u00fas directo entre Glories y Francesc Maci\u00e0 ", 
+        "total_comments": 13, 
+        "total_negative_comments": 2, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 5, 
+        "total_votes": 54, 
+        "url": "https://decidim.barcelona/pam/proposals/d30-bus-directo-entre-glories-y-francesc-macia", 
+        "votable": null, 
+        "voted": null
+    }
+}

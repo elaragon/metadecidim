@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2924", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2924, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 11, 
+            "name": "Economia cooperativa, social i solid\u00e0ria", 
+            "position": 2
+        }, 
+        "summary": "Facilitar les condicions perqu\u00e8 les iniciatives comunit\u00e0ries de cures siguin sostenibles en el temps i puguin treballar en xarxa. Articular un model partint d\u2019un sistema de recollida de dades d\u2019usos del temps propi, d\u2019un debat p\u00fablic sobre la distribuci\u00f3 actual de les c\u00e0rregues de cura, i de l\u2019objectiu de promoure el benestar i l\u2019autonomia de les persones, i unes condiciones dignes en el sector de les cures i l\u2019atenci\u00f3 a la depend\u00e8ncia i la diversitat funcional.", 
+        "title": "Recolzament i promoci\u00f3 de noves pr\u00e0ctiques", 
+        "total_comments": 14, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 14, 
+        "total_positive_comments": 0, 
+        "total_votes": 7, 
+        "url": "https://decidim.barcelona/pam/proposals/recolzament-i-promocio-de-noves-practiques", 
+        "votable": null, 
+        "voted": null
+    }
+}

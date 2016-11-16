@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8132, 
+            "name": "House Keeping", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 8132, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3394", 
+        "conflictive": false, 
+        "created_at": "24/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3394, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Actualment la demanda supera l'oferta. \u00c9s molt dur i perjudicial per a la salut haver de postposar visites m\u00e8diques per manca de transport subvencionat (actualment CETRAMSA). Tamb\u00e9 caldria augmentar l'horari per poder fer modificacions del transport encarregat.", 
+        "title": "Augmentar l'oferta de transport en taxi adaptat per a discapacitats f\u00edsics per poder anar al metge ", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 20, 
+        "url": "https://decidim.barcelona/pam/proposals/augmentar-l-oferta-de-transport-en-taxi-adaptat-per-a-discapacitats-fisics-per-poder-anar-al-metge", 
+        "votable": null, 
+        "voted": null
+    }
+}

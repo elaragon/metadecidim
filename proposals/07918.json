@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 14830, 
+            "name": "josepVicente", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 14830, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-7918", 
+        "conflictive": false, 
+        "created_at": "02/04/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7918, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Necessitem gespa tot l'any al Camp de Rugby de la Marbella. Durant la competici\u00f3 no podem fer servir el camp quan plou i/o quan estan replantant, si tingu\u00e9ssim gespa artificial la qualitat dels entrenaments i partits milloraria for\u00e7a. \r\nL'estat actual del camp es lamentable. ", 
+        "title": "Volem gespa tot l'any al Camp de Rugby de la Marbella ", 
+        "total_comments": 14, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 13, 
+        "total_votes": 161, 
+        "url": "https://decidim.barcelona/pam/proposals/volem-gespa-tot-l-any-al-camp-de-rugby-de-la-marbella", 
+        "votable": null, 
+        "voted": null
+    }
+}

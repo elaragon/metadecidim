@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 19370, 
+                "name": "Prou barreres", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Trobem molt lamentable que en una ciutat com Barcelona s\u2019hagi perm\u00e8s que els nous Encants Vells, realitzats pel despatx \u201cb720\u201d de l'arquitecte Ferm\u00edn V\u00e1zquez, hagin 73 botigues que no podem entrar per tenir esgla\u00f3, fent-les inaccessibles per a les persones que ens desplacem en cadira de rodes tampoc la majoria de bars tenen taules accessibles.\n<br />Segons l'arquitecte, han resolt t\u00e8cnicament aquesta inaccessibilitat lliurant a cada botiga unes rampes m\u00f2bils compostes per dos rails independents que s\u00f3n un veritable perill per a la persona en cadira de rodes que vol pujar o baixar. Com que no han tingut en compte el desnivell del carrer ni que cada rail queda a una al\u00e7ada diferent, a l\u2019intentar pujar o baixar amb la cadira (principalment les el\u00e8ctriques) fan que aquests rails se separin o es girin.\n<br />Com un arquitecte pot fer un projecte tan discriminatori?\n<br />Com l'Ajuntament de Barcelona a donat vist i plau aquest projecte?\n<br />Qui ha assessorat amb aquest tipus de rampes tan perilloses?\n</p>", 
+            "commentable_id": 8391, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 16:34:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8700, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

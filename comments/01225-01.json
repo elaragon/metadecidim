@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 399, 
+                "name": "\u00c0ngels Mart\u00ednez  de Castilla ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Una societat m\u00e9s igualit\u00e0ria es una societat sana.</p>", 
+            "commentable_id": 1225, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 16:48:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 293, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1696, 
+                "name": "ventura", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Crec que hauria d'esser prioritari per a les intervencions de tots les partits</p>", 
+            "commentable_id": 1225, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/02/2016 18:34:58", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 464, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11794, 
+                "name": "javier mattes alberch", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>el que ens fa cr\u00e9ixer \u00e9s establir lla\u00e7os amb els que no son com nosaltres\n</p>", 
+            "commentable_id": 1225, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/03/2016 05:51:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4583, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 244, 
+                "name": "elva", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En realitat no \u00e9s nom\u00e9s un dret de tot ciutad\u00e0... sin\u00f3 de tot \u00e9sser hum\u00e0</p>", 
+            "commentable_id": 1225, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/03/2016 20:52:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4623, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els infants de l\u2019esplai El Bon Recer van estar debatent diferents propostes per millorar el medi ambient de la ciutat. Van proposar que hi hagi metges que siguin gratu\u00efts per a les persones que venen sense papers a viure a la ciutat. </p>", 
+            "commentable_id": 1225, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 13:00:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9239, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 5, 
+        "total_pages": 1
+    }
+}

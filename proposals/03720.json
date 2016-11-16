@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 6762, 
+            "name": "Miquel Ruscalleda Bota", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 6762, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3720", 
+        "conflictive": false, 
+        "created_at": "02/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "www.mobilicat.net", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3720, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Un parc infantil de transit per a la educaci\u00f3 vi\u00e0ria, obert a la ciutadania (tots els dies de l\u2019any) i reubicar-lo en un nou espai prou atractiu i accessible i una gesti\u00f3 que permeti el seu \u00fas per part de col\u2022lectius o de forma individual-particular, ja sigui amb monitors com sense. Gesti\u00f3 eficient i din\u00e0mica.", 
+        "title": "Parc Infantil de Transit - PIT", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 5, 
+        "url": "https://decidim.barcelona/pam/proposals/parc-infantil-de-transit-pit-cd135a46-bed6-4e27-9a43-7bde06e37e4c", 
+        "votable": null, 
+        "voted": null
+    }
+}

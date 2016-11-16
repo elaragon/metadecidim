@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/realizar-campanas-de-sensibilizacion-y-difusion-sobre-la-situacion-de-las-personas-sordas-y-el-lsc\">https://decidim.barcelona/proposals/realizar-campanas-de-sensibilizacion-y-difusion-sobre-la-situacion-de-las-personas-sordas-y-el-lsc</a></p>", 
+            "commentable_id": 10105, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 18:13:55", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17424, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/continuar-abriendo-espacios-y-sesiones-de-debate-lsc\">https://decidim.barcelona/proposals/continuar-abriendo-espacios-y-sesiones-de-debate-lsc</a></p>", 
+            "commentable_id": 10105, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 18:16:01", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17426, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/promocionar-la-coordinacion-y-el-acceso-a-los-profesionales-con-competencia-en-lsc\">https://decidim.barcelona/proposals/promocionar-la-coordinacion-y-el-acceso-a-los-profesionales-con-competencia-en-lsc</a></p>", 
+            "commentable_id": 10105, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 18:17:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17429, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

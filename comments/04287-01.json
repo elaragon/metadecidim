@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13084, 
+                "name": "cbl", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord, cal possar en valor el patrikmoni i divulgar les virtuts del transport p\u00fablic tamb\u00e9 de cara al futur: mobilitat sostenible, menys contaminaci\u00f3... i afavoror el turisme, visites escolars...</p>", 
+            "commentable_id": 4287, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 18:51:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5309, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13765, 
+                "name": "mam", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic a favor, aix\u00f2 \u00e9s cultura nostra, i hi han molts museus a Europa i aqu\u00ed no</p>", 
+            "commentable_id": 4287, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 20:05:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5647, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14523, 
+                "name": "melc", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estaria molt tenir un museu del transport. Recordo quan es va fer al Born cap a principis dels anys 80, i estava ple de gent veient els trens, tramvies, metros...</p>", 
+            "commentable_id": 4287, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 17:04:47", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6179, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

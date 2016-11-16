@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 5, 
+            "name": "Just\u00edcia global"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6258", 
+        "conflictive": false, 
+        "created_at": "21/03/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 6258, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 5, 
+            "id": 29, 
+            "name": "Ciutat d\u2019acollida", 
+            "position": 2
+        }, 
+        "summary": "Crear un f\u00f2rum / espai accessible i obert a la poblaci\u00f3 on hi apareguin tots els ciutadans i membres d'entitats i associacions que estiguin involucrats amb el moviment de ciutat refugi i estiguin fent alguna acci\u00f3 en relaci\u00f3 als refugiats, i que la gent s'hi pugui apuntar o col\u00b7laborar; a trav\u00e9s d'una p\u00e0gina web que sigui p\u00fablica i accessible a tot", 
+        "title": "Espai web din\u00e0mic per persones i entitats del moviment Ciutat Refugi", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 7, 
+        "url": "https://decidim.barcelona/pam/proposals/espai-web-dinamic-per-persones-i-entitats-del-moviment-ciutat-refugi", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7229, 
+                "name": "benua", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No s'ha de habilitar provisionalment el solar de l'IES Vallarca...s'ha de contru\u00efr el Institut JA.</p>", 
+            "commentable_id": 2388, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/02/2016 13:43:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2358, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12600, 
+                "name": "VOLTA Arquitectes", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Com han manifestat les Ampes i varis col\u00b7lectius de Vallcarca, el solar de l'institut es \u00daNICAMENT per a l'institut. I no s'accepten altres usos que desvirtuin l'objectiu. Hi ha una infinitat de solars buits a Vallcarca que haurien d'estar oberts per a donar un \u00fas quotidi\u00e0 com els que proposeu. </p>", 
+            "commentable_id": 2388, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 00:31:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5377, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

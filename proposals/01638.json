@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 769, 
+            "name": "EVA", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 769, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1638", 
+        "conflictive": false, 
+        "created_at": "09/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.psyciencia.com/2016/25/ebook-que-demonios-son-las-terapias-de-tercera-ola/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1638, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Proposo crear centres p\u00fablics que d\u00f3nin ter\u00e0pies de tercera generaci\u00f3 per a persones que tenen ansietat, depressi\u00f3, estr\u00e9s, transtors de personalitat, alimentaris,  amb fibromialgia, que consumeixi sust\u00e0ncies, adiccions.", 
+        "title": "Crear centres p\u00fablics que d\u00f3nin ter\u00e0pies de tercera generaci\u00f3", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 15, 
+        "url": "https://decidim.barcelona/pam/proposals/crear-centres-publics-que-donin-terapies-de-tercera-generacio", 
+        "votable": null, 
+        "voted": null
+    }
+}

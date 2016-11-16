@@ -1,0 +1,341 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 993, 
+                "name": "Pep\u00edn L\u00f3pez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>carnet... pagant? quant? informaci\u00f3 de deures i drets? hi hauran multes? </p>", 
+            "commentable_id": 1610, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/02/2016 17:16:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1178, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 581, 
+                "name": "CarmeG", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hi ha tantes coses que la gent no compleix!!!! haur\u00edem de tenir un carnet per tot? quan hi ha celebracions de mercadillos, concerts, etc els barris queden bruts, en molts casos destrossats, les nits que el metro obre queda brut i llafisc\u00f3s, la gent tira les cigarretes, papers, etc al terra... i dius que el problema s\u00f3n els gossos? Mare meva...</p>", 
+            "commentable_id": 1610, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/02/2016 16:18:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1305, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1401, 
+                "name": "Lena", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Acabar\u00eda como con el MicroChip obligatorio - exigido por la lei, pero lo hace una sola empresa (ni quiero saber de qui\u00e9n), es caro y funciona solo en Catalunya (si pierdes el perro en Zaragoza no tienen porque encontrar el propietario).</p>", 
+            "commentable_id": 1610, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/02/2016 10:34:37", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1408, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5172, 
+                "name": "Suricata", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Crec que el carnet de tinen\u00e7a responsable no seria garantia de res, el civisme i la preocupaci\u00f3 pel benestar de tothom es demostra amb els fets i amb un \u00fas respectu\u00f3s de l'espai p\u00fablic </p>", 
+            "commentable_id": 1610, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/02/2016 22:18:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1671, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1178", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 889, 
+                "name": "DCC", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Qui ha dit pagant?</p>", 
+            "commentable_id": 1610, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/02/2016 10:02:00", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1403, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1178/1403", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 993, 
+                "name": "Pep\u00edn L\u00f3pez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>es una pregunta</p>", 
+            "commentable_id": 1610, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 11:50:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1831, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1178/1403/1831", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 889, 
+                "name": "DCC", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Jo entenc que no, no es tractar de 'pagar' es tracta de millorar la convivencia i de que tots els propietaris tinguin molt clar que us gos es una gran responsabilitat durant tota la seva vida, no es una joguina, i l'educaci\u00f3 del mateix es una responsabilitat que ha de existir i no afectar a la resta de ve\u00efns de la ciutat.</p>", 
+            "commentable_id": 1610, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/02/2016 12:29:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1928, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1305", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 889, 
+                "name": "DCC", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El problema no s\u00f3n pas els gossos, son molts propietaris, incivics propietaris que pensen que el carrer, que qualsevol lloc del carrer es un WC per el seu gos, i aix\u00f2 no es pas aix\u00ed, les ordenances de la ciutat ho diuen molt clar: PROHIBIT ENSUCIAR.</p>", 
+            "commentable_id": 1610, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/02/2016 10:03:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1404, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1408", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 889, 
+                "name": "DCC", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>As\u00ed como el an\u00e1lisis de ADN, es un tema que cada vez m\u00e1s paises est\u00e1n teniendo en cuenta, el control y el conocimiento de responsabilidades es una necesidad por higiene y salud ante el incivismo permanente, las calles de nuestras ciudades son pocilgas.</p>", 
+            "commentable_id": 1610, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 15:08:20", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1854, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1671", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 889, 
+                "name": "DCC", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Serviria per previ al carnet rebre 'formaci\u00f3' especifica de lo que no esta b\u00e9. educaci\u00f3 civica</p>", 
+            "commentable_id": 1610, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 11:06:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1817, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

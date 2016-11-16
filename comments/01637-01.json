@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 761, 
+                "name": "Teresa M.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Peatonalitzar aquest carrer ajudar\u00e0 a pacificar el transit al voltant de la pla\u00e7a Can Robacols, normalment plena de criaturas a les tardes. Crec que \u00e9s una proposta necessaria i bona per fer la cuitat i el barri mes propers a les persones, conquerint mica a mica l'exc\u00e9s d'espai que  gaudeixen encara cotxes i motos. Per una cuitat m\u00e9s segura i amb menys contaminaci\u00f3!</p>", 
+            "commentable_id": 1637, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/02/2016 18:26:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1449, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 19346, 
+                "name": "Lluna M", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Seria favorable sobretot per la seguretat dels infants que hi pasen les tardes</p>", 
+            "commentable_id": 1637, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 15:45:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8677, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6030", 
+        "conflictive": false, 
+        "created_at": "19/03/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 6030, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Reordenar els usos i els espais per tal de millorar la coordinaci\u00f3 entre els diferents col\u00b7lectius que practiquen esport al Parc, aix\u00ed com tamb\u00e9 poder amortitzar m\u00e9s els espais existents i millorar la imatge del Parc. Es relaciona tamb\u00e9 amb una millora de la imatge del Parc per tal d'eliminar aquesta imatge actual que \u00e9s un Parc perill\u00f3s. ", 
+        "title": "Reordenaci\u00f3 d'usos i espais del Parc de l'Espanya Industrial", 
+        "total_comments": 7, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 6, 
+        "total_positive_comments": 1, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/reordenacio-d-usos-i-espais-del-parc-de-l-espanya-industrial", 
+        "votable": null, 
+        "voted": null
+    }
+}

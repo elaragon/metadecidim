@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4259, 
+            "name": "Adri\u00e0 Franquesa", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4259, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1679", 
+        "conflictive": false, 
+        "created_at": "09/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://www.bicing.cat/ca/mapa-de-disponibilitat", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1679, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Prove\u00efr amb estacions de Bicing i carrils la zona muntanya de la ciutat.  Aix\u00f2 \u00e9s Prosperitat, Verdum,  Horta, La Salut, Vall d'Hebron,  El Coll,  Vallcarca i la part alta de Sarri\u00e0 Sant-Gervasi i la Bonanova. \r\nS'en beneficiarien: universitats Mundet, Salle, Blanquerna i UOC, Hospitals V.Hebron i Quir\u00f3n, parc G\u00fcell i laberint, Cosmocaixa etc", 
+        "title": "Servei de Bicing a Prosperitat,  Horta, Carmel, Vall d'Hebron, la Bonanova etc.", 
+        "total_comments": 9, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 6, 
+        "total_votes": 59, 
+        "url": "https://decidim.barcelona/pam/proposals/servei-de-bicing-a-prosperitat-horta-carmel-vall-d-hebron-la-bonanova-etc", 
+        "votable": null, 
+        "voted": null
+    }
+}

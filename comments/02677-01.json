@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 94, 
+                "name": "Genis Barrera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>L'exc\u00e9s de velocitat causa massa morts a Barcelona, hi hauria d'haver toler\u00e0ncia 0 amb l'exc\u00e9s de velocitat</p>", 
+            "commentable_id": 2677, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/02/2016 12:24:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2067, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6739, 
+                "name": "Salvador Barrau V.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els radars tambe han de passar una ITV, cal que demanem aquest requisiti a l'ajuntament</p>", 
+            "commentable_id": 2677, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/02/2016 15:18:49", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2280, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11846, 
+                "name": "F1967", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ha d'haver un marge d'error,  a vies rapides com Gran Via o Diagonal. Es facil per la tendencia general del transit anar a 50km/h.  Si nomes mirem el velocimetre per no passar aquest limit, tenim riscos de colisio. Lo normal seria un 10%, es mes pensava que era aixi.</p>", 
+            "commentable_id": 2677, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/03/2016 07:58:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4678, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2067", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2444, 
+                "name": "Albert Vil\u00e0 Picas", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hi estic d'acord en qu\u00e8 entre tots i fins i tot les bicicletes haur\u00edem de tenir m\u00e9s precauci\u00f3.\n<br />Per\u00f2 sent conscients de que existeix un marge d'error reconegut i tenint 15 punts de carnet la meva primera multa a Barcelona sigui per un decimal en km/h \u00e9s un insult.</p>", 
+            "commentable_id": 2677, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/02/2016 12:31:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2070, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 1, 
+            "total_votes": 2
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

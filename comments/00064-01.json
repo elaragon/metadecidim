@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7375, 
+                "name": "JRB_bcn", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Mentre no es pugui fer una reforma integral del carrer es podrien redibuixar algunes de les cantonades dels carrers que el travessen per guanyar espai pels vianants, instal\u00b7lar bancs i reduir els quilom\u00e8trics passos de vianants que algunes persones grans no tenen temps de travessar. Un exemple clar \u00e9s la cantonada de Pi i Margall amb encarnaci\u00f3, costat muntanya bes\u00f2s on la vorera t\u00e9 una forma massa arrodonida i queda massa tros d'asfalt. El mateix passa a la vorera mar llobregat amb secretari coloma.</p>", 
+            "commentable_id": 64, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/02/2016 22:57:27", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2433, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

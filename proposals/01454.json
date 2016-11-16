@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2232, 
+            "name": "Daniel Solves Ruiz", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2232, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1454", 
+        "conflictive": false, 
+        "created_at": "04/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1454, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 12, 
+            "name": "Ocupaci\u00f3 de qualitat", 
+            "position": 4
+        }, 
+        "summary": "Totes les pr\u00e0ctiques d'empresa d'estudiants cursant una carrera universit\u00e0ria/m\u00e0ster haurien de ser remunerades, com a Estats Units o Regne Units entre d'altres. Aquesta mesura far\u00e0 que els estudiants poguem tenir  recursos econ\u00f2mics acceptabales per afrontar les nostres despeses presents i futures i tenir un bon nivell de vida. ", 
+        "title": "Pr\u00e0ctiques d'empresa remunerades per a estudiants", 
+        "total_comments": 5, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 3, 
+        "total_votes": 37, 
+        "url": "https://decidim.barcelona/pam/proposals/practiques-d-empresa-remunerades-per-a-estudiants-universitaris-i-master", 
+        "votable": null, 
+        "voted": null
+    }
+}

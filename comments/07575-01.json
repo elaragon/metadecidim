@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 22242, 
+                "name": "Laura S.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els aparcaments per autocars s\u00f3n insuficients actualment. Amb els ingressos que genera la ciutat aquest aspecte s'hauria de tenir en compte. Si volem continuar essent una ciutat tur\u00edstica de qualitat, hem de procurar oferir serveis de qualitat. No tots els turistes arriben pel seu compte ni usen al bus tur\u00edstic. Hi ha una estructura d'ag\u00e8ncies de viatges, tant nacionals com extrangeres, que ens porten molts visitants, molts d'ells que viatgen en grup, i que es mouen en autocar. No \u00e9s normal que els conductors hagin de lluitar di\u00e0riament als carrers i s'hagin de fer malabarismes per trobar un lloc on desencotxar o aparcar l'autocar. No \u00e9s just que els busos tur\u00edstics puguin aparcar davant dels monuments principals i en canvi els discrecionals hagin de donar voltes i sovint no poder ni desencotxar. Les ag\u00e8ncies aporten molts visitants a la ciutat i la ciutat se'n beneficia, i se'ls hi hauria de posar les coses una mica m\u00e9s f\u00e0cils.</p>", 
+            "commentable_id": 7575, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 21:55:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11456, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 5, 
+            "total_votes": 5
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

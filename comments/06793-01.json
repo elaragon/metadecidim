@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15092, 
+                "name": "CiudadanoCurioso", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hay cosas m\u00e1s importantes que un tranv\u00eda en la Diagonal... Por ejemplo, que el metro llegue a la zona franca. La falta de metro en esa zona afecta a muchos trabajadores. </p>", 
+            "commentable_id": 6793, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 10:08:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7939, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10449, 
+                "name": "CarmenCascajosa", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El refer\u00e9ndum fue para hacer obras en la Diagonal (redise\u00f1ar), si mal no recuerdo, y las obras se hicieron aun en contra del resultado del refer\u00e9ndum... Y encima sin poner el tranv\u00eda... No estoy a favor del tranv\u00eda porque considero que el gasto que se ha hecho en esta zona es ya excesivo, y aun siendo deseable que el tranv\u00eda tuviera completo el tramo en la Diagonal, creo que son m\u00e1s urgentes otros proyectos. Lo que no comparto son los motivos de CiudadanoCurioso.</p>", 
+            "commentable_id": 6793, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 22:03:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8963, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

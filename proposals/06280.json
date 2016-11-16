@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 13084, 
+            "name": "cbl", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 13084, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6280", 
+        "conflictive": false, 
+        "created_at": "21/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6280, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 11, 
+            "name": "Economia cooperativa, social i solid\u00e0ria", 
+            "position": 2
+        }, 
+        "summary": "S'hauria de mantenir sempre un mateix horari, adaptat a una vida m\u00e9s saludable, per\u00f2 sense canvis estiu - hivern que generen en moltes persones (nens, gent gran, ...) una mena de jet-lag durant uns dies, per alteraci\u00f3 de costums i ritmes (son, menjars...) Tot i que no \u00e9s un tema local, Barcelona ho podria promoure a da'ltres organismes (UE...)", 
+        "title": "Promoure l'eliminaci\u00f3 del canvi d'horari estiu - hivern", 
+        "total_comments": 8, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 3, 
+        "total_votes": 18, 
+        "url": "https://decidim.barcelona/pam/proposals/promoure-l-eliminacio-del-canvi-d-horari-estiu-hivern", 
+        "votable": null, 
+        "voted": null
+    }
+}

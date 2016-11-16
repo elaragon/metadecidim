@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3049", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": {
+            "id": 4, 
+            "name": "Les Corts"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3049, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 4, 
+            "name": "Equitat de g\u00e8nere i diversitat sexual", 
+            "position": 4
+        }, 
+        "summary": "Desplegar el Pla d\u2019igualtat de g\u00e8nere de ciutat i de la llei catalana LGTBI a trav\u00e9s de formaci\u00f3 espec\u00edfica en joves i adolescents, per combatre les desigualtats de g\u00e8nere, empoderar les dones i transformar el districte des d\u2019una perspectiva feminista. Definir un pla de formaci\u00f3 amb joves, adolescents i altres agents socials de l\u2019\u00e0mbit educatiu, en mat\u00e8ria LGTBI.", 
+        "title": "Oferir formaci\u00f3 de g\u00e8nere i diversitat sexual per a l'alumnat, equips docents dels instituts del districte i joves", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 39, 
+        "url": "https://decidim.barcelona/pam/proposals/oferir-formacio-de-genere-i-diversitat-sexual-per-a-l-alumnat-equips-docents-dels-instituts-del-districte-i-joves", 
+        "votable": null, 
+        "voted": null
+    }
+}

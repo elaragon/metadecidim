@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 11106, 
+            "name": "Neleeta", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 11106, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4423", 
+        "conflictive": false, 
+        "created_at": "09/03/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "http://www.ara.cat/premium/societat/Zoo-passarella-Vuit-Menys-transport_0_1025297510.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4423, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Elaboraci\u00f3 d'un projecte de passarel\u00b7la elevada per tal de connectar el Parc de la Ciutadella, un del punts atractors de mobilitat de Ciutat Vella i Sant Mart\u00ed, amb les xarxes de TRAM i Metro, eliminant d'aquesta manera les barreres de connexi\u00f3 per el sud dels dos districtes i creant un hub - punt de connexi\u00f3 - de trns. p\u00fablic a Ciutat Vella", 
+        "title": "Construcci\u00f3 d'un pas elevat per sobre del zoo al parc de la Ciutadella", 
+        "total_comments": 8, 
+        "total_negative_comments": 2, 
+        "total_neutral_comments": 3, 
+        "total_positive_comments": 3, 
+        "total_votes": 35, 
+        "url": "https://decidim.barcelona/pam/proposals/construccio-d-un-pas-elevat-per-sobre-del-zoo-al-parc-de-la-ciutadella", 
+        "votable": null, 
+        "voted": null
+    }
+}

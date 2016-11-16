@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 79, 
+                "name": "Andreu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si no s'obre l'Oficina d'Afers Ateus, res per ning\u00fa</p>", 
+            "commentable_id": 2886, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/02/2016 17:11:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2088, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8612, 
+                "name": "Javier Cuch\u00ed", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>M'hi oposo. El que s'ha de fer \u00e9s apartar d'una punyetera vegada la religi\u00f3 de la vida pol\u00edtica i c\u00edvica. No prohibir-la, \u00e9s clar, per\u00f2 en absolut fomentar-la i menys permetre que ens mediatitzi. El qui vulgui religi\u00f3, que se la cerqui i se la monti, per\u00f2 que ens deixi en pau i, SOBRETOT, que se la pagui. Ni un c\u00e8ntim p\u00fablic per a afers religiosos!</p>", 
+            "commentable_id": 2886, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/02/2016 12:51:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2797, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3588, 
+                "name": "monica", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Penso que no cal: la opci\u00f3 religiosa ha de ser personal i no li cal mes recol\u00e7ament que la opci\u00f3 no religiosa.</p>", 
+            "commentable_id": 2886, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 02:14:14", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11545, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/red-de-municipios-por-la-laicidad\">https://decidim.barcelona/proposals/red-de-municipios-por-la-laicidad</a></p>", 
+            "commentable_id": 2886, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/04/2016 18:25:55", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14112, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

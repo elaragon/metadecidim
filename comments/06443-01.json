@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15627, 
+                "name": "Piernas de seda", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Fa anys que en diversos f\u00f2rums (consells de barri, caminades pel barri amb diversos pol\u00edtics, etc.) m'he ofert per ajudar a definir els arranjaments necessaris a l'av. del Coll del Portell per tal de garantir-hi l'aparcament dels vehicles dels ve\u00efns alhora que s'hi promogui la conviv\u00e8ncia entre vianants i vehicles. En el tram final del carrer, el tram sense sortida en qu\u00e8 es van cremar els 40 cotxes, tinc la proposta seg\u00fcent: en la vorera m\u00e9s allunyada del parc, habilitar aparcament en semibateria, i, en l'altra vorera, habilitar aparcament lineal, tot garantint una via per a vianants que es podria guanyar al s\u00f2l del propi parc i fer un cam\u00ed de terra sense pavimentar (\u00e9s una zona ara mateix infrautilitzada i que constitueix un niu de porqueria).</p>", 
+            "commentable_id": 6443, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 15:59:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6802, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15864, 
+                "name": "Xavi-Xoui", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic totalment d'acord amb la proposta de Piernas de Seda. Tamb\u00e9 afegiria que s'ampli\u00ef l'area verda d'aparcament desde el carrer Rambla Mercedes cap a munt, actualment aquesta zona es de lliure aparcament i es converteix amb una zona de parking de llarga durada per molta gent que no es del barri, privant aix\u00ed d'aparcament als veins residents.</p>", 
+            "commentable_id": 6443, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 19:44:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6845, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 20356, 
+                "name": "Palbalu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A l'al\u00e7ada del num 57-59 el carrer fa molt pendent i caldria una verana pels pietons.</p>", 
+            "commentable_id": 6443, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 19:57:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10020, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

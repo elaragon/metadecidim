@@ -1,0 +1,242 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1051, 
+                "name": "miguel giner bermejo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Que se conecte ya, sin mas retrasos</p>", 
+            "commentable_id": 413, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/02/2016 11:42:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1140, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 7, 
+            "total_votes": 7
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6604, 
+                "name": "irene mu\u00f1oz luque", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>muy bien Miguel y Nesquik, Sant Gen\u00eds al poder !!!</p>", 
+            "commentable_id": 413, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/02/2016 20:02:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2106, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 5, 
+            "total_votes": 5
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9357, 
+                "name": "nuria b.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Abrir peatonalmente el Hospital por la Avda. Jord\u00e0 favorecer\u00e1 enormemente la actividad comercial de Sant Gen\u00eds</p>", 
+            "commentable_id": 413, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/02/2016 16:09:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3063, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 5, 
+            "total_votes": 5
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1137, 
+                "name": "Sacramento Burgos Garrido", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>es una necesidad que tenemos en el barrio y de bajo coste, s\u00f3lo voluntat politica de llevarlo a cabo </p>", 
+            "commentable_id": 413, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/04/2016 22:39:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7632, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 5, 
+            "total_votes": 5
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9357, 
+                "name": "nuria b.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La gent gran del barri de Sant Genis per accedir a l'hospital ha de donar una volta d'un kilometre!!! Aix\u00f2 no pot ser. Solucions urgents.</p>", 
+            "commentable_id": 413, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 12:21:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9155, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 4, 
+            "total_votes": 4
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1110, 
+                "name": "Xavier Civit", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Milloraria la connectivitat entre els 2 barris amb la poblaci\u00f3 m\u00e9s envellida de tota Barcelona.</p>", 
+            "commentable_id": 413, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 13:56:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12144, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1140", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3029, 
+                "name": "nesquik conleche", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Miquel tens tota la ra\u00f3  estem farts,  uni\u00f3 de Sant Gen\u00eds  i monbau ja!</p>", 
+            "commentable_id": 413, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/02/2016 19:32:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2101, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 6, 
+            "total_votes": 6
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 6, 
+        "total_pages": 1
+    }
+}

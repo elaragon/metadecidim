@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/moderator_avatar-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 3827, 
+            "name": "suport decidim.barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "moderator", 
+            "verified_organization": null
+        }, 
+        "author_id": 3827, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4138", 
+        "conflictive": false, 
+        "created_at": "05/03/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": false, 
+        "hidden": false, 
+        "id": 4138, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Tenir en compte les esp\u00e8cies que redueixen la contaminaci\u00f3 per\u00f2 tamb\u00e9 evitar els arbres que provoquen m\u00e9s al\u2022l\u00e8rgies en la poblaci\u00f3 (p. ex. plataners).", 
+        "title": "Millorar l\u2019arbrat a Sant Mart\u00ed", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 9, 
+        "url": "https://decidim.barcelona/pam/proposals/millorar-l-arbrat-a-sant-marti", 
+        "votable": null, 
+        "voted": null
+    }
+}

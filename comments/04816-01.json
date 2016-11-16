@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16563, 
+                "name": "Laura Mendoza Kaplan", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Por un lado, proteger el patrimonio tangible e intangible, y cuando no sea posible y se tenga que demoler algo, o se haya perdido ya una tradici\u00f3n, asegurarse de dejar una huella de la historia. Por ejemplo, si se remodela o demuele un edificio que ha tenido una importancia social, asegurarse de que se deje algo que recuerde o recree la funci\u00f3n original, puede ser una parte del edificio, una parte emblem\u00e1tica del mismo, o m\u00ednimo, la rese\u00f1a de lo que fue, el testimonio escrito.</p>", 
+            "commentable_id": 4816, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 22:37:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7306, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/proteccio-del-patrimoni\">https://decidim.barcelona/proposals/proteccio-del-patrimoni</a></p>", 
+            "commentable_id": 4816, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 10:35:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14292, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

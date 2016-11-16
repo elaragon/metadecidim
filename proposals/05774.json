@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5774", 
+        "conflictive": false, 
+        "created_at": "18/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 5774, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "\u201cLa cultura \u00e9s l\u2019opci\u00f3 pol\u00edtica m\u00e9s revolucion\u00e0ria a llarg termini\u201c (Montserrat Roig)\r\n\u201cLa cultura no \u00e9s una activitat del temps lliure; \u00e9s el que ens fa lliures tot el temps\u201d (Luisa Etxenike)", 
+        "title": "Recuperar la import\u00e0ncia de les assignatures human\u00edstiques i art\u00edstiques (m\u00fasica, arts pl\u00e0stiques, etc) al curr\u00edculum escolar", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 9, 
+        "url": "https://decidim.barcelona/pam/proposals/recuperar-la-importancia-de-les-assignatures-humanistiques-i-artistiques-musica-arts-plastiques-etc-al-curriculum-escolar", 
+        "votable": null, 
+        "voted": null
+    }
+}

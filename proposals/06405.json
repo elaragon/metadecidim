@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 14708, 
+            "name": "Sergi Cadena", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 14708, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6405", 
+        "conflictive": false, 
+        "created_at": "22/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6405, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 13, 
+            "name": "Turisme sostenible", 
+            "position": 5
+        }, 
+        "summary": "La ciutat de Barcelona rep 10 M de visitants a l'any, i molts ciutadans sentim que aquest \u00e9s el seu sostre.  Proposo que es cre\u00ef un pla integral de sostenibilitat tur\u00edstica. Exemples:\r\n- Creaci\u00f3 i trasp\u00e0s d'espais tur\u00edstics saturats a zones menys saturades (exemple: trasllat del Museu Picasso)\r\n- Impuls activitats tur\u00edstiques de qualitat.\r\n- ....", 
+        "title": "Creaci\u00f3 d'un pla integral de Sostenibilitat Turistica per a la ciutat de Barcelona", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/creacio-d-un-pla-integral-de-sostenibilitat-turistica-per-a-la-ciutat-de-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

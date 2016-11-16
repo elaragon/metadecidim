@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4750, 
+                "name": "iglous", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>M'agrada molt la m\u00fasica, per tant valoro molt el silenci.No podem admetre que tot el dia haguem de suportar qualsevol tipus de m\u00fasica, sense cap control i a tot arreu. Cal m\u00e9s control.</p>", 
+            "commentable_id": 2598, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/02/2016 19:21:49", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1657, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7229, 
+                "name": "benua", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>viuem a Barcelona, capital del Mediterrani. Volem m\u00fasica!!!</p>", 
+            "commentable_id": 2598, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/02/2016 13:56:49", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2365, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12442, 
+                "name": "GerardML", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es cert que la m\u00fasica ha de ser regulada, per\u00f2 com a m\u00fasic que s\u00f3c, considero que aquesta es cultura, enriqueix la ciutat i sincerament, a qui no li agrada fer un passeig diumenge al mat\u00ed mentre s\u00f3na bona m\u00fasica pels carrers de la ciutat? Control s\u00ed, pero siguem racionals i respectem la cultura.</p>", 
+            "commentable_id": 2598, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 00:50:47", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4938, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

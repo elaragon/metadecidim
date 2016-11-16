@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4152", 
+        "conflictive": false, 
+        "created_at": "05/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 4152, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "Es demana habilitar alguna mesura de rebaixa fiscal per al comer\u00e7 de proximitat quan es vulgui dinamitzar una zona concreta, aix\u00ed com establir mesures de control per evitar situacions no volgudes", 
+        "title": "Bonificacions a l'IBI i a la taxa d'escombraries per als comer\u00e7os ubicats a zones que es vulguin dinamitzar", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/bonificacions-a-l-ibi-i-a-la-taxa-d-escombraries-per-als-comercos-ubicats-a-zones-que-es-vulguin-dinamitzar", 
+        "votable": null, 
+        "voted": null
+    }
+}

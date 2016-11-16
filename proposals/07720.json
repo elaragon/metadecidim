@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 14733, 
+            "name": "Col\u00b7lectiu LABurb\u00e0", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 14733, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7720", 
+        "conflictive": false, 
+        "created_at": "31/03/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "http://issuu.com/laburbacollectiu/docs/laburba___mun__oz_ramonet_resum_pro ", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7720, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Ens agradaria que el solar fos un espai que foment\u00e9s la sostenibilitat i el respecte pel medi ambient, que pos\u00e9s en valor els elements caracter\u00edstics d'aquest paisatge, i que promogu\u00e9s la cultura col.laborativa en el disseny, la construcci\u00f3 i la gesti\u00f3 dels espais p\u00fablics.\r\n+info: https://www.facebook.com/groups/col.laburba/", 
+        "title": "LABurb\u00e0 Mu\u00f1oz Ramonet: Gesti\u00f3 i actuacions sostenibles per preservar i valoritzar un espai verd vallat als barris de Can Bar\u00f3, el Baix Guinard\u00f3 i El Guinard\u00f3.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 11, 
+        "url": "https://decidim.barcelona/pam/proposals/laburba-munoz-ramonet-gestio-i-actuacions-sostenibles-per-preservar-i-valoritzar-un-espai-verd-vallat-als-barris-de-can-baro-el-baix-guinardo-i-el-guinardo", 
+        "votable": null, 
+        "voted": null
+    }
+}

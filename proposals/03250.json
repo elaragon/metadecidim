@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1609, 
+            "name": "David Bravo Bordas", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1609, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3250", 
+        "conflictive": false, 
+        "created_at": "22/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3250, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Amb una bona xarxa de Wi-Fi a metro i busos aconseguir\u00edem que molta m\u00e9s gent prefer\u00eds el transport p\u00fablic al vehicle privat. No ha de ser dif\u00edcil donar connexi\u00f3 gratu\u00efta als usuaris si l'Aerob\u00fas ja ho fa i el metro ofereix la cobertura d'operadores privades. La mobilitat justa i sensata no s'ha de promoure nom\u00e9s penalitzant; tamb\u00e9 cal incentivar. ", 
+        "title": "Wi-Fi al transport p\u00fablic", 
+        "total_comments": 16, 
+        "total_negative_comments": 3, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 81, 
+        "url": "https://decidim.barcelona/pam/proposals/wi-fi-al-transport-public", 
+        "votable": null, 
+        "voted": null
+    }
+}

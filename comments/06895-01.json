@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13084, 
+                "name": "cbl", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El teramvia t\u00e9 m\u00e9s capacitat i \u00e9s m\u00e9s c\u00f2mode que els busos. Els busos el\u00e8ctrics s\u00f3n bons per l\u00ednies amb menys demanda de transport, per\u00f2 a la Diagonal millor el tramvia. Tamb\u00e9 s'han de veure les inversions a llarg termini, i el tramvia atreu m\u00e9s viatgers i t\u00e9 millor accdeptaci\u00f3 entre els passatgers. Est\u00e0 molt est\u00e9s per moltes ciutats del m\u00f2n amb actuacions recents i innvovadores, ara ja sense cables (exemple Saragossa, Burdeus...)</p>", 
+            "commentable_id": 6895, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 19:11:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6634, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15364, 
+                "name": "TCM", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El tramvia no te m\u00e9s capacitat. amb 180 millions d'euros podem substituir la flota sencera de bussos, a m\u00e9s e m\u00e9s flexible, no te le rodes lligades a uns rails. Les gran ciutats no opten per tramvies. La aceptaci\u00f3 depen del missatge que transmiti el ajuntament. Quan la vaga de metro, una flota de bussos electrics la hagu\u00e9s paliat, el tramvia no, nom\u00e9s \u00e9s mou per la Diagonal.</p>", 
+            "commentable_id": 6895, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 19:35:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6640, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17741, 
+                "name": "Suport General3 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/tramvia-a-la-diagonanl\">https://decidim.barcelona/proposals/tramvia-a-la-diagonanl</a></p>", 
+            "commentable_id": 6895, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 10:44:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9094, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17741, 
+                "name": "Suport General3 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/aturar-la-unio-dels-dos-tramvies-de-la-diagonal\">https://decidim.barcelona/proposals/aturar-la-unio-dels-dos-tramvies-de-la-diagonal</a></p>", 
+            "commentable_id": 6895, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 10:46:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9096, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "6640", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15364, 
+                "name": "TCM", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Qu\u00e8 el tramvia atreu m\u00e9s passatgers est\u00e0 per veure, de moment la flamant L9 del metro est\u00e0 mig deserta,  la agafen majorit\u00e0riament turistes i nom\u00e9s per la anda des de l'aeroport, per la tronada no repeteixen....</p>", 
+            "commentable_id": 6895, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 10:48:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9099, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

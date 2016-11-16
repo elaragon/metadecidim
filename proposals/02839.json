@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2839", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2839, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 1, 
+            "name": "Just\u00edcia social", 
+            "position": 1
+        }, 
+        "summary": "Articular una estrat\u00e8gia municipal d\u2019inclusi\u00f3, de manera coordinada amb l\u2019Acord Ciutad\u00e0 per una Barcelona Inclusiva, els moviments socials i el conjunt de la ciutadania, que concreti el conjunt d\u2019actuacions en aquest \u00e0mbit, estableixi el mapa de recursos existents, amb una visi\u00f3 transversal i territorial adaptada a cada barri. El pla ha d\u2019incloure estrat\u00e8gies espec\u00edfiques per fer front a la pobresa energ\u00e8tica, l\u2019exclusi\u00f3 residencial i la pobresa aliment\u00e0ria.", 
+        "title": "Pla d'inclusi\u00f3 social 2016-2019", 
+        "total_comments": 20, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 19, 
+        "total_positive_comments": 1, 
+        "total_votes": 22, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-d-inclusio-social-2016-2019", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,341 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11361, 
+                "name": "Leo Pereira", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Yo soy a favor de los radares, desde que est\u00e9n bien se\u00f1alizados como es de costumbre. </p>", 
+            "commentable_id": 5007, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 20:05:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4889, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6762, 
+                "name": "Miquel Ruscalleda Bota", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>I plantejar-se no corre tant? Complir amb les normes de circulaci\u00f3? Si compleixes no hi ha recapte... senzill d'entendre...</p>", 
+            "commentable_id": 5007, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 01:11:58", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4940, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 2, 
+            "total_likes": 1, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12565, 
+                "name": "HankMoody", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Me parece una verg\u00fcenza las medidas que se est\u00e1n tomando dentro de nuestra ciudad, Barcelona. La \"Guardia Urbana\" escondi\u00e9ndose detr\u00e1s de carteles publicitarios (los cuales quedan tapados, un servicio que se ha pagado por mostrar publicidad) en calles donde se sabe que la gente supera, no por mucho, la velocidad permitida. \n<br />UNA COSA ES SEGURIDAD VIAL Y LA OTRA ES QUE NOS PONGAN UN CEBO CUANDO NUNCA LO HA HABIDO. \n<br />Tal como est\u00e1n las cosas gracias a gente de vuestro c\u00edrculo, \u00bfAmadeu y Ada realmente cre\u00e9is que es la soluci\u00f3n es robarnos con trampas?</p>", 
+            "commentable_id": 5007, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 14:08:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5032, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6514, 
+                "name": "Oriol B", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>S'hauria d'ampliar l'\u00fas dels radars ocults i aplicar sancions m\u00e9s severes. No \u00e9s normal que 60Km/h sigui una velocitat de circulaci\u00f3 habitual a la ciutat (per al final arribar abans al seg\u00fcent sem\u00e0for).</p>", 
+            "commentable_id": 5007, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 14:13:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6760, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5950, 
+                "name": "Jordi Salabert", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Doncs jo trobo que ho fan poc. Una vacuna de tant en tant va be per recordar que cal seguir les normes de circulacio.</p>", 
+            "commentable_id": 5007, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 23:05:21", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12752, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4940", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12565, 
+                "name": "HankMoody", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Disculpa Miquel. Aqu\u00ed estamos hablando de algo muy concreto, como ponerse en c/ Arag\u00f3n con una c\u00e1mara a fotografiar a todo el que pase 50km/h. Si conduces sabr\u00e1s que hay calles donde es casi imposible no sobrepasar esa velocidad e incluso me atrever\u00eda a decir que es hasta peligroso. Que salgan a esconderse por calles populares, dentro de la ciudad, donde la velocidad suele a ser modestamente por encima de la permitida para facilitar el flujo del tr\u00e1fico a poner multas a mansalva... no es justo para nadie. \n<br />Una cosa es seguridad vial y otra que nos roben el dinero.</p>", 
+            "commentable_id": 5007, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 13:55:31", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5024, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4940", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13402, 
+                "name": "Sirfabrega", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Y plantearse que son dos agentes menos patrullando por las calles? Dos ajentes  dando un \"servicio\" cuestionable, que dejan desatendidas las necesidades de muchos otros ciudadandos para recaudar, para hacer el trabajo que podr\u00eda hacer una m\u00e1quina sola, un radar fijo? Desatendiendo sus funciones principales: servir y protejer. Son dos policias menos evitando que roben una moto, una bici, una cartera, un bolso, un tel\u00e9fono. Pero tampoco te equivoques, en calles como en las que se ponen los radares mobiles, Arag\u00f3n, Muntaner, Balmes,etc. Que se exceda la velocidad en 5-10 km/h no es un peligro p\u00fablico en dichas calles porque son grandes avenidas. Solo los justifico en sitios d\u00f3nde deber\u00edan estar siempre, como por ejemplo las cercan\u00edas de hospitales, recintos escolares, etc. Es m\u00e1s, que se dediquen m\u00e1s a hacer controles de drogas que en el fondo es lo que provoca m\u00e1s accidentes y las distracciones con los telefonos mientras conducen, ahi si que deber\u00edan ser m\u00e1s tajantes </p>", 
+            "commentable_id": 5007, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 11:34:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5449, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "5032", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12565, 
+                "name": "HankMoody", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>cuando digo \"superar la velocidad permitida\" me refiero a una cifra sancionada pero sin peligro. Como ha sido desde siempre.</p>", 
+            "commentable_id": 5007, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 14:10:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5033, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "5032/5033", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12565, 
+                "name": "HankMoody", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>a todo esto sin se\u00f1alar absolutamente nada. Robando voy, robando vengo vengo.</p>", 
+            "commentable_id": 5007, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 14:11:49", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5034, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "5032", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11361, 
+                "name": "Leo Pereira", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Este comentario est\u00e1 marcado como contrario, pero en realidad es a favor!</p>", 
+            "commentable_id": 5007, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 10:24:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5187, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 5, 
+        "total_pages": 1
+    }
+}

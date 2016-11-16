@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5382, 
+                "name": "Yolanda Rubio Lago ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00c9s necessari poder tenir possibilitats per aturar-se i mirar el cel.  Que qualsevol que vulgui pugui habitar el carrer sense est\u00e0 obligat a consumir en un bar.  Compartir l'inst\u00e0n amb la persona que est\u00e0 al costat i poder gaudir de la diversitat de la nostra ciutat. </p>", 
+            "commentable_id": 2640, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/02/2016 21:59:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1779, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3070, 
+                "name": "albert", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Sigui benvinguda qualsevol proposta  que faciliti retornar la ciutat a les persones.</p>", 
+            "commentable_id": 2640, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/02/2016 22:55:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1787, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3026, 
+                "name": "Imma V.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Calen bancs i cadires, i  lluny de la cal\u00e7ada i els carrers bici.</p>", 
+            "commentable_id": 2640, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 08:29:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1797, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2654, 
+                "name": "Sara", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>M'encanta la idea! Trobo que caldr\u00e0 una feina paral\u00b7lela que impliqui certa responsabilitat ciutadana, com no seure amb els peus a sobre dels bancs, no xerrar en veu alta a les nits per deixar dormir als ve\u00efns, etc. Per\u00f2 em sembla una bona forma de pacificar la ciutat de Barcelona.</p>", 
+            "commentable_id": 2640, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 17:33:58", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1868, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

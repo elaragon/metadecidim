@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 13471, 
+            "name": "alicia_teba", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 13471, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5539", 
+        "conflictive": false, 
+        "created_at": "17/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://ccaa.elpais.com/ccaa/2012/05/15/catalunya/1337110239_033319.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5539, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "El parc del zoo \u00e9s m\u00edtic, per\u00f2 \u00e9s una vergonya saber la veritat, saber l'espai m\u00ednim que tenen els animals, i saber que no \u00e9s respectu\u00f3s amb ells. Proposo, no tancar aquest espai dedicat a la fauna, sin\u00f3 renovar-ho, trobar-hi un altra funci\u00f3, convertir-lo en un santuari d'animals, un centre de recuperaci\u00f3 de esp\u00e8cies.", 
+        "title": "Reconvertir el Zool\u00f2gic de Barcelona", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/reconvertir-el-zoologic-de-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5046, 
+                "name": "Eva C-V Tremosa", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Pregaria que parl\u00e0ssiu sense sigles.  M\u00e9s informaci\u00f3 pel que li calgui\n<br /><a href=\"http://guia.barcelona.cat/es/detall/oficina-d-atencio-ciutadana-del-districte-de-sarria-sant-gervasi_93313124455.html\">http://guia.barcelona.cat/es/detall/oficina-d-atencio-ciutadana-del-districte-de-sarria-sant-gervasi_93313124455.html</a>\n<br /><a href=\"http://w10.bcn.es/StpQueixesWEB/prepararFormularioBtoB.do?i=c&amp;ambit=tescolta\">http://w10.bcn.es/StpQueixesWEB/prepararFormularioBtoB.do?i=c&amp;ambit=tescolta</a></p>", 
+            "commentable_id": 740, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/04/2016 20:09:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7624, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

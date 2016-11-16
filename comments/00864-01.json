@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 369, 
+                "name": "Maclaren", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Fa 20 anys que l'Ajuntament, va apostar per la externalitzaci\u00f3 total dels seus serveis t\u00e8cnics, desmuntant equips amb anys d'experiencia, ha degradat i desmotivat al seu personal t\u00e8cnic a feines de contractaci\u00f3 de serveis externs, en plena subordinaci\u00f3 a la jerarquia, ha menyspreuat el coneixement i la formaci\u00f3 permanent en favor de la leialtat, ha refor\u00e7at tots els cliches sobre el funcionari p\u00fablic inutil i ignorant. Revertir el proc\u00e8s sembla dificil: que aportar\u00e0 l'Ajuntament? qui redactar\u00e0 el conveni, una empresa privada? com aplicar\u00e0 'el retorn' una estructura t\u00e8cnica delmada?</p>", 
+            "commentable_id": 864, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 19:12:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 980, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2593, 
+                "name": "Rub\u00e9n BCN", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El primer que s'hauria de fer \u00e9s refor\u00e7ar la vigil\u00e0ncia d'aquests carrils tant amb agents c\u00edvics com per gu\u00e0rdia urbana. Si un es para a gravar 5 minuts, conductors, ciclistes i vianants incompleixen totes les ordenances i normes de trafic.\n<br />El pitjor \u00e9s no poder circular ni una illa sense trobar-te un cotxe, taxi, furgoneta, cami\u00f3 o autocar aparcat en el carril bici.</p>", 
+            "commentable_id": 1447, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 19:37:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 851, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

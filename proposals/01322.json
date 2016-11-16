@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 579, 
+            "name": "Josep Mompin Poblet", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 579, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1322", 
+        "conflictive": false, 
+        "created_at": "03/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1322, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Es muy frecuente ver bicis y monopatines que circulan a gran velocidad por aceras y paseos, que sortean a viandantes y perros de compa\u00f1\u00eda. No s\u00f3lo hay que prohibirlo, sino exigir cumplimiento, especialmente si hay carril-bici. Se necesita vigilancia.", 
+        "title": "Exigir cumplimiento de: no circular bicicletas y monopatines por aceras y paseos", 
+        "total_comments": 8, 
+        "total_negative_comments": 2, 
+        "total_neutral_comments": 4, 
+        "total_positive_comments": 1, 
+        "total_votes": 78, 
+        "url": "https://decidim.barcelona/pam/proposals/exigir-cumplimiento-de-no-circular-bicicletas-y-monopatines-por-aceras-y-paseos", 
+        "votable": null, 
+        "voted": null
+    }
+}

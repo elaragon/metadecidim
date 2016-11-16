@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1925, 
+                "name": "X Simon", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>L'exc\u00e8s d'il\u00b7luminaci\u00f3 nocturna, a banda d'una agressi\u00f3 medioambiental, no fa que els comerciants venguin m\u00e8s i en canvi si que molesta als usuaris de la via p\u00fablica que desitgen passejar sense rebre impactes lum\u00ednics com passa actualment. La il\u00b7luminaci\u00f3 ha de ser la justa per poder transitar, no un reclam comercial, i seria necessari controlar els focus, pantalles de llum i altres artefactes que s'instal\u00b7len il\u00b7legalment a les botigues</p>", 
+            "commentable_id": 4157, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/03/2016 21:27:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5828, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

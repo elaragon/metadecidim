@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 13290, 
+            "name": "procomuns.net", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 13290, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5817", 
+        "conflictive": false, 
+        "created_at": "18/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://procomuns.net/ca/politiques/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5817, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 11, 
+            "name": "Economia cooperativa, social i solid\u00e0ria", 
+            "position": 2
+        }, 
+        "summary": "I altres vies que impedeixen el manteniment, la reparaci\u00f3, l\u2019ampliaci\u00f3 i l\u2019actualitzaci\u00f3 dels dispositius tecnol\u00f2gics (com per exemple que es produeixin aparells que puguin ser reparats sense eines especials, amb mem\u00f2ria ampliable i amb un programari que pugui ser actualitzat lliurement).", 
+        "title": "Millora de regulacions per a l\u2019economia col\u00b7laborativa procom\u00fa: promoure lleis que impulsin la reutilitzaci\u00f3 de dispositius tecnol\u00f2gics i contra l'obsolesc\u00e8ncia programada", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 6, 
+        "url": "https://decidim.barcelona/pam/proposals/millora-de-regulacions-per-a-l-economia-col-laborativa-procomu-promoure-lleis-que-impulsin-la-reutilitzacio-de-dispositius-tecnologics-i-contra-l-obsolescencia-programada", 
+        "votable": null, 
+        "voted": null
+    }
+}

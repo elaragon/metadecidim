@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14929, 
+                "name": "itxi.angulo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>M'agradaria que els gossos no anessin sense lligar a cap zona fora d'un pipican. No a tothom ens agrada que els gossos se'ns apropin. Qie hi hagi multes als propietaris per dur les mascotes sense lligar i per no recollir les caques.</p>", 
+            "commentable_id": 6449, 
+            "commentable_type": "Proposal", 
+            "created_at": "23/03/2016 20:48:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6421, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15627, 
+                "name": "Piernas de seda", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A l'av. Coll del Portell, entre la Rambla de Mercedes i l'entrada al parc (a la part sense sortida, al final del carrer), sempre hi ha caques de gos. Jo no tinc res en contra que vagin sense lligar, si l'amo considera que \u00e9s un animal obedient i disciplinat, per\u00f2 s\u00ed que ha de responsabilitzar-se de recollir la brut\u00edcia que genera i ensenyar-lo a pixar all\u00e0 on toca (no a parets, al terra, a les rodes dels cotxes...).</p>", 
+            "commentable_id": 6449, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 16:07:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6807, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 889, 
+                "name": "DCC", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si us plau busqueu m\u00e9s propostes com la vostre, jo mateix he fet unes, simplement amb la paraula gossos o en castell\u00e0 perros, o 'excrements' i trobareu m\u00e9s propostes a les que tamb\u00e9 podeu suport per tal d'acabar amb les #VoreresWC. \n<br />Tamb\u00e9 podeu informar d'incivisme amb gossos al 900.226.226 (Tel\u00e8fon gratu\u00eft de civisme), i ha l'APP per ANDROID i i-Phone 'Bustia ciutadana' on a 'Neteja de carrers o places' amb el concepte 'Bruticia' es pot denunciar i adjuntar la foto per que no puguin dir despr\u00e9s que no ho han trobat...</p>", 
+            "commentable_id": 6449, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 10:10:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8224, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

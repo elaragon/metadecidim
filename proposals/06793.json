@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 15092, 
+            "name": "CiudadanoCurioso", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 15092, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6793", 
+        "conflictive": false, 
+        "created_at": "25/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6793, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "En un refer\u00e9ndum ciudadano en BCN la ciudadan\u00eda decidi\u00f3 que no quer\u00eda que se realizara ese proyecto. Aun as\u00ed Ada Colau pretende realizarlo. El pueblo ha decidido, demuestre su esp\u00edritu dem\u00f3crata. S\u00f3lo pedimos que se respete la voluntad democr\u00e1tica del pueblo. En caso de seguir con el proyecto, como m\u00ednimo solicito un nuevo refer\u00e9ndum vinculante.", 
+        "title": "NO al tranv\u00eda en la Diagonal.", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 6, 
+        "url": "https://decidim.barcelona/pam/proposals/no-al-tranvia-en-la-diagonal", 
+        "votable": null, 
+        "voted": null
+    }
+}

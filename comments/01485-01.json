@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4422, 
+                "name": "Smielyi", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hola Rocu (tant de bo llegeixis aquest missatge), la setmana passada vaig iniciar jo la mateixa demanda. He sol\u00b7licitat a l'Ajuntament de NB  moltes vegades la remodelaci\u00f3 de la mteixa porci\u00f3 i no ha hagut resposta satisfact\u00f2ria. Els sorolls, la manca d'arbres i les voreres invaides per els cotxes, fan una porci\u00f3 de carrer que nom\u00e9s la patim els ve\u00efns. Jo, he penjat aquesta sol\u00b7licitud a la meva escala amb la intenci\u00f3 de que tots els ve\u00efns es queixin, i els que no tenen medis que facin una queixa escrita al nostre Ajuntament, a veure si aixina podem aconseguir una data d'obres m\u00e9s aviat que tard del nostre carrer. Si se t'acudeix qualsevol altre proposta, contacta'm <a href=\"mailto:smielyi@hotmail.com\">smielyi@hotmail.com</a>. Gracietes! ;)</p>", 
+            "commentable_id": 1485, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 13:24:20", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4164, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 581, 
+                "name": "CarmeG", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Jo he fet una proposta similar perqu\u00e8 facin zones verdes en condicions pels gossos (i no pipicans petits de sorra que quan plu s\u00b4enfanga) i una part de la platja on puguin anar els gossos estiu/ hivern. Voteu-la tamb\u00e9 si us agrada. Quants m\u00e9s siguem millor.</p>", 
+            "commentable_id": 1262, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 10:32:37", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 573, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1654, 
+                "name": "Jaume Villalba Gomis", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Y en montjuich tb podr\u00edan hacer uno y grande en el jard\u00edn de los naranjos que esta desaprovechado y solo sirve para que la gente haga guarradas a todas horas una verguenza</p>", 
+            "commentable_id": 1262, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 17:07:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 668, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8084, 
+                "name": "Najat Fariss", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic totalment d'acord, visc al carrer Roser i vull marxar d'aqu\u00ed perqu\u00e8 es un barri molt brut. Una ll\u00e0stima perqu\u00e8 m'encanta el barri. </p>", 
+            "commentable_id": 1262, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/02/2016 18:19:14", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2595, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2595", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8084, 
+                "name": "Najat Fariss", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>@Nuria: Creo que el titulo de tu propuesta no llama mucho la atenci\u00f3n, es muy larga y lo del pipican yo no sabia lo que era, quiz\u00e1s porque no tengo perro. Lo digo porque creo que habr\u00e1 mas gente que firme porque le molesten los excrementos de perro que la necesidad de poner pipicans.Solo una opini\u00f3n. Gracias por tomar la iniciativa.\n</p>", 
+            "commentable_id": 1262, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/02/2016 18:30:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2599, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

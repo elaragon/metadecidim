@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8313", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8313, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 8, 
+            "name": "Migraci\u00f3, interculturalitat i discriminaci\u00f3 zero", 
+            "position": 8
+        }, 
+        "summary": "Les compet\u00e8ncies en pol\u00edtica migrat\u00f2ria recauen principalment en el govern estatal, per\u00f2 hi ha alguns procediments que es gestionen des del govern auton\u00f2mic, l\u2019administraci\u00f3 local o de manera conjunta. Millorar la coordinaci\u00f3 i evitar, entre d\u2019altres, la duplicitat de taxes dels tr\u00e0mits d'aquelles gestions que depenen de m\u00e9s d\u2019una administraci\u00f3.", 
+        "title": "Millorar la coordinaci\u00f3 interinstitucional en l\u2019\u00e0mbit de l\u2019estrangeria", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/millorar-la-coordinacio-interinstitucional-en-l-ambit-de-l-estrangeria", 
+        "votable": null, 
+        "voted": null
+    }
+}

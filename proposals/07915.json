@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 3967, 
+            "name": "Elisenda ant\u00f3n carbonell", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 3967, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-7915", 
+        "conflictive": false, 
+        "created_at": "02/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.acuerdojusto.com/revista.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7915, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Implantar Serveis de mediaci\u00f3 ciutadana a cada districte, establint espais per a que la ciutadania tingui a l'abast mediadors comunitaris per a resoldre els conflictes de manera alternativa. Canalitzar a trav\u00e9s d'aquests serveis l'estrat\u00e8gia municipal de conviv\u00e8ncia. Com a prova pilot, implantar el Servei a dos districtes amb emerg\u00e8ncia social", 
+        "title": "Centres de mediaci\u00f3 comunit\u00e0ria ciutadana", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/centres-de-mediacio-comunitaria-ciutadana", 
+        "votable": null, 
+        "voted": null
+    }
+}

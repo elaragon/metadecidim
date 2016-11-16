@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4307, 
+            "name": "Ruscalleda Miquel", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4307, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3131", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "mobilicat.net", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3131, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "L'objectiu d\u2019aquest equipament (sociocultural) seria la promoci\u00f3 de la mobilitat sostenible i segura a Barcelona. Un equipament sociocultural per cercar les sin\u00e8rgies necess\u00e0ries per aconseguir un canvi d\u2019actitud general de la poblaci\u00f3 envers una mobilitat sostenible i segura. Esdevenir la punta de llan\u00e7a de les noves tend\u00e8ncies en MSS.", 
+        "title": "Que l\u2019Ajuntament de Barcelona desenvolupi la creaci\u00f3 d\u2019un equipament per a la promoci\u00f3 de la mobilitat sostenible i segura.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 10, 
+        "url": "https://decidim.barcelona/pam/proposals/que-l-ajuntament-de-barcelona-desenvolupi-la-creacio-d-un-equipament-per-a-la-promocio-de-la-mobilitat-sostenible-i-segura", 
+        "votable": null, 
+        "voted": null
+    }
+}

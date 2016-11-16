@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2885", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2885, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 21, 
+            "name": "Defensa i protecci\u00f3 dels Drets Humans", 
+            "position": 9
+        }, 
+        "summary": "An\u00e0lisi, classificaci\u00f3 i ordenaci\u00f3 dels diferents drets reconeguts i garantits a la ciutat, amb les obligacions que per a l\u2019administraci\u00f3 municipal se\u2019n deriven. Actuacions adre\u00e7ades a la prevenci\u00f3 de les vulneracions i dirigides al respecte i la protecci\u00f3 dels drets; i mesures que s\u2019activen un cop s\u2019ha produ\u00eft una vulneraci\u00f3, \u00e9s a dir, la garantia dels drets. \u00c8mfasi en aquelles vulneracions produ\u00efdes per la mateixa acci\u00f3 o omissi\u00f3 institucional.", 
+        "title": "Pla per a la defensa i la garantia dels drets ciutadans i monitoratge dels drets humans", 
+        "total_comments": 9, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 9, 
+        "total_positive_comments": 0, 
+        "total_votes": 10, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-per-a-la-defensa-i-la-garantia-dels-drets-ciutadans-i-monitoratge-dels-drets-humans", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8697, 
+                "name": "Jaume Artigues Vidal", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aquesta condici\u00f3 contradict\u00f2ria que permet edificar sobre un edifici protegit i que afecta a tot el Patrimoni Nivells B, C i D, nom\u00e9s serveix per especular... com en el cas del Deutsche Bank...on el Taller Masriera va ser fet servir de moneda de canvi.</p>", 
+            "commentable_id": 4503, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 12:56:47", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4496, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 613, 
+                "name": "Josep M Armengou", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Moooolt a favor, Jaume. Gr\u00e0cies.</p>", 
+            "commentable_id": 4503, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 15:53:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4548, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8697, 
+                "name": "Jaume Artigues Vidal", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>L'antic Taller dels germans Masriera, es un espai que porta molts anys buit i sense activitat. Tamb\u00e9 \u00e9s cer que per la seva tipologia semblant a un gran temple grec i de disposar d'un petit teatre interior, nom\u00e9s pot ser reutilitzat com a equipament cultural, amb funcions d'Ateneu de barri, que podria completar les funcions de la Casa Elizalde, per\u00f2 en un altre sector de l'Eixample ara desat\u00e8s...</p>", 
+            "commentable_id": 4503, 
+            "commentable_type": "Proposal", 
+            "created_at": "20/03/2016 16:01:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5987, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

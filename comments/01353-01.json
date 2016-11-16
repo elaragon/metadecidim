@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2400, 
+                "name": "espaigosbcn", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>De debo que has viatajt per moltes ciutats Europees?? Per que n'hi han que fins hi tot ho promocionen</p>", 
+            "commentable_id": 1353, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 16:08:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5058, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14179, 
+                "name": "micro0", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estaria b\u00e9 no eliminar aquells graffitis amb bon sentit est\u00e8tic i situats en llocs on l'entorn \u00e9s m\u00e9s lleig i gris que el graffiti. </p>", 
+            "commentable_id": 1353, 
+            "commentable_type": "Proposal", 
+            "created_at": "19/03/2016 20:54:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5935, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "5058", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15874, 
+                "name": "bMM", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si  us plau, no fem demagogia. Poden promocionar algunes actuacions en llocs concrets, pero no es pot comparar amb el que passa a Bcn. No pots pintar una porta de garatge o persiana de botiga perque al poc temps te la \"decoren\" al seu gust.\n</p>", 
+            "commentable_id": 1353, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 20:48:31", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6852, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

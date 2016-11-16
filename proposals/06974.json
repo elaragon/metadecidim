@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 14656, 
+            "name": "Unio d'Eixos Comercials Turistics. Barcelona Oberta", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 14656, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6974", 
+        "conflictive": false, 
+        "created_at": "29/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6974, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "L\u00ednies d\u2019actuaci\u00f3/accions\r\n-\tDefinir mesures per atreure talent i inversions\r\n-\tImpulsar la investigaci\u00f3 i el sector biom\u00e8dic en el que Barcelona \u00e9s l\u00edder.\r\n-\tFacilitar la instal\u2022laci\u00f3 de seus de grans empreses.\r\n-\tImpulsar el sector de tecnologies de la informaci\u00f3 aprofitant el MWC\r\n", 
+        "title": "Generar economia capa\u00e7 de posicionar Barcelona al capdavant dels pa\u00efsos Europeus", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 15, 
+        "url": "https://decidim.barcelona/pam/proposals/generar-economia-capac-de-posicionar-barcelona-al-capdavant-dels-paisos-europeus", 
+        "votable": null, 
+        "voted": null
+    }
+}

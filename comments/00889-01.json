@@ -1,0 +1,341 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1718, 
+                "name": "Sonia Fernandez Mayordomo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Precissament no \u00e9s que faltin... sino que hi ha que no es fan servir o est\u00e0n fets pols! Si es fa aix\u00f2 per incrementar la feina en el sector de construcci\u00f3, em sembla molt b\u00e9, pero preferiria que els obrers tinguessin un sou en reconstru\u00efr i remodelar edificis (per exemple, que es facin tenin en compte els recursos ecol\u00f2gics, com plaques solars o aprofitament de l'aigua de les plujes).</p>", 
+            "commentable_id": 889, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/02/2016 18:42:47", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 467, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/banca-municipal-vivienda-publica-social-alquiler\">https://decidim.barcelona/proposals/banca-municipal-vivienda-publica-social-alquiler</a></p>", 
+            "commentable_id": 889, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 16:54:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8709, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2007, 
+                "name": "efm", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>MEs habitatges?? Al Carmel?? es el barri amb mes densitat de BArcelona!!</p>", 
+            "commentable_id": 889, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 11:38:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10505, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10703, 
+                "name": "suport decidim.barcelona2", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/incrementar-l-oferta-d-habitatge-social\">https://decidim.barcelona/proposals/incrementar-l-oferta-d-habitatge-social</a></p>", 
+            "commentable_id": 889, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 18:42:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 16258, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/habitatge-per-jove\">https://decidim.barcelona/proposals/habitatge-per-jove</a></p>", 
+            "commentable_id": 889, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 15:16:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17176, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/augmentar-el-percentatge-d-habitatges-de-proteccio-per-a-persones-del-territori\">https://decidim.barcelona/proposals/augmentar-el-percentatge-d-habitatges-de-proteccio-per-a-persones-del-territori</a></p>", 
+            "commentable_id": 889, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 16:03:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17219, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/buscar-noves-formes-de-financament-per-a-aconseguir-habitatge\">https://decidim.barcelona/proposals/buscar-noves-formes-de-financament-per-a-aconseguir-habitatge</a></p>", 
+            "commentable_id": 889, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 16:45:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17270, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/mes-oferta-formativa-util-i-efectiva\">https://decidim.barcelona/proposals/mes-oferta-formativa-util-i-efectiva</a></p>", 
+            "commentable_id": 889, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 17:17:22", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17313, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/construccio-de-nous-habitatges-a-la-parcel-la-per-generar-habitatge-assequible-o-per-a-familiars\">https://decidim.barcelona/proposals/construccio-de-nous-habitatges-a-la-parcel-la-per-generar-habitatge-assequible-o-per-a-familiars</a></p>", 
+            "commentable_id": 889, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 17:26:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17333, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17741, 
+                "name": "Suport General3 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/augmentar-el-percentatge-de-promocio-publica-en-ambits-de-transformacio-urbanistica\">https://decidim.barcelona/proposals/augmentar-el-percentatge-de-promocio-publica-en-ambits-de-transformacio-urbanistica</a></p>", 
+            "commentable_id": 889, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 14:02:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 18222, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 10, 
+        "total_pages": 1
+    }
+}

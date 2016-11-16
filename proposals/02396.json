@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 5018, 
+            "name": "ASSOCIACI\u00d3 DE COMERCIANTS LA NOVA DE TORRIJOS", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 5018, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2396", 
+        "conflictive": false, 
+        "created_at": "12/02/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2396, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Tenint en compte que el carrer Torrijos, entre els carrers de l'Or i Sant Llu\u00eds/La Perla, tot i ser prioritat invertida no t\u00e9 cap tr\u00e0nsit de vehicles, proposem que passi a qualificar-se com a zona per a vianants, com de fet ja ho \u00e9s en l'actualitat a efectes pr\u00e0ctics. ", 
+        "title": "Qualificaci\u00f3 del carrer Torrijos com a zona per a vianants", 
+        "total_comments": 3, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 13, 
+        "url": "https://decidim.barcelona/pam/proposals/qualificacio-del-carrer-torrijos-com-a-zona-per-a-vianants", 
+        "votable": null, 
+        "voted": null
+    }
+}

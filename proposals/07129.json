@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7129", 
+        "conflictive": false, 
+        "created_at": "29/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 7129, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Una relaci\u00f3 de respecte i de reconeixement de la diversitat i de la legitimat pr\u00f2pies. Interlocuci\u00f3 mes transversal (fugint de la arquitectura t\u00e8cnica administrativa) i un acompanyament en el processos, no de lideratge, proposant la figura de facilitador ( \u201ctraductor\u201d dels processos t\u00e8cnics i que procuri per a la construcci\u00f3 de teixit associatiu)", 
+        "title": "Establir  una relaci\u00f3 amb la administraci\u00f3 que es basi en la escolta i la empatia, amb una interlocuci\u00f3 m\u00e9s transversal.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/establir-una-relacio-amb-la-administracio-que-es-basi-en-la-escolta-i-la-empatia-amb-una-interlocucio-mes-transversal", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4339", 
+        "conflictive": false, 
+        "created_at": "08/03/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 4339, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "L'estat del cablejat \u00e9s molt precari i destorba la mobilitat dels vianants amb mobilitat redu\u00efda. Aquesta situaci\u00f3 \u00e9s greu als carrers amb voreres estretes (D\u00e0lia, Font Florida, Crisantem, Beg\u00f2nia, Pas de Valls, Guatlla, Gessam\u00ed, Hort\u00e8nsia i Valls), per\u00f2 tamb\u00e9 afecta Ind\u00edbil, Amposta, Cam\u00ed del Polvor\u00ed, Sant Paul\u00ed de Nola i Parc de la Font Florida.", 
+        "title": "Establir un pla de millora i arranjament dels carrers del barri de Font de la Guatlla", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/establir-un-pla-de-millora-i-arranjament-dels-carrers-del-barri-de-font-de-la-guatlla", 
+        "votable": null, 
+        "voted": null
+    }
+}

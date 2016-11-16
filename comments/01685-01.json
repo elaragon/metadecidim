@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 369, 
+                "name": "Maclaren", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Lligat al seguiment de la qualitat de les obres, permetria detectar origen de les desviacions alertar amb antelaci\u00f3 i fer informe final, estendre la supervisi\u00f3 a projectes per sota dels 350.000.-\u20ac . Previst a la LCSP 109, no hi ha res que impedeixi la seva creaci\u00f3. La Unitat podria aconseguir la certificaci\u00f3 ISO.</p>", 
+            "commentable_id": 1685, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/02/2016 09:37:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1397, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 827, 
+                "name": "Marga", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aix\u00ed tamb\u00e9 s'eviten els amiguismes, que ja \u00e9s hora\n</p>", 
+            "commentable_id": 1685, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 16:34:13", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6601, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/mapa-de-les-externalitzacions-existents-i-politiques-d-internalitzacio\">https://decidim.barcelona/proposals/mapa-de-les-externalitzacions-existents-i-politiques-d-internalitzacio</a></p>", 
+            "commentable_id": 1685, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 21:24:30", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 16349, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

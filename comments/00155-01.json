@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11339, 
+                "name": "Fina Moreno Hern\u00e1ndez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Cal una bona gesti\u00f3 del patrimoni i aix\u00f2 nom\u00e9s es consegueix amb professionals que treballin de manera espec\u00edfica per aconseguir-ho.</p>", 
+            "commentable_id": 155, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 09:05:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5174, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

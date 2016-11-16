@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 219, 
+            "name": "Roc\u00edo Aguilera", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 219, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1517", 
+        "conflictive": false, 
+        "created_at": "05/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1517, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "La \u00fanica vez que fui, hace a\u00f1os, me di\u00f3 tanta pena y tantas ganas de vomitar que me jur\u00e9 no volver nunca m\u00e1s a un zool\u00f3gico. Ya que Catalu\u00f1a fue pionera en abolir corridas de toros, creo que tambi\u00e9n podr\u00eda serlo encuanto a parques zool\u00f3gicos. Y mucho m\u00e1s despu\u00e9s de las pol\u00e9micas que despierta el zoo de Barcelona. Respeto a los derechos de animales.", 
+        "title": "Cerrar el zoo de Barcelona", 
+        "total_comments": 12, 
+        "total_negative_comments": 3, 
+        "total_neutral_comments": 4, 
+        "total_positive_comments": 3, 
+        "total_votes": 112, 
+        "url": "https://decidim.barcelona/pam/proposals/cerrar-el-zoo-de-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

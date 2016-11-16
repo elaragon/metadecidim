@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Em sembla una molt bona iniciativa. Es podrien consultar les places en temps real en una app tipus la del Bicing.\n<br />De fet ja va haver-hi una prova pilot a Barcelona i s'hauria d'estendre a tota la ciutat: <a href=\"http://premsa.bcn.cat/2014/11/12/barcelona-desplega-el-primer-smart-parquing-de-la-ciutat-als-carrers-del-districte-de-les-corts/\">http://premsa.bcn.cat/2014/11/12/barcelona-desplega-el-primer-smart-parquing-de-la-ciutat-als-carrers-del-districte-de-les-corts/</a></p>", 
+            "commentable_id": 3522, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/02/2016 15:08:26", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2825, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2825", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8557, 
+                "name": "Soledad Chianese", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Esa noticia es del 2014 y no avanz\u00f3 de esa zona. Por otro lado ese tipo de alarma depende de la voluntad de otros de publicar las plazas libres, por lo cual no es muy fiable. Por ultimo es una pena que lo hagan en zonas donde la mayor\u00eda de los vecinos se pueden permitir un parking privado.</p>", 
+            "commentable_id": 3522, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/02/2016 17:25:30", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2849, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2825/2849", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Mejor que exista una prueba en 2014 dado eso significa que el Ayuntamiento cuenta ya con experiencia previa sobre su propuesta. Si no se extendi\u00f3 en otras zonas de la ciudad, debemos insistir entonces en que as\u00ed sea.\n<br />Referente el funcionamiento, seg\u00fan tengo entendido se instalan unos sensores en cada plaza de aparcamiento -en el asfalto- y el sistema ofrece la informaci\u00f3n en tiempo real. Creo que nadie tiene que publicar si ha dejado la plaza libre o no.\n<br />Sobre la zona escogida para realizar la prueba piloto, por alg\u00fan sitio ten\u00edan que empezar\u2026 Pero ya que estamos, en otras zonas de la ciudad no hay que pagar la zona verde ni azul y en cambio en Les Corts, s\u00ed.\n<br />Volviendo a su propuesta, \u00bfcu\u00e1l cree que ser\u00eda el mejor sistema para la se\u00f1alizaci\u00f3n de las plazas libres?\n<br />Un cordial saludo,</p>", 
+            "commentable_id": 3522, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/02/2016 18:38:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2855, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

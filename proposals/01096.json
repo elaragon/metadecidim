@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 61, 
+            "name": "Bubibu", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 61, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1096", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1096, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Al barri g\u00f2tic tenim un edifici que est\u00e0 en.perill d'esdevenir en un nou punt d'atracci\u00f3 pels turistes. Necessitem recuperar-lo pel barri i que torni a ser un equipament efucatiu: una escola de m\u00fasica.\r\n", 
+        "title": "Recuperem el Bors\u00ed, anomenada tamb\u00e9 La Llotja", 
+        "total_comments": 11, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 6, 
+        "total_positive_comments": 1, 
+        "total_votes": 86, 
+        "url": "https://decidim.barcelona/pam/proposals/recuperem-el-borsi-anomenada-tambe-la-llotja", 
+        "votable": null, 
+        "voted": null
+    }
+}

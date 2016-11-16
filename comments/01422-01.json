@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2895, 
+                "name": "Josep Maria", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El mite de que els que demanen almoines son empleats d'organitzacions que viuen d'aix\u00f2 no s'aguanta. Diguem una sola organitzaci\u00f3 que s'hagi descobert. El mateix mite que deia que els materos eran venedors de mafies que es feien millonaries a costa de explotar-los i que s'ha demostrat que era mentida. La mendicitat a BCN es una consequencia de la desigualtat i la pobresa.</p>", 
+            "commentable_id": 1422, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 20:44:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 999, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3725, 
+                "name": "Maitestac", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>N'hi ha. P-e, nigerians al voltant dels mercats. Tots son Nigerians i estan organitzats. Quant als romanesos digem-ne que son clans, si vols</p>", 
+            "commentable_id": 1422, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/02/2016 08:06:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1385, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "999", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3464, 
+                "name": "fnicolau", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Sempre s\u00f3n les mateixes persones que demanen almoina en els mateixos llocs, fins que la m\u00e0fia en porta de nous i els resitua.  Va per tandes. Nom\u00e9s cal observar el que es veu cada dia. N'hi ha que no es poden despla\u00e7ar tots sols. Potser no s\u00f3n organitzacions, per\u00f2 clans, grups... Q\u00fcesti\u00f3 de terminologia.</p>", 
+            "commentable_id": 1422, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/02/2016 17:46:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1181, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

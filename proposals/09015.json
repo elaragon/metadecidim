@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9015", 
+        "conflictive": false, 
+        "created_at": "07/04/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9015, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Fer activitats l\u00fadiques a l\u2019abast de tothom, com per exemple, cinema a la fresca al vel\u00f2drom d\u2019Horta i tamb\u00e9 algun pla gratu\u00eft per gent sense recursos i en risc d\u2019exclusi\u00f3 d\u2019entrades per poder anar a veure museus, edificis, etc, de la ciutat de Barcelona.", 
+        "title": "Potenciar activitats l\u00fadiques i culturals arreu de la ciutat a l\u2019abast de tothom", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/potenciar-activitats-ludiques-i-culturals-arreu-de-la-ciutat-a-l-abast-de-tothom-1e248d3f-3cba-40f4-98ef-f4387176f5d1", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8399, 
+            "name": "Uri Carva Carvajal", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 8399, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3483", 
+        "conflictive": false, 
+        "created_at": "25/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3483, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "El turisme \u00e9s el gran motor de la ciutat, creador de llocs de treball i el que ha fet de Barcelona un dels principals destins europeus. Per\u00f2 a causa d'aix\u00f2 els barcelonins ens hem trobat amb certes p\u00e8rdues de privilegis. No vull pagar 5 \u20ac per entrar al Castell de Montju\u00efch o a la Catedral perqu\u00e8 considero que llocs aix\u00ed s\u00f3n dels barcelonins. ", 
+        "title": "Entrades gratu\u00eftes o preu simb\u00f2lic a les principals Atraccions tur\u00edstiques per els barcelonins", 
+        "total_comments": 7, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 5, 
+        "total_votes": 248, 
+        "url": "https://decidim.barcelona/pam/proposals/entrades-gratuites-o-preu-simbolic-a-les-principals-atraccions-turistiques-per-els-barcelonins", 
+        "votable": null, 
+        "voted": null
+    }
+}

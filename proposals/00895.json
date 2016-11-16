@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-895", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 895, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Conveni peri\u00f2dic entre Ajuntament i Generalitat en el marc del Consorci Sanitari de Barcelona.  \u00c9s clau per fer front a les necessitats d'equipaments sanitaris a la ciutat, tenint en compte l'aposta per una sanitat p\u00fablica universal, equitativa i de qualitat, i que sigui propera i accessible per a tothom.", 
+        "title": "Pla d'equipaments sanitaris 2016-2023", 
+        "total_comments": 15, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 12, 
+        "total_positive_comments": 3, 
+        "total_votes": 42, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-d-equipaments-sanitaris-2016-2023", 
+        "votable": null, 
+        "voted": null
+    }
+}

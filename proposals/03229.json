@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 7190, 
+            "name": "alex.mady", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 7190, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3229", 
+        "conflictive": false, 
+        "created_at": "22/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3229, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Ser\u00eda justo asegurar una plaza de guarder\u00eda para todos los beb\u00e9s que la soliciten. Si existen muchas solicitudes quiere decir que existe una necesidad concreta. Para muchos padres esa es una obligaci\u00f3n econ\u00f3mica trabajar los 2. Adem\u00e1s el coste de la matr\u00edcula es escandalosa, m\u00e1s de 3000 euros al a\u00f1o! Bajar el precio y aumentar las plazas. ", 
+        "title": "Guarder\u00edas municipales: Plazas y Coste. ", 
+        "total_comments": 5, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 5, 
+        "total_positive_comments": 0, 
+        "total_votes": 37, 
+        "url": "https://decidim.barcelona/pam/proposals/guarderias-municipales-plazas-y-coste", 
+        "votable": null, 
+        "voted": null
+    }
+}

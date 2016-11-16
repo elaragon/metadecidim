@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7073, 
+                "name": "ACC", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Posats a demanar, recuperar el projecte amb al menys una piscina gran amb aigua de mar . Can Felipa esta malament i tenir el poliesportiu buit al costat del mar fa mal. </p>", 
+            "commentable_id": 1954, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/02/2016 15:07:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2277, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8153, 
+                "name": "Enric A", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aprofitar per dignificar el solar-aparcament on hi ha un camp de volei platja abandonat i les instal\u00b7lacions de l'escola de windsurf en barracons. Recuperar el projecte de construir una piscina.</p>", 
+            "commentable_id": 1954, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/02/2016 21:18:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2627, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16564, 
+                "name": "JORDI DEL P9", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic d'acord, can Felipa es un zulo i el  CEM Maresme queda molt lluny</p>", 
+            "commentable_id": 1954, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 16:02:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7428, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17341, 
+                "name": "teresaalva", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord, i per favor fem un camp de rugbi en condicions, lamentable l'estat de l'actual. camp d'herba artificial ja.</p>", 
+            "commentable_id": 1954, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 17:41:30", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8763, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

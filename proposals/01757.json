@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4936, 
+            "name": "MaxRiera", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4936, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1757", 
+        "conflictive": false, 
+        "created_at": "12/02/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "http://www.elperiodico.cat/ca/noticias/sant-marti/placa-que-neixer-dura-4717450", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1757, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Caldria obrir la zona dels gossos (pipi-can). Ara els gossos campen per tot el parc,  fent que tot sovint s'ompli tot de caques de gos. D'altrabanda, caldria millorar la vegetaci\u00f3 i crear m\u00e9s muralla entre la zona infantil i la Meridiana pel soroll, contaminaci\u00f3, etc.. Moure el parc infantil al darrera (c/ Deg\u00e0 Bah\u00ed) per evitar soroll, perill", 
+        "title": "Acabament zona verda i parc (Meridiana / Trinxant)", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 28, 
+        "url": "https://decidim.barcelona/pam/proposals/acabament-zona-verda-i-parc-meridiana-trinxant", 
+        "votable": null, 
+        "voted": null
+    }
+}

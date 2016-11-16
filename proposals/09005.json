@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 11080, 
+            "name": "Francesc Robust\u00e9", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 11080, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9005", 
+        "conflictive": false, 
+        "created_at": "07/04/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 9005, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Tots els ve\u00efns coneixem els venedors il\u00b7legals a les Rambles (xiulets, helic\u00f2pters, llauners, etc.) que molestes als vianants amb els seus reclams comercials i ni la Gu\u00e0rdia Urbana ni els Mossos d\u2019Esquadra fan res. Com a m\u00ednim que cada cop els requisin la mercaderia. ", 
+        "title": "Prohibir el comer\u00e7 il\u00b7legal (manters, xiulets, helic\u00f2pters, llauners) i delictiu (drogues, sexe) a les Rambles", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/prohibir-el-comerc-il-legal-manters-xiulets-helicopters-llauners-i-delictiu-drogues-sexe-a-les-rambles", 
+        "votable": null, 
+        "voted": null
+    }
+}

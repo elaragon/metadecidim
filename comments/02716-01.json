@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5519, 
+                "name": "teresa cambra", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic d'acord. Quan has passar pel caminet, has d'anar amb cura de no trepitjar cap gos. Tota manera \u00e9s un espai clarament social del barri i \u00e9s bonic que aixi sigui. Credc que on hi ha el pipi can, el cant\u00f3 dret des de Thous, es prodia ampliar per a gossos ja que queden parts inutilitzades i molt desangelades. Em refereixo al tros de l'escultura fins la biblioteca. Tamb\u00e9 hi plantearia m\u00e9s arbres ja que propietaris de gossos s'ubique n al caminet pels bancs , bons per a taert\u00falies, o els arbres, genials per a l'ombra. Tanmateix, la part de la dreta mantindria la gespa . MGrada veure la gent a la gespa estirada parlant. Amb recorda aquell concepte de jard\u00ed alemany, tipus Tiergaraten, on la gent s'ajeu a terra. cRec que seria un bon contrast amb el parc de les aig\u00dces que \u00e9s un parc molt ciutad\u00e0, per\u00f2 no ofereix aquesta possibilitat. tRobo a a faltar a barcelona aquest tipus de parc obert a la natura i a  la comoditat. No se sent la natura igual si s'est\u00e0 a un banc o a terra deixant el so</p>", 
+            "commentable_id": 2716, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/02/2016 08:55:14", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1978, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14271, 
+                "name": "Jos\u00e9 Luis Lalueza", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El mateix passa a la part alta del Parc del Guinard\u00f3, al costat de Gran Vista, on l'espai ha estat apropiat pels propietaris de gossos. </p>", 
+            "commentable_id": 2716, 
+            "commentable_type": "Proposal", 
+            "created_at": "20/03/2016 13:11:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5976, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

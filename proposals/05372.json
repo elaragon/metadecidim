@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 11816, 
+            "name": "Sbarbens", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 11816, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5372", 
+        "conflictive": false, 
+        "created_at": "16/03/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "https://www.google.es/maps/place/diagonal+414+barcelona/@41.3980547,2.1648342,3a,90y,4.24h,81.57t/data=!3m6!1e1!3m4!1spiL6xetbGmXBucDuhksUPg!2e0!7i13312!8i6656!4m2!3m1!1s0x0:0xdbfea7b793c0d232!6m1!1e1", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5372, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 13, 
+            "name": "Turisme sostenible", 
+            "position": 5
+        }, 
+        "summary": "Est\u00e0 prevista la construcci\u00f3 d'un hotel a Diagonal 414 (cantonada Bruc). Aquest espai compte amb una vorera molt estreta en plena Diagonal (menor a 1 metre) i els vehicles passen a velocitat superior a 50 km/h. La construcci\u00f3 i funcionament de l'hotel generar\u00e0 major risc d'atropellament de vianants, degut a obres i al posterior flux de persones.", 
+        "title": "Aturar Hotel Diagonal 414 (cantonada Bruc)", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/aturar-hotel-diagonal-414-cantonada-bruc", 
+        "votable": null, 
+        "voted": null
+    }
+}

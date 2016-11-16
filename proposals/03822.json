@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10144, 
+            "name": "Associaci\u00f3 Planificaci\u00f3 Familiar Catalunya", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 10144, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3822", 
+        "conflictive": false, 
+        "created_at": "03/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://observatori.apfcib.org/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3822, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "L'educaci\u00f3 sexual \u00e9s un dret fonamental que afavoreix a la promoci\u00f3 de la salut i la qualitat de vida de les persones i fer-ho des de la coeducaci\u00f3 \u00e9s imprescindible per aconseguir una societat equitativa i saludable. Per aix\u00f2 cal que s'integrin aquests programes formatius a l'educaci\u00f3 obligat\u00f2ria adaptada a cada etapa d'edat.", 
+        "title": "Programa de coeducaci\u00f3 sexual obligat\u00f2ria a les escoles de Barcelona", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 10, 
+        "url": "https://decidim.barcelona/pam/proposals/programa-de-coeducacio-sexual-obligatoria-a-les-escoles-de-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

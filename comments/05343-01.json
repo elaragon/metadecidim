@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12009, 
+                "name": "Associacio Catalana per la Defensa de la Sanitat P\u00fablica", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La despesa de les families en atenci\u00f3 sanit\u00e0ria bucodental al 2014 va continuar el seu increment. Aix\u00f2 es un signe manifest de desigualtat en la atenci\u00f3 sanit\u00e0ria del nostre actual sistema sanitari. Els esc\u00e0ndols recents (Vitaldent, etc) tamb\u00e9 senyalen una desprotecci\u00f3 i inseguretat per la gent en el seu dret a la salut tan per nens i persones grans com per la resta de la poblaci\u00f3.</p>", 
+            "commentable_id": 5343, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/03/2016 13:03:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6447, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9259, 
+                "name": "suport decidim.salut", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda a la cita Com millorem la salut de les persones en situaci\u00f3 de pobresa:</p>\n\n<p>\u2022\tIncorporar recursos b\u00e0sics (Cartera Serveis P\u00fablics) en oftalmologia, odontologia, podologia... En especial pels col\u00b7lectius en situaci\u00f3 de pobresa.</p>", 
+            "commentable_id": 5343, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 19:27:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7452, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

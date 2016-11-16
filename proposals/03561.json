@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8725, 
+            "name": "Sergi Torn\u00e9 Viudas", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 8725, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3561", 
+        "conflictive": false, 
+        "created_at": "26/02/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3561, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Gr\u00e0cia es un dels barris amb menys superf\u00edcie verda de Barcelona, i de les que reformen (pl. Lesseps, o pl. Gal\u00b7la Plac\u00eddia) l'espai arbrat o amb gespa va en retroc\u00e9s a favor de places dures i asfaltades. Reverdim les places dures x crear espais de tranquil\u00b7litat, millorant la qualitat de l'aire i a\u00efllant ac\u00fasticament dels vehicles rodats.", 
+        "title": "Reverdim les places dures de Gr\u00e0cia", 
+        "total_comments": 4, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 167, 
+        "url": "https://decidim.barcelona/pam/proposals/reverdim-les-places-dures-de-gracia", 
+        "votable": null, 
+        "voted": null
+    }
+}

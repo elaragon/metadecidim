@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 11214, 
+            "name": "ABD Associaci\u00f3 Benestar i Desenvolupament", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 11214, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4500", 
+        "conflictive": false, 
+        "created_at": "09/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4500, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Si b\u00e9 la xarxa d'atenci\u00f3 a persones sense sostre s'ha consolidat a Barcelona, cal complementar aquesta aposta amb serveis especialitzats adre\u00e7ats a persones en consum actiu de drogues que actualment no poden accedir a la xarxa (30 persones min). El servei ha de poder atendre al consum i per tant dissenyar-se des dels programes de reducci\u00f3 del dany.", 
+        "title": "Recursos residencials per persones amb problemes de salut mental i consum actiu de drogues", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 17, 
+        "url": "https://decidim.barcelona/pam/proposals/recursos-residencials-per-persones-amb-problemes-de-salut-mental-i-consum-actiu-de-drogues", 
+        "votable": null, 
+        "voted": null
+    }
+}

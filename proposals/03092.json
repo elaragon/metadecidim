@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3092", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3092, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 5, 
+            "name": "Cicles de vida ", 
+            "position": 5
+        }, 
+        "summary": "Ampliar les places en equipaments per a gent gran en les zones del districte amb menys serveis, com la Verneda Alta, Sant Mart\u00ed, Clot-Camp de l'Arpa i Proven\u00e7als del Poblenou i el Bes\u00f2s i el Maresme. Instar les administracions corresponents per a l\u2019obertura de nous equipaments per a la gent gran.", 
+        "title": "Ampliar els equipaments per a gent gran a la Verneda, Sant Mart\u00ed, Clot-Camp de l'Arpa (Alchemika) i l'eix Pere IV (casal de Ca l'Isidret)", 
+        "total_comments": 4, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 4, 
+        "total_positive_comments": 0, 
+        "total_votes": 26, 
+        "url": "https://decidim.barcelona/pam/proposals/ampliar-els-equipaments-per-a-gent-gran-a-la-verneda-sant-marti-clot-camp-de-l-arpa-alchemika-i-l-eix-pere-iv-casal-de-ca-l-isidret", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16389, 
+                "name": "Jordi A.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El antic cinema Niza per el barri, per els veins i veines, per projectes e iniciatives de oci i culturals. Tallers de m\u00fasica, teatre, art y cultura en general, espai de reuni\u00f3, potenciaci\u00f3 de la participaci\u00f3 e idees. </p>", 
+            "commentable_id": 2356, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 13:52:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7186, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/experiencies-de-cessio-i-autogestio-amb-entitats-i-col-lectius-en-equipaments-i-espais-publics\">https://decidim.barcelona/proposals/experiencies-de-cessio-i-autogestio-amb-entitats-i-col-lectius-en-equipaments-i-espais-publics</a></p>", 
+            "commentable_id": 2356, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 11:47:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11814, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/fomentar-el-treball-en-xarxa-entre-els-diferents-actors-que-treballen-al-territori\">https://decidim.barcelona/proposals/fomentar-el-treball-en-xarxa-entre-els-diferents-actors-que-treballen-al-territori</a></p>", 
+            "commentable_id": 2356, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 11:47:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11817, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

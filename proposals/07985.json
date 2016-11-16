@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-7985", 
+        "conflictive": false, 
+        "created_at": "04/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 7985, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 26, 
+            "name": "Govern transparent  i rendici\u00f3 de comptes", 
+            "position": 1
+        }, 
+        "summary": "En el projecte de B\u00fastia \u00c8tica es proposa d\u2019identificar col\u2022lectius de treballadors per a dissenyar canals i procediments espec\u00edfics de salvaguarda davant de major risc de den\u00fancies falses (exemple, treballadors d\u2019atenci\u00f3 al p\u00fablic, o t\u00e8cnics de l\u2019\u00e0mbit de subvencions)", 
+        "title": "B\u00fastia \u00c8tica, i  Avantprojecte del Codi \u00c8tic i de Conducta, de la Direcci\u00f3 d\u2019An\u00e0lisi/Direcci\u00f3 de Control i Gesti\u00f3 ", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 2, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/bustia-etica-i-avantprojecte-del-codi-etic-i-de-conducta-de-la-direccio-d-analisi-direccio-de-control-i-gestio", 
+        "votable": null, 
+        "voted": null
+    }
+}

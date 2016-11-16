@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6232", 
+        "conflictive": false, 
+        "created_at": "21/03/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 6232, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Millorar la difusi\u00f3 de les activitats informatives que es realitzen als barris (xerrades, jornades, etc.) sobre q\u00fcestions de salut. Adaptar les estrat\u00e8gies als col\u2022lectius, perqu\u00e8 hi ha sectors on no s\u2019hi arriba. Una alternativa podria ser garantir que a cada portal/escala hi ha un espai informatiu amb les activitats pr\u00f2ximes.", 
+        "title": "Millorar la difusi\u00f3 de les activitats informatives que es realitzen als barris sobre q\u00fcestions de salut. ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/millorar-la-difusio-de-les-activitats-informatives-que-es-realitzen-als-barris-sobre-questions-de-salut", 
+        "votable": null, 
+        "voted": null
+    }
+}

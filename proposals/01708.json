@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4572, 
+            "name": "Gemma Riquelme", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4572, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1708", 
+        "conflictive": false, 
+        "created_at": "10/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://espaigosbcn.com/   https://www.facebook.com/gossoscorts/   http://www.parquehiroshima.cat/moltes-gracies-per-assistir-espai-gos-barcelona/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1708, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Crear a la ciutat zones d\u00b4esbarjo pels gossos, on puguin c\u00f3rrer, jugar i relacionar-se entre ells i on tamb\u00e9 els seus acompanyants poguem sentir-nos a gust sense que ning\u00fa ens criminalitzi pel fet de portar-los deslligats. Espais verds suficients i adients \r\nd\u00b4un m\u00ednim de 700 metres quadrats que garanteixin tamb\u00e9 els nostres drets de ciutadants", 
+        "title": "ZONES D\u00b4ESBARJO PER  A GOSSOS I ELS SEUS ACOMPANYANTS", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 21, 
+        "url": "https://decidim.barcelona/pam/proposals/zones-d-esbarjo-per-a-gossos-i-els-seus-acompanyants", 
+        "votable": null, 
+        "voted": null
+    }
+}

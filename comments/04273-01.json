@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 21570, 
+                "name": "Jordi Callej\u00f3n", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Encara no s\u00b4enten com aquesta vorera no s\u00b4arregla i es fa una mica mes ampla. Ve\u00efnat nou, escola al costat i sobrecarrega de cotxes en doble fila.\n<br />Necessita intervenci\u00f3 d\u00b4inmediat, algu pendr\u00e0 mal algun dia, ja que a part , est\u00e0 en molt mal estat.</p>", 
+            "commentable_id": 4273, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 15:36:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11002, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

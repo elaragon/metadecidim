@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1261, 
+            "name": "Daniel #NoalTTIP", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1261, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1565", 
+        "conflictive": false, 
+        "created_at": "07/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1565, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Res m\u00e9s molest que anar caminant i que et vingui a la cara el fum de la persona del davant. Aix\u00f2 ja es fa a Tokyo. Prohibit fumar al carrer caminant. Nom\u00e9s a punts senyalats. B\u00f3 pels no fumadors, obvi, i tamb\u00e9 pels fumadors, que al tenir-ho m\u00e9s magre es replantejaran el mal h\u00e0bit de mort", 
+        "title": "Prohibir fumar al carrer en moviment", 
+        "total_comments": 10, 
+        "total_negative_comments": 4, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 31, 
+        "url": "https://decidim.barcelona/pam/proposals/prohibir-fumar-al-carrer-en-moviment", 
+        "votable": null, 
+        "voted": null
+    }
+}

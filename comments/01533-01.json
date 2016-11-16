@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2870, 
+                "name": "Xavier ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Enr ealitat s'hauria de regar a primer\u00e7issima hora del mat\u00ed, despr\u00e9s que els gossos hagin sortit a pixar, per tornar a deixar la ciutat neta. </p>", 
+            "commentable_id": 1533, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 18:59:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 976, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4750, 
+                "name": "iglous", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Crec, a m\u00e9s, que amb el rec a pressi\u00f3 nom\u00e9s es remena la porqueria, escampant-la per les parets i portes, perjudicant-les. No cal dir que, si hi passes mentre ho estan fent, fins i tot es pot introduir al cos per les vies respirat\u00f2ries, creant un problema de Salut P\u00fablica. Amb el baldeig, l'aigua arrossegava la porqueria a les clavegueres.</p>", 
+            "commentable_id": 1533, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/02/2016 11:57:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1505, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "976", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1208, 
+                "name": "Jebimetal", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Senzillament: Si el 90% dels propietaris de gossos no f\u00f3ssin tan bruts, permetent (com si fos normal) que les voreres estiguin plenes d'orins, potser no faria falta iniciar aquesta proposta.</p>", 
+            "commentable_id": 1533, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/02/2016 19:29:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1099, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

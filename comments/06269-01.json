@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Al taller Eduard Aun\u00f3s va ternir lloc   una cita presencial amb adolescents del barri de la Marina del Prat Vermell per tal de que debatessin diferents propostes per millorar la qualitat de vida en el seu barri. Aquests van proposar crear m\u00e9s fonts a l'espai p\u00fablic perqu\u00e8 actualment no n'hi ha. Els nois/es exposen que \u00e9s perqu\u00e8 molts adults es punxen droga, per\u00f2 a ells quan juguen al carrer els agradaria disposar de m\u00e9s fonts. </p>", 
+            "commentable_id": 6269, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 15:56:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8038, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/rehabilitacio-del-teixit-urba\">https://decidim.barcelona/proposals/rehabilitacio-del-teixit-urba</a></p>", 
+            "commentable_id": 6269, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/04/2016 13:44:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 13772, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

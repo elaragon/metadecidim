@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4325", 
+        "conflictive": false, 
+        "created_at": "08/03/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 4325, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "\u00c9s un acc\u00e9s natural de gran part del ve\u00efnatge cap a Montju\u00efc i davant del Poble Espanyol es d\u00f3na un considerable  tr\u00e0nsit de vianants, la majoria dels quals s\u00f3n turistes, que travessen l'avinguda sense garanties a la seva seguretat per la velocitat amb que circulen els vehicles.", 
+        "title": "Posar sem\u00e0fors o bandes limitadores de la velocitat a l'Avd. Ferrer i Gu\u00e0rdia en els punts de connexi\u00f3 amb el C/ Morabos", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 8, 
+        "url": "https://decidim.barcelona/pam/proposals/posar-semafors-o-bandes-limitadores-de-la-velocitat-a-l-avd-ferrer-i-guardia-en-els-punts-de-connexio-amb-el-c-morabos", 
+        "votable": null, 
+        "voted": null
+    }
+}

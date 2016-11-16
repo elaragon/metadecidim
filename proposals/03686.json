@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3686", 
+        "conflictive": false, 
+        "created_at": "01/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 3686, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 20, 
+            "name": "Administraci\u00f3  intel\u00b7ligent i inclusiva", 
+            "position": 4
+        }, 
+        "summary": "Fomentar la igualtat de g\u00e8nere en les contractacions incloent cl\u00e0usules que afavoreixin les condicions laborals de les dones (acc\u00e9s laboral salaris...), aix\u00ed com tamb\u00e9 afegir protocols de prevenci\u00f3 i intervenci\u00f3 contra l\u2019assetjament sexual i l\u2019assetjament per ra\u00f3 de sexe.  A m\u00e9s, incloure un protocol d\u2019obligat compliment per a la seva aplicaci\u00f3 ", 
+        "title": "Fomentar la igualtat de g\u00e8nere en les contractacions incloent cl\u00e0usules que afavoreixin les condicions laborals de les dones, aix\u00ed com protocols de prevenci\u00f3 i intervenci\u00f3 contra l\u2019assetjament sexual ", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 28, 
+        "url": "https://decidim.barcelona/pam/proposals/fomentar-la-igualtat-de-genere-en-les-contractacions-incloent-clausules-que-afavoreixin-les-condicions-laborals-de-les-dones-aixi-com-protocols-de-prevencio-i-intervencio-contra-l-assetjament-sexual", 
+        "votable": null, 
+        "voted": null
+    }
+}

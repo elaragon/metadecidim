@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2183, 
+                "name": "KK", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No escriguis el t\u00edtol de la proposta o frases senceres en maj\u00fascules. A internet aix\u00f2 es considera cridar. I a ning\u00fa li agrada que li cridin.</p>", 
+            "commentable_id": 1456, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 17:27:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 677, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "677", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2237, 
+                "name": "DAVID CALV\u00d3 BLANCO", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Moltes gr\u00e0cies pel comentari.En cap cas era la meva intenci\u00f3 cridar.Atentament.</p>", 
+            "commentable_id": 1456, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/02/2016 12:11:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1141, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

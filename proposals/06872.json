@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 3717, 
+            "name": "Salvador Pastor Blasco", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 3717, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6872", 
+        "conflictive": false, 
+        "created_at": "26/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6872, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 18, 
+            "name": "Participaci\u00f3 ciutadana", 
+            "position": 2
+        }, 
+        "summary": "la dispersi\u00f3n,la proximidad o de alejamiento de densidad o concentraci\u00f3n,es un valor para la producci\u00f3n,la funci\u00f3n de los equipamientos colectivos es producir integraci\u00f3n en la ciudad, esta  esta compuesta por la conexi\u00f3n de sistemas mec\u00e1nicos confluyentes,definiendo una l\u00f3gica material un ordenamiento interno y no s\u00f3lo sean capital acumulado", 
+        "title": "la riqueza, la produccion de la misma y las funciones de los equipamientos", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/la-riqueza-la-produccion-de-la-misma-y-las-funciones-de-los-equipamientos", 
+        "votable": null, 
+        "voted": null
+    }
+}

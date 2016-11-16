@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 827, 
+                "name": "Marga", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic conven\u00e7uda que l'Ajuntament disposa de gent molt treballadora i preparada, per\u00f2 tamb\u00e9 gent que un dia va treure unes oposicions i que no ha seguit format-se o treballant el que cal. Segur que no necessitem externalitzar tants serveis perqu\u00e8 llavors en perdem el control i no garantim el bon funcionament. No t\u00e9 sentit el funcionariat, les necessitats canvien, no tothom est\u00e0 disposat a reciclar-se i al final arrosseguem una quantitat de treballadors que no cumpleixen i no podem contractar als que necessitem. No es tracta de generar inseguretat laboral, es tracta de tenir gent preparada, que es recicla, que fa be la seva feina, ben pagada, amb uns horaris correctes, amb conciliaci\u00f3 laboral i familiar real.</p>", 
+            "commentable_id": 6940, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 20:16:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6654, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

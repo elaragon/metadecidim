@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3688", 
+        "conflictive": false, 
+        "created_at": "01/03/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 3688, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 4, 
+            "name": "Equitat de g\u00e8nere i diversitat sexual", 
+            "position": 4
+        }, 
+        "summary": "Es detecta la necessitat de dotar de m\u00e9s recursos al PIAD i sobretot fer-lo m\u00e9s visible per a la ciutadania. Aix\u00ed mateix, es sol\u2022licta un PIAD per a cada barri.", 
+        "title": "Dotar els PIADs de m\u00e9s recursos i sobretot visibilitat a trav\u00e9s de fer promoci\u00f3 i difusi\u00f3 en actes de barri/districte. I alhora tamb\u00e9 com a objectiu a llarg termini disposar d\u2019un PIAD per a cada barri. ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 8, 
+        "url": "https://decidim.barcelona/pam/proposals/dotar-els-piads-de-mes-recursos-i-sobretot-visibilitat-a-traves-de-fer-promocio-i-difusio-en-actes-de-barri-districte-i-alhora-tambe-com-a-objectiu-a-llarg-termini-disposar-d-un-piad-per-a-cada-barri", 
+        "votable": null, 
+        "voted": null
+    }
+}

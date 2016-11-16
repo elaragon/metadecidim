@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8701, 
+                "name": "Elisabet Juan", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ja ho fan els privats, no els hi feu la compet\u00e8ncia... No per crear espai es crea ocupaci\u00f3...</p>", 
+            "commentable_id": 3040, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/02/2016 15:54:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2840, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 285, 
+                "name": "Hector", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>sempre i quan no siguin com els coworkings convencionals que s\u00f3n bombolles espculatives, quimeres d'or de la oportunitat de treball en la que al final nom\u00e9s 4 aconsegueixen alguna cosa i la resta malviuen esperant fer-ho trebllant 14 hores al dia.</p>", 
+            "commentable_id": 3040, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/03/2016 20:01:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3501, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2840", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 285, 
+                "name": "Hector", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>nom\u00e9s per curiositat, per\u00f2 per la zona per sobre dels turons al districte quins espais d'aquests hi ha?</p>", 
+            "commentable_id": 3040, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/03/2016 19:59:30", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3500, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2840/3500", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8701, 
+                "name": "Elisabet Juan", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>M'encantaria treballar on visc, per\u00f2 des de l'edat mitjana el treball es clusteritza. Crear espais per treballar no garanteix feina i els free lance que ocupen els coworking tindran mes oportunitats de negoci i relaci\u00f3 all\u00e0 on toca ser, Eixample i 22 @.</p>", 
+            "commentable_id": 3040, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/03/2016 19:54:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4430, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2840/3500/4430", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 285, 
+                "name": "Hector", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>dubto que sigui un vull treballar on visc, si no el no vull que certes zones de la ciutat nom\u00e9s siguin dormitoris on no passa res i altres concentrin tota la activitat.\n<br />Que les coses siguin aix\u00ed per tradici\u00f3 des de l'edat mitjana, ... una mica de rigor hist\u00f2ric, ... la ciutat no \u00e9s un agent inequ\u00edvoc que treballa en una s\u00f3la direcci\u00f3. Treballa en molts sentits. I Barcelona en els \u00faltims anys est\u00e0 treballant en el sentit de convertir en marginalitat el que era perif\u00e8ria. I si tota l'activitat es concetra en punts concrets estan aocant a la mis\u00e8ria a barris sencers</p>", 
+            "commentable_id": 3040, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 12:30:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4487, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4971, 
+                "name": "ECOM", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": true
+            }, 
+            "body": "<p>-\tMantenir la l\u00ednia de suport a les entitats del Tercer Sector per continuar oferint els serveis d\u2019intermediaci\u00f3 laboral a la ciutat.\n<br />-\tGarantir el compliment del Decret d\u2019Alcaldia de Contractaci\u00f3 P\u00fablica Responsable, publicat el novembre del 2013, en tots els plecs de condicions per qualsevol contractaci\u00f3 de l\u2019Ajuntament</p>", 
+            "commentable_id": 1795, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 11:04:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7346, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4971, 
+                "name": "ECOM", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": true
+            }, 
+            "body": "<p>Us expliquem, m\u00e9s \u00e0mpliament, la nostra proposta:\n<br />-\tInclusi\u00f3 d'ofici en tots els plecs de contractaci\u00f3 administrativa de cl\u00e0usules socials que prioritzin a les empreses licitadores que facin esfor\u00e7os de responsabilitat legal i social contractant persones amb discapacitat.\n<br />-\tAn\u00e0lisi del grau de compliment de la quota legal de reserva d'ocupaci\u00f3 a l\u2019Ajuntament de Barcelona i comprom\u00eds per aconseguir-la en el transcurs del mandat. S'ha d'aconseguir l'objectiu del 2% de treballadors p\u00fablics amb discapacitat. Per tant, cal elevar del 5% al 7% de la quota de reserva m\u00ednima en les oposicions o altres proves d'acc\u00e9s per persones amb discapacitat. Aix\u00ed mateix, \u00e9s necessari vetllar per tal que en la promoci\u00f3 de llocs interns tamb\u00e9 s\u2019apliquin mesures de reserva m\u00ednima envers les persones amb discapacitat.</p>", 
+            "commentable_id": 1795, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 11:05:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7347, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

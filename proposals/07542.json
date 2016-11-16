@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 16270, 
+            "name": "Eduard.", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 16270, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7542", 
+        "conflictive": false, 
+        "created_at": "31/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7542, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Creaci\u00f3 d'un pla per millorar, revisar i adequar les infraestructures d'escoles d'art pertinents al consorci, com l'Escola Llotja o l'Escola d'Art La Industrial, Aix\u00ed com tamb\u00e9 recuperar l'antiga seu de l'Escola Llotja del Carrer Aviny\u00f3 com a recinte educatiu art\u00edstic, com aposta de futur i refor\u00e7 de l'art, l'artesania i el disseny a la ciutat.", 
+        "title": "Impulsar i promoure els ensenyaments art\u00edstics com a aposta de futur.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 22, 
+        "url": "https://decidim.barcelona/pam/proposals/impulsar-i-promoure-els-ensenyaments-artistics-com-a-aposta-de-futur", 
+        "votable": null, 
+        "voted": null
+    }
+}

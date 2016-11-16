@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 912, 
+                "name": "Luis Lopez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A favor. Pero NO un PIN m\u00e1s, que las administraciones se pongan de acuerdo en el sistema de identificaci\u00f3n segura para todos los \u00e1mbitos. \u00a1Y sin necesidad de comprarse un lector de chips! Hay estudios opensource muy avanzados.</p>", 
+            "commentable_id": 2829, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 13:02:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4155, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15599, 
+                "name": "Paseante", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tambi\u00e9n con transparencia para evitar manipulaci\u00f3n municipal o de otros</p>", 
+            "commentable_id": 2829, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 22:22:26", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6865, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/garantir-la-vida-digna-de-les-persones\">https://decidim.barcelona/proposals/garantir-la-vida-digna-de-les-persones</a></p>", 
+            "commentable_id": 2829, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 14:50:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9519, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/combatre-la-bretxa-digital-i-de-formacio-substituir-googledrive-i-gmail-per-solucions-lliures-i-respectuoses-de-la-privacitat-a-l-ensenyament\">https://decidim.barcelona/proposals/combatre-la-bretxa-digital-i-de-formacio-substituir-googledrive-i-gmail-per-solucions-lliures-i-respectuoses-de-la-privacitat-a-l-ensenyament</a></p>", 
+            "commentable_id": 2829, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 17:43:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17361, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

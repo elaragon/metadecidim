@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 327, 
+                "name": "V\u00edctor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic d'acord parcialment. El que cal rotundament \u00e9s m\u00e9s acci\u00f3 contra aquests sense vergonyes per\u00f2 no s\u00e9 si seria adequat aquests tipus de senyal\u00edstiques per la ciutat.</p>", 
+            "commentable_id": 4191, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 11:03:14", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5198, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12303, 
+                "name": "Xavier Barreras Merino", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic d'acord ja que aix\u00f2 transmet m\u00e9s seguretat als turistes per\u00f2 tamb\u00e9 estic en contra perqu\u00e8 Mossos i Gu\u00e0rdia Urbana ja treballen i informen sobre aix\u00f2</p>", 
+            "commentable_id": 4191, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/03/2016 11:09:21", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6232, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 20647, 
+                "name": "Andajari ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tinc entes que si roben menys de 400\u20ac no pasa gaire cosa al carterista. Hauria de baixar-ho a 100\u20ac</p>", 
+            "commentable_id": 4191, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 21:58:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10119, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 5, 
+            "total_votes": 5
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "5198", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10567, 
+                "name": "elvjspad", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Potser no seria suficient per\u00f2 no costaria gaire i em sembla que per comen\u00e7ar estaria b\u00e9 millorar la consci\u00e8ncia i vigil\u00e0ncia de la gent.</p>", 
+            "commentable_id": 4191, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 09:51:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6061, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4235", 
+        "conflictive": false, 
+        "created_at": "07/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 4235, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Algunes persones amb discapacitat no poden viatjar soles i el suport personal no es t\u00e9 en compte. \r\nCaldria donar suport  en primer lloc a la mobilitat b\u00e0sica (anar al metge, anar a un centre) i despr\u00e9s incorporar altres tipus de mobilitat en funci\u00f3 de la disponibilitat pressupost\u00e0ria.  \r\n", 
+        "title": "Fer accessible el transport p\u00fablic incorporant tamb\u00e9 les necessitats de les persones que necessiten un suport extens (acompanyament).", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/fer-accessible-el-transport-public-incorporant-tambe-les-necessitats-de-les-persones-que-necessiten-un-suport-extens-acompanyament", 
+        "votable": null, 
+        "voted": null
+    }
+}

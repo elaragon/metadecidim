@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6805", 
+        "conflictive": false, 
+        "created_at": "26/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 6805, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 1, 
+            "name": "Just\u00edcia social", 
+            "position": 1
+        }, 
+        "summary": "Revisar les eines de participaci\u00f3. Crear nous espais i metodologies de participaci\u00f3-implicaci\u00f3 de ve\u00efns i ve\u00efnes, transcendint els mecanismes i circuits cl\u00e0ssics.\r\n", 
+        "title": "Garantir la implicaci\u00f3 de ve\u00efns i ve\u00efnes en el disseny, gesti\u00f3 i avaluaci\u00f3 de totes les accions del Pla de Barris", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/garantir-la-implicacio-de-veins-i-veines-en-el-disseny-gestio-i-avaluacio-de-totes-les-accions-del-pla-de-barris", 
+        "votable": null, 
+        "voted": null
+    }
+}

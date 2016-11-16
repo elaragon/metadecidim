@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2825", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2825, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 18, 
+            "name": "Participaci\u00f3 ciutadana", 
+            "position": 2
+        }, 
+        "summary": "Replantejament dels espais de participaci\u00f3 ciutadana, actualment amb molta inflaci\u00f3 i manca de coordinaci\u00f3, per millorar-ne la deliberaci\u00f3, la coordinaci\u00f3, l'avaluaci\u00f3, qui hi participa, i, sobretot, la incid\u00e8ncia real en les pol\u00edtiques p\u00fabliques de la ciutat. Aprofitament de la diagnosi i les propostes fetes darrerament per obrir un segon debat de revisi\u00f3 de la normativa actual. Desplegament de la Carta Municipal i revisi\u00f3 del sistema de participaci\u00f3 i les Normes reguladores de participaci\u00f3 ciutadana.", 
+        "title": "Revisi\u00f3 de la normativa per a una participaci\u00f3 ciutadana plural i efica\u00e7", 
+        "total_comments": 3, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 16, 
+        "url": "https://decidim.barcelona/pam/proposals/revisio-de-la-normativa-per-a-una-participacio-ciutadana-plural-i-eficac", 
+        "votable": null, 
+        "voted": null
+    }
+}

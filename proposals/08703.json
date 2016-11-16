@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8703", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8703, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 11, 
+            "name": "Economia cooperativa, social i solid\u00e0ria", 
+            "position": 2
+        }, 
+        "summary": "Campanyes de sensibilitzaci\u00f3 sobre el consum de proximitat, local, ecol\u00f2gic i de temporada i q\u00fcestionar la \u201cfama de car\u201d del consum responsable (guerrilla sem\u00e0ntica). Fer-les de baix a dalt, des de la base, per a que hi participin els ciutadans/es i tenint en compte que els mitjans de comunicaci\u00f3 s\u00f3n poderosos per a la sensibilitzaci\u00f3 sobre el canv", 
+        "title": "Campanyes de sensibilitzaci\u00f3 sobre el consum responsable ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/campanyes-de-sensibilitzacio-sobre-el-consum-responsable", 
+        "votable": null, 
+        "voted": null
+    }
+}

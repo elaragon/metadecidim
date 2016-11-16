@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3340, 
+                "name": "pepepardo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No nom\u00e9s real\u00e7ar la import\u00e0ncia arquitect\u00f3nica, tamb\u00e9 tota la trasced\u00e8ncia hist\u00f2rica de l'Hospital i tot el seu entorn: des de l'amfiteatre anat\u00f2mic a l'antiga farm\u00e0cia, passant per la capella de Sant Pau a la Casa de Convalesc\u00e8ncia (tres joies patrimonials ara amb un acc\u00e8s p\u00fablic molt limitat), per\u00f2 tamb\u00e9 les hist\u00f2ries i mem\u00f2ries m\u00e9s \"intangibles\" que deixaren cinc segles d'activitat m\u00e8dica i cient\u00edfica a tot el recinte i els seus voltants (com ara les experi\u00e8ncies dels malalts, de les seues fam\u00edlies i dels seus curadors i guaridors) i un llarg etc\u00e8tera.</p>", 
+            "commentable_id": 116, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/02/2016 14:23:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1160, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8185, 
+                "name": "Victoria Jimenez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>clarament amb els porxos cal fer alguna cosa, perque fa una barreja de pena i por passar, i sempre fan una pudor a pis insoportable. Son un f\u00e0stic.</p>", 
+            "commentable_id": 116, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 22:20:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5147, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/mapa-d-equipaments-i-activitats-culturals\">https://decidim.barcelona/proposals/mapa-d-equipaments-i-activitats-culturals</a></p>", 
+            "commentable_id": 116, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 17:44:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11250, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/crear-espais-amb-equipaments-per-mes-oferta-cultural-i-artistica\">https://decidim.barcelona/proposals/crear-espais-amb-equipaments-per-mes-oferta-cultural-i-artistica</a></p>", 
+            "commentable_id": 116, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 20:15:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 18424, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

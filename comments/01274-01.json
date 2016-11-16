@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2072, 
+                "name": "ekin", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Dicen que existen ya, pero no se les ve, como a la guardia urbana. El incivismo si que se ve.</p>", 
+            "commentable_id": 1274, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 09:23:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 763, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1571, 
+                "name": "Pilar Murteira", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En Ciudad Meridiana hay trabajando dos profesionales en la v\u00eda p\u00fablica y uno en las Comunidades de Vecinos. Hacen un trabajo excepcional en mediaci\u00f3n y acompa\u00f1amiento. Precisamente por eso se pide que se les refuerce.</p>", 
+            "commentable_id": 1274, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/02/2016 19:29:14", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1959, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "763", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1033, 
+                "name": "Sara Cervell\u00f3 Pomar", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No hablo de agentes c\u00edvicos, hablo de mediadores como tal. ;)</p>", 
+            "commentable_id": 1274, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 10:51:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 787, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

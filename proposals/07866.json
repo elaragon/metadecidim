@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-7866", 
+        "conflictive": false, 
+        "created_at": "01/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 7866, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 27, 
+            "name": "Efici\u00e8ncia i professionalitat", 
+            "position": 5
+        }, 
+        "summary": "La composici\u00f3 de les comissions de valoraci\u00f3 de personal (llocs directius, principalment) ha de garantir la pres\u00e8ncia de membres amb coneixements adequats i suficients als del lloc objecte de selecci\u00f3 ", 
+        "title": "Pla de formaci\u00f3 i desenvolupament professional (Recursos)", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-de-formacio-i-desenvolupament-professional-9891d0cd-04d1-4a11-85c5-6608b6d34943", 
+        "votable": null, 
+        "voted": null
+    }
+}

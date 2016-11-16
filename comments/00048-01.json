@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12179, 
+                "name": "suport.decidim1", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en el Consell Sectorial de Comer\u00e7: SUPORT A LES ASSOCIACIONS DE COMERCIANTS. \"-\tM\u00e9s cursos per associacions i formaci\u00f3 de TIC per als comerciants, especialment per als de m\u00e9s de 50 anys. + Formaci\u00f3 espec\u00edfica i pr\u00e0ctica escoltant les necessitats dels comerciants. \n<br />-\tF\u00f3rmules per aconseguir m\u00e9s socis. Com la reducci\u00f3 d\u2019impostos. No es pot obligar a associar-se al petit comer\u00e7 que no t\u00e9 prou diners, per\u00f2 si es poden crear algunes f\u00f3rmules per tal de fomentar l\u2019associacionisme entre els comer\u00e7os. O b\u00e9 posar una taxa per als comer\u00e7os del barri que no estan a una associaci\u00f3. Possibilitat d\u2019obligar als comer\u00e7os a associar-se. \n<br />-\tLlums de Nadal: reduir l\u2019horari fins les 00:00h est\u00e0 b\u00e9, per\u00f2 no al mateix preu. Que tothom hagi de pagar els llums del carrer \n</p>", 
+            "commentable_id": 48, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 14:50:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8023, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12179, 
+                "name": "suport.decidim1", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en el Consell Sectorial de Comer\u00e7: \"\tAfavorir el comer\u00e7 diversificat a totes les zones, especialment a zones de dif\u00edcil acc\u00e9s (barris nord). La massificaci\u00f3 del comer\u00e7 adre\u00e7at al turisme ha foragitat el comer\u00e7 adre\u00e7at al ve\u00efnat. \"</p>", 
+            "commentable_id": 48, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 16:36:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8059, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

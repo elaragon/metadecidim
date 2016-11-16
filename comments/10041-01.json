@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9283, 
+                "name": "eixampledelibera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Potenciaci\u00f3 del petit comer\u00e7 mitjan\u00e7ant fires promocionades per l\u2019Ajuntament tenint en compte la opini\u00f3 del ve\u00efnat afectat  </p>", 
+            "commentable_id": 10041, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 18:51:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11369, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9283, 
+                "name": "eixampledelibera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>L\u2019Ajuntament hauria de donar ajudes als negocis m\u00e9s antics (m\u00e9s de 100 anys, per exemple) i al petit comer\u00e7, per mantenir la tradici\u00f3 afectat </p>", 
+            "commentable_id": 10041, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 18:51:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11370, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

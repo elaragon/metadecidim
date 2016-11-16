@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 7264, 
+            "name": "Esteban", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 7264, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3249", 
+        "conflictive": false, 
+        "created_at": "22/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.who.int/hia/examples/trspt_comms/hge_transport_lowresdurban_30_11_2011.pdf", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3249, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "La OMS aconsella no utilitzar, incl\u00f2s el transport p\u00fablic,  vehicles amb qualsevol tipus de combustible f\u00f2ssil. La nova xarxa ortogonal \u00e9s una oportunitat fant\u00e0stica per fer una xarxa de Trolebus que pugui utilitzar la futura red el\u00e8ctrica de l'ajuntament per fer un transport p\u00fablic totalment ecol\u00f2gic i sense cap perjudici per a la salut del ve\u00efns.", 
+        "title": "Tranformar la nova xarxa d'autobusos en el\u00e8ctrica/Trolebus", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 32, 
+        "url": "https://decidim.barcelona/pam/proposals/tranformar-la-nova-xarxa-d-autobusos-en-electrica-trolebus", 
+        "votable": null, 
+        "voted": null
+    }
+}

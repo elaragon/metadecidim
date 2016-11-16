@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 452, 
+                "name": "Pere", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La tasca de totes les entitats d'educaci\u00f3 en el lleure (caus, esplais, etc) \u00e9s fonamental en el desenvolupament de joves i infants. Cal donar-los tot el suport.</p>", 
+            "commentable_id": 6906, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 09:59:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6560, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14503, 
+                "name": "Magda Blanes", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00c9s molt important l'educaci\u00f3 no formal fels nostres infants i futurs joves. Cal donar suport i afavorir el desenvolupament del seu lleure aix\u00ed com recon\u00e8ixer la tasca dels seus monitors</p>", 
+            "commentable_id": 6906, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 10:26:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6562, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9506, 
+                "name": "Am\u00e8rica Planas", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>es desde aquets llocs que la societat pot entrar en contacte amb els dem\u00e9s i formarse una opimi\u00f3 propia .\n</p>", 
+            "commentable_id": 6906, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 18:03:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6616, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12652, 
+                "name": "Sergi S.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>-</p>", 
+            "commentable_id": 6906, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 19:52:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7283, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17767, 
+                "name": "Esplais Catalans, ESPLAC", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": false
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/garantir-locals-i-us-de-l-espai-public-a-les-entitats-juvenils\">https://decidim.barcelona/proposals/garantir-locals-i-us-de-l-espai-public-a-les-entitats-juvenils</a></p>", 
+            "commentable_id": 6906, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/04/2016 14:41:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7767, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 5, 
+        "total_pages": 1
+    }
+}

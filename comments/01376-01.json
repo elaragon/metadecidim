@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 369, 
+                "name": "Maclaren", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Contradictori i poc segur a menys que s'especifiqui millor.</p>", 
+            "commentable_id": 1376, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 15:53:20", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 938, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3812, 
+                "name": "libove", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Soc d'ells que tracto fortament respetar les normes, per\u00f2 ignoro la norma de no anar en bici en els carrils bus/taxi per que anar en el carril \"adequat\" al costat \u00e9s molt poc segur - posant-nos a l'al\u00e7ada dels retrovisors dels autobuses... I la veritat es que, a pesar de \"anar equivocat\", molt molt poques vegades em van donar el senyal ac\u00fastic un autob\u00fas o un taxi per haver-me anat all\u00e0. Doncs, suposo que realment no \u00e9s un problem gros per als conductors dels autobuses i els taxis que anem en bici en els carrils bus/taxi. Per aix\u00f2 dono el meu suport a l'idea de permetre les bicis anar en els carrils bus/taxi (i sobretot amb una ampliaci\u00f3 de l'amplada d'aquests carrils).</p>", 
+            "commentable_id": 1376, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/02/2016 10:28:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1257, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

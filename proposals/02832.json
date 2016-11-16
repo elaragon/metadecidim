@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2832", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2832, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 20, 
+            "name": "Administraci\u00f3  intel\u00b7ligent i inclusiva", 
+            "position": 4
+        }, 
+        "summary": "Dotar l\u2019Ajuntament d\u2019un sistema que garanteixi la integritat, disponibilitat, autenticitat i conservaci\u00f3 dels documents electr\u00f2nics. Posar en marxa una plataforma per a l\u2019arxiu electr\u00f2nic, que permetr\u00e0 millorar l\u2019efici\u00e8ncia de la gesti\u00f3 administrativa amb l\u2019\u00fas de mitjans electr\u00f2nics segurs i fiables, i posar en marxa l'expedient electr\u00f2nic en tots els \u00e0mbits de l'Ajuntament (contractaci\u00f3, subvencions, llic\u00e8ncies, facturaci\u00f3, etc\u00e8tera).", 
+        "title": "Desplegar l\u2019administraci\u00f3 electr\u00f2nica i de l\u2019arxiu electr\u00f2nic", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 16, 
+        "url": "https://decidim.barcelona/pam/proposals/desplegar-l-administracio-electronica-i-de-l-arxiu-electronic", 
+        "votable": null, 
+        "voted": null
+    }
+}

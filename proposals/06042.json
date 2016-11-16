@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 61, 
+            "name": "Bubibu", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 61, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6042", 
+        "conflictive": false, 
+        "created_at": "19/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.elperiodico.cat/ca/noticias/barcelona/atropellada-dona-cadira-motoritzada-barcelona-4988015", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6042, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Hem de donar m\u00e9s temps a les persones amb discapacitat i a la gent gran per creuar els vials amples com el Pg. Colom, Meridiana, Arag\u00f3 i la Diagonal. No pot ser que la gent no pugui creuar aquestes avingudes perqu\u00e8 no caminen prou r\u00e0pidament degut a l'edat o perqu\u00e8 circulen en cadira de rodes.  Els sem\u00e0fors haurien de dur un cron\u00f2metre.", 
+        "title": "Sem\u00e0fors amb peri\u00f3de de pas m\u00e9s llarg pels vianants", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 9, 
+        "url": "https://decidim.barcelona/pam/proposals/semafors-amb-periode-de-pas-mes-llarg-pels-vianants", 
+        "votable": null, 
+        "voted": null
+    }
+}

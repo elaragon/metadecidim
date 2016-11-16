@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2751, 
+                "name": "O.FLO", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Al meu entendre la proposta \u00e9s tendenciosa o est\u00e1 mal plantejada. Si votes a favor t'obliga \"de facto\" a acceptar la cessi\u00f3 de l'espai de l'antiga esgl\u00e9sia de Sant Bernat Calb\u00f3 per a l'ampliaci\u00f3 de l'Escola Mar Bella. Hom pot estar d'acord amb promoure dos instituts i ampliar les escoles de prim\u00e0ria, ja que son dos peticions leg\u00edtimes i necess\u00e0ries. Pero aquest fet no hauria d'obligar a estar d'acord amb cedir l'espai de Sant Bernat Calb\u00f3 per a un \u00fas determinat. Que hi tenen a veure els instituts amb aquest tema?. Altrament l'Escola Mar Bella pot disposar d'altres espais (antics patis del Grevol) o incl\u00fas \u00e9s discutible si aquesta escola (petita i antiga) ha de suportar la massificaci\u00f3 de l\u00ednies educatives que s'est\u00e1 proposant unilateralment des del consorci d'educaci\u00f3, ja que ni amb l'espai de l'antiga Esgl\u00e9sia s'aconseguiria una soluci\u00f3 definitiva.</p>", 
+            "commentable_id": 3089, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 17:15:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4560, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4560", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13821, 
+                "name": "Maruxa", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic d'acord. Ampliar l'escola La Mar Bella amb l'espai de l'antiga Esglesia no soluciona el problema d'escolaritzacio del barri, i perjudica greument als nens actualment a aquesta escola (i als que hi vinguin!), que estarian anys en barracons, sense menjador,  amb un pati ja ara escas pero molts mes nens... El que cal es una escola nova sencera, i hi ha ple de solars buits al barri - perque no fer servir un d'aquests?</p>", 
+            "commentable_id": 3089, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 22:55:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6678, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

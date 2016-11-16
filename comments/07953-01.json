@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 18146, 
+                "name": "Alex49", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Les defecacions, orins, i possibles par\u00e0sits dels animals no entenen de franges hor\u00e0ries.</p>", 
+            "commentable_id": 7953, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/04/2016 22:12:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7891, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 18151, 
+                "name": "Sof\u00eda", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No deber\u00eda de haber \u00e1reas de \"uso com\u00fan\". Los perros nunca deber\u00edan ir sueltos en los parques p\u00fablicos ya que ponen en riesgo la seguridad de los ni\u00f1os (ya sea porque se les echan encima -como he visto en varias ocasiones-o porque llenan el parque de orines y deposiciones, poniendo en riesgo la salud de los ni\u00f1os y porque sus due\u00f1os permiten que entren en la zona de flores y la destrocen.</p>", 
+            "commentable_id": 7953, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/04/2016 22:45:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7898, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8442", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8442, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 18, 
+            "name": "Participaci\u00f3 ciutadana", 
+            "position": 2
+        }, 
+        "summary": "Garantir que la poblaci\u00f3 de diferents or\u00edgens pugui accedir als processos i espais de participaci\u00f3 de la ciutat en igualtat de condicions. S\u2019ent\u00e9n que, per una banda, cal facilitar la seva inclusi\u00f3 en les estructures existents (entitats, sindicats, AMPA, etc.). (continua al primer comentari)", 
+        "title": "Facilitar la inclusi\u00f3 de persones d\u2019or\u00edgens diversos en espais de participaci\u00f3 amb especial atenci\u00f3 a les dones", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/facilitar-la-inclusio-de-persones-d-origens-diversos-en-espais-de-participacio-amb-especial-atencio-a-les-dones", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4041, 
+            "name": "Jordi Reyn\u00e9s Garc\u00e9s", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4041, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10501", 
+        "conflictive": false, 
+        "created_at": "09/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 10501, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Actualment nom\u00e9s et deixa transferir el transport si \u00e9s en diferents l\u00ednies en quan a BUS. En quan a metro no et permet per exemple usar un metro de la l\u00ednia 1 de Gl\u00f2ries a St. Andreu, despr\u00e9s un rodalies fins a Torre Bar\u00f3, i despr\u00e9s un  altre metro de la l\u00ednia 11 fins a Ciutat Meridiana.", 
+        "title": "El t\u00edtol de transport hauria de permetre utilitzar durant el temps establert actualment qualsevol mitj\u00e0 de transport encara que es repeteixi.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/el-titol-de-transport-hauria-de-permetre-utilitzar-durant-el-temps-establert-actualment-qualsevol-mitja-de-transport-encara-que-es-repeteixi", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 79, 
+                "name": "Andreu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ara que funciona bastant b\u00e9 el sistema de tr\u00e0mits per internet el volem complicar? Realment hi ha gent que abusa i demana 120 certificats d'empadronament?</p>", 
+            "commentable_id": 2557, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 10:54:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1813, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 912, 
+                "name": "Luis Lopez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Potenciar las herramientas inform\u00e1ticas para minimizar en todo lo posible la atenci\u00f3n directa por los funcionarios municipales</p>", 
+            "commentable_id": 2557, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 13:10:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5017, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/tarifacio-social-i-ambiental-en-les-taxes-i-preus-publics\">https://decidim.barcelona/proposals/tarifacio-social-i-ambiental-en-les-taxes-i-preus-publics</a></p>", 
+            "commentable_id": 2557, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/04/2016 11:06:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 18563, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

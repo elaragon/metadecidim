@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9928", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9928, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Per la import\u00e0ncia de la prevenci\u00f3, la detecci\u00f3 i la intervenci\u00f3 preco\u00e7 es proposa la pres\u00e8ncia d\u2019un programa als centres per fer diagnosis i valoracions per\u00f2 tamb\u00e9 per intervenir, per treballar grups. A difer\u00e8ncia d\u2019altres espais d\u2019intervenci\u00f3, les fam\u00edlies s\u00ed que van a l\u2019escola. Intensitat del programa en funci\u00f3 de la situaci\u00f3 del centre. ", 
+        "title": "Grups d\u2019intervenci\u00f3 psicol\u00f2gica (professors, alumnes, fam\u00edlies) a tots els centres educatius.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/grups-d-intervencio-psicologica-professors-alumnes-families-a-tots-els-centres-educatius", 
+        "votable": null, 
+        "voted": null
+    }
+}

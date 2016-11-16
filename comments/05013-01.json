@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12957, 
+                "name": "Claparols-Carrera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No penseu que hi han coses m\u00e9s importants com malalties rares, alzheimer, malalties neuronals....que pagar reproducci\u00f3 assistida? jo demaria suport per l'adopcio, ho veig m\u00e9s racional.</p>", 
+            "commentable_id": 5013, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 16:14:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5266, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "5266", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 320, 
+                "name": "Laura", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Una cosa no treu l'altre i aquest cas no \u00e9s un problema de diners el problema \u00e9s que a parelles del mateix sexe si que ho tenen garantit. Hi ha una discriminaci\u00f3 clara cap a un cert col\u00b7lectiu. A m\u00e9s, aquesta proposta s'ha de portar a terme s\u00ed o s\u00ed perqu\u00e8 es va aprovar al parlament <a href=\"https://www.google.es/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=0ahUKEwjF5YOvq_rLAhVCOhQKHZ5sA9EQFggdMAA&amp;url=https%3A%2F%2Fwww.boe.es%2Fboe%2Fdias%2F2014%2F11%2F20%2Fpdfs%2FBOE-A-2014-11990.pdf&amp;usg=AFQjCNFa5NZu3BvGf5owTa_wzeaZMt1iMw&amp;sig2=h7SVsttUViYvEqvzgrjGcA&amp;cad=rja\">https://www.google.es/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=0ahUKEwjF5YOvq_rLAhVCOhQKHZ5sA9EQFggdMAA&amp;url=https%3A%2F%2Fwww.boe.es%2Fboe%2Fdias%2F2014%2F11%2F20%2Fpdfs%2FBOE-A-2014-11990.pdf&amp;usg=AFQjCNFa5NZu3BvGf5owTa_wzeaZMt1iMw&amp;sig2=h7SVsttUViYvEqvzgrjGcA&amp;cad=rja</a></p>", 
+            "commentable_id": 5013, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 17:36:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8755, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

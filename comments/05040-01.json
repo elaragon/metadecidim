@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12165, 
+                "name": "Jordi Mitjana", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La conexi\u00f3 entre les zones de Dante i Llobregos, crec que es un punt important perque el us de la part de Llobregos sigui molt m\u00e9s util i utilitzable</p>", 
+            "commentable_id": 5040, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/03/2016 13:29:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6254, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2007, 
+                "name": "efm", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els dos carrils de transit haurien de estar junts per permetre un espai peatonal mes ampli i util (ara mateix no serveix per a res)</p>", 
+            "commentable_id": 5040, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 11:10:31", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10432, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 22651, 
+                "name": "Jes\u00fas Lois", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Debe tenerse en cuenta que para pacificar y poder utilizar el espacio central entre Dante y Llobreg\u00f3s, deben soterrarse los dos carriles de acceso al tunel de la Rovira en el lado monta\u00f1a, ya que por la parte inferior, existe la entrada al aparcamiento.</p>", 
+            "commentable_id": 5040, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 10:28:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11609, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/rambla-del-carmel\">https://decidim.barcelona/proposals/rambla-del-carmel</a></p>", 
+            "commentable_id": 5040, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 12:11:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15431, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

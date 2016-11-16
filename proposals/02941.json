@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2941", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2941, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Implementar totes les mesures necess\u00e0ries per evitar situacions de risc elevat per a la salut de les persones. Revisar els diferents plans i programes existents i establir prioritats per posar en marxa programes de conscienciaci\u00f3 i educaci\u00f3 sobre les causes i els efectes de la contaminaci\u00f3, millorar la xarxa de vigil\u00e0ncia i posar a l\u2019abast de la ciutadania la informaci\u00f3, i, alhora, prioritzar la mobilitat sostenible.", 
+        "title": "Estrat\u00e8gia contra la contaminaci\u00f3 de l\u2019aire", 
+        "total_comments": 23, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 16, 
+        "total_positive_comments": 7, 
+        "total_votes": 201, 
+        "url": "https://decidim.barcelona/pam/proposals/estrategia-contra-la-contaminacio-de-l-aire", 
+        "votable": null, 
+        "voted": null
+    }
+}

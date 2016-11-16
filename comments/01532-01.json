@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2867, 
+                "name": "APM participant", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Mentre que no s'incrementi el nombre de persones que tenen feina digna, seran necess\u00e0ries mesures com aquestes. </p>", 
+            "commentable_id": 1532, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 20:10:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 991, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1970, 
+                "name": "red albert", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>D'acord globalment. Per\u00f2 aix\u00f2 hauria d'anar a c\u00e0rrec del pressupost municipal??? No tindria gaire l\u00f2gica, no? D'acord en la mesura si les altres administracions (per exemple l'AMT, la Generalitat, el Ministeri que toqui, ...) assumeixen la mesura i la inversi\u00f3 econ\u00f2mica que suposa. Una altra cosa \u00e9s que des de l'Ajuntament de Barcelona s'impulsi una taula de treball per anar avan\u00e7ant en aquest sentit, all\u00e0 s\u00ed que hi seria totalment a favor</p>", 
+            "commentable_id": 1532, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/02/2016 11:29:55", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1065, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

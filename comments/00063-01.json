@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13835, 
+                "name": "Albert C.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En la construcci\u00f3 d'aquest nou barri, tambe cal tenir en compte als ve\u00efns \"de tota la vida\", que no estant representats per cap Assoc. de Ve\u00efns,  ates que les esmentades Assoc, estan formades per moviments ALTERNATIUS  molt actius, i en definitava son ells, els que acaben imposant el seus criteris de model de barri.</p>", 
+            "commentable_id": 63, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/03/2016 00:08:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5702, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/iniciar-el-projecte-d-urbanitzacio-i-de-millora-de-la-circulacio-viaria-del-passeig-del-bosc-del-turull\">https://decidim.barcelona/proposals/iniciar-el-projecte-d-urbanitzacio-i-de-millora-de-la-circulacio-viaria-del-passeig-del-bosc-del-turull</a></p>", 
+            "commentable_id": 63, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 00:01:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15082, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/millora-parcs-i-jardins-av-vallcarca\">https://decidim.barcelona/proposals/millora-parcs-i-jardins-av-vallcarca</a></p>", 
+            "commentable_id": 63, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 14:05:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 18231, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

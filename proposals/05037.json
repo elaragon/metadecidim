@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 12443, 
+            "name": "Rafael Luna", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 12443, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5037", 
+        "conflictive": false, 
+        "created_at": "15/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2015/04/08/BOCM-20150408-54.PDF", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5037, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Perqu\u00e8 no es puguin construir Gasolineres al costat de col\u00b7legis i centres d'ensenyament, hospitals, centres de salut i resid\u00e8ncies, parcs infantils i zones verds i esportives, locals p\u00fablics i d'oci, habitatges i zones residencials.  Establir unes dist\u00e0ncies de protecci\u00f3. Pendre exemple de la regulaci\u00f3 feta per l'Ajuntament de Legan\u00e9s. ", 
+        "title": "Protegir la seguretat i la salut dels ciutadans elaborant una Ordenan\u00e7a reguladora per a Gasolineres.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 9, 
+        "url": "https://decidim.barcelona/pam/proposals/protegir-la-seguretat-i-la-salut-dels-ciutadans-elaborant-una-ordenanca-reguladora-per-a-gasolineres", 
+        "votable": null, 
+        "voted": null
+    }
+}

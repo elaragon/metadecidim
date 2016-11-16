@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7602, 
+                "name": "Mon", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>canviar el concepte de pipi-can....fer espais d'esbarjo per animals i que en aquests espai i hagues un agent de promocio i control del civisme.\n</p>", 
+            "commentable_id": 3252, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/02/2016 08:25:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2531, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2531", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2400, 
+                "name": "espaigosbcn", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tens rao en que ha d'haver un canvi de concepte,  desde la plataforma ciutadana espaigosbcn.com, preferim que aquest canvi vagi m\u00e9s en linea d'espais de llibertat amb gos.  El concepte d'area d'esbarjo que intrudueix la nova normativa es un pipi can de 700m2, que  evidenment no garanteix la salut ni f\u00edsica, ni psiquica del gos.</p>", 
+            "commentable_id": 3252, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 08:02:55", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4732, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

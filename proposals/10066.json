@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 17943, 
+            "name": "Jean-Michel", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 17943, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10066", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 10066, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "Aumentar los arboles de Barcelona, ya que limpian el aire y mejoran la temperatura, y son agradables de mirar.\r\n\r\nlos arboles dan frescor en verano, y mejoran la calidad del aire, dan refugio a los animales y ayudan a los insectos las abejas, reducen el ruido y el viento tambi\u00e9n guardan m\u00e1s calor en invierno.\r\n\r\nBarcelona es una ciudad demasiado de con", 
+        "title": "Aumentar los arboles de Barcelona, ya que limpian el aire y mejoran la temperatura, y son agradables de mirar.  los arboles dan frescor en verano, y mejoran la calidad del aire, dan refugio a los animales y ayudan a los insectos las abeja", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/aumentar-los-arboles-de-barcelona-ya-que-limpian-el-aire-y-mejoran-la-temperatura-y-son-agradables-de-mirar-los-arboles-dan-frescor-en-verano-y-mejoran-la-calidad-del-aire-dan-refugio-a-los-animales-y-ayudan-a-los-insectos-las-abeja", 
+        "votable": null, 
+        "voted": null
+    }
+}

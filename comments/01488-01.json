@@ -1,0 +1,209 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1401, 
+                "name": "Lena", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si, es molesto.  Yo nunca entend\u00ed por donde se supone que tengo que entrar al carril bici de Diagonal todo al principio, cruce  con Arago (llendo en direcci\u00f3n Llobregat). </p>", 
+            "commentable_id": 1488, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/02/2016 08:36:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1029, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1029", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1493, 
+                "name": "Ester", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Gracias. Este tramo tambi\u00e9n me parece que est\u00e1 mal resuelto, b\u00e1sicamente por la fase semaf\u00f3rica en sentido Llobregat que te obliga a pararte en todos los sem\u00e1foros a partir de Marina, incluyendo el cruce con Sardenya, que creo que permitir\u00eda en alg\u00fan momento de la fase un paso m\u00e1s seguro para bicicletas que el que nos dan actualmente (al actual coincide con los veh\u00edculos que giran para bajar por esa calle y no siempre respetan la prioridad de las bicis).</p>", 
+            "commentable_id": 1488, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/02/2016 09:03:55", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1032, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1029/1032", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1401, 
+                "name": "Lena", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estar\u00eda bien que los urbanistas antes de dise\u00f1ar carriles bici pasen una semana circulando en dos ruedas por la ciudad. Sabes si hay un sitio donde los propios ciclistas elaboran un plan completo de mejora y redise\u00f1o de calles, tal como muestra la imagen que enlazaste? </p>", 
+            "commentable_id": 1488, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/02/2016 09:21:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1034, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1029/1032/1034", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1493, 
+                "name": "Ester", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Pues s\u00ed que ser\u00eda la manera, y visto lo visto parece que no siempre lo hacen, aunque el \u00faltimo carrilbici de Marqu\u00e8s de Sentmenat-Can Bruixa parece que est\u00e1 mejor hecho: <a href=\"https://youtu.be/eTE_zGarbJ4\">https://youtu.be/eTE_zGarbJ4</a> Si te interesa participar m\u00e1s en este tema, supongo que te puedes asociar al BACC o a Amics de la Bici, o participar en Twitter (como hago yo), con el hashtag #bicibcn. Saludos!</p>", 
+            "commentable_id": 1488, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/02/2016 10:31:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1060, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1029/1032/1034/1060", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1401, 
+                "name": "Lena", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Pues no estar\u00eda de m\u00e1s crear una web con mapa interactivo donde se pueden subir las propuestas de mejora, debatirlas y consensuarlas, una vez hecho presentar al ajuntament. </p>", 
+            "commentable_id": 1488, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/02/2016 11:31:49", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1066, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1029/1032/1034/1060/1066", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1493, 
+                "name": "Ester", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Que yo conozca, lo m\u00e1s parecido que hay a lo que comentas (hecho por un usuario y con la colaboraci\u00f3n de otros) es esto: <a href=\"https://www.google.com/maps/d/viewer?mid=zzpnaf75R1qo.kzurkHpO7cRw\">https://www.google.com/maps/d/viewer?mid=zzpnaf75R1qo.kzurkHpO7cRw</a></p>", 
+            "commentable_id": 1488, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/02/2016 08:37:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1121, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

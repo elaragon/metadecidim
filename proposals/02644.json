@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 5329, 
+            "name": "Associaci\u00f3 ESFUNE", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 5329, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2644", 
+        "conflictive": false, 
+        "created_at": "14/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://www.facebook.com/Associaci%C3%B3-Esfune-973534342709682/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2644, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 5, 
+            "name": "Cicles de vida ", 
+            "position": 5
+        }, 
+        "summary": "L'Assoc. ESFUNE va entrar dues inst\u00e0ncies a l'Ajuntament en data 9 i 29 de desembre passat i una Queixa a la S\u00edndica el passat 3 de febrer, demanant:\r\n\r\n1r. Adequaci\u00f3 a la legalitat vigent de l'Ordenan\u00e7a Municipal de Serveis Funeraris envers la Llei catalana\r\n2n. Acc\u00e9s no restrictiu al lloguer de les sales de vetlla dels 5 tanatoris de la ciutat", 
+        "title": "Per afavorir la baixada dels elevats preus dels serveis funeraris a Barcelona", 
+        "total_comments": 6, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 3, 
+        "total_votes": 66, 
+        "url": "https://decidim.barcelona/pam/proposals/per-afavorir-la-baixada-dels-elevats-preus-dels-serveis-funeraris-a-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

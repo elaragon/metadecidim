@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9274, 
+                "name": "suport decidim.SantsMont", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aquesta proposta est\u00e0 relacionada amb la proposta seg\u00fcent:</p>\n\n<p><a href=\"https://decidim.barcelona/proposals/reordenacio-d-usos-i-espais-del-parc-de-l-espanya-industrial\">https://decidim.barcelona/proposals/reordenacio-d-usos-i-espais-del-parc-de-l-espanya-industrial</a></p>", 
+            "commentable_id": 6033, 
+            "commentable_type": "Proposal", 
+            "created_at": "19/03/2016 12:06:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5880, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14305, 
+                "name": "Silviaf1", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No nom\u00e9s venen dos dies a la setmana sino gaireb\u00e9 tots (potser excepte dilluns, la resta de dies s\u00ed que hi s\u00f3n, desde primera hora de la tarda fins passades les 10h de la nit). Aquesta gent que hi juga no tenen en compte que al carrer que dona al parc hi viuen molts ve\u00efns als qui els molesta els seus crits i celebracions de cada punt com si estiguessin participant a un Mundial de Volei. Si s'adapta algun espai per a que juguin a volei, si us plau, que sigui lluny dels habitatges. Perqu\u00e8 no van a Montjuic? o a les platges de Barcelona, on hi ha espai per ells i no molesten a ning\u00fa? Gr\u00e0cies per tenir en compte la opini\u00f3 dels ve\u00efns, no nom\u00e9s dels jugadors.</p>", 
+            "commentable_id": 6033, 
+            "commentable_type": "Proposal", 
+            "created_at": "20/03/2016 17:24:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5994, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

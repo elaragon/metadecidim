@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3827, 
+                "name": "suport decidim.barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "moderator", 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tamb\u00e9 s'ha comentat al Consell de salut d'Horta- Guinard\u00f3: Promoure el programa COMSALUT i la prescripci\u00f3 sanit\u00e0ria social (incentivar la rehabilitaci\u00f3, la promoci\u00f3 de la salut i evitar la medicalitzaci\u00f3 excessiva de la poblaci\u00f3).  </p>", 
+            "commentable_id": 2771, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 12:46:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4150, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5046, 
+                "name": "Eva C-V Tremosa", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Per si alg\u00fa s'ha preguntat, com jo,  qu\u00e8 \u00e9s COMsalut \n<br /><a href=\"http://www.sespas.es/adminweb/uploads/docs/PROJECTE_COMSALUT_Juny2015.pdf\">http://www.sespas.es/adminweb/uploads/docs/PROJECTE_COMSALUT_Juny2015.pdf</a></p>", 
+            "commentable_id": 2771, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/04/2016 11:13:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7564, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 18877, 
+            "name": "monur", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 18877, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8558", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8558, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Fer espais m\u00e9s amables sense utilitzar el tancament de carrers ni a\u00efllar. Illes i superilles s\u00f3n conceptes negatius on acaba patint el ve\u00ef que necessita accedir en cotxe o que necessita un taxi o un servei que entregui quelcom. L'activitat comercial (comer\u00e7, petit taller, petita empresa) tamb\u00e9 es resenteix. ", 
+        "title": "Evitem les lles/superilles i els tancaments de carrers", 
+        "total_comments": 10, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 6, 
+        "total_votes": 25, 
+        "url": "https://decidim.barcelona/pam/proposals/evitem-les-lles-superilles-i-els-tancaments-de-carrers", 
+        "votable": null, 
+        "voted": null
+    }
+}

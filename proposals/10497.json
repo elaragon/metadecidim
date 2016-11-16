@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4041, 
+            "name": "Jordi Reyn\u00e9s Garc\u00e9s", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4041, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10497", 
+        "conflictive": false, 
+        "created_at": "09/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 10497, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Aquesta mesura facilitaria menys risc d'accidents mortals per atropellaments, aix\u00ed com afavoriria la reducci\u00f3 de contaminaci\u00f3 tant ambiental com ac\u00fastica.", 
+        "title": "Aplicar la velocitat m\u00e0xima de 30 quil\u00f2metres/h a tots els carrers de la ciutat, amb l'excepci\u00f3 dels carrers que es considerin com a vies r\u00e0pides de 50 quil\u00f3metres/h ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/aplicar-la-velocitat-maxima-de-30-quilometres-h-a-tots-els-carrers-de-la-ciutat-amb-l-excepcio-dels-carrers-que-es-considerin-com-a-vies-rapides-de-50-quilometres-h", 
+        "votable": null, 
+        "voted": null
+    }
+}

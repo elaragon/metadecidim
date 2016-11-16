@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 7543, 
+            "name": "Manul Almi\u00f1ana", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 7543, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4726", 
+        "conflictive": false, 
+        "created_at": "11/03/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4726, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Programar el manteniment de les escoles del districte de Sant Andreu, fent un calendari per tal de que cada estiu es pinten i es reparin un minin de  2 escoles bressol, 4 de prim\u00e0ria i una de secundaria. Es una deixadesa que no es faixi un manteniment sistem\u00e0tic dels  edificis del que estan obligats els Ajuntaments i m\u00e9s el de Barcelona.", 
+        "title": "Programar el manteniment de les escoles del districte de Sant Andreu, fent un calendari per tal de que cada estiu es faixin actuacions.", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 23, 
+        "url": "https://decidim.barcelona/pam/proposals/programar-el-manteniment-de-les-escoles-del-districte-de-sant-andreu-fent-un-calendari-per-tal-de-que-cada-estiu-es-faixin-actuacions", 
+        "votable": null, 
+        "voted": null
+    }
+}

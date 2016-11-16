@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12688, 
+                "name": "Jaume Mestres i Capitan", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Vuelvo a repetir, ES LA INEFICACIA DE LA GUARDIA URBANA, los ciclistas, sckaters, dem\u00e1s descerebrados son un peligro p\u00fablico recordemos la muerte de Muriel Casals y de un compa\u00f1ero de mi mujer del Hospital del Mar que ha quedado in\u00fatil para el trabajo por culpa de un ciclista, no respetan se\u00f1ales de tr\u00e1fico, circulan a velocidades de v\u00e9rtigo por las aceras, no respetan los pasos de peatones y as\u00ed un largu\u00edsimo etc. </p>", 
+            "commentable_id": 4058, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 20:24:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5123, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

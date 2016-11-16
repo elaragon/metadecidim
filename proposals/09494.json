@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 20492, 
+            "name": "Jo", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 20492, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9494", 
+        "conflictive": false, 
+        "created_at": "07/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 9494, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 27, 
+            "name": "Efici\u00e8ncia i professionalitat", 
+            "position": 5
+        }, 
+        "summary": "Que els empleats p\u00fablics municipals siguin rotatius o, com a m\u00ednim, que tinguin una formaci\u00f3 constant i renovada adaptada a les noves necessitats. Molts d'aquests treballadors no tenen la formaci\u00f3 adequada i no s\u00f3n els professionals m\u00e9s preparats pel lloc de treball en q\u00fcesti\u00f3.", 
+        "title": "Treballadors de l'Ajuntament no eternitzats en el c\u00e0rrec.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/treballadors-de-l-ajuntament-no-eternitzats-en-el-carrec", 
+        "votable": null, 
+        "voted": null
+    }
+}

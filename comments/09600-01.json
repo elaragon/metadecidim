@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 22285, 
+                "name": "crmcgnm", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els arbres son molt necessaris en uns carrers a on el sol dona de ple. El que est\u00e0 malament \u00e9s el paviment de les voreres i el fet de no haver-hi bancs per seure la gent gran de tant en tant  .</p>", 
+            "commentable_id": 9600, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 22:18:37", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11474, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 20947, 
+                "name": "carlosma", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic a favor d'aquesta proposta. Transitar per aquests carrers es fa molt dificult\u00f3s i perill\u00f3s per la reduida amplada de les voreres al que s'afegeixen postes de llum, arbres, etc., no tant el paviment (que tamb\u00e9). Passejar no es fa f\u00e0cil ni gaire agradable, molt menys sentar-se en un banc (inimaginable amb l'amplada actual i amb tots els obstacles).  De fet si plou i vas amb paraigues has d'anar per l'asfalt evidentment. El tema dels arbres,... Si l'amplada fos major doncs si, pero si representen un obstacle i has de passar per l'asfalt... Crec que s'hauria de fer una sola vorera m\u00e9s ample en els carrers m\u00e9s estrets i/o fer que els cotxes haguessin de passar m\u00e9s lentament (zona 10 en passatges, etc.) instal.lant bandes a l'asfalt. No se, segur que hi ha alguna soluci\u00f3 que faci m\u00e9s f\u00e0cil moure's per aquests carrers.</p>", 
+            "commentable_id": 9600, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 14:25:26", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12262, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/vallcarca-nou-model-urba\">https://decidim.barcelona/proposals/vallcarca-nou-model-urba</a></p>", 
+            "commentable_id": 9600, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 14:08:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 18233, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

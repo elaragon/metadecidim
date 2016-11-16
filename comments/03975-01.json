@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7229, 
+                "name": "benua", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Magnificar i transmetre la hist\u00f2ria.</p>", 
+            "commentable_id": 3975, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/03/2016 09:40:34", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4345, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17253, 
+                "name": "Josep Callej\u00f3n Gim\u00e9nez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es el que s'est\u00e0 fent des de fa mes de cinc anys en el Grup d'Estudis del Coll - Vallcarca. Actualment s'est\u00e0 maquetant amb la intenci\u00f3 d'editar un primer tom. L'objectiu principal d'aquest llibre es que siguin els mateixos ve\u00efns els que escriguin, les hist\u00f2ries o que ens les facilitin per transcriure's. Ja tenim m\u00e9s de dos-cents cinquanta escrits, articles, hist\u00f2ries aportats pels ve\u00efns o fruit de les investigacions i recerques  i m\u00e9s d'un miler de fotografies, documents, planols, gravats i dibuixos. Est\u00e0 clar que tot aix\u00f2 no es fa en quatre dies, que tot te el seu proc\u00e9s. \n</p>", 
+            "commentable_id": 3975, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/04/2016 12:35:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7584, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

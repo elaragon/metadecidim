@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 17843, 
+            "name": "Associacio de Ve\u00efnes i Ve\u00efns de La Satalia", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 17843, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9581", 
+        "conflictive": false, 
+        "created_at": "07/04/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 9581, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Qualificat com a equipament en el PMU de La Satalia, aquest espai pot acollir el local de l'Associaci\u00f3 de Ve\u00efns juntament amb un espai de co-working, tot respectant la mem\u00f2ria hist\u00f2rica del lloc catalogat, una antiga finca rural que als anys vint va evolucionar cap a un pati de ve\u00efns al voltant d'un passad\u00eds singular.", 
+        "title": "Rehabilitar La Mangrana, c/ de la Creu dels Molers, 105 com a nou espai comunitari de valor estrat\u00e8gic per al barri ", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 2, 
+        "total_votes": 16, 
+        "url": "https://decidim.barcelona/pam/proposals/rehabilitar-la-mangrana-c-de-la-creu-dels-molers-105-com-a-nou-espai-comunitari-de-valor-estrategic-per-al-barri", 
+        "votable": null, 
+        "voted": null
+    }
+}

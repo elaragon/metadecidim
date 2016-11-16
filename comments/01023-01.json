@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 33, 
+                "name": "jt", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Este punto me parece clave para mostrar el esp\u00edritu diferencial de una nueva Barcelona referente de justicia social global. El caso de ciudad refugio es un gran ejemplo de esto. Se tendr\u00eda que extender a m\u00e1s \u00e1mbitos, temas donde Barcelona puede mostrar otra forma de afrontar los retos que tiene el mundo.</p>", 
+            "commentable_id": 1023, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/02/2016 11:37:31", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 369, 
+                "name": "Maclaren", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Fant\u00e0stic, pero es podria donar el cas que els refugiats tinguessin millors condicions que els seus compatriotes que viuen des de fa anys a la ciutat. No ens hauriem de preocupar de canviar les relacions de explotaci\u00f3 de tots els ciutadans per ser referents de quelcom a nivel extern? No ens hauriem de preocupar mes de SER que de QUEDAR BE?</p>", 
+            "commentable_id": 1023, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 19:18:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 982, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

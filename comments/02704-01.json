@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7193, 
+                "name": "Jaime Rivera Rodriguez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ser\u00e0 objectiu i parcial?  O sectari e imparcial? </p>", 
+            "commentable_id": 2704, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 09:36:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2663, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2663", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4873, 
+                "name": "Carlota Gim\u00e9nez i Compte", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ser\u00e0: noms ben escrits segons la normativa de la llengua (ex. Font d'en Fargues, en comptes de Font d'en Fargas), donar noms de dones que s'han destacat en algun aspecte i revisar noms que al nomencl\u00e0tor s'atribueixen a una persona equivocada. Si? ent\u00e8s?\n</p>", 
+            "commentable_id": 2704, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 09:46:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2666, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2663/2666", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7193, 
+                "name": "Jaime Rivera Rodriguez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Perfecte! Teniu el meu suport. </p>", 
+            "commentable_id": 2704, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 10:35:26", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2675, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10192, 
+                "name": "Eli Rolando ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En tema del complejo deportivo se contemplaba una residencia de personas mayores</p>", 
+            "commentable_id": 3836, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/03/2016 18:47:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3493, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13303, 
+                "name": "RAMON CASAS", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A ver....lo que no se entiende es que siempre tengamos que luchar por asuntos que YA se hab\u00edan conseguido de forma oficial como este complejo deportivo en su fase completa (PAD 2008-2011) o el metro. estamos bastante hasta el mo\u00f1o de este desprecio institucional......Siempre utilizando la misma t\u00e1ctica: no hay fondos suficientes....La Generalitat.....se har\u00e1 en una fase siguiente (a\u00f1o 2070?????) mientras esperan el letargo popular como  su arma favorita pero......YA EST\u00c1 BIEN!!!!!  NO NOS VAN A SEGUIR TOMANDO EL PELO!!!!, SEGUIREMOS REIVINDICANDO LO NUESTRO Y LUCHANDO HASTA EL FINAL!!!!!!!!</p>", 
+            "commentable_id": 3836, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 10:03:21", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5412, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3493", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12452, 
+                "name": "Miquel Biel", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Esa residencia no depende del Ayuntamiento sino de la Generalitat.</p>", 
+            "commentable_id": 3836, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 09:39:13", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4954, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

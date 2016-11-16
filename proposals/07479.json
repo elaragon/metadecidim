@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 13290, 
+            "name": "procomuns.net", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 13290, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7479", 
+        "conflictive": false, 
+        "created_at": "30/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://procomuns.net/ca/politiques", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7479, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 18, 
+            "name": "Participaci\u00f3 ciutadana", 
+            "position": 2
+        }, 
+        "summary": "Fomentar la ci\u00e8ncia ciutadana. Promoure la participaci\u00f3 oberta de la ciutadania tant en la recopilaci\u00f3 de dades i observaci\u00f3 dels fen\u00f2mens com en el seu tractament, processament, interpretaci\u00f3, diagn\u00f2stic i generaci\u00f3 de propostes d\u2019actuaci\u00f3.", 
+        "title": "Incentivar i donar suport a la recerca i comprensi\u00f3 de l'economia col\u00b7laborativa procom\u00fa: promoure la participaci\u00f3 en recopilaci\u00f3 i interpretaci\u00f3 de dades", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/incentivar-i-donar-suport-a-la-recerca-i-comprensio-de-l-economia-col-laborativa-procomu-promoure-la-participacio-en-recopilacio-i-interpretacio-de-dades", 
+        "votable": null, 
+        "voted": null
+    }
+}

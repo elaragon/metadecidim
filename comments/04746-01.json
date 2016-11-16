@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11624, 
+                "name": "AlexM", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No puc estar d'accord amb aix\u00f3. Hi han moltes coses a millorar sobre els animals de companyia, pero en la meva opini\u00f3, no en el sentit que diu aquesta proposta.</p>", 
+            "commentable_id": 4746, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/03/2016 09:44:00", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4588, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2400, 
+                "name": "espaigosbcn", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Home, posats a desincentivar, podr\u00edem fer-ho amb els cotxes i paviments durs que arru\u00efnen els malucs de les persones. La ciutat no \u00e9s un ecosistema natural per l'home. De fet la ciutat no \u00e9s un ecosistema natural, \u00e9s un ecosistema urb\u00e0. L'Ecosistema est\u00e0 integrat pel conjunt d'\u00e9ssers vius que viuen a un determinat espai i les relacions que s\u2019estableixen entre aquests \u00e9ssers vius i entre ells i el medi on viuen. La relaci\u00f3 amb el medi urb\u00e0 \u00e9s completament agressiva per a l'\u00e9sser hum\u00e0 (i qualsevol \u00e9sser viu), per tant molt millor desincentivar aquesta mania de posar asfalt i formig\u00f3 per tot arreu i recuperar un ecosistema molt m\u00e9s natural per a tots nosaltres, els \u00e9ssers vius.</p>", 
+            "commentable_id": 4746, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/03/2016 07:28:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4677, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14891, 
+                "name": "PauRebull", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Absolutament d'acord! S'ha descontrolat el nombre d'animals d companyia (gossos especialment) a la ciutat.\n<br />S'ha de fer veure a la gent que aquests animals no estan fets per viure a les ciutats i per descomptat els propietaris no es comporten com haurien de fer-ho al respecte.</p>", 
+            "commentable_id": 4746, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 17:06:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6612, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4588", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14891, 
+                "name": "PauRebull", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Doncs en quin? Perqu\u00e8 el problema \u00e9s cada cop m\u00e9s gran</p>", 
+            "commentable_id": 4746, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 17:03:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6611, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4677", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11802, 
+                "name": "Mariaproposa", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si crees una proposta amb aix\u00f2 que dius, jo votar\u00e9 a favor... per\u00f2 que tu tinguis una proposta nova no \u00e9s argument suficient per tirar enrera aquesta!\n<br />Nosaltres escollim viure a la ciutat... els animals de companyia no.</p>", 
+            "commentable_id": 4746, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 10:02:37", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4744, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

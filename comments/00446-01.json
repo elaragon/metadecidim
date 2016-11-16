@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1540, 
+                "name": "lola badenes", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00c9s urgent i necessari per al barri. Fa tant de temps que ens pens\u00e0vem que ja ho teniem!! </p>", 
+            "commentable_id": 446, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/02/2016 13:25:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 431, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2127, 
+                "name": "Fidel Espi\u00e9rrez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es un proyecto esperado, aunque se queda corto. No s\u00f3lo se trata de facilitar el tr\u00e1nsito; hace falta tambi\u00e9n consolidar proyectos de residencia permanente. Pero voto a favor porque es un primer paso.</p>", 
+            "commentable_id": 446, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 18:18:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 708, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4288, 
+                "name": "Alvaro Aldea  Garcia", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hacen falta pisos de transici\u00f3n en el barrio ya que no existen, y hay personas que pueden ser m\u00e1s independientes.</p>", 
+            "commentable_id": 446, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/02/2016 09:49:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1398, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7274, 
+                "name": "enrique", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Molt necessari</p>", 
+            "commentable_id": 446, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/02/2016 15:18:27", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2383, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

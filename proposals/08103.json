@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 5, 
+            "name": "Just\u00edcia global"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8103", 
+        "conflictive": false, 
+        "created_at": "04/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8103, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 5, 
+            "id": 29, 
+            "name": "Ciutat d\u2019acollida", 
+            "position": 2
+        }, 
+        "summary": "Cal tenir en compte que els procediments i les estrat\u00e8gies de gesti\u00f3 del fet migratori han d\u2019incloure les especificitats dels col\u2022lectius de refugiats aix\u00ed com tamb\u00e9 les derivades dels canvis del cicle migratori. Aix\u00f2 suposa preveure pol\u00edtiques d\u2019assentament i d\u2019acollida que responguin amb les necessitats del moment.", 
+        "title": "Preveure els processos d\u2019incorporaci\u00f3 de refugiats i els canvis del cicle migratori en les pol\u00edtiques d\u2019acollida", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/preveure-els-processos-d-incorporacio-de-refugiats-i-els-canvis-del-cicle-migratori-en-les-politiques-d-acollida", 
+        "votable": null, 
+        "voted": null
+    }
+}

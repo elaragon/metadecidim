@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2962, 
+            "name": "Xavier Riu", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2962, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4209", 
+        "conflictive": false, 
+        "created_at": "06/03/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4209, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Donar coher\u00e8ncia als equipaments p\u00fablics encarregats, mirant d\u2019obrir al m\u00e0xim l\u2019espai p\u00fablic central (hauria de ser m\u00e9s una pla\u00e7a verda que un interior d\u2019illa tancat). Planificar la seva ampliaci\u00f3 amb la requalificaci\u00f3 com a zona verda de l'espai de la cantonada Consell de Cent - Viladomat. I ampliar l\u2019experi\u00e8ncia de gesti\u00f3 comunit\u00e0ria de l'espai.", 
+        "title": "Solar de \u201cl'Illa Germanetes\"", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 39, 
+        "url": "https://decidim.barcelona/pam/proposals/solar-de-l-illa-germanetes", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6032", 
+        "conflictive": false, 
+        "created_at": "19/03/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 6032, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Abans hi havia una persona referent al parc (com una esp\u00e8cie de \"sereno\") que procurava pel b\u00e9 del Parc i f\u00e8ia de contacte entre les entitats esportives i els ens p\u00fablics. Seria bo recuperar una figura similar, per tal de millorar la imatge del Parc i tamb\u00e9 per a que la coordinaci\u00f3 i resoluci\u00f3 de problemes sigui m\u00e9s r\u00e0pida i efica\u00e7.", 
+        "title": "Establir una persona referent pel Parc de l'Espanya Industrial.", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 7, 
+        "url": "https://decidim.barcelona/pam/proposals/establir-una-persona-referent-pel-parc-de-l-espanya-industrial", 
+        "votable": null, 
+        "voted": null
+    }
+}

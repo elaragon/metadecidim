@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12179, 
+                "name": "suport.decidim1", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en la cita presencial: Consell Escolar Sectorial. El Dret a l'Educaci\u00f3. \"Actualitzaci\u00f3 del Mapa Escolar del Districte de Gr\u00e0cia\"</p>", 
+            "commentable_id": 8, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 13:29:29", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5022, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 24376, 
+                "name": "DecidimBarcelona", 
+                "official": true, 
+                "official_level": 2, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La descripci\u00f3 d'aquesta proposta no correspon amb el seu t\u00edtol degut a un error t\u00e8cnic. Per una q\u00fcesti\u00f3 de tra\u00e7abilitat no es modificar\u00e0 la descripci\u00f3. Tot i aix\u00ed podeu consultar l'actuaci\u00f3 definitiva relacionada en el seg\u00fcent enlla\u00e7: <a href=\"https://decidim.barcelona/pam/action_plans/4791\">https://decidim.barcelona/pam/action_plans/4791</a> </p>", 
+            "commentable_id": 8, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/09/2016 11:09:56", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 18720, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

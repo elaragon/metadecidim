@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1609, 
+            "name": "David Bravo Bordas", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1609, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3342", 
+        "conflictive": false, 
+        "created_at": "23/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.revistadiagonal.com/articles/una-imagen-y-mil-palabras/coartada/#more-60", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3342, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 10, 
+            "name": "Desenvolupament i economia de proximitat", 
+            "position": 1
+        }, 
+        "summary": "Als barris c\u00e8ntrics, la gentrificaci\u00f3 comercial substitueix els petits negocis per franqu\u00edcies globals. Als pol\u00edgons perif\u00e8rics, el monocultiu residencial deixa via lliure a les grans superf\u00edcies. L\u2019Ajuntament hauria d\u2019adquirir locals buits i oferir-los gratu\u00eftament a comerciants que donin als barris serveis acordats en processos participatius.", 
+        "title": "Petit comer\u00e7 de protecci\u00f3 oficial", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 15, 
+        "url": "https://decidim.barcelona/pam/proposals/petit-comerc-de-proteccio-oficial", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1739, 
+                "name": "Isra", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>M\u00e9s que traslladar s'hauria d'eliminar; els animals han de viure en total llibertat y no s'ha de fer negoci amb ells</p>", 
+            "commentable_id": 1144, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/02/2016 19:04:30", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 472, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2772, 
+                "name": "Elizabethnusa", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00bfIdeas?  \u00bfA  d\u00f3nde? . \u00bfHay en BCN un lugar  apropiado para trasladar todo el Zoo,adem\u00e1s  del costo a\u00f1adido  de su traslado?</p>", 
+            "commentable_id": 1144, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 11:44:21", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 907, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17520, 
+                "name": "Jordidiaz", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic d'acord en el trasllat del Zoo, per\u00f2 no en modificar el recinte i els l\u00edmits del Parc de la Ciutadella. \u00c9s historicament el primer parc p\u00fablic de la ciutat. \u00c9s un jard\u00ed hist\u00f2ric, un b\u00e9 patrimonial que no podem permetre que es continui especulant a base de nous projectes.</p>", 
+            "commentable_id": 1144, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/04/2016 20:41:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7825, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "472", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1903, 
+                "name": "ignacioespacio", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord!</p>", 
+            "commentable_id": 1144, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/02/2016 23:20:34", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 516, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

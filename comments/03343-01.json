@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8612, 
+                "name": "Javier Cuch\u00ed", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La impunitat amb la qu\u00e8 els amos [inc\u00edvics] de gossos circulen per Barcelona \u00e9s indignant, per\u00f2 proverbial. La vista grossa \u00e9s la \u00fanica norma que sembla aplicar l'autoritat i els seus agents. Perqu\u00e8 el problema no est\u00e0 tan sols en les defecacions, sin\u00f3 tamb\u00e9 en els orins: no es veuen, per\u00f2 s\u00ed oloren i no poc. Prohibir que els gossos orinin al carrer -si no \u00e9s que ho est\u00e0 ja- \u00e9s una gran dificultat per als seus propietaris, ho entenc, per\u00f2... perqu\u00e8 he de pagar jo aquestes dificultats. Tal com est\u00e0 ara, un senyor/a t\u00e9 un gos i el qui t\u00e9 un problema s\u00f3c jo, no ell. Injust, indignant i indigne. Se m'acaba el diccionari...</p>", 
+            "commentable_id": 3343, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/02/2016 12:06:04", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2792, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 889, 
+                "name": "DCC", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si us plau busqueu m\u00e9s propostes com la vostre, jo mateix he fet unes, simplement amb la paraula gossos o en castell\u00e0 perros, o 'excrements' i trobareu m\u00e9s propostes a les que tamb\u00e9 podeu suport per tal d'acabar amb les #VoreresWC. \n<br />Tamb\u00e9 podeu informar d'incivisme amb gossos al 900.226.226 (Tel\u00e8fon gratu\u00eft de civisme), i ha l'APP per ANDROID i i-Phone 'Bustia ciutadana' on a 'Neteja de carrers o places' amb el concepte 'Bruticia' es pot denunciar i adjuntar la foto per que no puguin dir despr\u00e9s que no ho han trobat...</p>", 
+            "commentable_id": 3343, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 10:26:20", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8260, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

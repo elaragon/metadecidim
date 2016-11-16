@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 5757, 
+            "name": "Ana Villagordo", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 5757, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2723", 
+        "conflictive": false, 
+        "created_at": "16/02/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "https://www.change.org/p/jaume-asens-no-tanquem-les-portes-del-hivernacle-de-sants?recruiter=32661555&utm_source=share_petition&utm_medium=whatsapp", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2723, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "L'Hivernacle de Sants \u00e9s un espai \u00fanic del barri de Sants. Ara resulta que els propietaris el volen vendre i, per tant no renoven el lloguer de l'Hivernacle. No podem deixar perdre aquest espai de cohesi\u00f3 del barri. Un pulm\u00f3 verd en un barri com Sants, amb molta poblaci\u00f3. Esperem podem salvar l'Hivernacle i potser es pot planetaj una autogesti\u00f3.", 
+        "title": "Salvar l'Hivernacle de Sants", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 52, 
+        "url": "https://decidim.barcelona/pam/proposals/salvar-l-hivernacle-de-sants", 
+        "votable": null, 
+        "voted": null
+    }
+}

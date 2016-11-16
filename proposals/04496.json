@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4496", 
+        "conflictive": false, 
+        "created_at": "09/03/2016", 
+        "district": {
+            "id": 9, 
+            "name": "Sant Andreu"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 4496, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Actualment, la cru\u00eflla \u00e9s molt perillosa. S'hauria de replantejar on paren els autobusos per tal de que no obstaculitzin el pas de la resta de vehicles.", 
+        "title": "Reorganitzar la cru\u00eflla Av. Meridiana - C/Felip II - C/ Sant Antoni Maria Claret (costat muntanya) per disminuir el risc d\u2019accidents i atropellaments de vianants i ciclistes", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 5, 
+        "url": "https://decidim.barcelona/pam/proposals/reorganitzar-la-cruilla-av-meridiana-c-felip-ii-c-sant-antoni-maria-claret-costat-muntanya-per-disminuir-el-risc-d-accidents-i-atropellaments-de-vianants-i-ciclistes", 
+        "votable": null, 
+        "voted": null
+    }
+}

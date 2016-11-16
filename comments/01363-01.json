@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3812, 
+                "name": "libove", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El no poder garantizar que es pot abordar un tren Rodalies, l'impossibilitat de portar una bici no plegable a un autob\u00fas, fa poc pr\u00e0ctic el us de la bici com a modalitat de transport per la ciutat i les voltants. Encara en una ciutat tan poc amable a les bicis com a Atlanta en els EEUU tots els autobuses des de fa d\u00e8cades ja porten portabicis! Es de vergonya que a Barcelona encara els faltem. </p>", 
+            "commentable_id": 1363, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/02/2016 10:32:27", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1259, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3026, 
+                "name": "Imma V.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Potser caldria primer garantir l'acc\u00e9s als usuaris a tothora. Hi ha moments que el transport va molt ple i nom\u00e9s falta que hi pugin bicicletes.  No he estat mai a Atlanta,  per\u00f2 s\u00f3c usu\u00e0ria de bicicleta i Barcelona t\u00e9 una mida amable per rec\u00f3rrer-la amb bicicleta, no cal enfilar-la enlloc perqu\u00e8 pedalant s'arriba a tot arreu. </p>", 
+            "commentable_id": 1363, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/02/2016 11:34:58", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1704, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1259", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9451, 
+                "name": "Julia Martinez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En el autob\u00fas con los cochecitos de lis beb\u00e9s de lo que estoy a favor y de las personas con minusv\u00e1lidas no me parece bien lo de las bicicletas adem\u00e1s si se coge el autob\u00fas se ver\u00e1 q no es viable y adem\u00e1s la bicicleta no es para ir en ella  o se. Pretende pedalear en el autob\u00fas a mi personalmente no me par de buen el el metro q hay muchos vagones no se molesta tanto</p>", 
+            "commentable_id": 1363, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 10:46:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4971, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1259/4971", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3812, 
+                "name": "libove", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>@Julia, la idea es montar portabicis en la parte delantera de los autobuses, como lo hacen en por ej. Atlanta en los EEUU, que puedes ver en una foto en este enlace: <a href=\"https://goingawoc.files.wordpress.com/2011/08/busnbike.jpg\">https://goingawoc.files.wordpress.com/2011/08/busnbike.jpg</a>\n<br />Pues, no interferir\u00eda de ninguna manera con la gente abordando de/ adentro del bus. De acuerdo que las bicis no entran _dentro_ del autobus, mientras insisto que las bicis s\u00ed se portar\u00e1n \"en\" (montadas en frente de) los autobuses. Creo que hay soluci\u00f3n para todos.\n<br />un saludo,</p>", 
+            "commentable_id": 1363, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 11:18:13", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4983, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 1, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1259/4971/4983", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9451, 
+                "name": "Julia Martinez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si es as\u00ed me parece bien  no lo hab\u00eda entendido bien lo siento</p>", 
+            "commentable_id": 1363, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 13:53:55", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5023, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

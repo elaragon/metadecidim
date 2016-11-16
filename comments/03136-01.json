@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6739, 
+                "name": "Salvador Barrau V.", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els dissenys han de complir all\u00f2 necessari,funci\u00f3 i forma, i el conjunt han de servir per a qui vagi destinat. Aquest mobiliari no aprobaria un primer curs de disseny elemental. Per\u00f2,poder si de marqueting per la prioritat a la publicitat, enlloc de donar servei a les persones.</p>", 
+            "commentable_id": 3136, 
+            "commentable_type": "Proposal", 
+            "created_at": "19/02/2016 13:26:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2156, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 827, 
+                "name": "Marga", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord. Sembla que el disseny a Barcelona est\u00e0 en mans de molts ineptes, no nom\u00e9s les marquesines del bus.</p>", 
+            "commentable_id": 3136, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 20:43:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6662, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

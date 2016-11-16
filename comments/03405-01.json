@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8218, 
+                "name": "maga", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Bona nit,\n<br />.. doncs jo ho he vist en una banderola, caminant per la ciutat, ...per\u00f2 s\u00ed que \u00e9s veritat que m'ha sorpr\u00e8s i m'he encuriosit</p>", 
+            "commentable_id": 3405, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 01:17:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2647, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5242, 
+                "name": "Alejandro Gim\u00e9nez Imirizaldu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tampoc estaria malament que an\u00e9s creixent al ritme del boca orella i aix\u00ed potser es percebria com quelcom m\u00e9s instrumental que propagand\u00edstic.</p>", 
+            "commentable_id": 3405, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 14:39:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2713, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6041, 
+                "name": "Aime", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aquests dies he vist molta publicitar I aix\u00f2 ho dona a con\u00e8ixer per\u00f2 pens\u00f3 que una app podr\u00eda fer que s'utilitzes m\u00e9s, ja que seria m\u00e9s pr\u00e0ctic.</p>", 
+            "commentable_id": 3405, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 08:21:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5398, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/garantir-l-accessibilitat-de-la-participacio\">https://decidim.barcelona/proposals/garantir-l-accessibilitat-de-la-participacio</a></p>", 
+            "commentable_id": 3405, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 11:05:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10415, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 12138, 
+            "name": "Gats de Gr\u00e0cia", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 12138, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4847", 
+        "conflictive": false, 
+        "created_at": "14/03/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "www.gatsdegracia.cat", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4847, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "La proposta de Gats de Gr\u00e0cia \u00e9s fer al Districte  un espai similar al conegut refugi de Torre Argentina, situat en ple centre de Roma (It\u00e0lia). Un centre on, a m\u00e9s, tindrien lloc els tallers que GdG imparteix en les escoles,  i equipaments socioculturals sobre fauna urbana, i  s'oferirien visites per informar-se sobre gesti\u00f3 de col\u00f2nies.", 
+        "title": "Creaci\u00f3 d'una col\u00f2nia model de gats ferals  que sigui referent de Gr\u00e0cia i de la resta de la ciutat a nivell nacional i internacional. ", 
+        "total_comments": 8, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 8, 
+        "total_votes": 42, 
+        "url": "https://decidim.barcelona/pam/proposals/creacio-d-una-colonia-model-de-gats-ferals-que-sigui-referent-de-gracia-i-de-la-resta-de-la-ciutat-a-nivell-nacional-i-internacional", 
+        "votable": null, 
+        "voted": null
+    }
+}

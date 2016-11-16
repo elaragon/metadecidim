@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11339, 
+                "name": "Fina Moreno Hern\u00e1ndez", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La sociabilitzaci\u00f3 de les persones passa pel respecte entre elles i el desconeixement fa que es perdin les formes. Cal informaci\u00f3 perqu\u00e8 les difer\u00e8ncies es gestionin amb naturalitat i formin part del dia a dia de tothom, sigui quina sigui la seva identitat sexual.</p>", 
+            "commentable_id": 4661, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 08:40:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4475, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

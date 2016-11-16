@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8175, 
+                "name": "Tonia Franco Salda\u00f1a", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es una tortura. No ens deixen dormir. Al carrer Maignon passen 3 i 4 cops a la nit (12,3, 5-6 i 7h) camions municipals de recollida de brossa i reciclatge. El soroll que fan est\u00e0 molt per sobre del perm\u00e8s. Arriben a 84 decibelis quan la normativa municipal permet un m\u00e0xim de  50db. </p>", 
+            "commentable_id": 6454, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/03/2016 10:25:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6489, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16175, 
+                "name": "pepita micheli bellera", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposo canviar el tipus de contenidors, potser la recollida no seria tant freq\u00fcent i resultaria menys sorollosa</p>", 
+            "commentable_id": 6454, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 16:43:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7230, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16934, 
+                "name": "antonio rodriguez ferreira", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Los camiones de recogida de basuras durante la noche, pasan 4 y 5 veces y los viernes mas por tener que recoger trastos viejos, se tiene que procurar reducir estos horarios por la noche , por que no se puede descansar.  ES MUY NECESARIO LIMPIAR MAS LA CALLE ESTA MUY SUCIA</p>", 
+            "commentable_id": 6454, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/04/2016 08:14:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7494, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12345, 
+                "name": "Arturo Serra", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Sugereixo dos posibles solucions: la primera es que els contenidors estiguin tots al final del carrer Maignon a prop del nou parc Menendez i Pelayo, o b\u00e9 que la recollida sigui dins l'horari de mat\u00ed. El soroll nocturn actualment dels camions municipals al carrer Maignon no es pot tolerar.</p>", 
+            "commentable_id": 6454, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 12:46:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7982, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

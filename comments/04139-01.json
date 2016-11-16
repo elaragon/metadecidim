@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2364, 
+                "name": "Rocu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ja existeix proposta a: <a href=\"https://decidim.barcelona/proposals/reurbanitzacio-tram-pendent-del-carrer-de-l-escultor-ordonez\">https://decidim.barcelona/proposals/reurbanitzacio-tram-pendent-del-carrer-de-l-escultor-ordonez</a></p>", 
+            "commentable_id": 4139, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/03/2016 21:26:00", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3757, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14563, 
+                "name": "Carlus", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord. Ja fa anys que desde el districte es van comprometre a la reforma integral d'aquest tram de carrer i a hores d'ara, res de res. L'activitat comercial que tenia aquest carrer, lloc de pas natural entre Porta i Virrei Amat, ha caigut en l'abandonament m\u00e9s absolut. </p>", 
+            "commentable_id": 4139, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 13:17:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6574, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

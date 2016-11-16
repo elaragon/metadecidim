@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8543, 
+                "name": "carme esquerdo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Fer servir pisos buits o habilitar centres espec\u00edfics a  on es permet\u00e9s accedir amb els seus animals de companyia, i que podrien arribar a ser autogestionats per ells mateixos, podria ser una soluci\u00f3, per\u00f2 ajudar-los a trav\u00e9s de xarxes comunit\u00e0ries en aquests mateixos centres, tamb\u00e9 podria millorar la seva qualitat de vida i possibilitar la integraci\u00f3.\n</p>", 
+            "commentable_id": 3510, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/02/2016 00:00:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2773, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10023, 
+                "name": "Sheila", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Caldria incrementar i habilitar espais perqu\u00e8 puguin tenir cura dels seus animals de companyia; i tamb\u00e9 de les seves pertinences, ja que malgrat que es sol considerar que els serveis adre\u00e7ats al col\u2022lectiu s\u00f3n de \u201cbaixa exig\u00e8ncia\u201d (concepte que hauria de ser revisat), s\u00f3n persones que pateixen moltes restriccions en l\u2019acc\u00e9s als mateixos.</p>", 
+            "commentable_id": 3510, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/03/2016 14:47:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3453, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 581, 
+                "name": "CarmeG", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>M\u00b4agrada! S\u00ed!</p>", 
+            "commentable_id": 3510, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 17:33:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5079, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

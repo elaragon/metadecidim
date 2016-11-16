@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 266, 
+            "name": "Licha", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 266, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1737", 
+        "conflictive": false, 
+        "created_at": "11/02/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1737, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "La part de dalt de Cant\u00e0bria i Rambla Prim ha quedat deixada, abandonada. Zona en terra de ning\u00fa. 1 un pas provisional cap a St Andreu 2 a dalt de Cant\u00e0bria/Rbla Prim amb solars deixats i bruts i 3 cap a la Trajana, un pont en mal estat. Genera tancament de tots els comer\u00e7os, paviment en mal estat, brut\u00edcia i  mort a la vida de barri.  ", 
+        "title": "Rehabilitaci\u00f3 zona paralitzada c/Cant\u00e0bria, Rbla Prim i Pont del Treball ", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 16, 
+        "url": "https://decidim.barcelona/pam/proposals/rehabilitacio-zona-paralitzada-c-cantabria-rbla-prim-i-pont-del-treball", 
+        "votable": null, 
+        "voted": null
+    }
+}

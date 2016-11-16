@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 101, 
+            "name": "Associaci\u00f3 de Ve\u00efns amb Afectacions Urban\u00edstiques AVAUP", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 101, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1228", 
+        "conflictive": false, 
+        "created_at": "02/02/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1228, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "-\tObertura de la caserna de bombers de Vallvidrera durant tot l\u2019any\r\n-\tPromoure la neteja de finques forestals p\u00fabliques i vetllar pel compliment dels propietaris en les privades. Promoure la millora en el manteniment i la neteja de la massa forestal. Neteja de marges.\r\n-\t Revisar peri\u00f2dicament el mapa d\u2019hidrants de Vallvidrera-Tibidabo-les Planes", 
+        "title": "Establir mesures de prevenci\u00f3 d'incendis efectives a Les Planes", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 104, 
+        "url": "https://decidim.barcelona/pam/proposals/establir-mesures-de-prevencio-d-incendis-efectives-a-les-planes", 
+        "votable": null, 
+        "voted": null
+    }
+}

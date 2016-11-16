@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": true, 
+            "hidden": false, 
+            "id": 5080, 
+            "name": null, 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 5080, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2666", 
+        "conflictive": false, 
+        "created_at": "15/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2666, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Hi ha alguns sem\u00e0fors per a ciclistes que no acaben de quedar del tot clar. Un exemple, la cru\u00eflla entre els carrers proven\u00e7a-sic\u00edlia, on en sentit b\u00e8sos, el sem\u00e0for de les bicicletes est\u00e0 situat amb el dels cotxes i amb poca visibilitat, en canvi, el de precauci\u00f3 per a vianants est\u00e0 situat conjuntament amb el de vianants de la seg\u00fcent cru\u00eflla.", 
+        "title": "Sem\u00e0fors confusos per a ciclistes", 
+        "total_comments": 6, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 18, 
+        "url": "https://decidim.barcelona/pam/proposals/semafors-confusos-per-a-ciclistes", 
+        "votable": null, 
+        "voted": null
+    }
+}

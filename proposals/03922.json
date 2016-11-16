@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3922", 
+        "conflictive": false, 
+        "created_at": "04/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 3922, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 5, 
+            "name": "Cicles de vida ", 
+            "position": 5
+        }, 
+        "summary": "Una d\u2019aquestes experi\u00e8ncies a potenciar \u00e9s la dels col\u2022laboradors d\u2019escala del projecte RADARS\r\nEn aquest abordatge integral contra la solitud caldria preveure mesures espec\u00edfiques per combatre la solitud de persones grans immigrades que per exemple han vingut a partir de reagrupaments familiars i que mentre els fills treballen  es troben molt soleS", 
+        "title": "Impulsar una pla integral per abordar la solitud de la gent gran aprofitant les diferents experi\u00e8ncies i programes pilot que s\u2019estan desenvolupant a diferents barris de Barcelona.", 
+        "total_comments": 4, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 4, 
+        "total_positive_comments": 0, 
+        "total_votes": 9, 
+        "url": "https://decidim.barcelona/pam/proposals/impulsar-una-pla-integral-per-abordar-la-solitud-de-la-gent-gran-aprofitant-les-diferents-experiencies-i-programes-pilot-que-s-estan-desenvolupant-a-diferents-barris-de-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

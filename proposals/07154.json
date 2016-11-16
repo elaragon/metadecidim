@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 15689, 
+            "name": "Llu\u00eds Sureda", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 15689, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7154", 
+        "conflictive": false, 
+        "created_at": "29/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7154, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "L'any 2003, una sent\u00e8ncia del Tribunal Superior de Just\u00edcia de Catalunya va declarar inv\u00e0lids els s\u00edmbols de la Ciutat que havia aprovat el Ple municipal el 1996. El mal, per\u00f2, ja estava fet. I el nyap proposat per Pasqual Maragall ja era omnipresent a la vida barcelonina. Encara avui hi ha un munt de depend\u00e8ncies, locals o vehicles de l'Ajuntament que llueixen el nyap d'escut. En el cas dels vehicles, tot i que aquests han estat matriculats fa pocs mesos... Esperem que l'actual govern municipal es posi mans a l'obra per regularitzar aquest greuge i s'asseguri que es procedeix a la substituci\u00f3 d'aquests s\u00edmbols il\u00b7legals i que les emrpeses que treballen amb l'Ajuntament passin a usar l'escut i s\u00edmbols legals.", 
+        "title": "Normalitzaci\u00f3 dels s\u00edmbols de la ciutat", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/normalitzacio-dels-simbols-de-la-ciutat", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 3348, 
+            "name": "Associaci\u00f3 Intercultural Nakeramos ", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 3348, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2606", 
+        "conflictive": false, 
+        "created_at": "12/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.msssi.gob.es/ssi/familiasInfancia/inclusionSocial/poblacionGitana/docs/WEB_POBLACION_GITANA_2012.pdf", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2606, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 8, 
+            "name": "Migraci\u00f3, interculturalitat i discriminaci\u00f3 zero", 
+            "position": 8
+        }, 
+        "summary": "Elaborar propostes i desenvolupar un proc\u00e9s de participaci\u00f3 per dissenyar un pla d\u2019actuaci\u00f3 integral de lluita contra l'antigitanisme a Barcelona, fent efectives les recomanacions del Consell d'Europa i seguint les l\u00ednies d'actuaci\u00f3 establertes a l'Estrat\u00e8gia Nacional per a la Inclusi\u00f3 del Poble Gitano (2012-2020).", 
+        "title": "Pla de lluita contra l'antigitanisme", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 7, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-de-lluita-contra-l-antigitanisme", 
+        "votable": null, 
+        "voted": null
+    }
+}

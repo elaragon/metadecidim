@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16809, 
+                "name": "JOSE LUIS RODRIGUEZ FRIED", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Un \"Punt Verd Generic\" seria retirado una vez por semana y alli se dejarian todos los residuos que no se pueden mezclar con el resto, Bombillas electricas, cargadores de moviles, electrodomesticos varios, envases de aerosoles, cables, baterias, artefactos electronicos da\u00f1ados, y un sin fin de etc, si tienes la costumbre de reciclar en casa, acabas acumulando todo este basural a la espera del dia en que puedas llevar con tu auto o el de algun amigo todo esto hasta un punto verde, donde te espera un empleado comodamente sentado que te indica donde depositarlos, y encima de todo una vez que tu has hecho todo el trabajo las empresas privadas los reciben en sus factorias para convertir el trabajo del vecino en dinero para ellos, lo cual resulta una burla. o le pagan a los vecinos para que vallan a los puntos verdes con todo lo que no entra en los contenedores tradicionales, o le acercan el punto verde a sus casas y que las companias beneficiarias hagan el trabajo de separarlo.</p>", 
+            "commentable_id": 10038, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 18:18:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11309, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

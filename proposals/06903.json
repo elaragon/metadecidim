@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 15381, 
+            "name": "Xnet", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 15381, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6903", 
+        "conflictive": false, 
+        "created_at": "27/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://fcforum.net/ca/charter_extended", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6903, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Els recursos educatius s\u00f3n una eina  b\u00e0sica per a l\u2019educaci\u00f3; la  seva  publicaci\u00f3 sota domini p\u00fablic o llic\u00e8ncies lliures, facilita  l\u2019acc\u00e9s,  estimula el progr\u00e9s i la participaci\u00f3 i fomente la diversitat  cultural,  al mateix  temps que en maximitza la reutilitzaci\u00f3 i  l\u2019efici\u00e8ncia.", 
+        "title": "Promoure la distribuci\u00f3 i l'acc\u00e9s gratu\u00eft al material i documentaci\u00f3 educatiu", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 12, 
+        "url": "https://decidim.barcelona/pam/proposals/promoure-la-distribucio-i-l-acces-gratuit-al-material-i-documentacio-educatiu-538da8a9-70da-4115-bef3-5a444099e588", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13271, 
+                "name": "Janet M\u00e9rida Fern\u00e1ndez ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Cuando no se tiene la informaci\u00f3n justa, resulta m\u00e1s f\u00e1cil meter todo en el mismo saco, agitar, Criminalizar y fomentar alarma social, seguridad y cuando ocurre la realidad se confunde. Prostituci\u00f3n, ofrecer servicios sexuales por dinero. Trata Explotaci\u00f3n Forzadas para ejercer cualquier funci\u00f3n. Ya sea toda dentro lo que se considera trabajo Digno o Sexual. Esto es Delito Grave Violaci\u00f3n DDHH, es la diferencia. </p>", 
+            "commentable_id": 4307, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 16:38:55", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5572, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10597, 
+                "name": "cesar lobato", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic d'acord amb el comentari de la Janet M\u00e9rida.</p>", 
+            "commentable_id": 4307, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/04/2016 19:28:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7615, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

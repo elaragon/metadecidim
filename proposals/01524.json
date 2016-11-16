@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2726, 
+            "name": "Miguel ", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2726, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1524", 
+        "conflictive": false, 
+        "created_at": "06/02/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1524, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Hacer del Parc de la Ciutadella un referente en Barcelona como los parques reales lo son en Londres. Con un cuidado minucioso del c\u00e9sped, fuentes, flora  y no tenga nada que envidiar a los de las grandes capitales europeas.", 
+        "title": "Renovar Parc de la Ciutadella", 
+        "total_comments": 11, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 4, 
+        "total_positive_comments": 5, 
+        "total_votes": 40, 
+        "url": "https://decidim.barcelona/pam/proposals/renovar-parc-de-la-ciutadella", 
+        "votable": null, 
+        "voted": null
+    }
+}

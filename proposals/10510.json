@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10510", 
+        "conflictive": false, 
+        "created_at": "09/04/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 10510, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Treball conjuntament amb els equipaments per tal de fer accessibles no nom\u00e9s les activitats que ofereixen sin\u00f3 tamb\u00e9 l\u2019espai p\u00fablic que els envolta i que moltes vegades dificulta l\u2019accessibilitat a les persones amb diversitat redu\u00efda. Compatibilitat el disseny amb l\u2019accessibilitat. ", 
+        "title": "Oferir als equipaments p\u00fablics i municipals suport per fer accessibles les seves activitats i l\u2019espai p\u00fablic que els envolta. ", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/oferir-als-equipaments-publics-i-municipals-suport-per-fer-accessibles-les-seves-activitats-i-l-espai-public-que-els-envolta", 
+        "votable": null, 
+        "voted": null
+    }
+}

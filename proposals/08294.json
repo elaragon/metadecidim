@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": true, 
+            "hidden": false, 
+            "id": 18400, 
+            "name": null, 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 18400, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8294", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": {
+            "id": 4, 
+            "name": "Les Corts"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8294, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Aturar la construcci\u00f3 del carril bici del carrer Joan G\u00fcell per innecessari (ja n'hi ha a Carles III/Brasil), perqu\u00e8 tapona la circulaci\u00f3 d'aquest important eix viari, per la perillositat que suposa per als vianants aquest sistema segregat i perqu\u00e8 no s'av\u00e9 l'enrenou que provoca amb l'escassa utilitzaci\u00f3, en general, dels carrils bici.", 
+        "title": "Aturar el carril bici del carrer Joan G\u00fcell", 
+        "total_comments": 10, 
+        "total_negative_comments": 4, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/aturar-el-carril-bici-del-carrer-joan-guell", 
+        "votable": null, 
+        "voted": null
+    }
+}

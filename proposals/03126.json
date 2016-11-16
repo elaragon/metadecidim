@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 6219, 
+            "name": "I.G.", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 6219, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3126", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3126, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Exc\u00e9s de velocitat i saturaci\u00f3 vehicles que circulen per  Vallvidrera entre el Vall\u00e8s i Barcelona. \u00c9s necessari posar elements reductors de velocitats als 3 carrers d'acc\u00e9s a la poblaci\u00f3 (Ctra. Sarri\u00e0, C/Alberes, Ctra de l'Esgl\u00e9sia), ampliar i dignificar voreres estretes, i treure pals llum del mig. Al\u00e7ar Pl. Vallvidrera tipus carrer 30 ", 
+        "title": "Pacificar tr\u00e0nsit a Vallvidrera i Serra Collserola", 
+        "total_comments": 6, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 5, 
+        "total_votes": 52, 
+        "url": "https://decidim.barcelona/pam/proposals/pacificar-transit-a-vallvidrera-i-serra-collserola", 
+        "votable": null, 
+        "voted": null
+    }
+}

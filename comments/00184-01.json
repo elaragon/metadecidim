@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1010, 
+                "name": "catorvel", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Un espai familair a cada barri. A sagrafa familia no hi ha cap. </p>", 
+            "commentable_id": 184, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 16:25:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 287, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12179, 
+                "name": "suport.decidim1", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda en la cita presencial: Consell de Salut del Districte de l'Eixample. \"Crear espais de crian\u00e7a al Districte de l\u2019Eixample. Per tant, la proposta 1.3 quedaria redactada de la seg\u00fcent manera: Creaci\u00f3 d\u2019espais de relaci\u00f3 per a fam\u00edlies amb infants de o a 3 anys i creaci\u00f3 d\u2019espais de crian\u00e7a.\"</p>", 
+            "commentable_id": 184, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 14:17:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6762, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

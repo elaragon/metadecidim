@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 5500, 
+            "name": "\u00c0ngels Gironella Sol\u00e9", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 5500, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2681", 
+        "conflictive": false, 
+        "created_at": "15/02/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2681, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "A l'antiga Esquerra de l'Eixample les \u00e0rees per a gossos s\u00f3n insuficients. Demanem que a la Pla\u00e7a Letamendi s'adeq\u00fci d'acord amb la normativa vigent.  A l'Eixample les \u00e0reees per a gossos s\u00f3n petites sense prou espai per al seu esbarjo i aquest fet dificulta la conviv\u00e8ncia ve\u00efnal. Aquesta proposta ja es va presentar al Districte.", 
+        "title": "Adequar \u00e0rea per a gossos a la Pla\u00e7a Letamendi", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 40, 
+        "url": "https://decidim.barcelona/pam/proposals/adequar-area-per-a-gossos-a-la-placa-letamendi", 
+        "votable": null, 
+        "voted": null
+    }
+}

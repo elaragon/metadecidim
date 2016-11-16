@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els infants de l\u2019esplai El Bon Recer van estar debatent diferents propostes per millorar el medi ambient de la ciutat. Van proposar crear i organitzar m\u00e9s punts verds a la ciutat de Barcelona, perqu\u00e8 a vegades a la gent li queda lluny i no hi va.</p>", 
+            "commentable_id": 832, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 12:53:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9217, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

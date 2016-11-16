@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8297", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8297, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 8, 
+            "name": "Migraci\u00f3, interculturalitat i discriminaci\u00f3 zero", 
+            "position": 8
+        }, 
+        "summary": "Algunes mesures adoptades per les administracions per evitar actuacions fraudulentes a l\u2019hora d\u2019aconseguir permisos de resid\u00e8ncia o nacionalitat s\u00f3n discriminatoris, com l\u2019augment de la burocr\u00e0cia o la supressi\u00f3 d\u2019alguns procediments, com per exemple, el registre de parelles de fet. (continua al primer comentari)", 
+        "title": "Reobrir el registre de parelles de fet i eliminar els procediments discriminatoris", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/reobrir-el-registre-de-parelles-de-fet-i-eliminar-els-procediments-discriminatoris", 
+        "votable": null, 
+        "voted": null
+    }
+}

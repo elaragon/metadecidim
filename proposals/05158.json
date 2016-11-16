@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5158", 
+        "conflictive": false, 
+        "created_at": "15/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 5158, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 5, 
+            "name": "Cicles de vida ", 
+            "position": 5
+        }, 
+        "summary": "Incrementar els recursos culturals i comunitaris. Per exemple \u00e9s inadmissible que hi hagi llistes d\u2019espera per poder accedir a un casal de gent gran en alguns barris. Aportar informaci\u00f3 i transpar\u00e8ncia sobre aquest fet, i saber en quins barris est\u00e0 passant aix\u00f2. Prioritzar les persones m\u00e9s grans de 80 anys en l\u2019acc\u00e9s a aquests casals.", 
+        "title": "Incrementar els recursos culturals i comunitaris per la gent gran", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 5, 
+        "url": "https://decidim.barcelona/pam/proposals/incrementar-els-recursos-culturals-i-comunitaris-per-la-gent-gran", 
+        "votable": null, 
+        "voted": null
+    }
+}

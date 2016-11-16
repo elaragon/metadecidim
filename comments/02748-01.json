@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9298, 
+                "name": "J. Alberto", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En general en toda la ciudad hacen falta m\u00e1s fuentes</p>", 
+            "commentable_id": 2748, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 16:52:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5068, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9298, 
+                "name": "J. Alberto", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tambi\u00e9n se deber\u00eda revisar la calidad del agua en las fuentes, porque sucede demasiado a menudo que el agua tiene mal sabor.</p>", 
+            "commentable_id": 2748, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 15:35:14", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6992, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17741, 
+                "name": "Suport General3 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/ajardinar-la-pl-ramon-berenguer-i-dotar-la-de-mobilari\">https://decidim.barcelona/proposals/ajardinar-la-pl-ramon-berenguer-i-dotar-la-de-mobilari</a></p>", 
+            "commentable_id": 2748, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 13:36:27", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12110, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17741, 
+                "name": "Suport General3 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/restauracio-de-l-antiga-font-publica-de-pedra-del-carrer-de-la-unio-ubicada-al-numero-32\">https://decidim.barcelona/proposals/restauracio-de-l-antiga-font-publica-de-pedra-del-carrer-de-la-unio-ubicada-al-numero-32</a></p>", 
+            "commentable_id": 2748, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 13:36:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12111, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

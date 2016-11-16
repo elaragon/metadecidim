@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7195", 
+        "conflictive": false, 
+        "created_at": "29/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 7195, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 18, 
+            "name": "Participaci\u00f3 ciutadana", 
+            "position": 2
+        }, 
+        "summary": "Establir un proc\u00e9s de treball directe amb les persones no associades o organitzades, usu\u00e0ries o benefici\u00e0ries de les pol\u00edtiques p\u00fabliques coprodu\u00efdes. Incorporar-les a totes les fases de la coproducci\u00f3 (diagnosi, disseny, seguiment implementaci\u00f3 i avaluaci\u00f3). ", 
+        "title": "Incorporar al proc\u00e9s de coproducci\u00f3 de pol\u00edtiques p\u00fabliques a les persones benefici\u00e0ries de la pol\u00edtica p\u00fablica ", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/incorporar-al-proces-de-coproduccio-de-politiques-publiques-a-les-persones-beneficiaries-de-la-politica-publica", 
+        "votable": null, 
+        "voted": null
+    }
+}

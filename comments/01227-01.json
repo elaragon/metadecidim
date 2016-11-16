@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 120, 
+                "name": "Leonor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Les afectacions urban\u00edstiques s\u00f3n derivades de din\u00e0miques que venen del Pla General Metropolit\u00e0 (PGM) i tenen 40 anys d\u2019antiguitat. L\u2019administraci\u00f3 no ha donat sortida a les persones residents, amb la conseg\u00fcent inestabilitat emocional que comporta. hauria de considerar a les persones i fam\u00edlies afectades pels conflictes derivats per dites afectacions com ve\u00efns amb drets adquirits a l\u2019habitatge.</p>", 
+            "commentable_id": 1227, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 11:47:20", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 207, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15829, 
+                "name": "Mar\u00eda P\u00e9rez Mar", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord.\n</p>", 
+            "commentable_id": 1227, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/04/2016 08:40:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7495, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17380, 
+                "name": "Ruth Maria Costa Alonso", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Una pregunta, \u00bfpor qu\u00e9 se propone reducir la edificabilidad? \u00bfpor qu\u00e9 90 m2?\n</p>", 
+            "commentable_id": 1227, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/04/2016 17:01:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7806, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "7806", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 120, 
+                "name": "Leonor", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Lo que se propone es conservar los metros cuadrados construidos, sin incrementar volumen, con una excepci\u00f3n: que las casas peque\u00f1as puedan ampliarse hasta un m\u00e1ximo de 90 m2, que es el tama\u00f1o que tiene las casas de protecci\u00f3n oficial. Aunque estas no sean VPO, tomamos esa superficie como la m\u00ednima adecuada para una casa, porque hay que buscar alguna referencia l\u00f3gica para establecer un m\u00ednimo. En cualquier caso, se trata s\u00f3lo de unas pocas casas.\n<br />No pedimos reducir edificabilidad, ahora no son edificables. A nivel de zona, la edificabilidad total no se ver\u00eda afectada, puesto que las viviendas que ahora est\u00e1n programadas en el planeamiento urban\u00edstico para compensar las expropiaciones de las casa afectadas no ser\u00edan necesarias y quedar\u00eda un remanente de edificabilidad dotacional que podria dedicarse a construir viviendas de alquiler asequibles, cosa que ahora no est\u00e1 programada.</p>", 
+            "commentable_id": 1227, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 12:55:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8421, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

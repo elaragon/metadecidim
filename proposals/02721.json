@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 5248, 
+            "name": "Carla Saballs", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 5248, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2721", 
+        "conflictive": false, 
+        "created_at": "16/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2721, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Que les targetes multiviatge per a fam\u00edlies monoparentals i nombroses es puguin comprar a qualsevol estaci\u00f3 de metro a trav\u00e9s d' implantar sistemes inform\u00e0tics que verifiquin la informaci\u00f3 (creuar bases de dades TMB/Ajuntament/Generalitat).  Ara cal presentar el document acreditatiu als punts de venda de TMB (Diagonal, Sagrera, Universitat). ", 
+        "title": "Augmentar punts de venda de t\u00edtols de transport  FM/FN ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 17, 
+        "url": "https://decidim.barcelona/pam/proposals/augmentar-punts-de-venda-de-titols-de-transport-fm-fn", 
+        "votable": null, 
+        "voted": null
+    }
+}

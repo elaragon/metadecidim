@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 12475, 
+            "name": "barriobajerayeye", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 12475, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5128", 
+        "conflictive": false, 
+        "created_at": "15/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "    http://www.mundoanimalia.com/perro/American_Pit_Bull_Terrier/caracteristicas   http://pitbullperro.com/caracteristicas-de-la-raza-pitbull/     http://www.razapitbull.com/datos-curiosos-perros-raza-pitbull/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5128, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Els tipus de races com Pitbull, bullterrier son de moda. El que em preocupa a part de la proliferaci\u00f3 \u00bfperque vol lagent un gos que esta fet per atacar i combatir amb gosos i a m\u00e9s el posa en un pis? (seria altre tema). Demano un control ara inexistent sobre aquests gosos i que vagin lligats i amb morri\u00f3, cosa que observo que molt sovint no es fa.", 
+        "title": "Control gossos \"perillosos\" a Nou Barris  per part de la Gu\u00e0rdia Urbana", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 7, 
+        "url": "https://decidim.barcelona/pam/proposals/control-gossos-perillosos-a-nou-barris-per-part-de-la-guardia-urbana", 
+        "votable": null, 
+        "voted": null
+    }
+}

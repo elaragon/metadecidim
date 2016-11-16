@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 3967, 
+            "name": "Elisenda ant\u00f3n carbonell", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 3967, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1654", 
+        "conflictive": false, 
+        "created_at": "09/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1654, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "Establiment d'un Servei Municipal de Mediaci\u00f3 Comunit\u00e0ria  amb oficines a cada districte. Aquest servei canalitzaria les accions en mat\u00e8ria de conviv\u00e8ncia als districtes, els programes de Mesures Alternatives a la Sanci\u00f3 Econ\u00f2mica i els serveis de mediaci\u00f3 ciutadana per a que el ve\u00efnat tingui acc\u00e9s a un m\u00e8tode alternatiu de resoluci\u00f3 de conflictes ", 
+        "title": "Establiment d'un Servei Municipal de Mediaci\u00f3 Comunit\u00e0ria ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 14, 
+        "url": "https://decidim.barcelona/pam/proposals/establiment-d-un-servei-municipal-de-mediacio-comunitaria", 
+        "votable": null, 
+        "voted": null
+    }
+}

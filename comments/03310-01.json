@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els infants i adolescents de l\u2019esplai El Pi van participar a una cita presencial sobre el medi ambient de la ciutat. Aquests van fer diverses propostes per millorar-lo, com ara tenir en compte a la gent del barri cada vegada que s\u2019hagi de remodelar una zona p\u00fablica o parc per tal de poder decidir entre tots qu\u00e8 i com s\u2019hauria de fer.\n</p>", 
+            "commentable_id": 3310, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 13:03:22", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8432, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

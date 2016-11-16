@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6514, 
+                "name": "Oriol B", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00bfPodeu ampliar la informaci\u00f3 sobre qu\u00e9 voleu dir \"integrat amb els cotxes\" i \"separaci\u00f3 de seguretat\"? No queda clar si parleu d'un mateix carril compartit entre bicis i cotxes, un carril bici separat nom\u00e9s per pintura, amb separadors de cautx\u00fa, amb separador d'obra, etc..</p>", 
+            "commentable_id": 4168, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/03/2016 14:51:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3844, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3844", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9264, 
+                "name": "suportdecidim.santandreu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La proposta sorgeix del Consell de Comer\u00e7 del districte de Sant Andreu, per\u00f2 existeix alguna mesura semblant que queda recollida al PAD del districte d'Horta-Guinard\u00f3. Durant el debat no es va entrar en q\u00fcestions t\u00e8cniques de com havia de ser el carril bici, nom\u00e9s es va comentar que havia de ser segregat de la vorera.</p>", 
+            "commentable_id": 4168, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 23:16:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4572, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "3844", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2511, 
+                "name": "afrikna", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Entenc que \"integrat amb els cotxes\" vol dir a la cal\u00e7ada, no a la vorera, i degudament separat dels cotxes per algun sistema segur (cautx\u00fa, obra...) \n<br />La bici \u00e9s un vehicle rodat, no ha de compartir espai amb els vianants i \u00e9s molt insegur que comparteixi espai amb els cotxes, sobretot tenint en compte la poca cultura ciclista de molts conductors i el poc civisme d'alguns ciclistes.</p>", 
+            "commentable_id": 4168, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 15:33:01", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5249, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

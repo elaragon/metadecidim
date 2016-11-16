@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8098, 
+            "name": "Jibun", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 8098, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3414", 
+        "conflictive": false, 
+        "created_at": "25/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://barcelofilia.blogspot.com.es/2014/06/estatues-de-prohoms-catalans-del-salo.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3414, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Buscar finan\u00e7ament privat per a reforjar les 5 est\u00e0tues perdudes del Sal\u00f3 de Sant Joan, actual Passeig de Llu\u00eds Companys, i col\u00b7locar-les als seus llocs originals o aproximats.\r\nLes est\u00e0tues de prohoms catalans inaugurades durant l'Exposici\u00f3 Universal del 88 van ser amagades durant la guerra i probablement destru\u00efdes posteriorment pel r\u00e8gim.", 
+        "title": "Recuperar les est\u00e0tues perdudes del Sal\u00f3 de Sant Joan", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/recuperar-les-estatues-perdudes-del-salo-de-sant-joan", 
+        "votable": null, 
+        "voted": null
+    }
+}

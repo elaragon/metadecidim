@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4763, 
+                "name": "Associaci\u00f3 de Ve\u00efns de Sarri\u00e0", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": true
+            }, 
+            "body": "<p>Donem suport a totes aquestes propostes:</p>\n\n<p><a href=\"https://decidim.barcelona/proposals/cubrir-la-ronda-de-dalt\">https://decidim.barcelona/proposals/cubrir-la-ronda-de-dalt</a></p>\n\n<p><a href=\"https://decidim.barcelona/proposals/ampliar-el-numero-de-carrils-de-la-ronda-de-dalt-i-cobrir-la\">https://decidim.barcelona/proposals/ampliar-el-numero-de-carrils-de-la-ronda-de-dalt-i-cobrir-la</a></p>\n\n<p><a href=\"https://decidim.barcelona/proposals/cubriment-de-la-ronda-de-dalt-al-seu-pas-per-la-vall-d-hebron\">https://decidim.barcelona/proposals/cubriment-de-la-ronda-de-dalt-al-seu-pas-per-la-vall-d-hebron</a></p>\n\n<p><a href=\"https://decidim.barcelona/proposals/transformacio-de-la-ronda-de-dalt\">https://decidim.barcelona/proposals/transformacio-de-la-ronda-de-dalt</a></p>\n\n<p><a href=\"https://decidim.barcelona/proposals/millora-connectivitat-i-reduccio-soroll-ronda-de-dalt\">https://decidim.barcelona/proposals/millora-connectivitat-i-reduccio-soroll-ronda-de-dalt</a></p>\n\n<p><a href=\"https://decidim.barcelona/proposals/control-i-informacio-del-cobriment-de-la-ronda-de-dalt\">https://decidim.barcelona/proposals/control-i-informacio-del-cobriment-de-la-ronda-de-dalt</a></p>\n\n<p><a href=\"https://decidim.barcelona/proposals/ronda-de-dalt\">https://decidim.barcelona/proposals/ronda-de-dalt</a></p>\n\n<p><a href=\"https://decidim.barcelona/proposals/cobrir-la-ronda-de-dalt-en-tot-el-seu-tram-inclos-sarria-sant-gervasi\">https://decidim.barcelona/proposals/cobrir-la-ronda-de-dalt-en-tot-el-seu-tram-inclos-sarria-sant-gervasi</a></p>", 
+            "commentable_id": 9482, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 18:00:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9848, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/cubriment-de-la-ronda-de-dalt-al-seu-pas-per-la-vall-d-hebron\">https://decidim.barcelona/proposals/cubriment-de-la-ronda-de-dalt-al-seu-pas-per-la-vall-d-hebron</a></p>", 
+            "commentable_id": 9482, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 10:17:47", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15184, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

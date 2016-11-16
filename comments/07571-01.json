@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 23150, 
+                "name": "Roprima", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Necessitem m\u00e9s agents que controlin el compliment dels Plans d'usos dels diferents barris i tamb\u00e9 les ordenances, com ara la de la bicicleta al Barri G\u00f2tic. Cada dia hi ha grups de m\u00e9s de 10 bicicletes circulant pel carrer del Bisbe, pel carrer del Parad\u00eds, i per la Pla\u00e7a Sant Felip Neri i aix\u00f2 no hauria de ser possible. Sovint hi ha enfrontament amb els ve\u00efns en queixar-se. </p>", 
+            "commentable_id": 7571, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 22:59:32", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12748, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

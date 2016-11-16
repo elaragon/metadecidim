@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10548, 
+            "name": "Paco Gil", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 10548, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6077", 
+        "conflictive": false, 
+        "created_at": "20/03/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6077, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Cal crear una zona de reducci\u00f3 de la velocitat de menys de 30 Km/h al carrer Freser, ben senyalitzat a partir del carrer Independ\u00e8ncia. Ja que arriben dos carrils que venen del carrer Freser amb Rossell\u00f3, i es converteix en dos carrils sense marques vials i estrets a partir del carrer Independ\u00e8ncia.", 
+        "title": "Crear zona 30 al Carrer Freser entre els carrers Independ\u00e8ncia i Xifrer", 
+        "total_comments": 6, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 28, 
+        "url": "https://decidim.barcelona/pam/proposals/crear-zona-30-al-carrer-freser-entre-els-carrers-independencia-i-xifrer", 
+        "votable": null, 
+        "voted": null
+    }
+}

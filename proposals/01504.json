@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 573, 
+            "name": "Borja Lo", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 573, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1504", 
+        "conflictive": false, 
+        "created_at": "05/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "recuperemteatrearnau.wordpress.com", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1504, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Recuperar l'\u00faltim teatre de barraca situat a l'avinguda Paral\u00b7lel, amb la intenci\u00f3 de treballar les arts esc\u00e8niques i la mem\u00f2ria hist\u00f2rica des de la gesti\u00f3 comunit\u00e0ria i l'economia social. Fer de l'Arnau un referent en la participaci\u00f3 i la mediaci\u00f3 en l'\u00e0mbit cultural, implicant a ve\u00efns, ve\u00efnes, entitats, agents culturals, centres educatius...", 
+        "title": "Recuperar el teatre Arnau des de la gesti\u00f3 comunit\u00e0ria. ", 
+        "total_comments": 16, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 3, 
+        "total_positive_comments": 12, 
+        "total_votes": 379, 
+        "url": "https://decidim.barcelona/pam/proposals/recuperar-el-teatre-arnau-des-de-la-gestio-comunitaria", 
+        "votable": null, 
+        "voted": null
+    }
+}

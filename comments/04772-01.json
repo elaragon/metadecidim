@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3677, 
+                "name": "Jordi  del Clot", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aquest equipament no hauria d'interferir en l'activitat del Casal de Joves i del Centre Cultural La Farinera del Clot.  Tampoc hauria de ser una pantalla que amagu\u00e9s l'antiga Farinera Sant Jaume, </p>", 
+            "commentable_id": 4772, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/03/2016 08:49:10", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5714, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3661, 
+                "name": "Josep-Llu\u00eds Alonso Arum\u00ed", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Cal escollir l'opci\u00f3 constructiva que permeti l'\u00f2ptima activitat de la Resid\u00e8ncia al costat del Centre Cultural La Farinera i del Casal de Joves.</p>", 
+            "commentable_id": 4772, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/03/2016 11:58:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6240, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/alchemika-ja\">https://decidim.barcelona/proposals/alchemika-ja</a></p>", 
+            "commentable_id": 4772, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 22:48:31", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12730, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 13290, 
+            "name": "procomuns.net", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 13290, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5860", 
+        "conflictive": false, 
+        "created_at": "18/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://procomuns.net/ca/politiques/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5860, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 24, 
+            "name": "Un nou lideratge p\u00fablic", 
+            "position": 3
+        }, 
+        "summary": "Replantejar la prioritat en la contractaci\u00f3 per l\u2019Ajuntament i la seva activitat de serveis del procom\u00fa i llic\u00e8ncies lliures, en lloc de privatius, a m\u00e9s dels criteris de cooperativisme o empreses socials actual (i de fet animant que aquests altres criteris incorporin la visi\u00f3 procom\u00fa addicionalment).", 
+        "title": "Canviar com opera internament l\u2019Ajuntament en alguns fronts vinculats al procom\u00fa: replantejar la prioritat en la contractaci\u00f3 per l\u2019Ajuntament i la seva activitat de serveis del procom\u00fa", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/canviar-com-opera-internament-l-ajuntament-en-alguns-fronts-vinculats-al-procomu-replantejar-la-prioritat-en-la-contractacio-per-l-ajuntament-i-la-seva-activitat-de-serveis-del-procomu", 
+        "votable": null, 
+        "voted": null
+    }
+}

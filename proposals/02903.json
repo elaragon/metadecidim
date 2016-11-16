@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2903", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2903, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Generar vies saludables en la poblaci\u00f3 en edat escolar, amb un ampli ventall d\u2019activitats i programes de complement a l\u2019educaci\u00f3 f\u00edsica curricular. Articular dels mecanismes de suport a les ofertes d\u2019activitat f\u00edsica i esportiva, en horari no lectiu mitjan\u00e7ant processos d\u2019homologaci\u00f3 de les mateixes activitats i facilitar-ne l\u2019acc\u00e9s amb una pol\u00edtica de subvenci\u00f3. Tot aix\u00f2 es concreta en el pla \"L'escola fa esport a la ciutat\" (lectiu) i el pla \"Esport escolar fora d\u2019horari lectiu\".", 
+        "title": "Pla \"Barcelona esport en edat escolar\"", 
+        "total_comments": 18, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 18, 
+        "total_positive_comments": 0, 
+        "total_votes": 8, 
+        "url": "https://decidim.barcelona/pam/proposals/pla-barcelona-esport-en-edat-escolar", 
+        "votable": null, 
+        "voted": null
+    }
+}

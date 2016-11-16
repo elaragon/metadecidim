@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 15653, 
+            "name": "Loirooo", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 15653, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7096", 
+        "conflictive": false, 
+        "created_at": "29/03/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7096, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "La Travessera de Gr\u00e0cia, en el tram que travessa Gr\u00e0cia \u00e9s un dels carrers m\u00e9s bruts i ins\u00e0lubres de Barcelona. Un t\u00fanel entre Gala Plac\u00eddia i Pg de Sant Joan que absorb\u00eds el tr\u00e0fic que vol creuar Gr\u00e0cia per anar cap a l\u00b4eixample dret permetria convertir la Travessera en un carrer semipeatonal, on nom\u00e9s passin els cotxes que volen entrar al barri.", 
+        "title": "T\u00fanel sota Travessera de Gr\u00e0cia entre Gala Plac\u00eddia i Pg de Sant Joan per desviar el tr\u00e0fic que vol atravessar i fer Travessera semi peatonal", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/tunel-sota-travessera-de-gracia-entre-gala-placidia-i-pg-de-sant-joan-per-desviar-el-trafic-que-vol-atravessar-i-fer-travessera-semi-peatonal", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8067, 
+            "name": "Mtr_8", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 8067, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3390", 
+        "conflictive": false, 
+        "created_at": "24/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/more_information#faq", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3390, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 18, 
+            "name": "Participaci\u00f3 ciutadana", 
+            "position": 2
+        }, 
+        "summary": "Per no estar empadronat a Barcelona no puc donar suport a cap de les propostes. He viscut tota la vida a la ciutat fins que per motius que no podia controlar vaig haver de marxar a un altre pis a menys de 50 metres del municipi de BCN i, per aquest fet, no puc PARTICIPAR amb plenitud, cosa que en una democr\u00e0cia participativa s'hauria de recon\u00e8ixer.", 
+        "title": "Participaci\u00f3 de veritat  a \"decidim.barcelona\" ", 
+        "total_comments": 7, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 2, 
+        "total_votes": 9, 
+        "url": "https://decidim.barcelona/pam/proposals/participacio-de-veritat-a-decidim-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

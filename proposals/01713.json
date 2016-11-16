@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4574, 
+            "name": "Associaci\u00f3 de Ve\u00efnes i Ve\u00efns de Can Bar\u00f3 ", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4574, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1713", 
+        "conflictive": false, 
+        "created_at": "10/02/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": " Medi Ambient.   1.\tControl de les antenes del Tur\u00f3 de la Rovira. 2.\tSuspensi\u00f3 de les llic\u00e8ncies d\u2019instal\u00b7laci\u00f3 d\u2019antenes perqu\u00e8 l\u2019espai est\u00e0 saturat. 3.\tCal crear en el barri un centre ecol\u00f2gic permanent. 4.\tCal dotar d\u2019un servei de compostatge al barri. 5.\tMillorar les actuacions de control i aconseguir la reducci\u00f3 de sorolls en general i en particular els dels serveis de recollida d\u2019escombreries i deixalles selectives que ho fan ara en altes hores de la matinada. 6.\tReforestaci\u00f3 vegetal dels parcs i de carrers i places. 7.\tControlar d\u2019antenes de radioaficionats que proliferen indiscriminadament al barri. 8.\tCrear Pipi-Cans i zona d'esbarjo per gossos. Equipaments mediambientals", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1713, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "1.\tControl de les antenes del Tur\u00f3 de la Rovira. 2.\tSuspensi\u00f3 de les llic\u00e8ncies d\u2019instal\u00b7laci\u00f3 d\u2019antenes perqu\u00e8 l\u2019espai est\u00e0 saturat", 
+        "title": " Medi Ambient.CAN BAR\u00d3 ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 17, 
+        "url": "https://decidim.barcelona/pam/proposals/medi-ambient-can-baro", 
+        "votable": null, 
+        "voted": null
+    }
+}

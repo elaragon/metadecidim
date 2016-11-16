@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 435, 
+            "name": "elenatb", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 435, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1174", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.sagradafamilia.org/es/tiquets/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1174, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "\u00abL'obra de la Sagrada Fam\u00edlia va lentament, perqu\u00e8 el meu Client no t\u00e9 pressa.\u00bb.  Aix\u00f2 deia Antoni Gaud\u00ed quan l'obra nom\u00e9s es finan\u00e7ava amb donatius voluntaris. Proposem iniciar negociacions per a establir la entrada gratu\u00efta permanent al Temple. Tornem a la idea original de finan\u00e7ament, que torni a \u00e9sser un veritable Temple Expiatori.\r\n", 
+        "title": "La Sagrada Fam\u00edlia, un temple per a tothom: gratu\u00eft sempre!", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 29, 
+        "url": "https://decidim.barcelona/pam/proposals/la-sagrada-familia-un-temple-per-a-tothom-gratuit-sempre", 
+        "votable": null, 
+        "voted": null
+    }
+}

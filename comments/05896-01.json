@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1925, 
+                "name": "X Simon", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Caldria comen\u00e7ar per definiri l'economia \"col\u00b7laborativa\" perqu\u00e8 de moment, els que es posen aquesta etiqueta nom\u00e9s es dediquen a lucrar-se a costa de l'esfor\u00e7 individual de la gent, sense drets laborals, sense pagar impostos i sense cap garantia cap a l'usuari/consumidor.... Uber o Airbnb, per exemple, s\u00f2n un inmens pou de diner negre que no tributa impostos per tots els beneficis que asoleix, i aix\u00f2 \u00e9s molt poc col\u00b7laboratiu amb la societat. No fa pas gaires anys a aix\u00f2 se li anomenava economia submergida i era perseguit per les administracions.</p>", 
+            "commentable_id": 5896, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/03/2016 21:16:13", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6302, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

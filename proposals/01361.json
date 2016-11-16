@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1777, 
+            "name": "Sexteni", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1777, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1361", 
+        "conflictive": false, 
+        "created_at": "03/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1361, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Degut a l'incivisme d'una gran quantitat de propietaris/es vers els seus gossos a la ciutat, per\u00f2 en especial als parcs i jardins on tots haur\u00edem de poder conviure amb normalitat, suggereixo alguna mena de limitaci\u00f3 com ara obligar a que vagin lligats, posar \u00e8mfasi en multar, prohibir l'entrada.. fins que es respectin les zones comunes i infantils.", 
+        "title": "Delimitar l'entrada de gossos a les \u00e0rees verdes", 
+        "total_comments": 7, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 61, 
+        "url": "https://decidim.barcelona/pam/proposals/delimitar-l-entrada-de-gossos-a-les-arees-verdes", 
+        "votable": null, 
+        "voted": null
+    }
+}

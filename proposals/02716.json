@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1306, 
+            "name": "Andreu C. S\u00e1nchez", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1306, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2716", 
+        "conflictive": false, 
+        "created_at": "16/02/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2716, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "A l'entorn del pipican a tocar de la Biblioteca del Guinard\u00f3 Merc\u00e8 Rodoreda sempre hi ha gossos i l'Ajuntament ha de recuperar la gespa cont\u00ednuament. Hom podria insta\u00b7lar elements dissuasius permanentment (cartelleria, valles...) per protegir les zones de gespa i estudiar ampliar l'espai per a gossos. ", 
+        "title": "Facilitar conviv\u00e8ncia amb gossos a Parc de les Aig\u00fces - Jardins Hiroshima", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 23, 
+        "url": "https://decidim.barcelona/pam/proposals/facilitar-convivencia-amb-gossos-a-parc-de-les-aigues-jardins-hiroshima", 
+        "votable": null, 
+        "voted": null
+    }
+}

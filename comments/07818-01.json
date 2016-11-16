@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12179, 
+                "name": "suport.decidim1", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda Grup de Treball d\u2019Igualtat d\u2019Oportunitats en la inf\u00e0ncia en l\u2019elaboraci\u00f3 del PAM: Afegir un objectiu destinat a donar suport als casos d\u2019embar\u00e0s d\u2019adolescent (tant en la fase de gestaci\u00f3 com al nad\u00f3 i la mare) Aquest objectiu hauria d\u2019apar\u00e8ixer als \u00e0mbits de Just\u00edcia Social i Sanitat i Salut.</p>", 
+            "commentable_id": 7818, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 16:55:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9724, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

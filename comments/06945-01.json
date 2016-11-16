@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 21925, 
+                "name": "Jordi / Encara visc a Ciutat Vella", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Una actuaci\u00f3 p\u00e8sima de l'actual director de Turisme de Barcelona, Jordi William Carnes que va comen\u00e7ar a reconvertir les parades d'ocells en barraques de fira per a vendre tot tipus de mercaderies. \u00c9s un greuge  per a la ciutadania que no s'oblidar\u00e0 mai doncs la decad'encia provocada \u00e9s absoluta. </p>", 
+            "commentable_id": 6945, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 19:29:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11419, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 21925, 
+                "name": "Jordi / Encara visc a Ciutat Vella", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Quant als Quioscs de La Rambla, N'hi ha 11(!!) que amb l'espai extra per a expositors diversos calculo que fan m\u00e9s de 50 m2! cadascun. Total : + de 550 m2! d'ocupaci\u00f3 de La Rambla. La seva caracter\u00edstica era estar oberts les 24h. i vendre tot tipus de diaris, llibres i revistes. Actualment obren 12 Hores i v\u00e8nen tot tipus de souvenirs per als turistes,  impropis de la llic\u00e8ncia que s'els va concedir i lluny del servei p\u00fablic que justifiqui una pres\u00e8ncia tan demolidora ocupant espai p\u00fablic.</p>", 
+            "commentable_id": 6945, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 19:40:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11424, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

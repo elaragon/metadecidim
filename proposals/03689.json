@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3689", 
+        "conflictive": false, 
+        "created_at": "01/03/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 3689, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 5, 
+            "name": "Cicles de vida ", 
+            "position": 5
+        }, 
+        "summary": "Dotar de m\u00e9s recursos al programa radars, afavorir el respecte de la gent gran, vetllar per una mobilitat adaptada, prevenir viol\u00e8ncies (mobbing immobiliari, discriminaci\u00f3 econ\u00f2mica, etc.), generar espais per a donar suport a les dones grans per a fer aflorar les situacions de p\u00e8rdua, c\u00e0rregues, gesti\u00f3 emocional, etc. ", 
+        "title": "Dotar de m\u00e9s recursos al programa radars, afavorir el respecte de la gent gran, vetllar per una mobilitat adaptada, prevenir viol\u00e8ncies i generar espais de suport a dones grans", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 3, 
+        "total_positive_comments": 0, 
+        "total_votes": 20, 
+        "url": "https://decidim.barcelona/pam/proposals/dotar-de-mes-recursos-al-programa-radars-afavorir-el-respecte-de-la-gent-gran-vetllar-per-una-mobilitat-adaptada-prevenir-violencies-i-generar-espais-de-suport-a-dones-grans", 
+        "votable": null, 
+        "voted": null
+    }
+}

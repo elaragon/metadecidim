@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 5, 
+            "name": "Just\u00edcia global"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8334", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/meetings/esplai-trencaclosques-una-barcelona-mes-diversa-que-asseguri-el-bon-viure", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8334, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 5, 
+            "id": 29, 
+            "name": "Ciutat d\u2019acollida", 
+            "position": 2
+        }, 
+        "summary": "A la cita presencial que va tenir lloc a l\u2019Esplai Trencaclosques, els infants de 8-9 anys van proposar que la meitat de persones refugiades vinguin al nostre pa\u00eds i l\u2019altre meitat a un altre pa\u00eds europeu. Aix\u00f2 es faria per sorteig. Tamb\u00e9 van demanar que es destinin m\u00e9s recursos i facilitats a les persones immigrants, en mat\u00e8ria d\u2019habitatge.", 
+        "title": "Igualtat d'oportunitats per a tothom i acollida de les persones refugiades ", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/igualtat-d-oportunitats-per-a-tothom-i-acollida-de-les-persones-refugiades", 
+        "votable": null, 
+        "voted": null
+    }
+}

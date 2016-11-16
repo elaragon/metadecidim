@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10255, 
+            "name": "Miguel A. Alba", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 10255, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3855", 
+        "conflictive": false, 
+        "created_at": "04/03/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "http://residus.gencat.cat/ca/ambits_dactuacio/recollida_selectiva/models_de_recollida/segons_sistema_de_recollida/recollida_selectiva_porta_a_porta/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3855, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 17, 
+            "name": "Energia i canvi clim\u00e0tic", 
+            "position": 5
+        }, 
+        "summary": "Cambiar el sistema de recogida de residuos en el casco antiguo de Sarri\u00e0 con el fin de mejorar los \u00edndices de segregaci\u00f3n actuales. Implantaci\u00f3n del sistema de recogida selectiva puerta a puerta:http://residus.gencat.cat/ca/ambits_dactuacio/recollida_selectiva/models_de_recollida/segons_sistema_de_recollida/recollida_selectiva_porta_a_porta/", 
+        "title": "Recogida selectiva de residuos en el casco antiguo de Sarri\u00e0", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/recogida-selectiva-de-residuos-en-el-casco-antiguo-de-sarria", 
+        "votable": null, 
+        "voted": null
+    }
+}

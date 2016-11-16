@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 56, 
+                "name": "Mui", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tenim un parc p\u00fablic d'habitatge paup\u00e8rrim per\u00f2 \u00e9s b\u00e0sic tamb\u00e9 mobilitzar tot l'habitatge privat que est\u00e0 buit. Cal coresponsabilitzar a tothom</p>", 
+            "commentable_id": 1049, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/02/2016 11:40:55", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 894, 
+                "name": "Pere Marin\u00e9", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ha Barcelona hi ha multitud d'espais en des\u00fas, no sols habitatges, tamb\u00e9 oficines, naus, fabriques, etc .... que estan esperant a millor temps econ\u00f2mics, caldria gravar qualsevol espai que sense tenir afectacions urban\u00edstiques no tingui un dest\u00ed, de forma que serveixi d'incentiu per treure al mercat aquests espais i habitatges, o poder negociar el seu \u00fas,</p>", 
+            "commentable_id": 1049, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 13:43:58", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 249, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/recuperar-els-pisos-buits-de-porta-en-habitatge-public\">https://decidim.barcelona/proposals/recuperar-els-pisos-buits-de-porta-en-habitatge-public</a></p>", 
+            "commentable_id": 1049, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 10:01:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 16449, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15325, 
+                "name": "Alfons66", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>L'acolliment de turistes per part de fam\u00edlies potencia la seva implicaci\u00f3 en el dia a dia. En el cas d'habitatges tur\u00edstics \"sols\" en blocs de pisos amb ve\u00efns (diferent dels \"apartaments tur\u00edstics\" en edificis exclusius) tamb\u00e9. He tingut l'experi\u00e8ncia de turistes en l'habitatge del costat que venien per demanar un bri de sal i acabaven establint relaci\u00f3 amb nosaltres, informant-se sobre el barri, llocs per comprar i suggeriments per visitar.\n<br />(tamb\u00e9 he tingut turistes salvatges que ens han impedit dormir, \u00e9s cert)</p>", 
+            "commentable_id": 6311, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/03/2016 20:40:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6518, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 85, 
+                "name": "kerouack", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A qu\u00e9 precio  merecer\u00eda la pena comprarlo y a qu\u00e9 precio no ?</p>", 
+            "commentable_id": 584, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/02/2016 12:47:37", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 33, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10973, 
+                "name": "Llibertari Barcelon\u00ed", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>qui vulgui equipaments que se'ls pagui. La millor manera de tenir equipaments de qualitat i que siguin com els seus usuaris volen \u00e9s mitjan\u00e7ant la creaci\u00f3 d'entitats privades sense \u00e0nims de lucre. = 0 control estatal = 0 aprofitament per a motius pol\u00edtics</p>", 
+            "commentable_id": 584, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 11:44:47", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5463, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 2, 
+            "total_likes": 0, 
+            "total_votes": 2
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

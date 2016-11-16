@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 5270, 
+            "name": "Carlotta Cat", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 5270, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2633", 
+        "conflictive": false, 
+        "created_at": "13/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2633, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "La tendencia es de hacer lo m\u00e1s c\u00f3modo: la papelera abajo de casa. Si mir\u00e1is en las papeleras, est\u00e1n llenas de pl\u00e1stico (por ejemplo) perfectamente reciclable. Rebuix y papelera suelen estar al lado de los cont. para reciclar. Reducir esos significa: m\u00e1s reciclaje, y menor residuo a vertederos e incineradora! ", 
+        "title": "Reducir el n\u00famero de papeleras y rebuix cercanos a los contenedores reciclaje", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/reducir-el-numero-de-papeleras-y-rebuix-cercanos-a-los-contenedores-reciclaje", 
+        "votable": null, 
+        "voted": null
+    }
+}

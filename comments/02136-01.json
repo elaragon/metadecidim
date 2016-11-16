@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12602, 
+                "name": "KW", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tambi\u00e9n se deber\u00edan buscar y sancionar esos pisos tur\u00edsticos sin licencia. En mi barrio (El Coll) hay 13 licencias para pisos tur\u00edsticos. No obstante, te metes en el Air BnB y hay mucho m\u00e1s pisos en alquiler vacacional. Los turistas estropean los barrios y se deber\u00eda hacer algo para detectar y penalizar la gran cantidad de pisos sin licencia. </p>", 
+            "commentable_id": 2136, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 16:11:49", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5061, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

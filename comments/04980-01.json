@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9267, 
+                "name": "Suport Ciutat Vella", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/control-i-tancament-dels-apartaments-turistics-il-legals\">https://decidim.barcelona/proposals/control-i-tancament-dels-apartaments-turistics-il-legals</a></p>", 
+            "commentable_id": 4980, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 18:22:53", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4871, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10023, 
+                "name": "Sheila", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es necesario que ese cuerpo inspector atienda las denuncias de lxs vecinxs cuando estas se realizan, y que lo haga a la mayor brevedad posible; agilizando as\u00ed el tiempo necesario para detectar a lxs infractorxs. El importe recaudado por medio de las sanciones impuestas deber\u00eda revertirse, al menos en parte, en la mejora de la calidad de vida de las personas que residen en el territorio. A\u00fan pudiendo estudiar la particularidad de cada caso, y pactar los modos de hacer efectivo el pago de la multa, el no cumplimiento por parte de la persona sancionada no deber\u00eda eximirse y  deber\u00eda contemplar, si cabe,  otras medidas alternativas (servicios a la comunidad o similares, posibilitar el alquiler de la vivienda a personas en situaci\u00f3n de riesgo social...).</p>", 
+            "commentable_id": 4980, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 19:44:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4885, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

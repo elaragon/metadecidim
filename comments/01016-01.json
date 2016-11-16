@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 151, 
+                "name": "Cristina Gispert", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El partit que ostenta l'alcaldia es passa pel forro el seu propi codi \u00e8tic. Comencem per donar exemple.</p>", 
+            "commentable_id": 1016, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/02/2016 12:46:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 31, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13136, 
+                "name": "Jesus Garcia", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00bfc\u00f3digo \u00e9tico de las asociaciones?\n<br />\u00bfde cuales? \u00bfde las constituidas en cooperativas de construcci\u00f3n tambi\u00e9n? \u00bfla ansiada transparencia implicar\u00eda poder ver hasta donde va el \u00faltimo c\u00e9ntimo de nuestro dinero publico, y que dichas asociaciones, fundaciones, publiquen sus cuentas si reciben dinero publico?\n<br />  <a href=\"http://diariodelostrabajadores.over-blog.es/article-31374582.html\">http://diariodelostrabajadores.over-blog.es/article-31374582.html</a>\n<br />las asociaciones constructoras est\u00e1n denunciando que cupula de SOGEUR (empresa publica creada para ayudar a crear las asociaciones constructoras) les est\u00e1 haciendo competencia\n<br /><a href=\"http://diariodelostrabajadores.over-blog.es/article-30689327.html\">http://diariodelostrabajadores.over-blog.es/article-30689327.html</a>\n<br />asociaciones muy politizadas incluso la millonaria Greenpeace espa\u00f1a</p>", 
+            "commentable_id": 1016, 
+            "commentable_type": "Proposal", 
+            "created_at": "20/03/2016 14:40:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5981, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

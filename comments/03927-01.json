@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9161, 
+                "name": "TERESA MU\u00d1OZ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Con\u00e8ixer com est\u00e0 atesa les persones grans i malaltes en el domicili, quina qualitat de vida tenen, quina atenci\u00f3 est\u00e1n rebent dels equips d'atencio domicili\u00e0ria dels CAPS i fer estudis sobre\n<br />mortalitat </p>", 
+            "commentable_id": 3927, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 12:30:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6094, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9161, 
+                "name": "TERESA MU\u00d1OZ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Con\u00e8ixer la realitat de les mesures de contenci\u00f3 f\u00edsiques i establir mesures de control pels profesionals de la salut que s'utilitzen en els domicilis en les persones grans </p>", 
+            "commentable_id": 3927, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 12:32:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6096, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

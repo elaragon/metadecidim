@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-979", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 979, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Desenvolupament dels informes i treballs necessaris per connectar les xarxes de Trambaix i Trambes\u00f2s, d'acord amb els principis de la mobilitat sostenible i pacificaci\u00f3 del tr\u00e0nsit a la ciutat.", 
+        "title": "Connexi\u00f3 de la xarxa de tramvia", 
+        "total_comments": 41, 
+        "total_negative_comments": 3, 
+        "total_neutral_comments": 29, 
+        "total_positive_comments": 7, 
+        "total_votes": 313, 
+        "url": "https://decidim.barcelona/pam/proposals/connexio-de-la-xarxa-de-tramvia", 
+        "votable": null, 
+        "voted": null
+    }
+}

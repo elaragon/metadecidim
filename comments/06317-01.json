@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15578, 
+                "name": "AlbertPr", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No et sembla prou les facilitats que t\u00e9 ja el cotxe? El que s'ha de fer \u00e9s la inversa, que molts sem\u00e0fors estiguin m\u00e9s temps verd pels vianants que pels cotxes. Hi ha massa situacions a carrers amb poc tr\u00e0fic on es d\u00f3na prioritat al cotxe davant vianants. </p>", 
+            "commentable_id": 6317, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 09:22:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6906, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "6906", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8571, 
+                "name": "Gabriel", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Simplement el sem\u00e0for es posaria verd pels peatons quan apretin el bot\u00f3. Mai t'has sentit est\u00fapid esperant a que el sem\u00e0for es pos\u00e9s verd sense que ning\u00fa passi? Passa sobretot a les nits quan hi ha menys circulaci\u00f3. Possiblement evitaria els atropellaments ja que els peatons no s'arriscarien a creuar en vermell i apretarien el bot\u00f3.</p>", 
+            "commentable_id": 6317, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 15:52:49", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6995, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

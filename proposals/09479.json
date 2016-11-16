@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4763, 
+            "name": "Associaci\u00f3 de Ve\u00efns de Sarri\u00e0", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 4763, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9479", 
+        "conflictive": false, 
+        "created_at": "07/04/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 9479, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Demandes dels associats i ve\u00efnat\r\nPacificar\u00a0el\u00a0carrer\u00a0Cardenal\u00a0Vives\u00a0i\u00a0Tut\u00f3,\u00a0que\u00a0absorbeix\u00a0gran\u00a0part\u00a0del\u00a0tr\u00e0nsit\u00a0que\u00a0vol\u00a0entrar\u00a0a\u00a0 Sarri\u00e0.\u00a0\r\nEn\u00a0el\u00a0carrer\u00a0Cardenal\u00a0Vives\u00a0i\u00a0Tut\u00f3\u00a0els\u00a0cotxes\u00a0van\u00a0molt\u00a0despresa,\u00a0\u00e9s\u00a0molt\u00a0estret\u00a0\u00a0i\u00a0\u00e9s\u00a0un\u00a0perill\u00a0\u00a0\r\nespecialment\u00a0per\u00a0els\u00a0molts\u00a0estudiants\u00a0que\u00a0hi\u00a0transiten.\u00a0Demana\u00a0\u00a0que\u00a0sigui\u00a0peatonal.", 
+        "title": "Pacificar Cardenal Vives i Tut\u00f2", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/pacificar-cardenal-vives-i-tuto", 
+        "votable": null, 
+        "voted": null
+    }
+}

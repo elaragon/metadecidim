@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9343, 
+                "name": "decidim sarri\u00e0-sant gervasi", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda i recolzada al debat Pobresa oculta: Es proposa complementar la proposta realitzant un acte de sensibilitzaci\u00f3 organitzat per les entitats per fer acci\u00f3 social i saber que fa tothom.</p>", 
+            "commentable_id": 667, 
+            "commentable_type": "Proposal", 
+            "created_at": "20/03/2016 21:49:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6027, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/fer-una-campanya-de-deteccio-de-pobresa-entre-veins-i-veines\">https://decidim.barcelona/proposals/fer-una-campanya-de-deteccio-de-pobresa-entre-veins-i-veines</a></p>", 
+            "commentable_id": 667, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 16:46:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9686, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

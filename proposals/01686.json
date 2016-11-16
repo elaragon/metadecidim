@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4168, 
+            "name": "Laura Gonzalez", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4168, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1686", 
+        "conflictive": false, 
+        "created_at": "10/02/2016", 
+        "district": {
+            "id": 8, 
+            "name": "Nou Barris"
+        }, 
+        "editable": false, 
+        "external_url": " https://www.change.org/p/ajuntament-de-barcelona-generalitat-de-catalunya-districte-de-nou-barris-obra-social-la-caixa-necesitamos-una-pista-cubierta-de-baloncesto-en-canyelles", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1686, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "El barri de Canyelles necessita un poliesportiu o si m\u00e9s no, una pista coberta per poder seguir desenvolupant i garantint un bon servei a la gent del barri. El CBS Canyelles vol tornar a oferir totes les activitats adaptades per a infants, joves, adults i persones amb mobilitat redu\u00edda... Ajuda'ns a fer d'aquest barri, un barri com cal! ", 
+        "title": "Poliesportiu o Pista Coberta al Barri de Canyelles(Nou Barris)", 
+        "total_comments": 21, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 19, 
+        "total_votes": 57, 
+        "url": "https://decidim.barcelona/pam/proposals/poliesportiu-o-pista-coberta-al-barri-de-canyelles-nou-barris", 
+        "votable": null, 
+        "voted": null
+    }
+}

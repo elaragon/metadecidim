@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9717", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": {
+            "id": 1, 
+            "name": "Ciutat Vella"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9717, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 17, 
+            "name": "Energia i canvi clim\u00e0tic", 
+            "position": 5
+        }, 
+        "summary": "La gent llan\u00e7a les escombraries al carrer per mandra d\u00b4anar als contenidors, posar m\u00e9s informaci\u00f3 o b\u00e0ndols municipals en diferents idiomes per informar d\u00b4on es poden llan\u00e7ar les escombraries i de quines sancions hi ha si no \u00e9s llencen als contenidors", 
+        "title": "Posar m\u00e9s informaci\u00f3 en diferents idiomes perqu\u00e8 la gent llanci les escombraries als contenidors i no al carrer", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/posar-mes-informacio-en-diferents-idiomes-perque-la-gent-llanci-les-escombraries-als-contenidors-i-no-al-carrer", 
+        "votable": null, 
+        "voted": null
+    }
+}

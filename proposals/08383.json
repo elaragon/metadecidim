@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8383", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8383, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Suport a l\u2019activitat pedag\u00f2gica dels centres en la seva actuaci\u00f3 amb l\u2019alumnat amb diversitat funcional espec\u00edfiques que interfereixen en el seu desenvolupament personal, social i curricular.\r\nSubtitulaci\u00f3 de tots els materials utilitzats, adaptaci\u00f3 del material al Braille, int\u00e8rprets en llengua de signes, micr\u00f2fons amb freq\u00fc\u00e8ncia modulada, etc).", 
+        "title": "Garantir l\u2019accessibilitat comunicativa a les aules", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/garantir-l-accessibilitat-comunicativa-a-les-aules", 
+        "votable": null, 
+        "voted": null
+    }
+}

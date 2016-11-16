@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3879, 
+                "name": "7 En Com\u00fa", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hi ha una acumulaci\u00f3 d'antenes de radio, telefonia i altres serveis que estan instal\u00b7lades a habitatges afectats pel projecta de Parc del Tres Turons i algunes d'elles no estan legalitzades</p>", 
+            "commentable_id": 1644, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/02/2016 12:29:22", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1278, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3998, 
+                "name": "robobo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Facilitar la instal\u00b7laci\u00f3 d'antenes de la xarxa guifinet</p>", 
+            "commentable_id": 1644, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/02/2016 14:26:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1296, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 398, 
+                "name": "Llu\u00eds D", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Per aixo es imprescidible crear una nova ubicaci\u00f3 de totes les legals i de les xarxes lliures (Guifinet,....)</p>", 
+            "commentable_id": 1644, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/02/2016 15:48:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1303, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4110, 
+                "name": "dyangol", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Caldria que el titular d'aquesta infraestructura (Ajuntament) reserv\u00e9s un espai als operadors que operen sobre xarxes pro-comuns (Guifi.net). Caldria tamb\u00e9 repercutir sobre ells els costos reals d'operaci\u00f3 enlloc de preus ficticis pensats per excloure certs participants.</p>", 
+            "commentable_id": 1644, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/02/2016 18:33:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1342, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4871, 
+                "name": "Adri\u00e0 C", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>S'haurien de respectar i potenciar les antenes de radios comunit\u00e0ries, no perseguir-les.</p>", 
+            "commentable_id": 1644, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/03/2016 19:07:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4618, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 5, 
+        "total_pages": 1
+    }
+}

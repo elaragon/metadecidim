@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4481, 
+            "name": "FUNDACI\u00d3 RAMON CALSINA", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4481, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1693", 
+        "conflictive": false, 
+        "created_at": "10/02/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1693, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "CANVIAR O ARREGLAR LA PLACA COMMEMORATIVA CASA ON VA N\u00c9IXER EL PINTOR RAMON CALSINA I BAR\u00d3 AL CARRER CASTANYS N\u00daMERO 13 DEL POBLENOU (DAVANT EL MERCAT DE LA UNI\u00d3) JA QUE ES TROBA MOLT DETERIORADA I NO ES POT LLEGIR.", 
+        "title": "CANVIAR O ARREGLAR LA PLACA COMMEMORATIVA CARRER CASTANYS NUM.13 A RAMON CALSINA", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 13, 
+        "url": "https://decidim.barcelona/pam/proposals/canviar-o-arreglar-la-placa-commemorativa-carrer-castanys-num-13-a-ramon-calsina", 
+        "votable": null, 
+        "voted": null
+    }
+}

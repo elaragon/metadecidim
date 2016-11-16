@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9142", 
+        "conflictive": false, 
+        "created_at": "07/04/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9142, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Hi ha un ampli acord entre els assistents en que la pla\u00e7a ha combinar els usos esportius com les bitlles catalanes i l\u2019escalada amb els usos d\u2019estada del esplais i de trobada del ve\u00efnat. Es proposa que els usos esportius i associatius siguin compatibles amb espais d\u2019estada per que el ve\u00efnat tamb\u00e9 pugui gaudir de la pla\u00e7a. ", 
+        "title": "La combinaci\u00f3 dels usos esportius i ve\u00efnals i l\u2019accessibilitat com a criteris que defineixin la pla\u00e7a.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/la-combinacio-dels-usos-esportius-i-veinals-i-l-accessibilitat-com-a-criteris-que-defineixin-la-placa", 
+        "votable": null, 
+        "voted": null
+    }
+}

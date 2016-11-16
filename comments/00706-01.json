@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": true, 
+                "hidden": false, 
+                "id": 5080, 
+                "name": null, 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Al costat del poliesportiu de la mar bella, ja hi ha un parc de skates i dona bons resultats, tant de practicants com de curiosos/es</p>", 
+            "commentable_id": 706, 
+            "commentable_type": "Proposal", 
+            "created_at": "12/02/2016 18:28:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1654, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9343, 
+                "name": "decidim sarri\u00e0-sant gervasi", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta recolzada i ampliada en el debat \"Som Joves\": Donar resposta a la demanda de molts joves de tenir un Skate Park per poder anar a practicar aquest esport; ja que si es fa al carrer es pot multar i no tenen algun lloc per poder fer-ho. </p>", 
+            "commentable_id": 706, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/03/2016 09:44:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6484, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

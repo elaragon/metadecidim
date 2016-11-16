@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11588, 
+                "name": "N\u00faria1972", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Seria una bona idea. \u00c9s molt complicat aparcar en aquest carrer, i d'aquesta manera guanyem algun altre lloc per deixar-hi el cotxe. I de pas crec que els ve\u00efns que disposen de p\u00e0rking tindrien menys problemes, perqu\u00e8 de vegades entre gual i gual hi ha molt poc lloc i cotxes massa grans hi aparquen igualment, dificultant la sortida dels cotxes que estan al gual.</p>", 
+            "commentable_id": 4675, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 10:38:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4480, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11583, 
+                "name": "Jesus1975", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A m\u00e9s a m\u00e9s, l'Ajuntament no deixaria de cobrar les taxes pels p\u00e0rkings existents, ja que l'impost no \u00e9s nom\u00e9s per que no aparquin a la porta (que ja no aparcarien), sino tamb\u00e9 per tenir la \"rampa\" a la vorera per poder entrar i treure el cotxe, o sigui que l'Ajuntament continuaria cobrant els mateixos imports, i els ve\u00efns tindriem m\u00e9s places d'aparcament al carrer.</p>", 
+            "commentable_id": 4675, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 11:48:56", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4483, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11583, 
+                "name": "Jesus1975", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>I en m\u00e9s de la meitat d'aquest tram, entre Pstge. Salvaror Riera i Garcilaso, a la banda esquerra, on proposo que s'aparqui els 12 mesos, no hi ha cap edifici (\u00e9s la part del darrera d'un col.legi), o sigui que no hi ha ve\u00efns als qui pugui molestar si hi ha cotxes a la seva banda del carrer, o a la vorera de davant. En aquest tram hi ha 5 p\u00e0rkings 24h a a dreta, i cap edifici a l'esquerra.</p>", 
+            "commentable_id": 4675, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 11:54:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4484, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

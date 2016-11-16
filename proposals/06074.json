@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 13220, 
+            "name": "J.L.Peralta", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 13220, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6074", 
+        "conflictive": false, 
+        "created_at": "20/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6074, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "La linia 192 no s utilitza perque el seu pas es de 30 min. Creacio de una linia  (V23) Horta - Pg maragall - V. Montserrat - Cartagena -Hosp Sant Pau - S Quinti - Pare Claret - Dos de Maig - Glories - Mar Bella  i  viceversa  La conexio vertical en aquest eix es inexistent for\u00e7ant a uns recorreguts molt llargs quan en realitat estan en linia recta.", 
+        "title": "LINIA 192  canvi per  un Servei Ortogonal V 23 Horta  - Mar Bella ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/linia-192-canvi-per-un-servei-ortogonal-v-23-horta-mar-bella", 
+        "votable": null, 
+        "voted": null
+    }
+}

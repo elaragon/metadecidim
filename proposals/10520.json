@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10520", 
+        "conflictive": false, 
+        "created_at": "09/04/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 10520, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Les parades d\u2019autobusos sense plataforma on hi ha p\u00e0rquing en bateria moltes vegades fa que no es pugui utilitzar les plataformes per persones amb mobilitat redu\u00efda. A m\u00e9s s\u2019hauria de garantir un espai suficient de maniobra que els aparcaments no permeten. Fer una revisi\u00f3 de les tampes del autobusos, ja que fallen molt. Millorar el manteniment.", 
+        "title": "Revisar l\u2019adequaci\u00f3 de les parades d\u2019autobusos i millorar el manteniment de les rampes d\u2019accessibilitat. Especialment la Parada 0963 Cant\u00e0bria  - Gran Via ", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/revisar-l-adequacio-de-les-parades-d-autobusos-i-millorar-el-manteniment-de-les-rampes-d-accessibilitat-especialment-la-parada-0963-cantabria-gran-via", 
+        "votable": null, 
+        "voted": null
+    }
+}

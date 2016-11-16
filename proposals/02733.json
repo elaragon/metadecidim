@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4763, 
+            "name": "Associaci\u00f3 de Ve\u00efns de Sarri\u00e0", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": true
+        }, 
+        "author_id": 4763, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-2733", 
+        "conflictive": false, 
+        "created_at": "17/02/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "https://ca.wikipedia.org/wiki/Mariano_Meseguer_Bielsa", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 2733, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "5.\tVolem un espai de Sarri\u00e0 amb el nom de Mariano Messeguer per homenatjar aquesta persona que tant ha fet pel barri. \r\na.\tLa placeta o tros triangular que hi ha a la cru\u00eflla del carrer  Bonaplata i carrer de Fontcuberta . \r\nb.\tLa pla\u00e7a que hi al darrera de la futura Biblioteca a Via Augusta-Passeig de la Bonanova\r\nVoteu i doneu la vostra opini\u00f3", 
+        "title": "Demanem que es doni nom a un espai de Sarri\u00e0 a Mariano Messeguer ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 14, 
+        "url": "https://decidim.barcelona/pam/proposals/demanem-que-es-doni-nom-a-un-espai-de-sarria-a-mariano-messeguer", 
+        "votable": null, 
+        "voted": null
+    }
+}

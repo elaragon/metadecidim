@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 13819, 
+            "name": "Ltraveset", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 13819, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9637", 
+        "conflictive": false, 
+        "created_at": "08/04/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "https://www.google.es/maps/place/Carrer+de+la+Selva+de+Mar,+135,+08020+Barcelona/@41.4130626,2.2011054,17z/data=!3m1!4b1!4m2!3m1!1s0x12a4a33631215567:0xcfb661b54bdb6d26", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 9637, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Es tracta de dos solars que s\u00f3n propietat de l\u2019Ajuntament amb un d'ells amb qualificaci\u00f3 urban\u00edstica 6b (parc urb\u00e0). Actualment no s\u2019ha finalitzat la urbanitzaci\u00f3 i s\u2019ha convertit a m\u00e9s d\u2019una zona d\u2019inseguretat, per la falta d\u2019il\u00b7luminaci\u00f3, en un focus de brut\u00edcia degut al creixement de les males herbes. ", 
+        "title": " Urbanitzaci\u00f3  dels solars ubicats al carrer Per\u00fa amb Selva de mar - Bol\u00edvia", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 5, 
+        "url": "https://decidim.barcelona/pam/proposals/urbanitzacio-dels-solars-ubicats-al-carrer-peru-amb-selva-de-mar-bolivia", 
+        "votable": null, 
+        "voted": null
+    }
+}

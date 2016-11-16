@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10867, 
+            "name": "AMPA ESCOLA PAU CASALS GR\u00c0CIA", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 10867, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4618", 
+        "conflictive": false, 
+        "created_at": "10/03/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "https://ampapauca.wordpress.com/descarrega-documents/", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4618, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Fa molt temps que a les escoles es pateixen problemes d'aglomeracions a les entrades i sortides. \u00c9s per aix\u00f2 que un grup de pares i mares de l'AMPA de l'escola Pau Casals vam decidir crear el Projecte del Cam\u00ed Escolar, des d'on poder donar veu a totes les peticions de millorar aquesta situaci\u00f3 i altres dificultats al voltant de l'escola.", 
+        "title": "Caminem Junts.", 
+        "total_comments": 6, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 4, 
+        "total_votes": 134, 
+        "url": "https://decidim.barcelona/pam/proposals/caminem-junts", 
+        "votable": null, 
+        "voted": null
+    }
+}

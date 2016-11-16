@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12502, 
+                "name": "Arnau Cubelles", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Sempre que hi passo, i ja uns anys, \u00e9s que aquest carrer \u00e9s idoni per a la PEATONALITZACI\u00d3. Com b\u00e9 es diu hi passen molts escolars que van a agafar el metro o bus a pl. Lesseps i justament el revolt d'entrada pel carrer de Berna \u00e9s un punt perill\u00f3s de topades del tr\u00e0nsit rodat amb els vianants. </p>", 
+            "commentable_id": 1530, 
+            "commentable_type": "Proposal", 
+            "created_at": "23/03/2016 01:15:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6357, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15390, 
+                "name": "oriolvm", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si! Fora cotxes i carrer amb plataforma \u00fanica.</p>", 
+            "commentable_id": 1530, 
+            "commentable_type": "Proposal", 
+            "created_at": "27/03/2016 21:04:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6549, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3770, 
+                "name": "MariaMA", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord, \u00e9s necessari millorar aquest tram. La resta del barri ja \u00e9s tot peatonal!</p>", 
+            "commentable_id": 1530, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 12:44:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9199, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

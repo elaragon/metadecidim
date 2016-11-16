@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12009, 
+                "name": "Associacio Catalana per la Defensa de la Sanitat P\u00fablica", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Cal tamb\u00e9 publicitat i transpar\u00e8ncia de la Cartera de Serveis i contractes programa que ofereix cada centre concertat o similar. La publicitat ha de ser explicita i accessible  per qualsevol persona..</p>", 
+            "commentable_id": 4729, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/03/2016 13:15:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6448, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

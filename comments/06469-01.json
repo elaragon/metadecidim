@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1320, 
+                "name": "Aurora MF", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Em sembla que \u00e9s traslladar el problema a un altre carrer. El carrer T\u00e0nger ja va prou ple en les hores punta.</p>", 
+            "commentable_id": 6469, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/04/2016 00:28:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7491, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "7491", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12008, 
+                "name": "Francisco", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hola.\n<br />Del que es tracta \u00e9s de repartir la c\u00e0rrega. \n<br />El que s'ha fet ara \u00e9s desviar el 100% del tr\u00e0nsit del lateral muntanya de Diagonal per Indep\u00e8ndencia/Arag\u00f3 i el 100% del tr\u00e0nsit de Meridiana que anava cap a Gl\u00f2ries tamb\u00e9 pel C/Arag\u00f3.  Aquests carrers no anaven buits precisament. De fet Independencia s'ha ampliat 2 carrils per a absorbir el tr\u00e0nsit.\n<br />Per m\u00ed ja poden treure tots aquests cotxes de la ciutat per\u00f2 molt em temo que aix\u00f2 no passar\u00e0, aix\u00ed que caldria repartir la c\u00e0rrega d'alguna manera.  \n<br />(No espero pas que aquesta proposta tingui suports, simplement vull posar el problema sobre la taula. Si alg\u00fa t\u00e9 altres propostes millors , fant\u00e0stic).\n<br />Salutacions</p>", 
+            "commentable_id": 6469, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 10:43:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8276, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

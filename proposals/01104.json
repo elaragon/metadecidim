@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 44, 
+            "name": "David LH", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 44, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1104", 
+        "conflictive": false, 
+        "created_at": "01/02/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1104, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "En Eixample es el \u00fanico barrio que no dispone de una red de calles peatonales por las que pasear y desplazarse sin ruidos ni contaminaci\u00f3n. Crear una red de calles peatonales generar\u00eda ejes pacificados que promueven la vida saludable y la interrelaci\u00f3n entre los vecinos del barrio hoy en d\u00eda  adem\u00e1s de mejorar la calidad del aire y el espacio verde", 
+        "title": "Red de calles peatonales en el Eixample", 
+        "total_comments": 19, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 9, 
+        "total_votes": 407, 
+        "url": "https://decidim.barcelona/pam/proposals/red-de-calles-peatonales-en-el-eixample", 
+        "votable": null, 
+        "voted": null
+    }
+}

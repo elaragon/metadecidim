@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7190, 
+                "name": "alex.mady", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Para todo los caminos escolares de Barcelona ser\u00eda interesante abrir la participaci\u00f3n a las asociaciones de voluntariado, sobretodo jubilados, para que haya alguien cerca de los cruces de las calles que pueda ayudar los ni\u00f1os en cruzar la v\u00eda. </p>", 
+            "commentable_id": 656, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/02/2016 11:01:37", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2326, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/dissenyar-el-cami-escolar-amb-abast-a-totes-les-escoles-de-sants-montjuic\">https://decidim.barcelona/proposals/dissenyar-el-cami-escolar-amb-abast-a-totes-les-escoles-de-sants-montjuic</a></p>", 
+            "commentable_id": 656, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 13:01:31", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 16939, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

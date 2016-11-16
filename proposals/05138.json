@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5138", 
+        "conflictive": false, 
+        "created_at": "15/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/proposals/especialitzacio-i-professionalitat-del-sad-centrat-en-les-persones", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 5138, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Si arriba una persona nova, que no sap res de la situaci\u00f3 en qu\u00e8 es troba la que ha d\u2019atendre, quines necessitats espec\u00edfiques t\u00e9 o com funcionen elements com les grues, dif\u00edcilment podr\u00e0 ajudar-la des del primer dia.", 
+        "title": "Preparar/formar a les persones substitutes dels servei del SAD durant les vacances per tal que puguin prestar adequadament l\u2019ajut.  ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/preparar-formar-a-les-persones-substitutes-dels-servei-del-sad-durant-les-vacances-per-tal-que-puguin-prestar-adequadament-l-ajut", 
+        "votable": null, 
+        "voted": null
+    }
+}

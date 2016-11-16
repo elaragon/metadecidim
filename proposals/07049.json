@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7049", 
+        "conflictive": false, 
+        "created_at": "29/03/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 7049, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 13, 
+            "name": "Turisme sostenible", 
+            "position": 5
+        }, 
+        "summary": "Promoure l\u2019educaci\u00f3 c\u00edvica en les activitats vinculades al turisme i en l\u2019oci nocturn que fomenta el turisme i els problemes lligat a l\u2019alcohol que provoca. Les campanyes haurien d\u2019anar adre\u00e7ades tant a la gent aut\u00f2ctona com als turistes. Sensibilitzar per l\u2019autocontrol dels propis propietaris dels bars respecte de la contaminaci\u00f3 ac\u00fastica.", 
+        "title": "M\u00e9s educaci\u00f3 c\u00edvica sobre el turisme i l\u2019oci octurn vinculat", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 9, 
+        "url": "https://decidim.barcelona/pam/proposals/mes-educacio-civica-sobre-el-turisme-i-l-oci-octurn-vinculat", 
+        "votable": null, 
+        "voted": null
+    }
+}

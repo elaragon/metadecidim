@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7200", 
+        "conflictive": false, 
+        "created_at": "29/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 7200, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 19, 
+            "name": "Acci\u00f3 comunit\u00e0ria", 
+            "position": 3
+        }, 
+        "summary": "Existeix una descoordinaci\u00f3 entre els temps de l\u2019administraci\u00f3 i les entitats. Per aix\u00f2 es demana una avaluaci\u00f3 i sincronitzaci\u00f3 dels mateixos de cara a la coproducci\u00f3 de pol\u00edtiques p\u00fabliques.", 
+        "title": "Per parlar de coproducci\u00f3 de pol\u00edtiques p\u00fabliques cal repensar la sincronitzaci\u00f3 entre els temps de l\u2019administraci\u00f3 i les entitats. ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/per-parlar-de-coproduccio-de-politiques-publiques-cal-repensar-la-sincronitzacio-entre-els-temps-de-l-administracio-i-les-entitats", 
+        "votable": null, 
+        "voted": null
+    }
+}

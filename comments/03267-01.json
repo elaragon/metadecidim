@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9415, 
+                "name": "Jaume Brunet Papiol", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Des de la p\u00e0gina a facebook \"Camp d'en Grassot, Patrimoni i Hist\u00f2ria\",  tamb\u00e9 donem suport a aquesta iniciativa i demanem fer encara un pas m\u00e9s: pacificar el tr\u00e0nsit al voltant del monument de manera que l'espai tingui forma ovalada i no circular. Com b\u00e9 s'esmenta \u00e9s la font m\u00e9s antiga de tota la ciutat i cal preservar-la i dignificar-la.\n<br /><a href=\"https://www.facebook.com/CampGrassotGraciaNovaPatrimoniHistoria\">https://www.facebook.com/CampGrassotGraciaNovaPatrimoniHistoria</a></p>", 
+            "commentable_id": 3267, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/02/2016 19:09:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3083, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

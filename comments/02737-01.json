@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6165, 
+                "name": "ManelH", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es molt necessari per la correcte mobilitat en dues carreteres de gran densitat de vehicles a motor i bicicletes, moltes d\u2019aquestes ultimes sense experi\u00e8ncia en la circulaci\u00f3 i amb nivells f\u00edsics molt baixos que limiten encara mes la velocitat.</p>", 
+            "commentable_id": 2737, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/02/2016 16:54:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2022, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4510, 
+                "name": "SalvaFerran", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Les carreteres d'Horta a Cerdanyola i la de Vallvidrera a Molins de Rei els caps de setmana tindrien que ser d'us prioritari per   bicicletes i de velocitat limitada sempre.</p>", 
+            "commentable_id": 2737, 
+            "commentable_type": "Proposal", 
+            "created_at": "19/03/2016 18:36:27", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5922, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

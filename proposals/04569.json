@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4569", 
+        "conflictive": false, 
+        "created_at": "10/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 4569, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Valorar la possibilitat de fer-ho tamb\u00e9 amb el transport extraordinari o buscar f\u00f3rmules que l'abarateixin. Ara mateix nom\u00e9s hi ha la modalitat de pagar un bitllet, es podrien fer f\u00f3rmules com la T10 o la T50/30. El preu del transport p\u00fablic que han de pagar resta ingressos a un col\u00b7lectiu ja amb pocs recursos. ", 
+        "title": "Fer gratu\u00eft el servei fix de transport al centre de dia o centre de treball de les persones amb diversitat funcional ", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/fer-gratuit-el-servei-fix-de-transport-al-centre-de-dia-o-centre-de-treball-de-les-persones-amb-diversitat-funcional", 
+        "votable": null, 
+        "voted": null
+    }
+}

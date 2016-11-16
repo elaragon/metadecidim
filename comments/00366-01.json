@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4873, 
+                "name": "Carlota Gim\u00e9nez i Compte", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La torre Garcini seria ideal per fer un equipament cultural o s'hi apleguessin entitats de divulgaci\u00f3 hist\u00f2rica, cultura popular, arxiu hist\u00f2ric dels barris d'Horta-Guinard\u00f3, per activitats liter\u00e0ries, musicals, etc. amb un projecte conjunt de gesti\u00f3 ciutadana.</p>", 
+            "commentable_id": 366, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/02/2016 19:25:49", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1566, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5623, 
+                "name": "JaumeBen", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic d'acord amb la Carlota: cultura, hist\u00f2ria, literatura, m\u00fasica, etc. La torre Garcini ha de ser tot aix\u00f2! Un ateneu popular amb espai de cafeteria incl\u00f2s.</p>", 
+            "commentable_id": 366, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 22:35:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1901, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/guinardo-construir-l-auditori-programat-al-torrent-de-melis\">https://decidim.barcelona/proposals/guinardo-construir-l-auditori-programat-al-torrent-de-melis</a></p>", 
+            "commentable_id": 366, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 12:21:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11901, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1566", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 98, 
+                "name": "Ricard", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En principi ja est\u00e0 planificat que sigui un casal de gent gran.</p>", 
+            "commentable_id": 366, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/02/2016 23:24:20", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3113, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1566", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6187, 
+                "name": "Carme Martin", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>tens tota la ra\u00f3 Carlota.</p>", 
+            "commentable_id": 366, 
+            "commentable_type": "Proposal", 
+            "created_at": "20/03/2016 12:55:30", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5972, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

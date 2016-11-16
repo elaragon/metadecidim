@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 22683, 
+            "name": "\u00c0lex Zaragoza ", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 22683, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10343", 
+        "conflictive": false, 
+        "created_at": "09/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 10343, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Els vianants estem acostumats al sentit de circulaci\u00f3 dels vehicles (cotxes i motos) i perdem la visi\u00f3 de les bicicletes o VMPs, en sentit contrari. Fa 40 anys BCN va aplicar aquest criteri pels cotxes i va quasi eliminar els accidents i atropellaments mortals, que ara han reaparegut amb els carrils bicis. Cas de la Parlamentaria Sra Muriel Casals", 
+        "title": "Canvi de criteri dels carrils bici: UN sol sentit de circulaci\u00f3 en cada carrer disponible, per evitar accidents amb els vianants", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/canvi-de-criteri-dels-carrils-bici-un-sol-sentit-de-circulacio-en-cada-carrer-disponible-per-evitar-accidents-amb-els-vianants", 
+        "votable": null, 
+        "voted": null
+    }
+}

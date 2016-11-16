@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 3617, 
+            "name": "Ramon LV", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 3617, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1630", 
+        "conflictive": false, 
+        "created_at": "08/02/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1630, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Dotar d'un local definitiu a La Farinera, Ateneu del Clot per tal que l'entitat, i totes les entitats que acull, puguin continuar la seva tasca al barri en un local en condicions i evitar aix\u00ed la seva desaparici\u00f3. ", 
+        "title": "Un local definitiu per l'Ateneu del Clot", 
+        "total_comments": 37, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 14, 
+        "total_positive_comments": 22, 
+        "total_votes": 302, 
+        "url": "https://decidim.barcelona/pam/proposals/un-local-definitiu-per-la-farinera-ateneu-del-clot", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3827, 
+                "name": "suport decidim.barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "moderator", 
+                "verified_organization": null
+            }, 
+            "body": "<p>Incorporar la perspectiva LGTBI en l\u2019educaci\u00f3 sexual i la planificaci\u00f3 familiar per tal que esdevinguin inclusives i no hetero-centrades: per exemple, no enfocar-la nom\u00e9s cap a la prevenci\u00f3 dels embarassos no desitjats, etc.</p>", 
+            "commentable_id": 8845, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 17:07:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8718, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

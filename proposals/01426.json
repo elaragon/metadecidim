@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1670, 
+            "name": "Marta Bonilla", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1670, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1426", 
+        "conflictive": false, 
+        "created_at": "04/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1426, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "Encara s\u00f3n v\u00e0ries les estacions de metro o tren que no est\u00e1n completament adaptades per persones amb minusval\u00eda. Tanmateix, hi han transbords que s\u00f3n gaireb\u00e9 imposibles de realitzar, ja que es realitzen mitjan\u00e7ant escales com \u00e9s el cas de pla\u00e7a catalunya (L3/L1), per posar un exemple. Crec que tota la xarxa de transports ha de ser accesible.", 
+        "title": "Adaptaci\u00f3 del TMB per les persones amb discapacitat o mobilitat redu\u00efda", 
+        "total_comments": 5, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 4, 
+        "total_votes": 111, 
+        "url": "https://decidim.barcelona/pam/proposals/adaptacio-deltmb-per-les-persones-am-discapacitat-o-movilitat-reduida", 
+        "votable": null, 
+        "voted": null
+    }
+}

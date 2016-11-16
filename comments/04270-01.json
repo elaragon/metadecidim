@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2299, 
+                "name": "arteso", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Efectivament cal donar continu\u00eftat al passeig mar\u00edtim des del Pavell\u00f3 de La Mar Bella fins el F\u00f2rum, que ara no existeix i \u00e9s un espai amb obstacles i desordre de veh\u00edcles. No s\u00b4est\u00e9n que hagi aquest tall tant brusc del passeig on precisament hi ha platges i creixement dels nous barris de l\u00b4altre cant\u00f3 de la ronda.</p>", 
+            "commentable_id": 4270, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 22:22:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4287, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14168, 
+                "name": "xavier salar", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Ara que l\u2019ajuntament de Barcelona esta tant receptiu amb la pacificaci\u00f3 del transit a Barcelona, es un bon moment per urbanitzar el tros de passeig mar\u00edtim que fan tants anys esta pendent d\u2019acabar i que reduiria el moviment de cotxes i redirigia el flux de gent que va a la platja cap el transport p\u00fablic.\n<br />A mes d\u2019evitar el moviment continuo de vehicles cap aquesta zona (en especial cap de setmanes), aconseguir\u00edem disminuir la polseguera que els cotxes provoquen, eliminar una zona de p\u00edcnic amb les deixalles que comporta, zona d\u2019aprenentatge de conducci\u00f3 esportiva i altres activitats a la nit.\n<br />No cal que sigui una urbanitzaci\u00f3 de luxe, tants sol que permeti passejar a la gent i evitar que els cotxes puguin envair la zona com fins ara.\n</p>", 
+            "commentable_id": 4270, 
+            "commentable_type": "Proposal", 
+            "created_at": "19/03/2016 13:51:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5889, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/finalitzar-el-passeig-maritim\">https://decidim.barcelona/proposals/finalitzar-el-passeig-maritim</a></p>", 
+            "commentable_id": 4270, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 13:18:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17011, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

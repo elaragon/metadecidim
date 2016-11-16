@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14989, 
+                "name": "Javier murillo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Propuesta interesante pero poco concreta. Hay que concretar.</p>", 
+            "commentable_id": 1090, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/03/2016 11:24:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6441, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/els-canvis-urbans-han-de-consensuar-se-amb-els-agents-que-utilitzen-l-espai-public\">https://decidim.barcelona/proposals/els-canvis-urbans-han-de-consensuar-se-amb-els-agents-que-utilitzen-l-espai-public</a></p>", 
+            "commentable_id": 1090, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 18:02:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17405, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/les-persones-del-comerc-son-agents-claus-en-la-comunitat-i-per-millorar-la-convivencia\">https://decidim.barcelona/proposals/les-persones-del-comerc-son-agents-claus-en-la-comunitat-i-per-millorar-la-convivencia</a></p>", 
+            "commentable_id": 1090, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/04/2016 18:02:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17406, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

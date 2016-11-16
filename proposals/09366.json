@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-9366", 
+        "conflictive": false, 
+        "created_at": "07/04/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 9366, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 5, 
+            "name": "Cicles de vida ", 
+            "position": 5
+        }, 
+        "summary": "com el Club de Basket Roser, Grup Gastron\u00f2mic el Tiberi, La Penya Blaugrana del Roser, Casal de Joves Xiroc, Esplai Xiroc, Bastonera de l\u2019Eixample, Coordinadora Jove Musical Fort Pienc, Arran Fort Pienc, Grup de Percussi\u00f3 Boltxepienca, La F\u00faria Feminista de Fort Pienc, Slot Roser, Hort Fort Pienc, La Cabr\u00f3nica, Cabronets ", 
+        "title": "Apostar pels diferents grups de joves que poden dinamitzar els espais disponibles; proposant projectes i usos dels espais ", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 1, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/apostar-pels-diferents-grups-de-joves-que-poden-dinamitzar-els-espais-disponibles-proposant-projectes-i-usos-dels-espais", 
+        "votable": null, 
+        "voted": null
+    }
+}

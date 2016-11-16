@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 8253, 
+            "name": "Beth", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 8253, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3465", 
+        "conflictive": false, 
+        "created_at": "25/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3465, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 2, 
+            "name": "Autonomia personal ", 
+            "position": 2
+        }, 
+        "summary": "\u00c9s una vergonya que ina ciutat com Barcelona, suposadament cosmopolita, que reb milions de turistes cada any, encara tingui tantes estacions sense escales mec\u00e0niques. Que veig les mares arrossegant els carros per les interminables escales d'Urquinaona, els viatgers maletes amunt per les escales cap a l'estaci\u00f3 del Nord, se'm cau la cara de vergonya", 
+        "title": "Que totes les estacions de metro, tren, FGC i autocars disposin d'escoles mec\u00e0niques a tots els seus trams. ", 
+        "total_comments": 14, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 4, 
+        "total_positive_comments": 7, 
+        "total_votes": 115, 
+        "url": "https://decidim.barcelona/pam/proposals/que-totes-les-estacions-de-metro-tren-fgc-i-autocars-disposin-d-escoles-mecaniques-a-tots-els-seus-trams", 
+        "votable": null, 
+        "voted": null
+    }
+}

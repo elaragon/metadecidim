@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2048, 
+            "name": "Daniel Perez", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2048, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1437", 
+        "conflictive": false, 
+        "created_at": "04/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1437, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "Proposem ampliar l\u2019horari de les escoles bressol municipals fins a les 21.00, flexibilitzant l\u2019horari d\u2019entrada. Per poder conciliar la vida familiar i laboral de molts dels ciutadans de la ciutat, evitem la discriminaci\u00f3 institucional en base a la nostra feina i  a l'hora que creem llocs de treball. ", 
+        "title": "ampliaci\u00f3 horaris escoles bressol municipals ", 
+        "total_comments": 13, 
+        "total_negative_comments": 2, 
+        "total_neutral_comments": 3, 
+        "total_positive_comments": 3, 
+        "total_votes": 58, 
+        "url": "https://decidim.barcelona/pam/proposals/ampliacio-horaris-escoles-bressol-municipals", 
+        "votable": null, 
+        "voted": null
+    }
+}

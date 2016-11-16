@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 19460, 
+            "name": "David Teixid\u00f3", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 19460, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8917", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8917, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 6, 
+            "name": "Habitatge", 
+            "position": 6
+        }, 
+        "summary": "Cal posar un l\u00edmit al preu del lloguer a Barcelona, especialment regulant l'activitat de les immobili\u00e0ries, que lloguen a preus molt alts pisos en p\u00e8ssimes condicions. Cal regular que els propietaris mantinguin i reparin els immobles que posen a lloguer, per posar un m\u00ednim de condicions per poder llogar el pis i treure'n un rendiment econ\u00f2mic. ", 
+        "title": "Regular el preu i les condicions del lloguer d'habitatge. No pot ser que el preu del lloguer no es reguli i depengui \u00fanicament de l'oferta i la demanda.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 5, 
+        "url": "https://decidim.barcelona/pam/proposals/regular-el-preu-i-les-condicions-del-lloguer-d-habitatge-no-pot-ser-que-el-preu-del-lloguer-no-es-reguli-i-depengui-unicament-de-l-oferta-i-la-demanda", 
+        "votable": null, 
+        "voted": null
+    }
+}

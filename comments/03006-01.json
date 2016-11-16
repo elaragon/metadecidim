@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/potenciar-espais-publics-per-a-fer-promocio-difusio-dels-actes-activitats-tallers-del-teixit-associatiu-del-barri-i-del-propi-ajuntament-per-a-informar-els-veins-es\">https://decidim.barcelona/proposals/potenciar-espais-publics-per-a-fer-promocio-difusio-dels-actes-activitats-tallers-del-teixit-associatiu-del-barri-i-del-propi-ajuntament-per-a-informar-els-veins-es</a></p>", 
+            "commentable_id": 3006, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 10:32:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17718, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/construir-un-ateneu-al-barri-de-sagrada-familia\">https://decidim.barcelona/proposals/construir-un-ateneu-al-barri-de-sagrada-familia</a></p>", 
+            "commentable_id": 3006, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 10:32:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 17720, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/repensar-els-equipaments-des-d-una-visio-mes-flexible\">https://decidim.barcelona/proposals/repensar-els-equipaments-des-d-una-visio-mes-flexible</a></p>", 
+            "commentable_id": 3006, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/04/2016 13:08:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 18599, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

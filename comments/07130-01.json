@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12133, 
+                "name": "kenca", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>la zona de perros, solo para ellos, sin personas? te faltan zonas para delimitar, zona sin ni\u00f1os, para poder estar tranquilamente sin oir sus gritos, zonas sin adolescentes, para no tener que oir su musica estridente saliendo de sus moviles, ni su rollo de que pasa tio!! zona donde aparcar a los viejos...\n<br />luego la zona donde pueden entrar todos, que TODOS tengan el carnet civico, demostrando que todas esas personas son civicas, que no tiraran colillas, papeles, chicles, vomitos de borrachera, orines y defecaciones humanas y perrunas, botellas, bolsas de patatas y complemetos alimenticios varios, etc.</p>", 
+            "commentable_id": 7130, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 13:38:13", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7393, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

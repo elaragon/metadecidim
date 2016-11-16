@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1763, 
+            "name": "Ramon Sales", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1763, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1357", 
+        "conflictive": false, 
+        "created_at": "03/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1357, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "El abonament de 10 viatges de TMB es pot usar tamb\u00e9 als trens de Renfe entrants a Barcelona i usar-los en els itineraris que fan dins de la ciutat.\r\nPer\u00f2 resulta que els usuaris de la Targeta Rosa no poden utilitzar el seu abonament per a aquests recorreguts.\r\nEs podria estendre l'acord TMB-Renfe per millorar la mobilitat de la gent gran?", 
+        "title": "Extendra la validessa de la Tarjeta Rosa als trens entrants a Barcelona ", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 46, 
+        "url": "https://decidim.barcelona/pam/proposals/extendra-la-validessa-de-la-tarjeta-rosa-als-trens-entrants-a-barcelon", 
+        "votable": null, 
+        "voted": null
+    }
+}

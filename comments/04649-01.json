@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13765, 
+                "name": "mam", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No cal perdre el temps amb aquest tipus de refer\u00e8ndums manipulables, cal fer estudis t\u00e8cnics rigorosos, debat social, etc., els ciutadans han votat ara una opci\u00f3 pol\u00edtica que contemplava estudiar la proposta del tramvia i ara s'ha de complir el programa electoral. </p>", 
+            "commentable_id": 4649, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 20:27:17", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5658, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14669, 
+                "name": "davidgibert", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Jo estic a favor del tramvia i tamb\u00e9 del referendum. Pero no vull que \u00e9s faci com el de l'alcalde Hereu, pq no era un referendum sobre el tramvia, era sobre la reforma de l'avinguda (la qual es va reformar... amb Trias a l'alcaldia).</p>", 
+            "commentable_id": 4649, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/03/2016 23:01:00", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6319, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "5658", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13084, 
+                "name": "cbl", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Opino el mateix que tu mam.</p>", 
+            "commentable_id": 4649, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 20:59:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5667, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8177", 
+        "conflictive": false, 
+        "created_at": "04/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/meetings/escola-sant-ramon-nonat-una-barcelona-mes-humana-i-en-transicio-ecologica-4rt-eso-b", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8177, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 26, 
+            "name": "Govern transparent  i rendici\u00f3 de comptes", 
+            "position": 1
+        }, 
+        "summary": "A la cita presencial que va tenir lloc a l\u2019Escola Sant Ram\u00f3n Nonat, els estudiants de 4rt d\u2019ESO B van estar debatent diverses propostes per millorar el medi ambient de la ciutat, entre aquestes van manifestar que seria convenient que l\u2019Ajuntament notifiqu\u00e9s amb anterioritat els projectes urbans als ve\u00efns, ho podrien fer a partir del correu electr\u00f2n", 
+        "title": "Notificar amb anterioritat els projectes urbans als ve\u00efns", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/notificar-amb-anterioritat-els-projectes-urbans-als-veins", 
+        "votable": null, 
+        "voted": null
+    }
+}

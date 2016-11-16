@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 765, 
+                "name": "jmmigay", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Reduir aparcament ,el cotxe es un be privat i no hauria d'estar aparcat permanentment a les voreres, nom\u00e8s per temps limitat per fer gestions; ara si tens necesitat de fer un aturada nom\u00e8s la pots fer fent-hi  infraccions,  en canvi n'hi  cotxes aparcats\" sine die\". En Canvi la circulacio per la xarxa Enxmple afavoteix, reduir la Diagonal ( Tranvia) i Arag\u00f2 que es un carrer inhum\u00e0.</p>", 
+            "commentable_id": 1206, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 10:02:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 176, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15696, 
+                "name": "Marta Pinent", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Reduir el carrils de l'eixample? qu\u00e8 significa, fer-los m\u00e9s estrets o treure carrils fent m\u00e9s amples els que quedin, alg\u00fa podr\u00eda aclarir-ho?</p>", 
+            "commentable_id": 1206, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 15:09:37", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6783, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

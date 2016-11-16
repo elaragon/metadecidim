@@ -1,0 +1,242 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8427, 
+                "name": "Gustavo Mart\u00edn", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord. Vull poder disfrutar de la meva ciutat!</p>", 
+            "commentable_id": 3483, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 18:35:56", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2735, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8536, 
+                "name": "EnriquetaMarti", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Tota la ra\u00f3 del m\u00f3n. Crec que era 2,40 \u20ac per entrar al parc del laberint d'Horta.  Que em pareix molt b\u00e9 que cobren un preu simb\u00f2lic pel manteniment i la vigil\u00e0ncia, i perqu\u00e8 aix\u00ed no s'omple de gent que no va precisament a gaudir del parc, per\u00f2 ens hem passat una mica, no? L'hospital de Sant Pau entre 7 i 10 \u20ac sense guia. Em pareix una barbaritat fins i tot per als turistes. Quantes coses a 8 \u20ac pensen que estaran disposats a pagar? Una fam\u00edlia mitjana que arriba a Barcelona de turisme ja s'ha gastat no pocs diners en transport, hotels i restaurants, i despr\u00e9s es troba que la majoria de coses les t\u00e9 que veure des de fora perqu\u00e8 no li arriba el pressupost o simplement no sap si un preu tan alt li pagar\u00e0 la pena pel que pot veure. Conclusi\u00f3, no ho visiten, no ho conten, no 'venen' Barcelona quan tornen a casa. Nom\u00e9s arribar\u00e0s als que venen de lluny, i \"ja que estem ac\u00ed, i com possiblement no tornarem...\". I damunt  despr\u00e9s diuen que s\u00ed que es veritat all\u00f2 dels catalans i la pela.</p>", 
+            "commentable_id": 3483, 
+            "commentable_type": "Proposal", 
+            "created_at": "25/02/2016 23:52:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2772, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8605, 
+                "name": "Carlota Anglada", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hem de promoure la cultura i el lleure entre els de casa. Si tenim un preu especial de ben segur tamb\u00e9 pujar\u00e0 la demanda.</p>", 
+            "commentable_id": 3483, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/02/2016 10:57:49", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2788, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8665, 
+                "name": "Joan Mandret", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El que \u00e9s completament gratis no s'aprecia. Millor un preu simbolic (1 o 2\u20ac)</p>", 
+            "commentable_id": 3483, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/02/2016 14:05:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2812, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8667, 
+                "name": "Jos\u00e9 Luis de Francisco", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>D'acord amb tots els anteriors comentaris per\u00f2 el cost del manteniment no canviaria. Llavors la q\u00fcesti\u00f3 \u00e9s: \u00bfqui paga els costos? Els que hi anem de visita o tots els Barcelonins...fa dubtar</p>\n\n<p>Una iniciativa bona, encara que \u00e9s nom\u00e9s pels del mateix barri \u00e9s \"Gaudir +\". Us la recomano, encara que podria ser per tots els barcelonins, aix\u00ed nom\u00e9s pagarien els turistes que v\u00e9nen de visita...per\u00f2 aix\u00f2 \u00e9s tamb\u00e9 licit? Potser s\u00ed...potser no...</p>\n\n<p><a href=\"https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&amp;stpid=20130001121&amp;style=ciudadano\">https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&amp;stpid=20130001121&amp;style=ciudadano</a>\n</p>", 
+            "commentable_id": 3483, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/02/2016 14:34:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2823, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8738, 
+                "name": "Ros\u00f3", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic totalment d'acord amb l'URI. Els que viuen a Barcelona no haurien de pagar per entrar a llocs com Catedral, el Castell de Montjuic, i tans i tans llocs m\u00e9s. En tot cas fer una mena de carnet i limitar les visites, per ejemple 3 a l'any (o els que siguin, es un dir). Tamb\u00e9 vaig flipar quan per apuntar-me per entrar al Parc G\u00fcell, vaig haver d'anar en persona a l'Ajuntament,  per registrar-me, totalment surrealista que t'agafin les empremtes dactilars. Que som al segle XXI senyors !  tothom que es registra ho fa telem\u00e0ticament. I volem ser Europeus?????</p>", 
+            "commentable_id": 3483, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/02/2016 17:07:30", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2847, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8754, 
+                "name": "Arnau B", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Considero que no es tindria que pagar per certs llocs p\u00fablics per als residents (per cert, la Catedral no pertany al Ajuntament)</p>", 
+            "commentable_id": 3483, 
+            "commentable_type": "Proposal", 
+            "created_at": "26/02/2016 18:09:20", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2852, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 7, 
+        "total_pages": 1
+    }
+}

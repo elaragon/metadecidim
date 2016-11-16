@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 19065, 
+            "name": "alfredoru", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 19065, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8609", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://docs.google.com/document/d/1FHg3sY0hm-0A9RQzGXvuUmKwCMniKc3piJTHB8B3vjw/edit?usp=sharing", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8609, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "(En nuestra familia) creemos en una cultura de paz, de econom\u00edas verdes que promuevan la salud f\u00edsica y mental de los ciudadanos de Barcelona. Creemos en la creaci\u00f3n de espacios de convivencia, reuni\u00f3n, trabajo y ocio profundamente mediterr\u00e1neos, en los que las \u00e1reas verdes sean las grandes protagonistas. ", 
+        "title": "Respetar y promover zonas verdes ( econom\u00eda verde, salud f\u00edsica y mental de los ciudadanos, cultura de paz)", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/respetar-y-promover-zonas-verdes-economia-verde-salud-fisica-y-mental-de-los-ciudadanos-cultura-de-paz", 
+        "votable": null, 
+        "voted": null
+    }
+}

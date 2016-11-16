@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8936", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8936, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 5, 
+            "name": "Cicles de vida ", 
+            "position": 5
+        }, 
+        "summary": "Impulsar un model de connexi\u00f3 entre les xarxes socials, comunit\u00e0ries i els serveis p\u00fablics d\u2019atenci\u00f3 per trobar sinergies i millores en la detecci\u00f3 i l\u2019atenci\u00f3 a persones grans amb problemes de solitud. Mantenir els diversos projectes que tenen efectes Directes en la millora de la solitud de les persones grans.", 
+        "title": "Estrat\u00e8gia comunit\u00e0ria per a la participaci\u00f3 contra la solitud", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 4, 
+        "url": "https://decidim.barcelona/pam/proposals/estrategia-comunitaria-per-a-la-participacio-contra-la-solitud-c3585db1-9f71-486a-b997-42437593a3a4", 
+        "votable": null, 
+        "voted": null
+    }
+}

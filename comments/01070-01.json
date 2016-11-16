@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6658, 
+                "name": "Angel H", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>haurien de canviar la forma d actuar de parcs i jardins que  em sembla precaria i amb personal poc qualificat, a vegades fan unes podes als arbes que acaben morint. Tamb\u00e9 si un arbre es fa gran i ocupa massa espai a la vorera s hauria de traspantar a un altre zona o parc  i no tallarlo d arrel .\n<br /> Per altra banda hi ha una  especie de arbre que crec que no s hauria de plantar cap i es el Magnoli , aquest arbre es molt petit de creixement molt lent, no arrela quasi mai i es mor, a part de no donar ombra.</p>", 
+            "commentable_id": 1070, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 13:07:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6724, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5950, 
+                "name": "Jordi Salabert", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>S'hauria de conseguir que les especies arbories elegides no embrutin de polen tots els carrers ni generin molta al\u00b7lergia a la poblacio. Com es el cas, entre d'altre, dels platans de fabra i puig.</p>", 
+            "commentable_id": 1070, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 23:24:46", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 12764, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/elaboracio-i-execucio-del-pla-d-arbrat\">https://decidim.barcelona/proposals/elaboracio-i-execucio-del-pla-d-arbrat</a></p>", 
+            "commentable_id": 1070, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 12:58:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15525, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/desparasitar-arboles-en-paseo-urrutia-y-podar-mejor\">https://decidim.barcelona/proposals/desparasitar-arboles-en-paseo-urrutia-y-podar-mejor</a></p>", 
+            "commentable_id": 1070, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 12:58:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15526, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 4, 
+        "total_pages": 1
+    }
+}

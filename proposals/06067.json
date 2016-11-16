@@ -1,0 +1,53 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6067", 
+        "conflictive": false, 
+        "created_at": "19/03/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 6067, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 6, 
+            "name": "Habitatge", 
+            "position": 6
+        }, 
+        "summary": "-Promoure la masoveria urbana: ajuntar persones amb dificultats\r\nd\u2019acc\u00e9s a l\u2019habitatge, amb cases que necessiten reformes o manteniment La\r\nmasoveria urbana trasllada aquest antic sistema d\u2019intercanvi al present i a les ciutats.\r\n-Necessitem un llistat de cases no utilitzades i promoci\u00f3 de la seva\r\nrehabilitaci\u00f3 pels objectius anteriors", 
+        "title": "Aprofitem els edificis buits al barri de Sarri\u00e0", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/aprofitem-els-edificis-buits-al-barri-de-sarria", 
+        "votable": null, 
+        "voted": null
+    }
+}

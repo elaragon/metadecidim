@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4763, 
+                "name": "Associaci\u00f3 de Ve\u00efns de Sarri\u00e0", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": true
+            }, 
+            "body": "<p>Pla de Futur de Sarri\u00e0 2010-2020: Disposar d\u2019 espais d\u2019interacci\u00f3 amb el ve\u00efnat, com per exemple un espai polivalent, al nou Jard\u00ed d\u2019Oriol Martorell, sobre l\u2019aparcament de Via Augusta/Cardenal Sentmenat. </p>", 
+            "commentable_id": 723, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 11:26:58", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1822, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5046, 
+                "name": "Eva C-V Tremosa", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Al 2009 el projecte estava fet, l'edifici de GISA i FGC s'ha acabat fa anys, el p\u00e0rquing de BSM s'ha fet fa temps. FGC va cedir a l'ajuntament de l'\u00e8poca l'espai i els fons.  Perqu\u00e8 l'edificaci\u00f3 i els cotxes  va sempre abans de l'espai verd. Aquest any fa cent anys del t\u00fanel de FGC i 25 dels t\u00fanels pels cotxes, obrint una ferida gegant que divideix el districte i que malgrat tots els anys passats, encara no est\u00e0 tancada. Teniu els diners, nom\u00e9s manca voluntat. Volem el parc ja!\n<br /><a href=\"http://www.elperiodico.cat/ca/noticias/barcelona/jardi-doriol-martorell-unira-aquest-any-sarria-les-tres-torres-230567\">http://www.elperiodico.cat/ca/noticias/barcelona/jardi-doriol-martorell-unira-aquest-any-sarria-les-tres-torres-230567</a>\n</p>", 
+            "commentable_id": 723, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/04/2016 12:05:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7575, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

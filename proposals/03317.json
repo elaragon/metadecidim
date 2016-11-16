@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 6591, 
+            "name": "Ricardo Ramos", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 6591, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3317", 
+        "conflictive": false, 
+        "created_at": "23/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3317, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 6, 
+            "name": "Habitatge", 
+            "position": 6
+        }, 
+        "summary": "Intervenir en ocupacions que generen mol\u00e8sties greus a la comunitat: amenaces als ve\u00efns, desperfectes a les zones comuns, sobrecostos i riscos per connexions il.legals de llum i aigua, tr\u00e0fic d'estupefaents, entre d'altres. Actuar de forma diferenciada per donar resposta a les inquietuds dels ve\u00efns que pateixen situacions molt inc\u00f2modes o violentes", 
+        "title": "Garantir la protecci\u00f3 dels ve\u00efns en habitatges ocupats", 
+        "total_comments": 15, 
+        "total_negative_comments": 2, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 4, 
+        "total_votes": 163, 
+        "url": "https://decidim.barcelona/pam/proposals/garantir-la-proteccio-dels-veins-en-habitatges-ocupats", 
+        "votable": null, 
+        "voted": null
+    }
+}

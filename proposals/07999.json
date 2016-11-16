@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-7999", 
+        "conflictive": false, 
+        "created_at": "04/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 7999, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Reduir preus d\u2019acc\u00e9s als equipaments esportius municipals. Adaptar les quotes als diferents col\u00b7lectius, fer quotes especifiques per fam\u00edlies, fam\u00edlies nombroses, jubilats, i altres col\u00b7lectius. Establir la divisi\u00f3 hor\u00e0ria en dues franges. Universalitzar el preu dels equipaments. Flexibilitzar les quotes per incloure un servei m\u00ednim d\u2019activitats.", 
+        "title": "Reducci\u00f3 i adaptaci\u00f3 de les quotes dels equipaments esportius municipals. ", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/reduccio-i-adaptacio-de-les-quotes-dels-equipaments-esportius-municipals", 
+        "votable": null, 
+        "voted": null
+    }
+}

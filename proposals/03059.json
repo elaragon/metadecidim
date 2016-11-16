@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3059", 
+        "conflictive": false, 
+        "created_at": "18/02/2016", 
+        "district": {
+            "id": 4, 
+            "name": "Les Corts"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3059, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Completar i ampliar la xarxa de carrils bici que estableix el PMU. Promoure l'\u00fas de la bicicleta i garantir la connectivitat de la xarxa actual. Minimitzar els conflictes amb la resta de mitjans de transport.  Crear una xarxa per a bicicletes, amb carrils segregats de la cal\u00e7ada i amb les necessitats de seguretat que permetin conviure amb seguretat d\u2019una manera inclusiva.", 
+        "title": "Xarxa de carrils bici", 
+        "total_comments": 9, 
+        "total_negative_comments": 3, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 3, 
+        "total_votes": 154, 
+        "url": "https://decidim.barcelona/pam/proposals/xarxa-de-carrils-bici-d5d315e6-96c4-4845-a92e-4befdbe93ab1", 
+        "votable": null, 
+        "voted": null
+    }
+}

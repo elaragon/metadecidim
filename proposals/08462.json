@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8462", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8462, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Aquests vectors intergeneracionals (interaccions entre avis/es, nens/es i pares/mares) ens aportar\u00e0 sostenibilitat en tots els intercanvis i esdeveniments que fem en aquests centres. Cada actor t\u00e9 una funci\u00f3 en la producci\u00f3 i transmissi\u00f3 de coneixement i es generen uns lligams forts", 
+        "title": "Buscar vectors intergeneracionals en els projectes i les activitats de difusi\u00f3 dels centres de creaci\u00f3 cultural", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/buscar-vectors-intergeneracionals-en-els-projectes-i-les-activitats-de-difusio-dels-centres-de-creacio-cultural", 
+        "votable": null, 
+        "voted": null
+    }
+}

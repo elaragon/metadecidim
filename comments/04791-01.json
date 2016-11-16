@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 15565, 
+                "name": "pr080", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>la mal llamada econom\u00eda colaborativa, es todo menos colaborativa, incluso en la \u00e1rea donde empez\u00f3 crearse y donde m\u00e1s ciudadanos,San Francisco, malviven con este tipo de econom\u00eda,,sumergida,,de la cual 2/3 se enriqeecen, los que fundan la aplicaci\u00f3n,,y sin colaborar con los gastos de uso,,que el resto de contribuyentes si hacen con sus impuestos.azsi al ejercicio empresarial. explotando la vivienda propia,,pero,,con la correspondiente tasa impositiva, que el resto de servicios y alojamientos reglamentados si realizan,,incluido la tasa tur\u00edstica,,,en este caso rid\u00edcula comparada con el 10% de la factura de alojamiento, que se impone en Nueva York,,y nadie se queja en pagarla.tiene un buen reportaje en 30minuts o sense ficci\u00f3 sobre la cacareada econom\u00eda colaborativa y lo nefasto de sus consecuencias,</p>", 
+            "commentable_id": 4791, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/03/2016 05:33:30", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6685, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

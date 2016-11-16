@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12089, 
+                "name": "Jordi Marco", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La ciudad de Barcelona esta llena de espacios para las mascotas, mesas de pinpong,petanca, canastas de basquet pero apenas hay columpios adaptados para los ni\u00f1os con alguna discapacidad y ellos tambien necesitan jugar.</p>", 
+            "commentable_id": 1576, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 16:02:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5260, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13162, 
+                "name": "Yolanda Alcaide", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00c9s lamentable que els infants amb diversitat funcional (amb discapacitat), no puguin gaudir del joc al parc com ho fan la resta dels nens i nenes. En teoria tenen els mateixos drets, per\u00f2 a la pr\u00e0ctica no \u00e9s aix\u00ed. Els nens amb diversitat funcional s\u00f3n els grans oblidats. Espero i desitjo que es tingui en consideraci\u00f3 aquesta sol.licitud. </p>", 
+            "commentable_id": 1576, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/03/2016 21:58:59", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5358, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13405, 
+                "name": "Dsoriano ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Els estudiants de 3r ESO A de l\u2019Escola Sant Ram\u00f3n Nonat van participar en un debat on es van tractar diverses propostes per millorar el medi ambient de la ciutat. Aquests van proposar l\u2019adaptaci\u00f3 de tots els parcs de la ciutat per a persones amb diversitat funcional, com els gronxadors, accessibilitat a les fonts o a la resta del parc en general....  </p>", 
+            "commentable_id": 1576, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 11:16:15", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7958, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

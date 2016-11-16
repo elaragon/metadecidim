@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 17239, 
+            "name": "Ignasi Badia Nogu\u00e9s", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 17239, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-7944", 
+        "conflictive": false, 
+        "created_at": "03/04/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7944, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Amb la reforma del carrer es van incloure uns pals separadors per protegir els peatons i les sortides dels edificis. Per\u00f2 tamb\u00e9 s\u00f3n un impediment per a la c\u00e0rrega i desc\u00e0rrega dels vehicles, creant embussos i mol\u00e8sties quan s'atura un vehicle per necessitat. Demanem que es revisi t\u00e8cnicament aquest sistema i es vegin alternatives.", 
+        "title": "Pals al c/Clos de Sant Francesc, i d'altres carrers semblants", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/pals-al-c-clos-de-sant-francesc-i-d-altres-carrers-semblants", 
+        "votable": null, 
+        "voted": null
+    }
+}

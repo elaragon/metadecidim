@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 827, 
+            "name": "Marga", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 827, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6940", 
+        "conflictive": false, 
+        "created_at": "28/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6940, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 27, 
+            "name": "Efici\u00e8ncia i professionalitat", 
+            "position": 5
+        }, 
+        "summary": "L'Ajuntament ha de garantir uns serveis b\u00e0sics, per aix\u00f2 necessitem gent preparada i treballadora. Qui no compleixi aquests requisits no hauria de formar part de la plantilla. Cal revisar el funcionariat. No te sentit fer oposicions amb temes que no tenen a veure amb el desenvolupament posterior del treball, ni mantenir gent que no trebralla.", 
+        "title": "Revisi\u00f3 de la contractaci\u00f3 del personal de l'Ajuntament", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/revisio-de-la-contractacio-del-personal-de-l-ajuntament", 
+        "votable": null, 
+        "voted": null
+    }
+}

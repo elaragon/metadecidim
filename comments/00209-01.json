@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1010, 
+                "name": "catorvel", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Casals Infantils i ludoteques haurien de acollir menors de 3 anys. No hi ha prou places i es una etape on la familia no te llocs publics al barri on anar. De casa al parc i del parc a casa. Espais familiar que pel mat\u00ed acullin nens que no van a les guarderies i per la tarda centre obert dinamitzat i amb les families presents.\n<br />Actualment els casals nomes tenen a alguns barris UN DIA  a la setmana per menors de 3 pagant 3.5 aprox. NO crec que siguin preus publics populars, en tempts de crisi</p>", 
+            "commentable_id": 209, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 16:16:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 285, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

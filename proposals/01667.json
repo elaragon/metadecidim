@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 181, 
+            "name": "crismon", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 181, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1667", 
+        "conflictive": false, 
+        "created_at": "09/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.osalan.euskadi.eus/contenidos/informacion/presentacion_proyectos_investi/es_jt120903/adjuntos/proyecto_tecnalia.pdf", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1667, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "Actualment la nanotecnologia ha est\u00e0t implantat a tot arreu de forma silenciosa. Sovint les empreses,i treballadors i la ciutadania de carrer,ignoren que els materials, la seva formulaci\u00f3 qu\u00edmica, no es comporta de forma igual que a mida normal, traspassant les barreres cel.lulars i arribant al cervell molt r\u00e0pid.  Cal un estudi d'implantaci\u00f3. p.44", 
+        "title": "Identificar nanoproductes en construcci\u00f3 i asfaltat.Aplicar mesures de seguretat", 
+        "total_comments": 4, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 4, 
+        "total_votes": 8, 
+        "url": "https://decidim.barcelona/pam/proposals/identificar-nanoproductes-en-construccio-i-asfaltat-i-prohibicio", 
+        "votable": null, 
+        "voted": null
+    }
+}

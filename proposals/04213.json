@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 2962, 
+            "name": "Xavier Riu", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 2962, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4213", 
+        "conflictive": false, 
+        "created_at": "06/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4213, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "La gran oportunitat per augmentar l\u2019\u00fas del transport p\u00fablic en aquest mandat (ho necessitem per poder guanyar de forma realista espai al vehicle privat i afrontar el problema de la contaminaci\u00f3) passa per unir per la Diagonal els dos tramvies que connecten amb el Barcelon\u00e8s Nord i el Baix Llobregat. ", 
+        "title": "Unir els dos tramvies que hi ha als extrems de la Diagonal", 
+        "total_comments": 12, 
+        "total_negative_comments": 2, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 3, 
+        "total_votes": 98, 
+        "url": "https://decidim.barcelona/pam/proposals/unir-els-dos-tramvies-que-hi-ha-als-extrems-de-la-diagonal", 
+        "votable": null, 
+        "voted": null
+    }
+}

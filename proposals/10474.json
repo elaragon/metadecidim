@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4041, 
+            "name": "Jordi Reyn\u00e9s Garc\u00e9s", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4041, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10474", 
+        "conflictive": false, 
+        "created_at": "09/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 10474, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "S'hauria de tenir en compte les necessitats dels supermercats en quan als dies de la setmana i horaris per a poder fer les c\u00e0rregues i desc\u00e0rregues del g\u00e8nere i materials,  intentant fer-les compatibles amb el descans del ve\u00efnat.", 
+        "title": "Estudiar el tema dels dies i hores, de les c\u00e0rregues i desc\u00e0rregues dels supermercats, per tal de fer compatible, el dret al descans i el dret al treball.", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/estudiar-el-tema-dels-dies-i-hores-de-les-carregues-i-descarregues-dels-supermercats-per-tal-de-fer-compatible-el-dret-al-descans-i-el-dret-al-treball", 
+        "votable": null, 
+        "voted": null
+    }
+}

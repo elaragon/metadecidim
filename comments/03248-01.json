@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7558, 
+                "name": "jma pericay", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Comentaris.\n<br />-La Llei 19/2014, del 29 de desembre, de transpar\u00e8ncia, acc\u00e9s a la informaci\u00f3 p\u00fablica i bon govern ja obliga des del 31 de juliol de 2015 a publicar les retribucions dels organismes i empreses p\u00fabliques. Concretament, ) Les retribucions, indemnitzacions i dietes, les activitats i els b\u00e9ns dels membres del Govern, dels alts c\u00e0rrecs\n<br />de l\u2019Administraci\u00f3 p\u00fablica i del personal directiu dels ens p\u00fablics, les societats, les fundacions i els consorcis, i\n<br />les indemnitzacions que han de percebre en deixar d\u2019exercir el c\u00e0rrec.\n<br />- No obstant, la informaci\u00f3 que publica al web del TMB \u00e9s massa gen\u00e8rica i insuficient.\n<br />- Caldria establir amb molt m\u00e9s detall quins s\u00f3n els deures d'informaci\u00f3 de l'empresa. Per exemple, poder con\u00e8ixer quina \u00e9s la massa salarial-\n<br />- Addicionalment, cal donar una transpar\u00e8ncia molt m\u00e9s gran als processos de selecci\u00f3 i contractaci\u00f3 del personal del'empresa, at\u00e8s que \u00e9s una empresa amb un nivell d'endog\u00e0mia espectacular.\n</p>", 
+            "commentable_id": 3248, 
+            "commentable_type": "Proposal", 
+            "created_at": "23/02/2016 20:41:36", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2502, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/desenvolupar-el-projecte-el-govern-ret-comptes\">https://decidim.barcelona/proposals/desenvolupar-el-projecte-el-govern-ret-comptes</a></p>", 
+            "commentable_id": 3248, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/04/2016 13:55:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 9406, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10703, 
+                "name": "suport decidim.barcelona2", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Proposta debatuda al Consell de Salut de Nou Barris: \"Disposar de la hist\u00f2ria cl\u00ednica compartida entre tots els recursos.\"</p>", 
+            "commentable_id": 5546, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 13:09:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5498, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12009, 
+                "name": "Associacio Catalana per la Defensa de la Sanitat P\u00fablica", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es molt important la integraci\u00f3 de l'atenci\u00f3 en una sola gesti\u00f3 i finan\u00e7ament p\u00fablic. A mida que augmenten els actors prove\u00efdors disminueix la coordinaci\u00f3.</p>", 
+            "commentable_id": 5546, 
+            "commentable_type": "Proposal", 
+            "created_at": "24/03/2016 13:47:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6452, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

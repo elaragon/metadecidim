@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 3191, 
+            "name": "Ignasi Rodriguez Ramirez", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 3191, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1603", 
+        "conflictive": false, 
+        "created_at": "08/02/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1603, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "El Passatge Marim\u00f3n es avui un carrer petit sens\u00e9 trafic . Darrerament s'hi han instalat restaurants d'alt Nivell, Interioristes etc. Per\u00f3 es un carrer malmes per laes carregues i descarregues que asalten les voreres de la Diagonal, contenidors d'escombreries ( 9 en 30 mt's ) i motos de qualsevol manera. Ser\u00eda molt fa\u00e7il fer.lo per els Vianants.", 
+        "title": "pacificar el passatge Marim\u00f3n", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 2, 
+        "total_votes": 11, 
+        "url": "https://decidim.barcelona/pam/proposals/pacificar-el-passatge-marimon", 
+        "votable": null, 
+        "voted": null
+    }
+}

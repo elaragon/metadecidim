@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13765, 
+                "name": "mam", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalment d'acord, les parades de bus ara s\u00f3n un desastre, molt pitjor que abans, i el carril bus lent\u00edssim, els cotxes el bloqueigen constantment, especialment en hora punta que es queden sense poder travessar del tot la cru\u00eflla (exemple c. Balmes). A veure si es posa el tramvia i s'arregla aquest greu problema</p>", 
+            "commentable_id": 5652, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/03/2016 21:16:02", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5671, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 14523, 
+                "name": "melc", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Al tram que s'ha reformat han quedat molt malament les parades de bus i el carril bus que ara va molt pitjor que abans, perqu\u00e8 els cotxes dels carrers que travessen la Diagonal es queden moltes vegades travessats taponant el carril bus. S'haurien d'eliminar els cotxes del carril lateral i deixar nom\u00e9s les bicicletes. Si cal deixar passar algunes hores les furgonetes per carregar i descarregar mercaderies, quan no hi hagin gaires vianants pel carrer.</p>", 
+            "commentable_id": 5652, 
+            "commentable_type": "Proposal", 
+            "created_at": "21/03/2016 16:55:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6174, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

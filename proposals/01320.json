@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 579, 
+            "name": "Josep Mompin Poblet", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 579, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1320", 
+        "conflictive": false, 
+        "created_at": "03/02/2016", 
+        "district": {
+            "id": 4, 
+            "name": "Les Corts"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1320, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "En Av. Josep Tarradellas (desde Plaza F. Maci\u00e0 hasta estaci\u00f3n de Sants, no hay un solo pi-pi can ni zona de recreo para perros (vallada). S\u00ed hay 5 zonas de recreo para ni\u00f1os. Propongo crear dos para perros: una en la confluencia de  Berl\u00edn con Entenza (donde hay 2 para ni\u00f1os), y otra en el parque \"JordiMarcos Redondo (Av.Sarri\u00e1 con Buenos Aires).", 
+        "title": "Urge crear m\u00e1s zonas de \"esbarjo\" para perros", 
+        "total_comments": 5, 
+        "total_negative_comments": 1, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 2, 
+        "total_votes": 27, 
+        "url": "https://decidim.barcelona/pam/proposals/urge-crear-mas-zonas-de-esbarjo-para-perros", 
+        "votable": null, 
+        "voted": null
+    }
+}

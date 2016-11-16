@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 13028, 
+            "name": "Poropo", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 13028, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-5382", 
+        "conflictive": false, 
+        "created_at": "16/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://www.youtube.com/watch?v=m8Ro685muQ8", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 5382, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Crec que implementar un tramvia per la Diagonal congestionaria i donaria m\u00e9s dificultats al tr\u00e0fic. Reduir carrils a una de les principals arteries de la ciutat no ajudaria ni a la mobilitat ni a la contaminaci\u00f3. Per aix\u00f2 proposo crear un tramvia flotant, una idea pionera en pa\u00efsos com la Xina. On el tramvia passaria per sobre dels vehicles.    ", 
+        "title": "Un tramvia flotant: Una idea que incorpora la connexi\u00f3 dels dos tramvies i no altera al tr\u00e0nsit", 
+        "total_comments": 6, 
+        "total_negative_comments": 2, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 1, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/analitzar-la-connexio-dels-dos-trams-del-tramvia-per-la-diagonal-un-tramvia-flotant", 
+        "votable": null, 
+        "voted": null
+    }
+}

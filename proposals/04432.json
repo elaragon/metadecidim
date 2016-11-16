@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 9913, 
+            "name": "Cris Silvan", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 9913, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4432", 
+        "conflictive": false, 
+        "created_at": "09/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4432, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 26, 
+            "name": "Govern transparent  i rendici\u00f3 de comptes", 
+            "position": 1
+        }, 
+        "summary": "Establir un cat\u00e0leg de estudis i an\u00e0lisis pendents de afrontar de l'an\u00e0lisi del PAM i est\u00e0 eina per mancances de temps i o personal del ajuntament i proposar  ho com beques col\u00b7laboraci\u00f3 amb les universitats per estudis de tesi de doctorat amb tutoria compartida Universitat Ajuntament. ", 
+        "title": "Creaci\u00f3 de Beques de Doctorat  per cobrir estudis i an\u00e0lisi d'impacte de mesures del PAM que no puguin ser afrontats ara", 
+        "total_comments": 4, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 3, 
+        "total_positive_comments": 0, 
+        "total_votes": 6, 
+        "url": "https://decidim.barcelona/pam/proposals/creacio-de-beques-de-doctorat-per-cobrir-estudis-i-analisi-d-impacte-de-mesures-del-pam-que-no-puguin-ser-afrontats-ara", 
+        "votable": null, 
+        "voted": null
+    }
+}

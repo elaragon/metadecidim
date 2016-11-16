@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 19072, 
+            "name": "Joaqu\u00edn Soler Cura", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 19072, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8604", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": {
+            "id": 5, 
+            "name": "Sarri\u00e0 - Sant Gervasi"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8604, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 14, 
+            "name": "Medi ambient i espai p\u00fablic", 
+            "position": 1
+        }, 
+        "summary": "El carrer Tenor Vi\u00f1as t\u00e9 l'amplada suficient de voreres 4,00 m, per poder col\u2022locar arbrat a les dues bandes,\r\nsense impedir el pas dels vianants. \u00c9s un carrer que situar entre Calvet i la porta lateral del Tur\u00f3 Parc. Serviria per dotar de m\u00e9s arbrat aquesta zona amb una cost d\u2019urbanitzaci\u00f3 baix.\r\n", 
+        "title": "Plantaci\u00f3 d'arbrat a les voreres del carrer Tenor Vi\u00f1as", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 3, 
+        "total_votes": 5, 
+        "url": "https://decidim.barcelona/pam/proposals/plantacio-d-arbrat-a-les-voreres-del-carrer-tenor-vinas", 
+        "votable": null, 
+        "voted": null
+    }
+}

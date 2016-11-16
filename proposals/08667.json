@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 18862, 
+            "name": "Passejada amb Barret de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 18862, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8667", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "https://www.facebook.com/media/set/?set=a.982183411868381&type=1&l=70d1f6456f", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8667, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 9, 
+            "name": "Esports", 
+            "position": 11
+        }, 
+        "summary": "Prop de 2000 persones van gaudir de la Passejada amb Barret aquest any. Es un esdeveniment anual gratu\u00eft que porta 12 anys captant l\u2019entusiasme dels barcelonins. Proposem que el diumenge de la Passejada, de 12 a 14h es talli completament al tr\u00e0fic la Rambla de Catalunya, des de Diagonal fins a Gran Via per facilitar la seva celebraci\u00f3 i gaudiment.", 
+        "title": "El diumenge de la Passejada amb Barret de 12 a 14h fer de la Rambla Catalunya una zona d\u2019us exclusiu als vianants", 
+        "total_comments": 11, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 9, 
+        "total_votes": 19, 
+        "url": "https://decidim.barcelona/pam/proposals/el-diumenge-de-la-passejada-amb-barret-de-12-a-14h-fer-de-la-rambla-catalunya-una-zona-d-us-exclusiu-als-vianants", 
+        "votable": null, 
+        "voted": null
+    }
+}

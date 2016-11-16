@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 13768, 
+                "name": "N\u00faria Oriol", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Hi estic totalment d'acord. L'altre dia quasi caic rodolant per les escales. Llavors, el dia que passi, i passi una trag\u00e8dia, qui ser\u00e0 el responsable.? El veins estem farts de quexar-nos i no tenir mai cap resposta.</p>", 
+            "commentable_id": 5781, 
+            "commentable_type": "Proposal", 
+            "created_at": "18/03/2016 10:11:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 5724, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

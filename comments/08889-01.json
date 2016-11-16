@@ -1,0 +1,308 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 16671, 
+                "name": "Associaci\u00f3 de Ve\u00efnes i Ve\u00efns de la Font d'en Fargues", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": false
+            }, 
+            "body": "<p>Restaurar i dignificar la font i rodalies</p>", 
+            "commentable_id": 8889, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 09:59:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10243, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/crear-parc-infantil-pipican-i-aparcament-al-descampat-al-costat-de-l-escola-angels-garriga-carrer-gallecs-22\">https://decidim.barcelona/proposals/crear-parc-infantil-pipican-i-aparcament-al-descampat-al-costat-de-l-escola-angels-garriga-carrer-gallecs-22</a></p>", 
+            "commentable_id": 8889, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 11:13:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15309, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/urbanitzacio-complerta-del-carrer-montserrat-de-casanovas\">https://decidim.barcelona/proposals/urbanitzacio-complerta-del-carrer-montserrat-de-casanovas</a></p>", 
+            "commentable_id": 8889, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 11:13:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15311, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/recuperacio-de-la-finca-la-jungla\">https://decidim.barcelona/proposals/recuperacio-de-la-finca-la-jungla</a></p>", 
+            "commentable_id": 8889, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 11:14:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15316, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/passatge-d-arc-de-st-marti\">https://decidim.barcelona/proposals/passatge-d-arc-de-st-marti</a></p>", 
+            "commentable_id": 8889, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 11:15:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15321, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/creacio-d-un-parc-infantil\">https://decidim.barcelona/proposals/creacio-d-un-parc-infantil</a></p>", 
+            "commentable_id": 8889, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 11:16:11", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15324, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/guinardo-obtenir-i-rehabilitar-la-finca-destinada-a-equipaments-anomenada-la-jungla-situada-al-carrers-de-l-arc-de-sant-marti-camil-oliveras\">https://decidim.barcelona/proposals/guinardo-obtenir-i-rehabilitar-la-finca-destinada-a-equipaments-anomenada-la-jungla-situada-al-carrers-de-l-arc-de-sant-marti-camil-oliveras</a></p>", 
+            "commentable_id": 8889, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 11:50:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15371, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/carrer-llobera-i-vall-llosera-pels-veins-i-veines\">https://decidim.barcelona/proposals/carrer-llobera-i-vall-llosera-pels-veins-i-veines</a></p>", 
+            "commentable_id": 8889, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 12:43:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15487, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/placa-de-la-palmera-amb-palmera\">https://decidim.barcelona/proposals/placa-de-la-palmera-amb-palmera</a></p>", 
+            "commentable_id": 8889, 
+            "commentable_type": "Proposal", 
+            "created_at": "16/04/2016 17:55:37", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 18368, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 9, 
+        "total_pages": 1
+    }
+}

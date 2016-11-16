@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1010, 
+                "name": "catorvel", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Aquesta  mesura per poder ser votada tindria que estar millor explicada. De quina manera participaria la ciutadania en la seguretat i prevenci\u00f3? Es refereix a la seguretat ciutadana?</p>", 
+            "commentable_id": 226, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/02/2016 16:11:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 283, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/accions-de-convivencia-i-seguretat\">https://decidim.barcelona/proposals/accions-de-convivencia-i-seguretat</a></p>", 
+            "commentable_id": 226, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 16:33:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14920, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 17740, 
+                "name": "Suport General2 - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/accions-de-convivencia-i-seguretat-22391c63-1e91-4911-beab-00deb1343ebe\">https://decidim.barcelona/proposals/accions-de-convivencia-i-seguretat-22391c63-1e91-4911-beab-00deb1343ebe</a></p>", 
+            "commentable_id": 226, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/04/2016 16:39:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 14930, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

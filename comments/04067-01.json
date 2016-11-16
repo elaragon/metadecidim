@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 21091, 
+                "name": "Eli_GG", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El que seria molt important \u00e9s que hi haguessin zones de gossos en els que poguessin gaudir i correr, per\u00f2 tamb\u00e9 que es respectessin les zones a on no esta permesa la seva entrada amb l'objectiu que la puguin gaudir la resta de ciutadans, nens i nenes... el Parc de Sant Mart\u00ed \u00e9s sempre pl\u00e8 de gossos i no permet mai que els nens i nenes i families puguin gaudir de la gespa, tot i que hi ha cartells de no gossos en aquella zona. Tan dif\u00edcil \u00e9s per l'Ajuntament posar una zona de la gespa delimitada per gossos i una altre que no i promoure la conviv\u00e8ncia entre ve\u00efns que tenen gossos i els que no... portem anys i no es resolt aquest tema.</p>", 
+            "commentable_id": 4067, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 09:44:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10209, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 20803, 
+                "name": "montfranc", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Parlar de zones habilitades o prohibides per a gossos em sembla com menys de graci\u00f3s. No cal caminar molt des de casa per adonar-te que els amos dels gossos (si, els amos dels gossos, no pretenc criminalitzar els animals) deixen anar a les seves mascotes perqu\u00e8 corrin al seu aire per qualsevol zona que els sembli b\u00e9, no importa si s\u00f3n de terra, enjardinades, o les anomenades zones dures.\n<br />M'agradaria afegir que dictar normes que no hi ha possibilitat de dur-se a terme o de fer-se complir, no serveixen per a res.</p>", 
+            "commentable_id": 4067, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 10:28:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10314, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 20407, 
+                "name": "fs", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Les zones d'esbarjo per gossos s\u00f3n una font de mol\u00e8sties, brut\u00edcia i soroll pels ve\u00efns, i a m\u00e9s a m\u00e9s treuen espai p\u00fablic a les persones. </p>", 
+            "commentable_id": 4067, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/04/2016 10:40:57", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11633, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

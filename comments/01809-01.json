@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": "organization", 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4971, 
+                "name": "ECOM", 
+                "official": false, 
+                "official_level": 0, 
+                "role": "organization", 
+                "verified_organization": true
+            }, 
+            "body": "<p>Us expliquem, m\u00e9s \u00e0mpliament, la nostra proposta:\n<br />-\tVetllar per que els espais de participaci\u00f3 de la ciutat no es converteixin en espais on l\u2019\u00fanic objectiu sigui transmetre informaci\u00f3; repensar i ordenar l\u2019excessiu n\u00famero d\u2019espais de participaci\u00f3 que actualment hi ha a la ciutat, ja que en comptes de fomentar la participaci\u00f3, es corre el risc que es converteixin en espais poc \u00e0gils i poc eficients.</p>", 
+            "commentable_id": 1809, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 12:04:39", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7363, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/revisio-de-la-normativa-per-a-una-participacio-ciutadana-plural-i-eficac\">https://decidim.barcelona/proposals/revisio-de-la-normativa-per-a-una-participacio-ciutadana-plural-i-eficac</a></p>", 
+            "commentable_id": 1809, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 11:39:18", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10507, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

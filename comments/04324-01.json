@@ -1,0 +1,308 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11110, 
+                "name": "JoseRuiz", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Los hospitales ya disponen de sistemas de emergencia en caso de caida de la red el\u00e9ctrica. Si ocurre un corte de luz se activan generadores autonomos para abastecer como minimo quirofanos y salas criticas. Podrian ser totalmente independientes de la red electrica durante dias.</p>", 
+            "commentable_id": 4324, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 11:52:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4135, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 1, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4135", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6920, 
+                "name": "Noidelguinard\u00f3", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es cert, per\u00f2 funcionen amb fuel i quan aquest s'acaba, es queden sense energ\u00eda, com va passar amb la gran apagada del 2007. Amb les plaques solars i les bateries, aix\u00f2 no pasaria. Tota la energia s'aniria recarregant pel dia. No oblidem que els sistemes d'emerg\u00e8ncia sempre han de ser redundants, per evitar que fallin.</p>", 
+            "commentable_id": 4324, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 12:35:08", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4148, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 1, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4135/4148", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11110, 
+                "name": "JoseRuiz", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El fallo en Vall  d'Hebron de 2007 no fue causado por aver\u00eda en el sistema de emergencia, fue causado por un accidente al realizar tareas de mantenimiento al llenar los dep\u00f3sitos de gasoil de los generadores, donde el incendio inutilizo la red de distribuci\u00f3n el\u00e9ctrica. Tambi\u00e9n he de decirte que soy t\u00e9cnico en sistemas el\u00e9ctricos y autom\u00e1ticos, estoy a favor de las energ\u00edas renovables y la eficiencia energ\u00e9tica.  Tengo formaci\u00f3n en energ\u00eda fotovoltaica, y hoy en d\u00eda la tecnolog\u00eda en este campo es insuficiente y con costes muy elevados. Adem\u00e1s en cuanto a tu propuesta de bater\u00eda Tesla, las el\u00e9ctricas ya se han preocupado antes de que puedan llegar a Espa\u00f1a, queden pr\u00e1cticamente prohibidas (<a href=\"http://www.elconfidencial.com/tecnologia/2015-06-08/industria-prepara-un-impuesto-contra-la-bateria-de-tesla_874965/\">http://www.elconfidencial.com/tecnologia/2015-06-08/industria-prepara-un-impuesto-contra-la-bateria-de-tesla_874965/</a>). Como ves en este pa\u00eds no se incentiva el autoconsumo, ni las renovables, es m\u00e1s se penaliza.</p>", 
+            "commentable_id": 4324, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 13:49:14", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4175, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 1, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4135/4148/4175", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6920, 
+                "name": "Noidelguinard\u00f3", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Sigui per la causa que sigui, si no va poguer funcionar, aleshores es pot considerar que va fallar.  Es per aix\u00f2 que els sistemes d'emerg\u00e8ncia han de ser redundants, quan un falla o deixa de funcionar, sempre pot funcionar l'altre. En quant a les bateries tious Tesla, es tracta d'un exemple. De fet, hi han empreses especialitzades a subministrar bateries de reserva de tious industrial. La q\u00fcesti\u00f3 \u00e9s dotar de mecanismes i sistemes d'emerg\u00e8ncia als servidors p\u00fablics que realitzen feines vitals per a la nostra societat.</p>", 
+            "commentable_id": 4324, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 19:52:24", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4269, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 1, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4135/4148/4175/4269", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11110, 
+                "name": "JoseRuiz", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Un sistema de emergencia por mas redundante que lo quieras dise\u00f1ar, no puede estar preparado para todo tipo de accidentes aleatorios, como fue el caso del que estamos hablando. Ya que de esa forma los sistemas de emergencia deber\u00edan prever cualquier error humano de cualquier tipo, con lo cual serian practicamente interminables e inviables. El sistema funciona correctamente, ya que lo utilizan en cualquier centro hospitalario, pueden llegar a sufrir cortes como los que podr\u00edas sufrir tu en vivienda, por mas que dispongan de un centro de transformaci\u00f3n propio pero no salen por telediarios o peri\u00f3dicos porque como este tipo de sistemas est\u00e1n bien dise\u00f1ados, y funcionan correctamente no salen noticias habitualmente.\n<br />Tenemos puntos de vista diferentes, pero dejame que te comente de todas formas, que por m\u00e1s que no implementaras un sistema con bater\u00edas de la compa\u00f1\u00eda Tesla, el sistema de las el\u00e9ctricas esta blindado. Llegado el caso que se hiciera el proyecto y fuese viable (cosa que dudo enormemente), el centro hospitalario no podr\u00eda ser de ninguna forma independiente de la red el\u00e9ctrica, y en ese caso cuando haces uso de las dos redes, estas obligado a pagar lo que hace unos a\u00f1os se hacia llamar \"peaje por respaldo\", y por otra parte el impuesto de \"consumo instant\u00e1neo\". \n<br />Y por \u00faltimo detalle pero no menos importante, para poder alcanzar la potencia que demanda un hospital como por ejemplo Vall d'Hebron, la cantidad de placas y espacio libre necesario seria m\u00e1s grande que el propio recinto.</p>", 
+            "commentable_id": 4324, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 23:10:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4304, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4135/4148/4175/4269/4304", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6885, 
+                "name": "Antonio Lucena Cabello", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Si estuvieras bien informado y a favor de las renovables sabrias que el periodo medio de amortizaci\u00f3n de una instalaci\u00f3n fotovoltaica es de unos 5 a\u00f1os. Por otro lado se pueden hacer instalaciones hibridas con peque\u00f1os aerogeneradores y que ademas el sistema este conectado a red para realizar un balance 0 y no tener que realizar una mega instalacion que necesite muchisimos m2. Se trata de reducir el consumo de energias f\u00f3siles para reducit la contaminaci\u00f3n y reducir tambien el gasto derivado de su uso, el qual es muy elevado. Pido un poco de rigor y seriedad antes de difamar al respecto de este tema.</p>", 
+            "commentable_id": 4324, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/04/2016 11:29:00", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7503, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 1, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4135/4148/4175/4269/4304/7503", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11110, 
+                "name": "JoseRuiz", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>En primer lugar, decirte que si te has llegado a molestar en leer mis comentarios anteriores, soy instalador autorizado en baja tensi\u00f3n en categor\u00eda b\u00e1sica y especialista. Con esto creo que respondo a: \u201c\u00a0Pido un poco de rigor y seriedad antes de difamar al respecto de este tema. \u201c, ya que no expongo mi opini\u00f3n sin m\u00e1s, ya que tengo formaci\u00f3n al respecto. \n<br />En mi opini\u00f3n el decir que una instalaci\u00f3n se amortiza en 5 a\u00f1os, eso si que es una falta de rigor total y absoluta, donde seguramente ese sea un dato extra\u00eddo de una b\u00fasqueda r\u00e1pida en Google porque los dos sabemos que eso no es real y menos para una instalaci\u00f3n como la que ocupa el tema.\n<br />Es un tema que discut\u00ed en mi formaci\u00f3n con ingenieros el\u00e9ctricos/industriales con m\u00e1s de 30 a\u00f1os de experiencia y que ha d\u00eda de hoy, sigo teniendo con algunos de ellos. La conclusi\u00f3n a la que siempre se llega es que Espa\u00f1a es una gran potencia en cuanto este tipo de energ\u00edas pero su legislaci\u00f3n es totalmente contrar\u00eda a incentivarla. </p>", 
+            "commentable_id": 4324, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 00:32:47", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7911, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4135/4148/4175/4269/4304/7503/7911", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11110, 
+                "name": "JoseRuiz", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Por m\u00e1s que se quiera mirar de forma optimista, la legislaci\u00f3n es la que la que es y esta pensada para quien todos ya sabemos\u2026\n<br />Sin mirar mucho mas all\u00e1 de nuestras fronteras, puedes informarte de lo que les pas\u00f3 a much\u00edsima gente que en su d\u00eda decidi\u00f3 instalar una planta generadora fotovoltaica cuando se subvencionaban este tipo de instalaciones y hoy en d\u00eda est\u00e1n abandonados a su suerte con unas inversiones en algunos de los casos superando el mill\u00f3n de euros. \n<br />Por ponerte m\u00e1s ejemplos, un ciudadano normal de a pie que decida ponerse sus dos \u201cplaquitas\u201d en su casa, se le considera un defraudador por no querer pagar al gobierno lo que se le llamaba el \u201cpeaje de respaldo\u201d y \u201cconsumo instant\u00e1neo\u201d.\n<br />Con todo esto, creo que deber\u00edas considerar cuando dices a alguien que no tiene rigor al opinar, cuando creo que no debes ser muy conocedor de la legislaci\u00f3n y normativa vigente en estas instalaciones. </p>", 
+            "commentable_id": 4324, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 00:33:12", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7912, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4135/4148/4175/4269/4304/7503/7911/7912", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11110, 
+                "name": "JoseRuiz", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Te animo a que consultes normativa vigente tanto de norma t\u00e9cnica particular para instalaciones fotovoltaicas interconectadas y la ITC-BT-40, y tu mismo comprobaras que no se puede volcar a red tan sencillo como debes creer, se deben cumplir unos requisitos m\u00ednimos en la calidad de esa energ\u00eda, m\u00e1s lo que te cobrar\u00e1 compa\u00f1\u00eda por disponer de las dos redes, con lo cual a\u00f1ades costes y m\u00e1s costes a la instalaci\u00f3n y que dudo enormemente que su amortizaci\u00f3n sea de 5 a\u00f1os ;)</p>", 
+            "commentable_id": 4324, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/04/2016 00:33:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7913, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

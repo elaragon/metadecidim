@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 6762, 
+            "name": "Miquel Ruscalleda Bota", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 6762, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3195", 
+        "conflictive": false, 
+        "created_at": "20/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "www.mobilicat.net", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3195, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Ampliar els passos de vianants a Barcelona. Com a criteri, senyalitzar tants passsos de vianants com bra\u00e7os tingui una cru\u00eflla. (SENSE EXCEPCIONS). Entendre per cruilla les vies de cotxes per\u00f2 tamb\u00e9 els passatges, escales o altres zones de pas p\u00fablic de vianants... i Passos de vianants aixecats all\u00e0 on les velcitats excedeixin els limits legals. ", 
+        "title": "Ampliar els passos de vianants a Barcelona", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 16, 
+        "url": "https://decidim.barcelona/pam/proposals/ampliar-els-passos-de-vianants-a-barcelona", 
+        "votable": null, 
+        "voted": null
+    }
+}

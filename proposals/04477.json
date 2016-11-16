@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10121, 
+            "name": "castellers del poble sec", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 10121, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4477", 
+        "conflictive": false, 
+        "created_at": "09/03/2016", 
+        "district": {
+            "id": 3, 
+            "name": "Sants Montju\u00efc"
+        }, 
+        "editable": false, 
+        "external_url": "www.castellersdelpoblesec.cat", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4477, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 22, 
+            "name": "Cultura", 
+            "position": 10
+        }, 
+        "summary": "Des de fa 18 anys els bandarres no ha parat de cr\u00e9ixer i de fer tasques transversals de barri i de cultura popular. Alguns projectes s\u00f3n: Tots Som Una Colla, Protocol antisexista (amb altres entitats), Castelloscopi (premi ciutat de BCN)... per\u00f2 el seu local  perilla i volen poder seguir assajant i obrir-lo a tot al teixit del  barri. Els ajudes?", 
+        "title": "Volem un  local assaig i social pels Castellers del Poble sec", 
+        "total_comments": 4, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 4, 
+        "total_votes": 135, 
+        "url": "https://decidim.barcelona/pam/proposals/volem-un-local-assaig-i-social-pels-castellers-del-poble-sec", 
+        "votable": null, 
+        "voted": null
+    }
+}

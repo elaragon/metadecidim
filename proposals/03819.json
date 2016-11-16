@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10144, 
+            "name": "Associaci\u00f3 Planificaci\u00f3 Familiar Catalunya", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 10144, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-3819", 
+        "conflictive": false, 
+        "created_at": "03/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "www.observatori.apfcib.org", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3819, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 7, 
+            "name": "Sanitat i salut", 
+            "position": 7
+        }, 
+        "summary": "L'acc\u00e9s universal a l'anticoncepci\u00f3 \u00e9s un dret fonamental reconegut mundialment i les dones no el tenen cobert per la xarxa p\u00fablica catalana. \u00c9s imprescindible garantir els drets de les dones i treballar per a la prevenci\u00f3 i promoci\u00f3 de la salut sexual i reproductiva seria molt interessant que Barcelona port\u00e9s la iniciativa en aquest \u00e0mbit", 
+        "title": "Anticoncepci\u00f3 gratu\u00efta per a menors de 30 anys i  dones vulnerables", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 16, 
+        "url": "https://decidim.barcelona/pam/proposals/anticoncepcio-gratuita-per-a-menors-de-30-anys-i-dones-vulnerables", 
+        "votable": null, 
+        "voted": null
+    }
+}

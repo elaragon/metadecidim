@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 6803, 
+            "name": "Boca 419", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 6803, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-3174", 
+        "conflictive": false, 
+        "created_at": "19/02/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 3174, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "El Carrer de l'Or \u00e9s l'\u00fanic carrer amb tr\u00e0nsit rodat en l'eix que conformen la Pla\u00e7a del Diamant i de la Virre\u00efna, els Carrers de Verdi i Torrijos. Aquest tros de carrer de poc m\u00e9s de cent metres fins Torrent de l'Olla, es veu convertit en una illa de tr\u00e0nsit de camions, furgonetes, c\u00e0rregues i desc\u00e0rregues, en un eix pr\u00e0cticament tot peatonal.", 
+        "title": "Peatonalitzaci\u00f3 i pacificaci\u00f3 Carrer Or, entre Virre\u00efna i Diamant", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 9, 
+        "url": "https://decidim.barcelona/pam/proposals/peatonalitzacio-i-pacificacio-carrer-or-entre-virreina-i-diamant", 
+        "votable": null, 
+        "voted": null
+    }
+}

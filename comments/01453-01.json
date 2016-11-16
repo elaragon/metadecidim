@@ -1,0 +1,176 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2496, 
+                "name": "rux", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>D\u00f3no suport per\u00f2 em pregunto... no dur les parts \u00edntimes cobertes s\u00ed que ha de \"molestar\" alg\u00fa? no veig cap difer\u00e8ncia entre un i altre cas.</p>", 
+            "commentable_id": 1453, 
+            "commentable_type": "Proposal", 
+            "created_at": "05/02/2016 14:25:01", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 808, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5480, 
+                "name": "Emil\u00eda Escuder", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Cada cosa al seu lloc i un lloc per a cada cosa, si vols anar nu, platja nudista.\n</p>", 
+            "commentable_id": 1453, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 16:15:51", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1861, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "808", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2578, 
+                "name": "amadeumi", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Esta tambe al dret a sentirte moles per segons quines actituts. No costa res portar una samarreta o camisa.</p>", 
+            "commentable_id": 1453, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/02/2016 19:25:38", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 984, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "808/984", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2496, 
+                "name": "rux", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Em sembla que ning\u00fa et vol limitar el teu dret a sentir-te inc\u00f2moda amb cap \"actitud\" com t\u00fa dius, aix\u00ed com tampoc a les persones que es sentin m\u00e9s comodes sense la samarreta o camisa que comentes.\n<br />Com a ciutadans tenim un bon problema si un cos nu ens incomoda tant.</p>", 
+            "commentable_id": 1453, 
+            "commentable_type": "Proposal", 
+            "created_at": "07/02/2016 00:41:44", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1011, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 2, 
+            "total_votes": 2
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "808", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 2183, 
+                "name": "KK", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No a tothom li de \"molestar\", per\u00f2 estic segur que s\u00ed que hi ha gent que li \"molesta\" veure parts \u00edntimes descobertes. Per aix\u00f2 el nudisme est\u00e0 tan restringit a tot arreu. Si m\u00e9s no, el que no vull \u00e9s que es barregi aquesta proposta de \"semi-nudisme\" amb una de nudisme. Qui vulgui plena llibertat per dur parts \u00edntimes descobertes, que faci una altra proposta a part, per\u00f2 no usin la meva proposta per discutir-ne.</p>", 
+            "commentable_id": 1453, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/02/2016 02:22:48", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1228, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

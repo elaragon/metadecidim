@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1099, 
+            "name": "AINAPJ", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1099, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1277", 
+        "conflictive": false, 
+        "created_at": "02/02/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1277, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "Un dels problemes del passeig al barri \u00e9s la manca de continu\u00eftat dels recorreguts a peu. Cal millorar els passos de vianants del carrer del Clot (especialment amb Arag\u00f3 i Navas), i del carrer Muntanya (amb Val\u00e8ncia i Meridiana). S\u00f3n carrers hist\u00f2rics que cal revaloritzar per connectar m\u00e9s el barri, reduint la barrera que \u00e9s la Meridiana.", 
+        "title": "Facilitar els trajectes naturals a peu al Clot-Camp de l'Arpa", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 2, 
+        "total_votes": 57, 
+        "url": "https://decidim.barcelona/pam/proposals/facilitar-els-trajectes-naturals-a-peu-al-clot-camp-de-l-arpa", 
+        "votable": null, 
+        "voted": null
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 3239, 
+                "name": "Club Pati Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Molt d'acord. Fa anys que reclamem m\u00e9s pres\u00e8ncia del patinatge en esdeveniments populars, comen\u00e7ant per una marat\u00f3 a la ciutat de Barcelona, que es podria fer abans o despr\u00e9s de la marat\u00f3 a peu, i hi podrien participar altres col\u00b7lectius (handbikes per exemple).\n<br />Altres ciutats europees com Berlin o Londres i americanes com Nova York, tenen la seva marat\u00f3 en patins. Tamb\u00e9 a Espanya, Madrid, Vitoria, Val\u00e8ncia, Gij\u00f3n, Castell\u00f3, Elx... \u00c9s una activitat molt atractiva i on hi pot participar tothom, des del nivell m\u00e9s b\u00e0sic fins al campi\u00f3 del m\u00f3n.</p>", 
+            "commentable_id": 1687, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/02/2016 21:56:09", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1477, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4591, 
+                "name": "Joan Egea", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es important prioritzar els esdeveniments petits o mitjans d'esports minoritaris. Aquests \u00faltims que moltes vegades els mitjans no es fan ress\u00f2, tamb\u00e9 tenen un retorn esportiu i econ\u00f2mic molt important per la ciutat.</p>", 
+            "commentable_id": 1687, 
+            "commentable_type": "Proposal", 
+            "created_at": "10/02/2016 22:13:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1480, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

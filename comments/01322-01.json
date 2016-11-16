@@ -1,0 +1,275 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1767, 
+                "name": "nluine", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Es prescindible que els vianants no passin els sem\u00e0fors en vermell. Cosa que fen sempre i alguns sense ni mirar el carril bici i amb el movil\u2026.</p>", 
+            "commentable_id": 1322, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/02/2016 19:19:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 475, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1401, 
+                "name": "Lena", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Creo que es cuesti\u00f3n de respeto mutuo - los ciclistas han de respetar a peatones, pero ha de ser reciproco. Muchas personas no tienen todav\u00eda consciencia de que invaden a los carriles (los pocos que hay) designados para bicis.\n<br />Si voy en bici a veces me siento obligada a ir por la acera (eso s\u00ed: despacio), ya que los conductores de coches en muchos casos no guardan distancias de seguridad, prefiero pagar una multa que perder mi vida.\n<br />Ese conflicto de ritmos y espacios solo muestra que se necesita dos cosas:\n<br />1. Mejores infraestructuras y m\u00e1s visibilizadas, para que no tengamos que utilizar espacios que no nos tocan (peatones  / bicis / coches)\n<br />2. Educarnos para entender las necesidades de los dem\u00e1s y aprender a ceder. El cambio es lento, pero si solo miramos cada uno por su propio inter\u00e9s la buena convivencia ser\u00e1 imposible, por muchas normativas que se intente imponer.\n</p>", 
+            "commentable_id": 1322, 
+            "commentable_type": "Proposal", 
+            "created_at": "04/02/2016 10:23:07", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 571, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 3, 
+            "total_votes": 3
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 579, 
+                "name": "Josep Mompin Poblet", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Yo practico el ciclismo desde hace a\u00f1os. LLevo 34.000 Km recorridos y respeto much\u00edsimo a los peatones. Para salir de BCN uso el carril bici, y cuando no lo hay voy por la acera con sumo cuidado, incluso me bajo y la llevo a mano. Se precisa la figura del polic\u00eda de barrio para evitar actos inc\u00edvicos, porque si les llamas la atenci\u00f3n, te insultan.\n</p>", 
+            "commentable_id": 1322, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 12:45:33", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1842, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10061, 
+                "name": "Reivax", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No es pot generalitzar i, tot i que si he vist comportaments com els que es descriuen a la proposta, afortunadament no son freq\u00fcents. Com diu algun altre comentari \u00e9s una q\u00fcesti\u00f3 de respecte mutu i com a tal s'ha de tractar. Ja tenim massa prohibicions.</p>", 
+            "commentable_id": 1322, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/03/2016 11:06:25", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3430, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8827, 
+                "name": "genisbcn", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Atenent al compliment de les normes que es demana en l'enunciat de la proposta, comentar que les normatives permeten en determinats casos circular per les voreres (art. 14) i l'article 5 diu que els vianants faran la deambulaci\u00f3 per la vorera preferentment pel costat dret del sentit de la seva marxa:\n<br /><a href=\"http://w110.bcn.cat/fitxers/ajuntament/consolidadescast/circulacio.052.pdf\">http://w110.bcn.cat/fitxers/ajuntament/consolidadescast/circulacio.052.pdf</a></p>\n\n<p><a href=\"http://w110.bcn.cat/Ajuntament/Continguts/Ordenances/ord_circulacio_mod_2015.pdf\">http://w110.bcn.cat/Ajuntament/Continguts/Ordenances/ord_circulacio_mod_2015.pdf</a></p>\n\n<p><a href=\"http://bici-vici.blogspot.com/2007/09/guia-rpida-de-la-nova-ordenana-de.html\">http://bici-vici.blogspot.com/2007/09/guia-rpida-de-la-nova-ordenana-de.html</a></p>", 
+            "commentable_id": 1322, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/03/2016 22:54:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4027, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 1, 
+            "total_likes": 0, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 613, 
+                "name": "Josep M Armengou", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Absolutament a favor. Em consta que la Casa Gran s'est\u00e0 prenent el tema seriosament, per\u00f2 s'ha d''actuar amb urg\u00e8ncia per un canvi radical. Gr\u00e0cies per la proposta, Josep.</p>", 
+            "commentable_id": 1322, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 13:56:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4520, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7482, 
+                "name": "mar", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Totalmente de acuerdo, pero en los casos en los que exista carril bici o la acera sea estrecha. A veces el Ayuntamiento se obceca en no poner carril bici en calles q por dimensiones podr\u00eda tenerlo, y en las que el volumen de tr\u00e1fico es tal que es un suicidio circular por ellas con la bici entre los coches. Por poner algunos ejemplos, la calle Balmes o la Travessera de Dalt. En relaci\u00f3n a \u00e9sta hay una propuesta: <a href=\"https://decidim.barcelona/proposals/carrils-bici-a-tavessera-de-dalt\">https://decidim.barcelona/proposals/carrils-bici-a-tavessera-de-dalt</a>\n<br />De todas maneras, por supuesta que hay que exigir a bicis y patines que circulen a la velocidad adecuado del espacio por donde circulan.\n<br />Tambi\u00e9n me gustar\u00eda recordar algo que muchos desconocen: se puede circular por la acera en bicicleta si se acompa\u00f1a a un menor de 12 a\u00f1os.</p>", 
+            "commentable_id": 1322, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 23:17:06", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 11512, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "571", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 21569, 
+                "name": "MCCDD", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El Pg. de Sant Joan \u00e9 el millor exemple, hi ha carril bici des de Travessera de Gr\u00e0cia fins a Arc de Triunf. Tenen un carril doble de pujada i baixada, i qu\u00e8 passa? Doncs que van per l\u2019acera a velocitats excessives, es salten tots els sem\u00e0fors i quan els hi dius alguna cosa, t\u2019insulten. Potser seria hora que l\u2019Ajuntament comences a controlar a tots aquests inc\u00edvics. Si que \u00e9s veritat que molts respecten la normativa, per\u00f2 el 80% no. A m\u00e9s, parlen per tel\u00e8fon, porten auriculars i escolten m\u00fasica, van parlant amb els altres. \n<br />T\u2019atropellen i no tenen asseguran\u00e7a. \n<br />Cada dia \u00e9s m\u00e9s perill\u00f3s anar per l\u2019acera, l'espai reservat pels peatons. \n</p>", 
+            "commentable_id": 1322, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 14:49:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10973, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 7, 
+        "total_pages": 1
+    }
+}

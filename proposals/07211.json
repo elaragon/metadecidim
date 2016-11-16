@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 15696, 
+            "name": "Marta Pinent", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 15696, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-7211", 
+        "conflictive": false, 
+        "created_at": "29/03/2016", 
+        "district": {
+            "id": 2, 
+            "name": "Eixample"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7211, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 23, 
+            "name": "Conviv\u00e8ncia i seguretat", 
+            "position": 12
+        }, 
+        "summary": "A la part central de l'Eixample hi ha els edificis m\u00e9s antics de la ciutat, tots sense parking propi, finques del 1800. Estar\u00eda b\u00e9 comptar amb una tarjeta identificativa que ens permet\u00e9s descarregar els nostres vehicles a les zones de c\u00e0rrega i desc\u00e0rrega amb temps suficient per pujar la c\u00e0rrega al nostre domicili sense patir sancions d'aparcament.", 
+        "title": "Targeta de resident del barri (Eixample part central) per poder tenir dret a c\u00e0rregar i desc\u00e0rrega en els nosres domicilis", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/targeta-de-resident-del-barri-eixample-part-central-per-poder-tenir-dret-a-carregar-i-descarrega-en-els-nosres-domicilis", 
+        "votable": null, 
+        "voted": null
+    }
+}

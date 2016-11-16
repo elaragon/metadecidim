@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10196, 
+            "name": "enriqueibanez", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 10196, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4182", 
+        "conflictive": false, 
+        "created_at": "06/03/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4182, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Necessitem un pla de millora urgent per Av. Pr\u00edncep d'Ast\u00faries que sigui raonable, consensuat amb els ve\u00efns i sostenible. Desde fa m\u00e9s de 50 anys no s'ha fet cap tipus d'actuaci\u00f3 municipal de millora. Equipaments inexistents, contaminaci\u00f3 ac\u00fastica i ambiental preocupant i molts accidents, tot aix\u00f2 degut als 5 carrils existents. ", 
+        "title": "Pacificaci\u00f3 i Humanitzaci\u00f3 de Av.Pr\u00edncep d'Ast\u00faries", 
+        "total_comments": 28, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 19, 
+        "total_votes": 100, 
+        "url": "https://decidim.barcelona/pam/proposals/pacificacio-i-humanitzacio-de-av-princep-d-asturies", 
+        "votable": null, 
+        "voted": null
+    }
+}

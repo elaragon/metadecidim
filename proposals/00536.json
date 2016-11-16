@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 1, 
+            "name": "Ajuntament de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 1, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-01-536", 
+        "conflictive": false, 
+        "created_at": "29/01/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": null, 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 536, 
+        "official": true, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "official", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 6, 
+            "name": "Habitatge", 
+            "position": 6
+        }, 
+        "summary": "Elaborar un pla al districte per incrementar el parc d\u2019habitatges: ampliaci\u00f3 del s\u00f2l p\u00fablic disponible per a la construcci\u00f3 de nous edificis. Incrementar les ajudes per a la rehabilitaci\u00f3 de pisos tancats per a \u00fas en lloguer social", 
+        "title": "Incrementar el parc d'habitatges social", 
+        "total_comments": 15, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 12, 
+        "total_positive_comments": 3, 
+        "total_votes": 176, 
+        "url": "https://decidim.barcelona/pam/proposals/incrementar-el-parc-d-habitatges-social", 
+        "votable": null, 
+        "voted": null
+    }
+}

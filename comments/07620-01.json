@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 6514, 
+                "name": "Oriol B", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La reforma feta recentment t\u00e9 molts aspectes negatius que no s'han de repetir:\n<br />\u2022Laterals pensats inicialment per a aturades i serveis que s'han convertit en vies de pas col\u00b7lapsades\n<br />\u2022Parades d'autobus de dif\u00edcil acc\u00e9s per a persones amb mobilitat redu\u00efda, situades en espais massa estrets que no permeten un fluxe correcte dels passatgers\n<br />\u2022Carril bus sense cap canvi, fet que no ha millorat la lenta velocitat comercial dels vehicles\n<br />\u2022Voreres amb rajoles inc\u00f2modes per a caminar i fr\u00e0gils (moltes s'han trencat en pocs mesos)\n<br />\u2022Enllumenat amb un disseny que no encaixa amb l'est\u00e8tica del carrer\n<br />\u2022Carril bici desagradable pel ciclista (situal al costat esquerre, on est\u00e0n la majoria dels tubs d'escapament dels vehicles de motor), massa estret i constantment enva\u00eft per altres vehicles\n<br />Aquesta reforma dista molt de ser un \u00e8xit i no \u00e9s recomanable reproduir-la a altres segments de l'avinguda. Cal fer una reforma, per\u00f2 amb un model nou.</p>", 
+            "commentable_id": 7620, 
+            "commentable_type": "Proposal", 
+            "created_at": "31/03/2016 14:38:58", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7201, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

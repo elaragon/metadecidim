@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4652, 
+                "name": "Conxita", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Per la significaci\u00f3 definitiva de la Pla\u00e7a de la Font d'en Fargas.</p>", 
+            "commentable_id": 3590, 
+            "commentable_type": "Proposal", 
+            "created_at": "29/02/2016 23:27:03", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3116, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4131, 
+                "name": "Niko", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Quan hi ha pluges, els torrents erosionen el terra (que encara \u00e9s el de muntanya) i provoca esquerdes. Un cop s'asseca el terreny, qualsevol pot entrebancar-se i caure (des de criatures fins a persones grans). A veure si aparteu una mica del pressupost per a arreglar una mica aquest espai p\u00fablic!</p>", 
+            "commentable_id": 3590, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/03/2016 18:02:54", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3217, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4652, 
+                "name": "Conxita", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Estic desitjant veure la Pla\u00e7a de la Font d'en Fargues arreglada i en condicions per poder gaudir-la amb els nets, com he gaudit amb els fills.   </p>", 
+            "commentable_id": 3590, 
+            "commentable_type": "Proposal", 
+            "created_at": "28/03/2016 20:32:31", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6659, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

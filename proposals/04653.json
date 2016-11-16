@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 11545, 
+            "name": "Gumer", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 11545, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-4653", 
+        "conflictive": false, 
+        "created_at": "10/03/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 4653, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 18, 
+            "name": "Participaci\u00f3 ciutadana", 
+            "position": 2
+        }, 
+        "summary": "Donat el seu impacte en la renda del treball, consultar la ciutadania, com s\u00b4ha fet a Su\u00efssa, sobre la pol\u00edtica migrat\u00f2ria que es vol. Hi ha massa interessos per part dels empleadors per davallar costs laborals com per que aquest afer escapi de l\u00b4\u00e0mbit democr\u00e0tic. Imposar r\u00e8gims migratoris per interessos patronals pot fer mal b\u00e9 la cohesi\u00f3 social.", 
+        "title": "Promoure un refer\u00e8ndum catal\u00e0 o estatal sobre pol\u00edtica migrat\u00f2ria", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/promoure-un-referendum-catala-o-estatal-sobre-politica-migratoria", 
+        "votable": null, 
+        "voted": null
+    }
+}

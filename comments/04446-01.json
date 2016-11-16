@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 4873, 
+                "name": "Carlota Gim\u00e9nez i Compte", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>L'hort del Marcel\u00b7l\u00ed \u00e9s l'espai ideal per donar continu\u00eftat a la tasca secular d'Horta de fer treballar la terra el dia que el Marcel\u00b7l\u00ed no pugui continuar la seva feina. No cal crear horts urbans; molts ja hi s\u00f3n de fa segles. No cal que constru\u00efm als horts i fem horts artificials. Cal no deixar perdre que els que existeixen!</p>", 
+            "commentable_id": 4446, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/03/2016 13:32:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4689, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/horts-urbans\">https://decidim.barcelona/proposals/horts-urbans</a></p>", 
+            "commentable_id": 4446, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 12:30:19", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15464, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 9262, 
+                "name": "Suport General - Decidim Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/us-de-l-antic-camp-de-futbol-de-sant-genis\">https://decidim.barcelona/proposals/us-de-l-antic-camp-de-futbol-de-sant-genis</a></p>", 
+            "commentable_id": 4446, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/04/2016 12:38:30", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 15481, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 3, 
+        "total_pages": 1
+    }
+}

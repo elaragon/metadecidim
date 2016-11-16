@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 10493, 
+            "name": "Urkiux", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 10493, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-03-6099", 
+        "conflictive": false, 
+        "created_at": "20/03/2016", 
+        "district": {
+            "id": 4, 
+            "name": "Les Corts"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 6099, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Quan es van urbanitzar les voreres de la Diagonal costat Mar entre la pla\u00e7a Francesc Maci\u00e0 y el carrer Enten\u00e7a fa m\u00e9s de 50 anys es van situar al mig de les voreres uns parterres. D'en\u00e7a que va obrir el centre comercial de L'Illa aquests parterres dificulten molt la circulaci\u00f3 de peatons, per la qual cosa proposo la seva eliminaci\u00f3.", 
+        "title": "Eliminaci\u00f3 parterres Diagonal costat Mar entre Francesc Maci\u00e0 i Enten\u00e7a", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/eliminacio-parterres-diagonal-costat-mar-entre-francesc-macia-i-entenca", 
+        "votable": null, 
+        "voted": null
+    }
+}

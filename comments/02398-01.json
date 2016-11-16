@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 340, 
+                "name": "Consell d'Associacions de Barcelona", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Bona proposta, per\u00f2 en part ja s'est\u00e0 fent.  Us recordem que el Consell d'Associacions de Barcelona cogestiona Torre Jussana on trobareu cursos de formaci\u00f3 en temes de gesti\u00f3 associativa i si cal els podem fer als districtes. Tamb\u00e9 podeu fer-nos arribar propostes de nous temes de formaci\u00f3!! Potser estaria be que us federassiu al CAB per participar dels espais de coordinaci\u00f3 associativa.</p>", 
+            "commentable_id": 2398, 
+            "commentable_type": "Proposal", 
+            "created_at": "09/03/2016 15:43:20", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4194, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

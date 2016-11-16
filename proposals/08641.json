@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 19098, 
+            "name": "Ve\u00efna del Clot", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 19098, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8641", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": {
+            "id": 10, 
+            "name": "Sant Mart\u00ed"
+        }, 
+        "editable": false, 
+        "external_url": "https://www.google.es/maps/place/Jardins+de+Joana+Tom%C3%A0s/@41.4124157,2.1881509,150m/data=!3m1!1e3!4m2!3m1!1s0x12a4a328c3a06807:0x609f2b6d47ac9d3f", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8641, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 15, 
+            "name": "Urbanisme per als barris", 
+            "position": 3
+        }, 
+        "summary": "Fa uns mesos es va mal ajardinar la pista de futbol i b\u00e0squet que tenien els nens als Jardins Joana Tom\u00e0s. Fins ara jugaven a un rac\u00f3 del parc al costat del \"pipican\".  Aquesta setmana s'han trobat amb un cartell de prohibit jugar a pilota en aquell rac\u00f3!. Demanem que es torni a habilitar la pista de futbol que ja tenien. Els nens ho necessiten!", 
+        "title": "Torneu-nos la pista de futbol i b\u00e0squet dels Jardins Joana Tom\u00e0s (Carrers Gabriel i Galan amb Val\u00e8ncia i Mallorca)", 
+        "total_comments": 1, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 0, 
+        "total_votes": 3, 
+        "url": "https://decidim.barcelona/pam/proposals/tonrneu-nos-la-pista-de-futbol-i-basquet-dels-jardins-joana-tomas-carrers-gabriel-i-galan-amb-valencia-i-mallorca", 
+        "votable": null, 
+        "voted": null
+    }
+}

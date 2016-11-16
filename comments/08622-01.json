@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10449, 
+                "name": "CarmenCascajosa", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Igual que se marca que en la parada X es posible hacer un transbordo a la l\u00ednea Y, tendr\u00eda que estar se\u00f1alizado que en esa parada el usuario no encontrar\u00e1 forma de salir si lleva, por ejemplo, un carrito de beb\u00e9.</p>", 
+            "commentable_id": 8622, 
+            "commentable_type": "Proposal", 
+            "created_at": "06/04/2016 11:25:40", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 8308, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 368, 
+            "name": "Joaquim Navarro", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 368, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1218", 
+        "conflictive": false, 
+        "created_at": "02/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://www.enbicipormadrid.es/2010/06/la-ola-verde-de-copenhague-tu-ruta-con.html", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1218, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 16, 
+            "name": "Mobilitat sostenible", 
+            "position": 4
+        }, 
+        "summary": "A Copenhagen hi ha una mesura per al tr\u00e0nsit de bicicletes molt pr\u00e0ctica, la onada verda, \u00e9s molt simple, els sem\u00e0fors estan pensats per anar a una velocitat mitja de 14 a 20km/h, afavorint l'\u00fas de la bicicleta i calmant el tr\u00e0nsit.", 
+        "title": "Implantar la onada verda (sem\u00e0fors per a bicis)", 
+        "total_comments": 7, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 5, 
+        "total_votes": 138, 
+        "url": "https://decidim.barcelona/pam/proposals/implantar-la-onada-verda-semafors-per-a-bicis", 
+        "votable": null, 
+        "voted": null
+    }
+}

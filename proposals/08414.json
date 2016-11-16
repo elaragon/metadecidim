@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 3, 
+            "name": "Transici\u00f3 ecol\u00f2gica"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8414", 
+        "conflictive": false, 
+        "created_at": "05/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/meetings/esplai-xiroia-medi-ambient-i-igualtat-de-genere", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8414, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 3, 
+            "id": 25, 
+            "name": "Verd urb\u00e0 i biodiversitat ", 
+            "position": 2
+        }, 
+        "summary": "Els joves de l\u2019esplai Xiroia van participar a un debat on van discutir diverses propostes per millorar la mobilitat sostenible de la ciutat. Aquests van proposar fer campanyes publicit\u00e0ries per aconseguir que la gent tingui m\u00e9s plantes/horts urbans a casa.", 
+        "title": "Impulsar campanyes publicit\u00e0ries per aconseguir que els ciutadans/es tinguin m\u00e9s plantes i horts a casa", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 1, 
+        "url": "https://decidim.barcelona/pam/proposals/impulsar-campanyes-publicitaries-per-aconseguir-que-els-ciutadans-es-tinguin-mes-plantes-i-horts-a-casa", 
+        "votable": null, 
+        "voted": null
+    }
+}

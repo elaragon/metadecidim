@@ -1,0 +1,50 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": null, 
+        "author_id": null, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8694", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "https://decidim.barcelona/meetings/esplai-el-pi-equitat-de-genere-i-diversitat-sexual", 
+        "flagged": null, 
+        "from_meeting": true, 
+        "hidden": false, 
+        "id": 8694, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "meeting", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 4, 
+            "name": "Equitat de g\u00e8nere i diversitat sexual", 
+            "position": 4
+        }, 
+        "summary": "Els infants i adolescents de l\u2019esplai El Pi van participar a una cita presencial sobre la igualtat de g\u00e8nere. Aquests van proposar augmentar el nombre de xerrades per visibilitat les difer\u00e8ncies enter nois i noies i poder treballar per a la igualtat de drets i oportunitats. Aquestes xerrades serien mensuals a tots els centres escolars.", 
+        "title": "Augmentar el nombre de xerrades sobre la igualtat de g\u00e8nere", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 2, 
+        "url": "https://decidim.barcelona/pam/proposals/augmentar-el-nombre-de-xerrades-sobre-la-igualtat-de-genere", 
+        "votable": null, 
+        "voted": null
+    }
+}

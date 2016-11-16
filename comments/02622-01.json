@@ -1,0 +1,209 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5288, 
+                "name": "aeroleo", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>\u00bfQuien gestiona el Bicing? \u00bfNo es TMB?</p>", 
+            "commentable_id": 2622, 
+            "commentable_type": "Proposal", 
+            "created_at": "13/02/2016 21:58:05", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1729, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5357, 
+                "name": "daviduriarte ", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No tengo una opini\u00f3n muy clara sobre si privatizar o no el servicio. Lo que hay que hacerlo es m\u00e1s eficiente incentivando por desnivel, es decir que los que suben m\u00e1s que bajan paguen menos que los que bajen m\u00e1s que suben. Es absurdo tener que subir las bicis con remolques. </p>", 
+            "commentable_id": 2622, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/02/2016 18:51:41", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1772, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1729", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 285, 
+                "name": "Hector", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>no, \u00e9s media channel, una empresa del lobby sionista. </p>", 
+            "commentable_id": 2622, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/02/2016 13:43:42", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1757, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1729", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5185, 
+                "name": "Marino", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Claro que no, la multinacional que gestiona este servicio se llama Clear Channel. Como la mayor\u00eda de los servicios que ofrece el ayuntamiento est\u00e1n externalizadados, o mejor dicho, privatizado por los anteriores gobiernos. Y adem\u00e1s el actual tiene las manos atadas  hasta que no cambiemos las leyes creadas desde la Generalitat o el gobierno central que prohibe contratar personal directamente. Solo se pueden contratar a trav\u00e9s de empresas externas al ayuntamiento.\n<br />Si quieres tener mas informaci\u00f3n puedes consultar estas webs.\n<br /><a href=\"https://es.wikipedia.org/wiki/Bicing\">https://es.wikipedia.org/wiki/Bicing</a>\n<br /><a href=\"http://www.clearchannel.es/servicios/servicios-de-smartbike/\">http://www.clearchannel.es/servicios/servicios-de-smartbike/</a></p>\n\n<p>Por cierto, tram tambi\u00e9n es gesti\u00f3n Privada.</p>", 
+            "commentable_id": 2622, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/02/2016 15:34:34", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1762, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1729/1757", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5185, 
+                "name": "Marino", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La empresa se llama Clear Channel, como indico en la respuesta anterior.\n<br />Que sea o no un Lobby sionista, a mi entender es lo de menos. Lo importante es que hay una multinacional que se est\u00e1 forrando lucrandose de un servicio p\u00fablico que no le corresponde dar. ---Los servicios p\u00fablicos no son negocios, son servicios--\n<br />Cu\u00e1ndo vamos a dejar de regalar el dinero y vamos a utilizarlo para mejorar nuestra ciudad.</p>", 
+            "commentable_id": 2622, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/02/2016 15:41:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1764, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "1772", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5185, 
+                "name": "Marino", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>No es privatizar, es desprivatizar. Actualmente es un servicio que est\u00e1 privatizado. Lo que propongo es que sea un servicio realmente p\u00fablico y sin animo de lucro. El como hacerlo m\u00e1s eficaz habr\u00eda que estudiarlo. No es cuesti\u00f3n de pagar m\u00e1s o menos. No todo se soluciona pagando. Tenemos que tener claro que es un servicio ciudadano y no un negocio. Deberiamos empezar a pensar de una foma menos mercartilista.</p>", 
+            "commentable_id": 2622, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/02/2016 00:11:01", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 1794, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

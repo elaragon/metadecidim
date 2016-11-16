@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 340, 
+            "name": "Consell d'Associacions de Barcelona", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 340, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 4, 
+            "name": "Bon govern"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1747", 
+        "conflictive": false, 
+        "created_at": "11/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://governobert.bcn.cat/sites/default/files/docs/Pla%20locals.pdf", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1747, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 4, 
+            "id": 19, 
+            "name": "Acci\u00f3 comunit\u00e0ria", 
+            "position": 3
+        }, 
+        "summary": "Donar continu\u00eftat al pla locals i proposem i que es millori dotant-lo d\u2019eines de transpar\u00e8ncia. A m\u00e9s demanem que el Patronat Municipal de l\u2019habitatge faciliti l'acc\u00e9s d'associacions a locals no utilitzats", 
+        "title": "Ampliar el Pla de Locals per entitats", 
+        "total_comments": 3, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 1, 
+        "total_positive_comments": 2, 
+        "total_votes": 11, 
+        "url": "https://decidim.barcelona/pam/proposals/ampliar-el-pla-de-locals-per-entitats-amb-eines-de-transparencia", 
+        "votable": null, 
+        "voted": null
+    }
+}

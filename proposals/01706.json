@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 4562, 
+            "name": "Quim Mart\u00edn Bernad\u00f3", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 4562, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1706", 
+        "conflictive": false, 
+        "created_at": "10/02/2016", 
+        "district": {
+            "id": 7, 
+            "name": "Horta - Guinard\u00f3"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1706, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 3, 
+            "name": "Educaci\u00f3 i coneixement ", 
+            "position": 3
+        }, 
+        "summary": "El barri de Can Bar\u00f3 no disposa de cap centre d'educaci\u00f3 infantil i Prim\u00e0ria p\u00fablic, la natalitat i la poblaci\u00f3 infantil ha augmentat molt els darrers anys . Cal donar resposta a aquesta necessitat de les fam\u00edlies i l'alhora dotar al barri d'un espai de cohesi\u00f3 social com s\u00f3n les escoles p\u00fabliques.  ", 
+        "title": "Creaci\u00f3 d'una escola p\u00fablica al barri de Can Bar\u00f3", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 29, 
+        "url": "https://decidim.barcelona/pam/proposals/creacio-d-una-escola-publica-al-barri-de-can-baro", 
+        "votable": null, 
+        "voted": null
+    }
+}

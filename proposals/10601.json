@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 23131, 
+            "name": "David Membrado", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 23131, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 2, 
+            "name": "Economia plural"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-10601", 
+        "conflictive": false, 
+        "created_at": "09/04/2016", 
+        "district": {
+            "id": 4, 
+            "name": "Les Corts"
+        }, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 10601, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "rejected", 
+        "subcategory": {
+            "category_id": 2, 
+            "id": 13, 
+            "name": "Turisme sostenible", 
+            "position": 5
+        }, 
+        "summary": "El que diferenc\u00efa un alberg juvenil d' altres establiments (hotel, apartaments, etc) es un tret fonamental dels albergs: son un espai de conviv\u00e8ncia entre gent jove i no tan jove que permet con\u00e9ixer persones d'altres pa\u00efsos, fer activitats conjuntes. Per aix\u00f2, crec que en edificis on no hi hagi ve\u00efns s\u00ed que s`haurien de permetre obrir-ne de nous", 
+        "title": "Permetre crear ALBERGS TUR\u00cdSTICS A LES CORTS en EDIFICIS INDIVIDUALS: Espais de conviv\u00e8ncia i trobada entre joves de Barcelona i d'arreu del m\u00f3n", 
+        "total_comments": 0, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 0, 
+        "total_positive_comments": 0, 
+        "total_votes": 0, 
+        "url": "https://decidim.barcelona/pam/proposals/permetre-crear-albergs-turistics-a-les-corts-en-edificis-individuals-espais-de-convivencia-i-trobada-entre-joves-de-barcelona-i-d-arreu-del-mon", 
+        "votable": null, 
+        "voted": null
+    }
+}

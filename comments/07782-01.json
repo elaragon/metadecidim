@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 79, 
+                "name": "Andreu", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>All\u00f2 \u00e9s la muntanya. Possiblement no \u00e9s viable fer un p\u00e0rquing soterrat</p>", 
+            "commentable_id": 7782, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 10:54:30", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7342, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "7342", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 11969, 
+                "name": "Aurelio L\u00f3pez Mu\u00f1oz", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>I tant que deu ser viable, tot \u00e9s una q\u00fcesti\u00f3 de calers i de voluntat pol\u00edtica. A llocs m\u00e9s complicats de construir s'ha fet aparcaments de dues i tres plantes, com a la pla\u00e7a Salvador Allende-Hortal a dalt de tot del Carmel i all\u00f2 s\u00ed que \u00e9s pura roca de muntanya...</p>", 
+            "commentable_id": 7782, 
+            "commentable_type": "Proposal", 
+            "created_at": "01/04/2016 15:24:13", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 7421, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

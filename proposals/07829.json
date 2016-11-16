@@ -1,0 +1,63 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 16765, 
+            "name": "MULA (Masoveria Urbana Per la Llar Alternativa)", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 16765, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-7829", 
+        "conflictive": false, 
+        "created_at": "01/04/2016", 
+        "district": {
+            "id": 6, 
+            "name": "Gr\u00e0cia"
+        }, 
+        "editable": false, 
+        "external_url": "https://masoveriaurbana.wordpress.com/2016/04/01/decidim-barcelona-proposta-dun-us-possible-per-lequipament-de-lespai-quiro", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 7829, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "district", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 6, 
+            "name": "Habitatge", 
+            "position": 6
+        }, 
+        "summary": "Nos gustar\u00eda que se incluyera en el proyecto de l\u2019Espai Quir\u00f3 tambi\u00e9n vivienda p\u00fablica para j\u00f3venes. La idea es de ofrecer vivienda a estudiantes o jovenes en emancipaci\u00f3n a cambio de una bolsa de horas que est\u00e9 a disposici\u00f3n de servicios a la comunidad (comedor comunitario, gesti\u00f3n de la estructura, actividades para gente mayor).\r\n", 
+        "title": "Vivienda en r\u00e9gimen de masover\u00eda urbana o intercambio a l'Espai Quir\u00f3", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 26, 
+        "url": "https://decidim.barcelona/pam/proposals/vivienda-social-para-jovenes-en-regimen-de-masoveria-urbana-o-intercambio", 
+        "votable": null, 
+        "voted": null
+    }
+}

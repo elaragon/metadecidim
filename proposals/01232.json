@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": null, 
+            "erased": false, 
+            "hidden": false, 
+            "id": 403, 
+            "name": "sara.82", 
+            "official": false, 
+            "official_level": 0, 
+            "role": null, 
+            "verified_organization": null
+        }, 
+        "author_id": 403, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 5, 
+            "name": "Just\u00edcia global"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-02-1232", 
+        "conflictive": false, 
+        "created_at": "02/02/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 1232, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "citizen", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 5, 
+            "id": 28, 
+            "name": "Just\u00edcia global", 
+            "position": 1
+        }, 
+        "summary": "Refor\u00e7ar les relacions i la cooperaci\u00f3 de  l'ajuntament amb altres ciutats d'arreu del m\u00f3n i la seva projecci\u00f3 exterior per tal d'aprendre de les millors pr\u00e0ctiques i promoure les experi\u00e8ncies de desenvolupament i inclusi\u00f3 impulsades a nivell local. Treballar en xarxes horitzontals de ciutats i aprofundir projectes de cooperaci\u00f3 al desenvolupament.", 
+        "title": "Refor\u00e7ar les pol\u00edtiques de relacions i cooperaci\u00f3 internacional de l'ajuntament ", 
+        "total_comments": 2, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 2, 
+        "total_positive_comments": 0, 
+        "total_votes": 10, 
+        "url": "https://decidim.barcelona/pam/proposals/reforcar-les-politiques-de-relacions-i-cooperacio-internacional-de-l-ajuntament", 
+        "votable": null, 
+        "voted": null
+    }
+}

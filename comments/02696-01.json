@@ -1,0 +1,110 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": true, 
+                "hidden": false, 
+                "id": 5080, 
+                "name": null, 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>A la pla\u00e7a de les Gl\u00f2ries, s'ha modelat tot de manera que ara \u00e9s una area de joc infantil, juvenil i gent gran. M'agrada la idea CBG</p>", 
+            "commentable_id": 2696, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/02/2016 18:53:27", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2026, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7229, 
+                "name": "benua", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Obrir els solars buits per evitar assentaments irregulars seguint el model del barri de Vallcarca.</p>", 
+            "commentable_id": 2696, 
+            "commentable_type": "Proposal", 
+            "created_at": "22/02/2016 15:08:56", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2377, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "2026", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 5667, 
+                "name": "CBG", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Gr\u00e0cies! Jo pensava sobretot en les canxes que hi ha pels barris de Nova York, amb infraestructures senzill\u00edssimes (un parell de cistelles, les l\u00ednies pintades i tanques met\u00e0l\u00b7liques niu d'abella). Estan incrustades entre els edificis i sempre plenes de gent jugant.</p>", 
+            "commentable_id": 2696, 
+            "commentable_type": "Proposal", 
+            "created_at": "17/02/2016 21:56:52", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 2036, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

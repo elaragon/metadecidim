@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 12038, 
+                "name": "elsoldaluz", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Cal incorporar m\u00e9s treball social i accions comunit\u00e0ries. A tota Catalunya nom\u00e9s hi ha una comunitat terap\u00e9utica per a joves amb tratorns greus per a 25 places! que despr\u00e9s dels 18 anys no troben on adre\u00e7ar-se. Cal que els serveis siguin gestionats directament per l'administraci\u00f3 p\u00fablica i que el sistema es democratitzi des de la base, i que els usuaris participenm de la gesti\u00f3 dels nostres centres.</p>", 
+            "commentable_id": 6484, 
+            "commentable_type": "Proposal", 
+            "created_at": "30/03/2016 02:18:43", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 6890, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

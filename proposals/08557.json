@@ -1,0 +1,60 @@
+{
+    "proposal": {
+        "arguable": true, 
+        "author": {
+            "avatar_image": "https://decidim.barcelona/assets/collective_avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+            "erased": false, 
+            "hidden": false, 
+            "id": 18030, 
+            "name": "Associaci\u00f3 Dret a Morir Dignament (DMD-Cat)", 
+            "official": false, 
+            "official_level": 0, 
+            "role": "organization", 
+            "verified_organization": false
+        }, 
+        "author_id": 18030, 
+        "can_hide": false, 
+        "can_hide_author": false, 
+        "category": {
+            "id": 1, 
+            "name": "Bon viure"
+        }, 
+        "closed": true, 
+        "code": "BCN-2016-04-8557", 
+        "conflictive": false, 
+        "created_at": "06/04/2016", 
+        "district": null, 
+        "editable": false, 
+        "external_url": "http://eutanasia.cat/index.php/home/doc-voluntats-anticipades", 
+        "flagged": null, 
+        "from_meeting": null, 
+        "hidden": false, 
+        "id": 8557, 
+        "official": false, 
+        "permissions": {
+            "comment": false, 
+            "comment_as_administrator": false, 
+            "comment_as_moderator": false
+        }, 
+        "scope_": "city", 
+        "social_media_image_url": "https://decidim.barcelona/assets/social-media-icon-1bdc8642dd06be182477369bbb1bd5399cd7dda6aefeab4b1d1a9693cce26838.png", 
+        "source": "organization", 
+        "status": "accepted", 
+        "subcategory": {
+            "category_id": 1, 
+            "id": 5, 
+            "name": "Cicles de vida ", 
+            "position": 5
+        }, 
+        "summary": "El DVA \u00e9s un important aven\u00e7 en el dret a la mort digna que permeten expressar all\u00f2 que vull i que no vull en el moment de la meva mort evitant, per exemple, l\u2019aferrissament terap\u00e8utic o l\u2019absurda prolongaci\u00f3 de l\u2019agonia. Per\u00f2 menys de l\u2019 1% de la poblaci\u00f3 l\u2019ha fet. Demanem una campanya municipal per donar-lo a con\u00e8ixer i facilitar la tramitaci\u00f3.", 
+        "title": "Difusi\u00f3 del Document de Voluntats Anticipades (DVA o Testament Vital)", 
+        "total_comments": 8, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 3, 
+        "total_positive_comments": 5, 
+        "total_votes": 11, 
+        "url": "https://decidim.barcelona/pam/proposals/difusio-del-document-de-voluntats-anticipades-dva-o-testament-vital", 
+        "votable": null, 
+        "voted": null
+    }
+}

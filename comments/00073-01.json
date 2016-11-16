@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 20951, 
+                "name": "Josep Castells", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Corregir l'error de qualificaci\u00f3 urban\u00edstic. \n<br />Seguir amb les reivindicacions ve\u00efnals:  L\u2019EQUIPAMENT  (que ha existit sempre) on \u00e9s ... ? \n<br />Fer realitat, entre tots, un equipament \u00fanic : \u201cCENTRE C\u00cdVIC\u201d a l\u2019aire lliure.\n<br />Preservar el tresor del Jard\u00ed Centenari i cuidar aquest pulm\u00f3 verd, record viu de la hist\u00f2ria de Gr\u00e0cia.\n<br />Esdevenir un referent en la gesti\u00f3 del medi ambient i l\u2019eco-sostenibilitat dins l\u2019\u00e0mbit urb\u00e0.\n<br />Divulgar, estudiar i fer pedagogia de les formes de viure respectuoses amb la natura.\n<br />Impulsar la programaci\u00f3 d\u2019actes l\u00fadics i culturals que tinguin a veure amb el medi ambient.\n<br />Contribuir al benestar de les persones i potenciar l\u2019harmonia i col\u00b7laboraci\u00f3 entre els ve\u00efns.</p>", 
+            "commentable_id": 73, 
+            "commentable_type": "Proposal", 
+            "created_at": "08/04/2016 00:26:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 10155, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 1, 
+        "total_pages": 1
+    }
+}

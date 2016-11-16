@@ -1,0 +1,143 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 8697, 
+                "name": "Jaume Artigues Vidal", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Molt bona...!!! M'agrada perqu\u00e8 no perdeu el sentit de l'humor...</p>", 
+            "commentable_id": 1359, 
+            "commentable_type": "Proposal", 
+            "created_at": "11/03/2016 01:29:45", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4465, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": -1, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 10177, 
+                "name": "Isabel Centeno Guzman", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Perdona, aquesta proposta es desconeixa totalment la hist\u00f2ria de la ciutat i la de la Catedral. Ning\u00fa sap perqu\u00e8 hi ha aquestes oques i perqu\u00e8  ha de ser oques i no un altre animal? Ning\u00fa s'ha preguntat perqu\u00e8 s\u00f3n 13 i no un altre n\u00famero? Sabeu quants segles porten les oques a la Catedral? Us puc assegurar que s\u00f3n les m\u00e9s cuidades i mimades de tot el recinte i si no pregunteu als de manteniment de la Seu. Tot forma part d'una tradici\u00f3 molt antigua i no estan all\u00ed perqu\u00e8 alg\u00fa s'hagi volgut montar un criader d'oques a l'atzar. La ignorancia \u00e9s el qe t\u00e9.</p>", 
+            "commentable_id": 1359, 
+            "commentable_type": "Proposal", 
+            "created_at": "14/03/2016 15:12:50", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4829, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4465", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1781, 
+                "name": "Sara Coe", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>El terme \"jubilar\" pot ser ent\u00e8s en t\u00f2 humor\u00edstic, la resta del contingut es for\u00e7a seri\u00f3s.</p>", 
+            "commentable_id": 1359, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 09:46:23", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4957, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": null, 
+            "ancestry": "4829", 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1781, 
+                "name": "Sara Coe", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>He iniciat aquesta petici\u00f3, no perque desconegui els or\u00edgens de la tradici\u00f3 sino perque crec que amb els coneixements que tenim avui en dia de benestar animal hauriem de ser capa\u00e7os de fer balan\u00e7 a favor d'aquestes pobres besties, que per molt que se les \"estimin\" a la Seu, no poden gaudir d'una bona vida: els falta espai, verd, una bona alimentaci\u00f3, aixopluc... de veritat et penses que gaudeixen de qualitat de vida 13 oques tancades en un pati interior al que anomenem claustre?</p>", 
+            "commentable_id": 1359, 
+            "commentable_type": "Proposal", 
+            "created_at": "15/03/2016 09:45:16", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 4956, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}

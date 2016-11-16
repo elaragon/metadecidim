@@ -1,0 +1,77 @@
+{
+    "comments": [
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 1136, 
+                "name": "Manuel Alvarez Sol", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>La situaci\u00f3n de la estaci\u00f3n es vergonzosa y cada d\u00eda que pasa se degrada m\u00e1s,  pero creo que lo que hace falta es que se inicie YA la construcci\u00f3n de la estaci\u00f3n definitiva que est\u00e1 prevista. El Ayuntamiento debe presionar para que esto se priorice.</p>", 
+            "commentable_id": 3775, 
+            "commentable_type": "Proposal", 
+            "created_at": "02/03/2016 22:05:35", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3383, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }, 
+        {
+            "administrator_id": null, 
+            "alignment": 0, 
+            "ancestry": null, 
+            "as": null, 
+            "author": {
+                "avatar_image": "https://decidim.barcelona/assets/avatar-866795c99abc33a3160d1f3fa93ada46eb75e54134e777666b9ed16215b26534.png", 
+                "erased": false, 
+                "hidden": false, 
+                "id": 7543, 
+                "name": "Manul Almi\u00f1ana", 
+                "official": false, 
+                "official_level": 0, 
+                "role": null, 
+                "verified_organization": null
+            }, 
+            "body": "<p>Cal que Adif faixi la estaci\u00f3 de una vegada per totes, ja que t\u00e9 els diners i el projecte</p>", 
+            "commentable_id": 3775, 
+            "commentable_type": "Proposal", 
+            "created_at": "03/03/2016 09:57:28", 
+            "flagged": false, 
+            "hidden": false, 
+            "id": 3420, 
+            "moderator_id": null, 
+            "permissions": {
+                "hide": false, 
+                "hide_author": false, 
+                "vote": false
+            }, 
+            "total_dislikes": 0, 
+            "total_likes": 1, 
+            "total_votes": 1
+        }
+    ], 
+    "meta": {
+        "current_page": 1, 
+        "next_page": null, 
+        "prev_page": null, 
+        "total_count": 2, 
+        "total_pages": 1
+    }
+}
