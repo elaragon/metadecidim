@@ -1,6 +1,6 @@
 # MetaDecidim
 
-These files contained data from [**Decidim.Barcelona**](https://decidim.barcelona) (Pla Acció Municipal) for the hackaton held in 
+These files contain data from [**Decidim.Barcelona**](https://decidim.barcelona) (Pla Acció Municipal) for the hackaton held in the 
 [**#MetaDecidim**](https://bcnparticipa.cat/JornadesMetadecidim/) workshop *(25-26 Nov 2016, Convent dels Àngels i Auditori del MACBA, Barcelona)*.
 
 More data can be found at: [PAM Open Data](https://decidim.barcelona/pam/6/dataviz/open_data)
